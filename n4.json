@@ -1,0 +1,1244 @@
+[
+  {
+    "kanji": "一",
+    "hiragana": "いち",
+    "meanings": {
+      "en": "one",
+      "ja": "いち",
+      "my": "တစ်",
+      "zh": "一",
+      "vi": "một",
+      "th": "หนึ่ง",
+      "id": "satu"
+    },
+    "examples": {
+      "en": "一人 (ひとり) - one person",
+      "ja": "一人",
+      "my": "လူတစ်ယောက်",
+      "zh": "一个人",
+      "vi": "một người",
+      "th": "หนึ่งคน",
+      "id": "satu orang"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "二",
+    "hiragana": "に",
+    "meanings": {
+      "en": "two",
+      "ja": "に",
+      "my": "နှစ်",
+      "zh": "二",
+      "vi": "hai",
+      "th": "สอง",
+      "id": "dua"
+    },
+    "examples": {
+      "en": "二人 (ふたり) - two people",
+      "ja": "二人",
+      "my": "လူနှစ်ယောက်",
+      "zh": "两个人",
+      "vi": "hai người",
+      "th": "สองคน",
+      "id": "dua orang"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "三",
+    "hiragana": "さん",
+    "meanings": {
+      "en": "three",
+      "ja": "さん",
+      "my": "သုံး",
+      "zh": "三",
+      "vi": "ba",
+      "th": "สาม",
+      "id": "tiga"
+    },
+    "examples": {
+      "en": "三つ (みっつ) - three things",
+      "ja": "三つ",
+      "my": "အရာသုံးခု",
+      "zh": "三个",
+      "vi": "ba thứ",
+      "th": "สามสิ่ง",
+      "id": "tiga hal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "四",
+    "hiragana": "し/よん",
+    "meanings": {
+      "en": "four",
+      "ja": "し/よん",
+      "my": "လေး",
+      "zh": "四",
+      "vi": "bốn",
+      "th": "สี่",
+      "id": "empat"
+    },
+    "examples": {
+      "en": "四つ (よっつ) - four things",
+      "ja": "四つ",
+      "my": "အရာလေးခု",
+      "zh": "四个",
+      "vi": "bốn thứ",
+      "th": "สี่สิ่ง",
+      "id": "empat hal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "五",
+    "hiragana": "ご",
+    "meanings": {
+      "en": "five",
+      "ja": "ご",
+      "my": "ငါး",
+      "zh": "五",
+      "vi": "năm",
+      "th": "ห้า",
+      "id": "lima"
+    },
+    "examples": {
+      "en": "五つ (いつつ) - five things",
+      "ja": "五つ",
+      "my": "အရာငါးခု",
+      "zh": "五个",
+      "vi": "năm thứ",
+      "th": "ห้าสิ่ง",
+      "id": "lima hal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "六",
+    "hiragana": "ろく",
+    "meanings": {
+      "en": "six",
+      "ja": "ろく",
+      "my": "ခြောက်",
+      "zh": "六",
+      "vi": "sáu",
+      "th": "หก",
+      "id": "enam"
+    },
+    "examples": {
+      "en": "六つ (むっつ) - six things",
+      "ja": "六つ",
+      "my": "အရာခြောက်ခု",
+      "zh": "六个",
+      "vi": "sáu thứ",
+      "th": "หกสิ่ง",
+      "id": "enam hal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "七",
+    "hiragana": "しち/なな",
+    "meanings": {
+      "en": "seven",
+      "ja": "しち/なな",
+      "my": "ခုနှစ်",
+      "zh": "七",
+      "vi": "bảy",
+      "th": "เจ็ด",
+      "id": "tujuh"
+    },
+    "examples": {
+      "en": "七つ (ななつ) - seven things",
+      "ja": "七つ",
+      "my": "အရာခုနှစ်ခု",
+      "zh": "七个",
+      "vi": "bảy thứ",
+      "th": "เจ็ดสิ่ง",
+      "id": "tujuh hal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "八",
+    "hiragana": "はち",
+    "meanings": {
+      "en": "eight",
+      "ja": "はち",
+      "my": "ရှစ်",
+      "zh": "八",
+      "vi": "tám",
+      "th": "แปด",
+      "id": "delapan"
+    },
+    "examples": {
+      "en": "八つ (やっつ) - eight things",
+      "ja": "八つ",
+      "my": "အရာရှစ်ခု",
+      "zh": "八个",
+      "vi": "tám thứ",
+      "th": "แปดสิ่ง",
+      "id": "delapan hal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "九",
+    "hiragana": "きゅう/く",
+    "meanings": {
+      "en": "nine",
+      "ja": "きゅう/く",
+      "my": "ကိုး",
+      "zh": "九",
+      "vi": "chín",
+      "th": "เก้า",
+      "id": "sembilan"
+    },
+    "examples": {
+      "en": "九つ (ここのつ) - nine things",
+      "ja": "九つ",
+      "my": "အရာကိုးခု",
+      "zh": "九个",
+      "vi": "chín thứ",
+      "th": "เก้าสิ่ง",
+      "id": "sembilan hal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "meanings": {
+      "en": "ten",
+      "ja": "じゅう",
+      "my": "ဆယ်",
+      "zh": "十",
+      "vi": "mười",
+      "th": "สิบ",
+      "id": "sepuluh"
+    },
+    "examples": {
+      "en": "十人 (じゅうにん) - ten people",
+      "ja": "十人",
+      "my": "လူဆယ်ယောက်",
+      "zh": "十个人",
+      "vi": "mười người",
+      "th": "สิบคน",
+      "id": "sepuluh orang"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "会",
+    "hiragana": "かい",
+    "meanings": {
+      "en": "meeting, meet",
+      "ja": "かい",
+      "my": "အစည်းအဝေး",
+      "zh": "会",
+      "vi": "gặp gỡ",
+      "th": "พบปะ",
+      "id": "bertemu"
+    },
+    "examples": {
+      "en": "会社 (かいしゃ) - company",
+      "ja": "会社",
+      "my": "ကုမ္ပဏီ",
+      "zh": "公司",
+      "vi": "công ty",
+      "th": "บริษัท",
+      "id": "perusahaan"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "社",
+    "hiragana": "しゃ",
+    "meanings": {
+      "en": "company, shrine",
+      "ja": "しゃ",
+      "my": "ကုမ္ပဏီ",
+      "zh": "公司",
+      "vi": "công ty",
+      "th": "บริษัท",
+      "id": "perusahaan"
+    },
+    "examples": {
+      "en": "社会 (しゃかい) - society",
+      "ja": "社会",
+      "my": "လူမှုအဖွဲ့အစည်း",
+      "zh": "社会",
+      "vi": "xã hội",
+      "th": "สังคม",
+      "id": "masyarakat"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "入",
+    "hiragana": "にゅう/はい",
+    "meanings": {
+      "en": "enter",
+      "ja": "にゅう/はい",
+      "my": "ဝင်သည်",
+      "zh": "进入",
+      "vi": "vào",
+      "th": "เข้า",
+      "id": "masuk"
+    },
+    "examples": {
+      "en": "入る (はいる) - to enter",
+      "ja": "入る",
+      "my": "ဝင်သည်",
+      "zh": "进入",
+      "vi": "đi vào",
+      "th": "เข้า",
+      "id": "masuk"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "出",
+    "hiragana": "しゅつ/で",
+    "meanings": {
+      "en": "exit, leave",
+      "ja": "しゅつ/で",
+      "my": "ထွက်သည်",
+      "zh": "出去",
+      "vi": "ra ngoài",
+      "th": "ออก",
+      "id": "keluar"
+    },
+    "examples": {
+      "en": "出る (でる) - to leave",
+      "ja": "出る",
+      "my": "ထွက်သည်",
+      "zh": "离开",
+      "vi": "ra đi",
+      "th": "ออก",
+      "id": "keluar"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "見",
+    "hiragana": "けん/み",
+    "meanings": {
+      "en": "see, view",
+      "ja": "けん/み",
+      "my": "မြင်သည်",
+      "zh": "看",
+      "vi": "nhìn",
+      "th": "ดู",
+      "id": "lihat"
+    },
+    "examples": {
+      "en": "見る (みる) - to see",
+      "ja": "見る",
+      "my": "မြင်သည်",
+      "zh": "看",
+      "vi": "nhìn",
+      "th": "ดู",
+      "id": "lihat"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "聞",
+    "hiragana": "ぶん/き",
+    "meanings": {
+      "en": "hear, listen",
+      "ja": "ぶん/き",
+      "my": "ကြားသည်",
+      "zh": "听",
+      "vi": "nghe",
+      "th": "ฟัง",
+      "id": "dengar"
+    },
+    "examples": {
+      "en": "聞く (きく) - to listen",
+      "ja": "聞く",
+      "my": "နားထောင်သည်",
+      "zh": "听",
+      "vi": "nghe",
+      "th": "ฟัง",
+      "id": "dengar"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "食",
+    "hiragana": "しょく/た",
+    "meanings": {
+      "en": "eat, food",
+      "ja": "しょく/た",
+      "my": "စားသည်",
+      "zh": "吃",
+      "vi": "ăn",
+      "th": "กิน",
+      "id": "makan"
+    },
+    "examples": {
+      "en": "食べる (たべる) - to eat",
+      "ja": "食べる",
+      "my": "စားသည်",
+      "zh": "吃",
+      "vi": "ăn",
+      "th": "กิน",
+      "id": "makan"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "飲",
+    "hiragana": "いん/の",
+    "meanings": {
+      "en": "drink",
+      "ja": "いん/の",
+      "my": "သောက်သည်",
+      "zh": "喝",
+      "vi": "uống",
+      "th": "ดื่ม",
+      "id": "minum"
+    },
+    "examples": {
+      "en": "飲む (のむ) - to drink",
+      "ja": "飲む",
+      "my": "သောက်သည်",
+      "zh": "喝",
+      "vi": "uống",
+      "th": "ดื่ม",
+      "id": "minum"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "行",
+    "hiragana": "こう/い/おこな",
+    "meanings": {
+      "en": "go, do",
+      "ja": "こう/い/おこな",
+      "my": "သွားသည်",
+      "zh": "去",
+      "vi": "đi",
+      "th": "ไป",
+      "id": "pergi"
+    },
+    "examples": {
+      "en": "行く (いく) - to go",
+      "ja": "行く",
+      "my": "သွားသည်",
+      "zh": "去",
+      "vi": "đi",
+      "th": "ไป",
+      "id": "pergi"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "来",
+    "hiragana": "らい/く",
+    "meanings": {
+      "en": "come",
+      "ja": "らい/く",
+      "my": "လာသည်",
+      "zh": "来",
+      "vi": "đến",
+      "th": "มา",
+      "id": "datang"
+    },
+    "examples": {
+      "en": "来る (くる) - to come",
+      "ja": "来る",
+      "my": "လာသည်",
+      "zh": "来",
+      "vi": "đến",
+      "th": "มา",
+      "id": "datang"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "帰",
+    "hiragana": "き/かえ",
+    "meanings": {
+      "en": "return home",
+      "ja": "き/かえ",
+      "my": "ပြန်သည်",
+      "zh": "回家",
+      "vi": "về nhà",
+      "th": "กลับบ้าน",
+      "id": "pulang"
+    },
+    "examples": {
+      "en": "帰る (かえる) - to return",
+      "ja": "帰る",
+      "my": "ပြန်သည်",
+      "zh": "回",
+      "vi": "trở về",
+      "th": "กลับ",
+      "id": "kembali"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "買",
+    "hiragana": "ばい/か",
+    "meanings": {
+      "en": "buy",
+      "ja": "ばい/か",
+      "my": "ဝယ်သည်",
+      "zh": "买",
+      "vi": "mua",
+      "th": "ซื้อ",
+      "id": "beli"
+    },
+    "examples": {
+      "en": "買う (かう) - to buy",
+      "ja": "買う",
+      "my": "ဝယ်သည်",
+      "zh": "买",
+      "vi": "mua",
+      "th": "ซื้อ",
+      "id": "beli"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "売",
+    "hiragana": "ばい/う",
+    "meanings": {
+      "en": "sell",
+      "ja": "ばい/う",
+      "my": "ရောင်းသည်",
+      "zh": "卖",
+      "vi": "bán",
+      "th": "ขาย",
+      "id": "jual"
+    },
+    "examples": {
+      "en": "売る (うる) - to sell",
+      "ja": "売る",
+      "my": "ရောင်းသည်",
+      "zh": "卖",
+      "vi": "bán",
+      "th": "ขาย",
+      "id": "jual"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "書",
+    "hiragana": "しょ/か",
+    "meanings": {
+      "en": "write",
+      "ja": "しょ/か",
+      "my": "ရေးသည်",
+      "zh": "写",
+      "vi": "viết",
+      "th": "เขียน",
+      "id": "tulis"
+    },
+    "examples": {
+      "en": "書く (かく) - to write",
+      "ja": "書く",
+      "my": "ရေးသည်",
+      "zh": "写",
+      "vi": "viết",
+      "th": "เขียน",
+      "id": "tulis"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "読",
+    "hiragana": "どく/よ",
+    "meanings": {
+      "en": "read",
+      "ja": "どく/よ",
+      "my": "ဖတ်သည်",
+      "zh": "读",
+      "vi": "đọc",
+      "th": "อ่าน",
+      "id": "baca"
+    },
+    "examples": {
+      "en": "読む (よむ) - to read",
+      "ja": "読む",
+      "my": "ဖတ်သည်",
+      "zh": "读",
+      "vi": "đọc",
+      "th": "อ่าน",
+      "id": "baca"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "話",
+    "hiragana": "わ/はな",
+    "meanings": {
+      "en": "talk, speak",
+      "ja": "わ/はな",
+      "my": "စကားပြောသည်",
+      "zh": "说话",
+      "vi": "nói",
+      "th": "พูด",
+      "id": "bicara"
+    },
+    "examples": {
+      "en": "話す (はなす) - to speak",
+      "ja": "話す",
+      "my": "စကားပြောသည်",
+      "zh": "说话",
+      "vi": "nói chuyện",
+      "th": "พูด",
+      "id": "bicara"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "言",
+    "hiragana": "げん/い",
+    "meanings": {
+      "en": "say",
+      "ja": "げん/い",
+      "my": "ပြောသည်",
+      "zh": "说",
+      "vi": "nói",
+      "th": "กล่าว",
+      "id": "kata"
+    },
+    "examples": {
+      "en": "言う (いう) - to say",
+      "ja": "言う",
+      "my": "ပြောသည်",
+      "zh": "说",
+      "vi": "nói",
+      "th": "พูด",
+      "id": "bilang"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "思",
+    "hiragana": "し/おも",
+    "meanings": {
+      "en": "think",
+      "ja": "し/おも",
+      "my": "စဉ်းစားသည်",
+      "zh": "想",
+      "vi": "nghĩ",
+      "th": "คิด",
+      "id": "pikir"
+    },
+    "examples": {
+      "en": "思う (おもう) - to think",
+      "ja": "思う",
+      "my": "စဉ်းစားသည်",
+      "zh": "想",
+      "vi": "suy nghĩ",
+      "th": "คิด",
+      "id": "pikir"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "考",
+    "hiragana": "こう/かんが",
+    "meanings": {
+      "en": "consider, think",
+      "ja": "こう/かんが",
+      "my": "စဉ်းစားသည်",
+      "zh": "考虑",
+      "vi": "suy nghĩ",
+      "th": "พิจารณา",
+      "id": "pikir"
+    },
+    "examples": {
+      "en": "考える (かんがえる) - to consider",
+      "ja": "考える",
+      "my": "စဉ်းစားသည်",
+      "zh": "考虑",
+      "vi": "xem xét",
+      "th": "พิจารณา",
+      "id": "pertimbangkan"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "父",
+    "hiragana": "ちち",
+    "meanings": {
+      "en": "father",
+      "ja": "ちち",
+      "my": "အဖေ",
+      "zh": "父亲",
+      "vi": "cha",
+      "th": "พ่อ",
+      "id": "ayah"
+    },
+    "examples": {
+      "en": "父の日 (ちちのひ) - Father's Day",
+      "ja": "父の日",
+      "my": "ဖခင်နေ့",
+      "zh": "父亲节",
+      "vi": "Ngày của Cha",
+      "th": "วันพ่อ",
+      "id": "Hari Ayah"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "母",
+    "hiragana": "はは",
+    "meanings": {
+      "en": "mother",
+      "ja": "はは",
+      "my": "အမေ",
+      "zh": "母亲",
+      "vi": "mẹ",
+      "th": "แม่",
+      "id": "ibu"
+    },
+    "examples": {
+      "en": "母の日 (ははのひ) - Mother's Day",
+      "ja": "母の日",
+      "my": "မိခင်နေ့",
+      "zh": "母亲节",
+      "vi": "Ngày của Mẹ",
+      "th": "วันแม่",
+      "id": "Hari Ibu"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "兄",
+    "hiragana": "あに",
+    "meanings": {
+      "en": "older brother",
+      "ja": "あに",
+      "my": "အစ်ကို",
+      "zh": "哥哥",
+      "vi": "anh trai",
+      "th": "พี่ชาย",
+      "id": "kakak laki-laki"
+    },
+    "examples": {
+      "en": "兄さん (にいさん) - older brother",
+      "ja": "兄さん",
+      "my": "အစ်ကို",
+      "zh": "哥哥",
+      "vi": "anh trai",
+      "th": "พี่ชาย",
+      "id": "abang"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "姉",
+    "hiragana": "あね",
+    "meanings": {
+      "en": "older sister",
+      "ja": "あね",
+      "my": "အစ်မ",
+      "zh": "姐姐",
+      "vi": "chị gái",
+      "th": "พี่สาว",
+      "id": "kakak perempuan"
+    },
+    "examples": {
+      "en": "姉さん (ねえさん) - older sister",
+      "ja": "姉さん",
+      "my": "အစ်မ",
+      "zh": "姐姐",
+      "vi": "chị gái",
+      "th": "พี่สาว",
+      "id": "kakak"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "meanings": {
+      "en": "younger brother",
+      "ja": "おとうと",
+      "my": "ညီ",
+      "zh": "弟弟",
+      "vi": "em trai",
+      "th": "น้องชาย",
+      "id": "adik laki-laki"
+    },
+    "examples": {
+      "en": "弟さん (おとうとさん) - younger brother",
+      "ja": "弟さん",
+      "my": "ညီ",
+      "zh": "弟弟",
+      "vi": "em trai",
+      "th": "น้องชาย",
+      "id": "adik"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "meanings": {
+      "en": "younger sister",
+      "ja": "いもうと",
+      "my": "ညီမ",
+      "zh": "妹妹",
+      "vi": "em gái",
+      "th": "น้องสาว",
+      "id": "adik perempuan"
+    },
+    "examples": {
+      "en": "妹さん (いもうとさん) - younger sister",
+      "ja": "妹さん",
+      "my": "ညီမ",
+      "zh": "妹妹",
+      "vi": "em gái",
+      "th": "น้องสาว",
+      "id": "adik"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "大",
+    "hiragana": "だい/おお",
+    "meanings": {
+      "en": "big, large",
+      "ja": "だい/おお",
+      "my": "ကြီးမား",
+      "zh": "大",
+      "vi": "lớn",
+      "th": "ใหญ่",
+      "id": "besar"
+    },
+    "examples": {
+      "en": "大きい (おおきい) - big",
+      "ja": "大きい",
+      "my": "ကြီးမားသော",
+      "zh": "大的",
+      "vi": "to",
+      "th": "ใหญ่",
+      "id": "besar"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "小",
+    "hiragana": "しょう/ちい",
+    "meanings": {
+      "en": "small, little",
+      "ja": "しょう/ちい",
+      "my": "သေး",
+      "zh": "小",
+      "vi": "nhỏ",
+      "th": "เล็ก",
+      "id": "kecil"
+    },
+    "examples": {
+      "en": "小さい (ちいさい) - small",
+      "ja": "小さい",
+      "my": "သေးငယ်သော",
+      "zh": "小的",
+      "vi": "nhỏ",
+      "th": "เล็ก",
+      "id": "kecil"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "中",
+    "hiragana": "ちゅう/なか",
+    "meanings": {
+      "en": "middle, inside",
+      "ja": "ちゅう/なか",
+      "my": "အလယ်",
+      "zh": "中",
+      "vi": "giữa",
+      "th": "กลาง",
+      "id": "tengah"
+    },
+    "examples": {
+      "en": "中 (なか) - inside",
+      "ja": "中",
+      "my": "အတွင်း",
+      "zh": "里面",
+      "vi": "bên trong",
+      "th": "ข้างใน",
+      "id": "di dalam"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "上",
+    "hiragana": "じょう/うえ",
+    "meanings": {
+      "en": "above, top",
+      "ja": "じょう/うえ",
+      "my": "အပေါ်",
+      "zh": "上",
+      "vi": "trên",
+      "th": "บน",
+      "id": "atas"
+    },
+    "examples": {
+      "en": "上 (うえ) - above",
+      "ja": "上",
+      "my": "အပေါ်",
+      "zh": "上面",
+      "vi": "bên trên",
+      "th": "ข้างบน",
+      "id": "di atas"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "下",
+    "hiragana": "か/した",
+    "meanings": {
+      "en": "below, under",
+      "ja": "か/した",
+      "my": "အောက်",
+      "zh": "下",
+      "vi": "dưới",
+      "th": "ล่าง",
+      "id": "bawah"
+    },
+    "examples": {
+      "en": "下 (した) - below",
+      "ja": "下",
+      "my": "အောက်",
+      "zh": "下面",
+      "vi": "bên dưới",
+      "th": "ข้างล่าง",
+      "id": "di bawah"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "長",
+    "hiragana": "ちょう/なが",
+    "meanings": {
+      "en": "long, leader",
+      "ja": "ちょう/なが",
+      "my": "ရှည်သည်",
+      "zh": "长",
+      "vi": "dài",
+      "th": "ยาว",
+      "id": "panjang"
+    },
+    "examples": {
+      "en": "長い (ながい) - long",
+      "ja": "長い",
+      "my": "ရှည်သော",
+      "zh": "长的",
+      "vi": "dài",
+      "th": "ยาว",
+      "id": "panjang"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "短",
+    "hiragana": "たん/みじか",
+    "meanings": {
+      "en": "short",
+      "ja": "たん/みじか",
+      "my": "တိုသည်",
+      "zh": "短",
+      "vi": "ngắn",
+      "th": "สั้น",
+      "id": "pendek"
+    },
+    "examples": {
+      "en": "短い (みじかい) - short",
+      "ja": "短い",
+      "my": "တိုသော",
+      "zh": "短的",
+      "vi": "ngắn",
+      "th": "สั้น",
+      "id": "pendek"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "高",
+    "hiragana": "こう/たか",
+    "meanings": {
+      "en": "high, expensive",
+      "ja": "こう/たか",
+      "my": "မြင့်သည်",
+      "zh": "高",
+      "vi": "cao",
+      "th": "สูง",
+      "id": "tinggi"
+    },
+    "examples": {
+      "en": "高い (たかい) - high/expensive",
+      "ja": "高い",
+      "my": "မြင့်သော/စျေးကြီးသော",
+      "zh": "高的/贵的",
+      "vi": "cao, đắt",
+      "th": "สูง/แพง",
+      "id": "tinggi/mahal"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "安",
+    "hiragana": "あん/やす",
+    "meanings": {
+      "en": "cheap, peaceful",
+      "ja": "あん/やす",
+      "my": "စျေးပေါသည်",
+      "zh": "便宜",
+      "vi": "rẻ",
+      "th": "ถูก",
+      "id": "murah"
+    },
+    "examples": {
+      "en": "安い (やすい) - cheap",
+      "ja": "安い",
+      "my": "စျေးပေါသော",
+      "zh": "便宜的",
+      "vi": "rẻ",
+      "th": "ถูก",
+      "id": "murah"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "日",
+    "hiragana": "にち/ひ",
+    "meanings": {
+      "en": "day, sun",
+      "ja": "にち/ひ",
+      "my": "နေ, နေ့",
+      "zh": "日",
+      "vi": "ngày",
+      "th": "วัน",
+      "id": "hari"
+    },
+    "examples": {
+      "en": "今日 (きょう) - today",
+      "ja": "今日",
+      "my": "ယနေ့",
+      "zh": "今天",
+      "vi": "hôm nay",
+      "th": "วันนี้",
+      "id": "hari ini"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "月",
+    "hiragana": "がつ/つき",
+    "meanings": {
+      "en": "month, moon",
+      "ja": "がつ/つき",
+      "my": "လ",
+      "zh": "月",
+      "vi": "tháng",
+      "th": "เดือน",
+      "id": "bulan"
+    },
+    "examples": {
+      "en": "一月 (いちがつ) - January",
+      "ja": "一月",
+      "my": "ဇန်နဝါရီ",
+      "zh": "一月",
+      "vi": "tháng Một",
+      "th": "มกราคม",
+      "id": "Januari"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "年",
+    "hiragana": "ねん/とし",
+    "meanings": {
+      "en": "year",
+      "ja": "ねん/とし",
+      "my": "နှစ်",
+      "zh": "年",
+      "vi": "năm",
+      "th": "ปี",
+      "id": "tahun"
+    },
+    "examples": {
+      "en": "今年 (ことし) - this year",
+      "ja": "今年",
+      "my": "ယခုနှစ်",
+      "zh": "今年",
+      "vi": "năm nay",
+      "th": "ปีนี้",
+      "id": "tahun ini"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "時",
+    "hiragana": "じ/とき",
+    "meanings": {
+      "en": "time, hour",
+      "ja": "じ/とき",
+      "my": "အချိန်",
+      "zh": "时间",
+      "vi": "thời gian",
+      "th": "เวลา",
+      "id": "waktu"
+    },
+    "examples": {
+      "en": "時間 (じかん) - time",
+      "ja": "時間",
+      "my": "အချိန်",
+      "zh": "时间",
+      "vi": "thời gian",
+      "th": "เวลา",
+      "id": "waktu"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "分",
+    "hiragana": "ふん/ぶん",
+    "meanings": {
+      "en": "minute, part",
+      "ja": "ふん/ぶん",
+      "my": "မိနစ်",
+      "zh": "分钟",
+      "vi": "phút",
+      "th": "นาที",
+      "id": "menit"
+    },
+    "examples": {
+      "en": "五分 (ごふん) - five minutes",
+      "ja": "五分",
+      "my": "ငါးမိနစ်",
+      "zh": "五分钟",
+      "vi": "năm phút",
+      "th": "ห้านาที",
+      "id": "lima menit"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "週",
+    "hiragana": "しゅう",
+    "meanings": {
+      "en": "week",
+      "ja": "しゅう",
+      "my": "အပတ်",
+      "zh": "周",
+      "vi": "tuần",
+      "th": "สัปดาห์",
+      "id": "minggu"
+    },
+    "examples": {
+      "en": "今週 (こんしゅう) - this week",
+      "ja": "今週",
+      "my": "ဒီတစ်ပတ်",
+      "zh": "这周",
+      "vi": "tuần này",
+      "th": "สัปดาห์นี้",
+      "id": "minggu ini"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "曜",
+    "hiragana": "よう",
+    "meanings": {
+      "en": "day of week",
+      "ja": "よう",
+      "my": "နေ့",
+      "zh": "曜日",
+      "vi": "thứ",
+      "th": "วัน",
+      "id": "hari"
+    },
+    "examples": {
+      "en": "月曜日 (げつようび) - Monday",
+      "ja": "月曜日",
+      "my": "တနင်္လာနေ့",
+      "zh": "星期一",
+      "vi": "Thứ Hai",
+      "th": "วันจันทร์",
+      "id": "Senin"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "今",
+    "hiragana": "こん/いま",
+    "meanings": {
+      "en": "now",
+      "ja": "こん/いま",
+      "my": "ယခု",
+      "zh": "现在",
+      "vi": "bây giờ",
+      "th": "ตอนนี้",
+      "id": "sekarang"
+    },
+    "examples": {
+      "en": "今日 (きょう) - today",
+      "ja": "今日",
+      "my": "ယနေ့",
+      "zh": "今天",
+      "vi": "hôm nay",
+      "th": "วันนี้",
+      "id": "hari ini"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "先",
+    "hiragana": "せん/さき",
+    "meanings": {
+      "en": "previous, ahead",
+      "ja": "せん/さき",
+      "my": "ရှေ့",
+      "zh": "先",
+      "vi": "trước",
+      "th": "ก่อน",
+      "id": "sebelum"
+    },
+    "examples": {
+      "en": "先週 (せんしゅう) - last week",
+      "ja": "先週",
+      "my": "ပြီးခဲ့တဲ့အပတ်",
+      "zh": "上周",
+      "vi": "tuần trước",
+      "th": "สัปดาห์ที่แล้ว",
+      "id": "minggu lalu"
+    },
+    "level": "n4"
+  },
+  {
+    "kanji": "来",
+    "hiragana": "らい/く",
+    "meanings": {
+      "en": "next, come",
+      "ja": "らい/く",
+      "my": "လာ",
+      "zh": "来",
+      "vi": "đến",
+      "th": "มา",
+      "id": "datang"
+    },
+    "examples": {
+      "en": "来週 (らいしゅう) - next week",
+      "ja": "来週",
+      "my": "လာမယ့်အပတ်",
+      "zh": "下周",
+      "vi": "tuần tới",
+      "th": "สัปดาห์หน้า",
+      "id": "minggu depan"
+    },
+    "level": "n4"
+  }
+]
