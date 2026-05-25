@@ -1,0 +1,6028 @@
+[
+  {
+    "kanji": "政",
+    "hiragana": "まつりごと",
+    "meanings": {
+      "en": "politics, government",
+      "ja": "まつりごと",
+      "my": "နိုင်ငံရေး",
+      "zh": "政治",
+      "vi": "chính trị",
+      "th": "การเมือง",
+      "id": "politik"
+    },
+    "examples": {
+      "en": "政治 (せいじ) - politics",
+      "ja": "政治",
+      "my": "နိုင်ငံရေး",
+      "zh": "政治",
+      "vi": "chính trị",
+      "th": "การเมือง",
+      "id": "politik"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "議",
+    "hiragana": "ぎ",
+    "meanings": {
+      "en": "deliberation, consultation, debate",
+      "ja": "ぎ",
+      "my": "ဆွေးနွေးခြင်း",
+      "zh": "议/议论",
+      "vi": "nghị luận",
+      "th": "การอภิปราย",
+      "id": "musyawarah"
+    },
+    "examples": {
+      "en": "会議 (かいぎ) - meeting",
+      "ja": "会議",
+      "my": "အစည်းအဝေး",
+      "zh": "会议",
+      "vi": "cuộc họp",
+      "th": "การประชุม",
+      "id": "rapat"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "民",
+    "hiragana": "たみ",
+    "meanings": {
+      "en": "people, nation, subjects",
+      "ja": "たみ",
+      "my": "ပြည်သူ",
+      "zh": "民/人民",
+      "vi": "dân",
+      "th": "ประชาชน",
+      "id": "rakyat"
+    },
+    "examples": {
+      "en": "国民 (こくみん) - citizen",
+      "ja": "国民",
+      "my": "နိုင်ငံသား",
+      "zh": "国民",
+      "vi": "công dân",
+      "th": "พลเมือง",
+      "id": "warga negara"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "連",
+    "hiragana": "つれる",
+    "meanings": {
+      "en": "take along, lead, join, connect",
+      "ja": "つれる",
+      "my": "ခေါ်သွားသည်",
+      "zh": "连/连接",
+      "vi": "kết nối",
+      "th": "เชื่อมต่อ",
+      "id": "menghubungkan"
+    },
+    "examples": {
+      "en": "連絡 (れんらく) - contact",
+      "ja": "連絡",
+      "my": "ဆက်သွယ်ရန်",
+      "zh": "联系",
+      "vi": "liên lạc",
+      "th": "ติดต่อ",
+      "id": "kontak"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "対",
+    "hiragana": "たい",
+    "meanings": {
+      "en": "opposite, even, equal, versus",
+      "ja": "たい",
+      "my": "ဆန့်ကျင်ဘက်",
+      "zh": "对/相对",
+      "vi": "đối",
+      "th": "ตรงข้าม",
+      "id": "lawan"
+    },
+    "examples": {
+      "en": "対応 (たいおう) - correspondence",
+      "ja": "対応",
+      "my": "ဆက်စပ်မှု",
+      "zh": "对应",
+      "vi": "đối ứng",
+      "th": "การตอบสนอง",
+      "id": "respons"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "部",
+    "hiragana": "ぶ",
+    "meanings": {
+      "en": "section, bureau, department",
+      "ja": "ぶ",
+      "my": "ဌာန",
+      "zh": "部/部门",
+      "vi": "bộ phận",
+      "th": "แผนก",
+      "id": "departemen"
+    },
+    "examples": {
+      "en": "部屋 (へや) - room",
+      "ja": "部屋",
+      "my": "အခန်း",
+      "zh": "房间",
+      "vi": "phòng",
+      "th": "ห้อง",
+      "id": "ruangan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "合",
+    "hiragana": "あう",
+    "meanings": {
+      "en": "fit, suit, join",
+      "ja": "あう",
+      "my": "သင့်တော်သည်",
+      "zh": "合/适合",
+      "vi": "phù hợp",
+      "th": "เหมาะสม",
+      "id": "cocok"
+    },
+    "examples": {
+      "en": "都合 (つごう) - circumstances",
+      "ja": "都合",
+      "my": "အခြေအနေ",
+      "zh": "情况",
+      "vi": "hoàn cảnh",
+      "th": "สถานการณ์",
+      "id": "kondisi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "市",
+    "hiragana": "いち",
+    "meanings": {
+      "en": "market, city, town",
+      "ja": "いち",
+      "my": "မြို့",
+      "zh": "市/城市",
+      "vi": "thành phố",
+      "th": "เมือง",
+      "id": "kota"
+    },
+    "examples": {
+      "en": "都市 (とし) - city",
+      "ja": "都市",
+      "my": "မြို့ကြီး",
+      "zh": "都市",
+      "vi": "đô thị",
+      "th": "เมือง",
+      "id": "kota"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "内",
+    "hiragana": "うち",
+    "meanings": {
+      "en": "inside, within, between",
+      "ja": "うち",
+      "my": "အတွင်း",
+      "zh": "内/内部",
+      "vi": "bên trong",
+      "th": "ภายใน",
+      "id": "dalam"
+    },
+    "examples": {
+      "en": "国内 (こくない) - domestic",
+      "ja": "国内",
+      "my": "ပြည်တွင်း",
+      "zh": "国内",
+      "vi": "trong nước",
+      "th": "ในประเทศ",
+      "id": "dalam negeri"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "相",
+    "hiragana": "あい",
+    "meanings": {
+      "en": "mutual, together, each other",
+      "ja": "あい",
+      "my": "အချင်းချင်း",
+      "zh": "相/相互",
+      "vi": "tương hỗ",
+      "th": "ซึ่งกันและกัน",
+      "id": "saling"
+    },
+    "examples": {
+      "en": "相談 (そうだん) - consultation",
+      "ja": "相談",
+      "my": "တိုင်ပင်ဆွေးနွေးခြင်း",
+      "zh": "商量",
+      "vi": "thảo luận",
+      "th": "การปรึกษา",
+      "id": "konsultasi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "定",
+    "hiragana": "さだめる",
+    "meanings": {
+      "en": "determine, fix, establish",
+      "ja": "さだめる",
+      "my": "သတ်မှတ်သည်",
+      "zh": "定/决定",
+      "vi": "xác định",
+      "th": "กำหนด",
+      "id": "menentukan"
+    },
+    "examples": {
+      "en": "決定 (けってい) - decision",
+      "ja": "決定",
+      "my": "ဆုံးဖြတ်ချက်",
+      "zh": "决定",
+      "vi": "quyết định",
+      "th": "การตัดสินใจ",
+      "id": "keputusan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "回",
+    "hiragana": "まわす",
+    "meanings": {
+      "en": "times, round, revolve",
+      "ja": "まわす",
+      "my": "လှည့်သည်",
+      "zh": "回/旋转",
+      "vi": "xoay",
+      "th": "หมุน",
+      "id": "memutar"
+    },
+    "examples": {
+      "en": "回る (まわる) - to turn",
+      "ja": "回る",
+      "my": "လှည့်ပတ်သည်",
+      "zh": "旋转",
+      "vi": "quay",
+      "th": "หมุน",
+      "id": "berputar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "選",
+    "hiragana": "えらぶ",
+    "meanings": {
+      "en": "select, choose, prefer",
+      "ja": "えらぶ",
+      "my": "ရွေးချယ်သည်",
+      "zh": "选/选择",
+      "vi": "chọn",
+      "th": "เลือก",
+      "id": "memilih"
+    },
+    "examples": {
+      "en": "選択 (せんたく) - selection",
+      "ja": "選択",
+      "my": "ရွေးချယ်မှု",
+      "zh": "选择",
+      "vi": "lựa chọn",
+      "th": "การเลือก",
+      "id": "pilihan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "米",
+    "hiragana": "こめ",
+    "meanings": {
+      "en": "rice, USA, meter",
+      "ja": "こめ",
+      "my": "ဆန်",
+      "zh": "米/大米",
+      "vi": "gạo",
+      "th": "ข้าว",
+      "id": "beras"
+    },
+    "examples": {
+      "en": "米国 (べいこく) - USA",
+      "ja": "米国",
+      "my": "အမေရိကန်",
+      "zh": "美国",
+      "vi": "Hoa Kỳ",
+      "th": "สหรัฐอเมริกา",
+      "id": "Amerika Serikat"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "実",
+    "hiragana": "み",
+    "meanings": {
+      "en": "reality, truth",
+      "ja": "み",
+      "my": "အစစ်",
+      "zh": "实/真实",
+      "vi": "thực",
+      "th": "จริง",
+      "id": "nyata"
+    },
+    "examples": {
+      "en": "実際 (じっさい) - actually",
+      "ja": "実際",
+      "my": "တကယ်တော့",
+      "zh": "实际",
+      "vi": "thực tế",
+      "th": "จริงๆ",
+      "id": "sebenarnya"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "関",
+    "hiragana": "かかわる",
+    "meanings": {
+      "en": "connection, barrier, involve",
+      "ja": "かかわる",
+      "my": "ဆက်စပ်သည်",
+      "zh": "关/关系",
+      "vi": "liên quan",
+      "th": "เกี่ยวข้อง",
+      "id": "terkait"
+    },
+    "examples": {
+      "en": "関係 (かんけい) - relation",
+      "ja": "関係",
+      "my": "ဆက်ဆံရေး",
+      "zh": "关系",
+      "vi": "quan hệ",
+      "th": "ความสัมพันธ์",
+      "id": "hubungan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "決",
+    "hiragana": "きめる",
+    "meanings": {
+      "en": "decide, fix, appoint",
+      "ja": "きめる",
+      "my": "ဆုံးဖြတ်သည်",
+      "zh": "决/决定",
+      "vi": "quyết định",
+      "th": "ตัดสินใจ",
+      "id": "memutuskan"
+    },
+    "examples": {
+      "en": "決心 (けっしん) - determination",
+      "ja": "決心",
+      "my": "စိတ်ပိုင်းဖြတ်ချက်",
+      "zh": "决心",
+      "vi": "quyết tâm",
+      "th": "ความมุ่งมั่น",
+      "id": "tekad"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "全",
+    "hiragana": "すべて",
+    "meanings": {
+      "en": "whole, entire, all, complete",
+      "ja": "すべて",
+      "my": "အားလုံး",
+      "zh": "全/全部",
+      "vi": "toàn bộ",
+      "th": "ทั้งหมด",
+      "id": "semua"
+    },
+    "examples": {
+      "en": "全部 (ぜんぶ) - all",
+      "ja": "全部",
+      "my": "အားလုံး",
+      "zh": "全部",
+      "vi": "tất cả",
+      "th": "ทั้งหมด",
+      "id": "semua"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "表",
+    "hiragana": "おもて",
+    "meanings": {
+      "en": "surface, table, chart",
+      "ja": "おもて",
+      "my": "မျက်နှာပြင်",
+      "zh": "表/表面",
+      "vi": "bề mặt",
+      "th": "พื้นผิว",
+      "id": "permukaan"
+    },
+    "examples": {
+      "en": "表現 (ひょうげん) - expression",
+      "ja": "表現",
+      "my": "ဖော်ပြချက်",
+      "zh": "表现",
+      "vi": "biểu hiện",
+      "th": "การแสดงออก",
+      "id": "ekspresi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "戦",
+    "hiragana": "たたかう",
+    "meanings": {
+      "en": "war, battle, match",
+      "ja": "たたかう",
+      "my": "တိုက်ပွဲ",
+      "zh": "战/战争",
+      "vi": "chiến tranh",
+      "th": "สงคราม",
+      "id": "perang"
+    },
+    "examples": {
+      "en": "戦争 (せんそう) - war",
+      "ja": "戦争",
+      "my": "စစ်ပွဲ",
+      "zh": "战争",
+      "vi": "chiến tranh",
+      "th": "สงคราม",
+      "id": "perang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "経",
+    "hiragana": "へる",
+    "meanings": {
+      "en": "longitude, pass through, expire",
+      "ja": "へる",
+      "my": "ဖြတ်သန်းသည်",
+      "zh": "经/经过",
+      "vi": "kinh qua",
+      "th": "ผ่าน",
+      "id": "melalui"
+    },
+    "examples": {
+      "en": "経験 (けいけん) - experience",
+      "ja": "経験",
+      "my": "အတွေ့အကြုံ",
+      "zh": "经验",
+      "vi": "kinh nghiệm",
+      "th": "ประสบการณ์",
+      "id": "pengalaman"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "最",
+    "hiragana": "もっとも",
+    "meanings": {
+      "en": "utmost, most, extreme",
+      "ja": "もっとも",
+      "my": "အများဆုံး",
+      "zh": "最/最",
+      "vi": "nhất",
+      "th": "ที่สุด",
+      "id": "paling"
+    },
+    "examples": {
+      "en": "最高 (さいこう) - highest",
+      "ja": "最高",
+      "my": "အမြင့်ဆုံး",
+      "zh": "最高",
+      "vi": "cao nhất",
+      "th": "สูงสุด",
+      "id": "tertinggi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "現",
+    "hiragana": "あらわれる",
+    "meanings": {
+      "en": "present, existing, actual",
+      "ja": "あらわれる",
+      "my": "ပေါ်လာသည်",
+      "zh": "现/出现",
+      "vi": "hiện ra",
+      "th": "ปรากฏ",
+      "id": "muncul"
+    },
+    "examples": {
+      "en": "現在 (げんざい) - present",
+      "ja": "現在",
+      "my": "လက်ရှိ",
+      "zh": "现在",
+      "vi": "hiện tại",
+      "th": "ปัจจุบัน",
+      "id": "sekarang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "調",
+    "hiragana": "しらべる",
+    "meanings": {
+      "en": "tune, meter, investigate",
+      "ja": "しらべる",
+      "my": "စုံစမ်းသည်",
+      "zh": "调/调查",
+      "vi": "điều tra",
+      "th": "สอบสวน",
+      "id": "menyelidiki"
+    },
+    "examples": {
+      "en": "調査 (ちょうさ) - investigation",
+      "ja": "調査",
+      "my": "စုံစမ်းစစ်ဆေးခြင်း",
+      "zh": "调查",
+      "vi": "điều tra",
+      "th": "การสอบสวน",
+      "id": "penyelidikan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "化",
+    "hiragana": "ばける",
+    "meanings": {
+      "en": "change, take the form of",
+      "ja": "ばける",
+      "my": "ပြောင်းလဲသည်",
+      "zh": "化/变化",
+      "vi": "hóa",
+      "th": "เปลี่ยน",
+      "id": "berubah"
+    },
+    "examples": {
+      "en": "文化 (ぶんか) - culture",
+      "ja": "文化",
+      "my": "ယဉ်ကျေးမှု",
+      "zh": "文化",
+      "vi": "văn hóa",
+      "th": "วัฒนธรรม",
+      "id": "budaya"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "当",
+    "hiragana": "あたる",
+    "meanings": {
+      "en": "hit, right, appropriate",
+      "ja": "あたる",
+      "my": "မှန်သည်",
+      "zh": "当/适当",
+      "vi": "đúng",
+      "th": "ถูกต้อง",
+      "id": "tepat"
+    },
+    "examples": {
+      "en": "当然 (とうぜん) - naturally",
+      "ja": "当然",
+      "my": "သဘာဝကျသည်",
+      "zh": "当然",
+      "vi": "tất nhiên",
+      "th": "แน่นอน",
+      "id": "tentu saja"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "約",
+    "hiragana": "つづまる",
+    "meanings": {
+      "en": "promise, approximately, shrink",
+      "ja": "つづまる",
+      "my": "ကျုံ့သည်",
+      "zh": "约/大约",
+      "vi": "khoảng",
+      "th": "ประมาณ",
+      "id": "kira-kira"
+    },
+    "examples": {
+      "en": "約束 (やくそく) - promise",
+      "ja": "約束",
+      "my": "ကတိ",
+      "zh": "约定",
+      "vi": "lời hứa",
+      "th": "สัญญา",
+      "id": "janji"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "首",
+    "hiragana": "くび",
+    "meanings": {
+      "en": "neck",
+      "ja": "くび",
+      "my": "လည်ပင်း",
+      "zh": "首/脖子",
+      "vi": "cổ",
+      "th": "คอ",
+      "id": "leher"
+    },
+    "examples": {
+      "en": "首都 (しゅと) - capital",
+      "ja": "首都",
+      "my": "မြို့တော်",
+      "zh": "首都",
+      "vi": "thủ đô",
+      "th": "เมืองหลวง",
+      "id": "ibu kota"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "法",
+    "hiragana": "のり",
+    "meanings": {
+      "en": "method, law, rule",
+      "ja": "のり",
+      "my": "နည်းလမ်း",
+      "zh": "法/法律",
+      "vi": "pháp luật",
+      "th": "กฎหมาย",
+      "id": "hukum"
+    },
+    "examples": {
+      "en": "方法 (ほうほう) - method",
+      "ja": "方法",
+      "my": "နည်းလမ်း",
+      "zh": "方法",
+      "vi": "phương pháp",
+      "th": "วิธี",
+      "id": "metode"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "性",
+    "hiragana": "せい",
+    "meanings": {
+      "en": "sex, gender, nature",
+      "ja": "せい",
+      "my": "လိင်",
+      "zh": "性/性别",
+      "vi": "giới tính",
+      "th": "เพศ",
+      "id": "jenis kelamin"
+    },
+    "examples": {
+      "en": "性格 (せいかく) - personality",
+      "ja": "性格",
+      "my": "ကိုယ်ရည်ကိုယ်သွေး",
+      "zh": "性格",
+      "vi": "tính cách",
+      "th": "บุคลิกภาพ",
+      "id": "kepribadian"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "的",
+    "hiragana": "てき",
+    "meanings": {
+      "en": "mark, target, adjective ending",
+      "ja": "てき",
+      "my": "ပစ်မှတ်",
+      "zh": "的/目标",
+      "vi": "mục tiêu",
+      "th": "เป้าหมาย",
+      "id": "target"
+    },
+    "examples": {
+      "en": "目的的 (もくてきてき) - objective",
+      "ja": "目的的",
+      "my": "ရည်မှန်းချက်",
+      "zh": "目的的",
+      "vi": "mục đích",
+      "th": "เป้าหมาย",
+      "id": "tujuan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "要",
+    "hiragana": "いる",
+    "meanings": {
+      "en": "need, main point, essence",
+      "ja": "いる",
+      "my": "လိုအပ်သည်",
+      "zh": "要/需要",
+      "vi": "cần",
+      "th": "ต้องการ",
+      "id": "perlu"
+    },
+    "examples": {
+      "en": "必要 (ひつよう) - necessary",
+      "ja": "必要",
+      "my": "လိုအပ်သော",
+      "zh": "必要",
+      "vi": "cần thiết",
+      "th": "จำเป็น",
+      "id": "perlu"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "制",
+    "hiragana": "せい",
+    "meanings": {
+      "en": "system, law, rule",
+      "ja": "せい",
+      "my": "စနစ်",
+      "zh": "制/制度",
+      "vi": "chế độ",
+      "th": "ระบบ",
+      "id": "sistem"
+    },
+    "examples": {
+      "en": "制度 (せいど) - system",
+      "ja": "制度",
+      "my": "စနစ်",
+      "zh": "制度",
+      "vi": "hệ thống",
+      "th": "ระบบ",
+      "id": "sistem"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "治",
+    "hiragana": "おさめる",
+    "meanings": {
+      "en": "reign, cure, heal",
+      "ja": "おさめる",
+      "my": "အုပ်ချုပ်သည်",
+      "zh": "治/治理",
+      "vi": "trị",
+      "th": "ปกครอง",
+      "id": "memerintah"
+    },
+    "examples": {
+      "en": "政治 (せいじ) - politics",
+      "ja": "政治",
+      "my": "နိုင်ငံရေး",
+      "zh": "政治",
+      "vi": "chính trị",
+      "th": "การเมือง",
+      "id": "politik"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "務",
+    "hiragana": "つとめる",
+    "meanings": {
+      "en": "task, duties",
+      "ja": "つとめる",
+      "my": "တာဝန်ထမ်းဆောင်သည်",
+      "zh": "务/任务",
+      "vi": "nhiệm vụ",
+      "th": "ภารกิจ",
+      "id": "tugas"
+    },
+    "examples": {
+      "en": "業務 (ぎょうむ) - duties",
+      "ja": "業務",
+      "my": "တာဝန်များ",
+      "zh": "业务",
+      "vi": "nghiệp vụ",
+      "th": "หน้าที่",
+      "id": "tugas"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "成",
+    "hiragana": "なる",
+    "meanings": {
+      "en": "turn into, become, grow",
+      "ja": "なる",
+      "my": "ဖြစ်လာသည်",
+      "zh": "成/成为",
+      "vi": "trở thành",
+      "th": "กลายเป็น",
+      "id": "menjadi"
+    },
+    "examples": {
+      "en": "成功 (せいこう) - success",
+      "ja": "成功",
+      "my": "အောင်မြင်မှု",
+      "zh": "成功",
+      "vi": "thành công",
+      "th": "ความสำเร็จ",
+      "id": "kesuksesan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "期",
+    "hiragana": "き",
+    "meanings": {
+      "en": "period, time, date",
+      "ja": "き",
+      "my": "ကာလ",
+      "zh": "期/期间",
+      "vi": "kỳ",
+      "th": "ระยะเวลา",
+      "id": "periode"
+    },
+    "examples": {
+      "en": "期間 (きかん) - period",
+      "ja": "期間",
+      "my": "ကာလ",
+      "zh": "期间",
+      "vi": "thời kỳ",
+      "th": "ช่วงเวลา",
+      "id": "periode"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "取",
+    "hiragana": "とる",
+    "meanings": {
+      "en": "take, fetch",
+      "ja": "とる",
+      "my": "ယူသည်",
+      "zh": "取/取",
+      "vi": "lấy",
+      "th": "เอา",
+      "id": "mengambil"
+    },
+    "examples": {
+      "en": "取る (とる) - to take",
+      "ja": "取る",
+      "my": "ယူသည်",
+      "zh": "拿",
+      "vi": "lấy",
+      "th": "เอา",
+      "id": "mengambil"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "都",
+    "hiragana": "みやこ",
+    "meanings": {
+      "en": "metropolis, capital",
+      "ja": "みやこ",
+      "my": "မြို့တော်",
+      "zh": "都/都市",
+      "vi": "đô thị",
+      "th": "นคร",
+      "id": "kota besar"
+    },
+    "examples": {
+      "en": "都市 (とし) - city",
+      "ja": "都市",
+      "my": "မြို့",
+      "zh": "都市",
+      "vi": "đô thị",
+      "th": "เมือง",
+      "id": "kota"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "和",
+    "hiragana": "やわらぐ",
+    "meanings": {
+      "en": "harmony, Japanese style, peace",
+      "ja": "やわらぐ",
+      "my": "ငြိမ်းချမ်းရေး",
+      "zh": "和/和平",
+      "vi": "hòa bình",
+      "th": "ความสงบ",
+      "id": "damai"
+    },
+    "examples": {
+      "en": "平和 (へいわ) - peace",
+      "ja": "平和",
+      "my": "ငြိမ်းချမ်းရေး",
+      "zh": "和平",
+      "vi": "hòa bình",
+      "th": "สันติภาพ",
+      "id": "perdamaian"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "機",
+    "hiragana": "はた",
+    "meanings": {
+      "en": "machine, airplane, opportunity",
+      "ja": "はた",
+      "my": "စက်",
+      "zh": "机/机器",
+      "vi": "máy",
+      "th": "เครื่องจักร",
+      "id": "mesin"
+    },
+    "examples": {
+      "en": "機械 (きかい) - machine",
+      "ja": "機械",
+      "my": "စက်",
+      "zh": "机械",
+      "vi": "máy móc",
+      "th": "เครื่องจักร",
+      "id": "mesin"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "平",
+    "hiragana": "たいら",
+    "meanings": {
+      "en": "even, flat, peace",
+      "ja": "たいら",
+      "my": "ညီညာသော",
+      "zh": "平/平坦",
+      "vi": "bằng phẳng",
+      "th": "ราบเรียบ",
+      "id": "rata"
+    },
+    "examples": {
+      "en": "平和 (へいわ) - peace",
+      "ja": "平和",
+      "my": "ငြိမ်းချမ်းရေး",
+      "zh": "和平",
+      "vi": "hòa bình",
+      "th": "สันติภาพ",
+      "id": "perdamaian"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "加",
+    "hiragana": "くわえる",
+    "meanings": {
+      "en": "add, addition, increase",
+      "ja": "くわえる",
+      "my": "ပေါင်းထည့်သည်",
+      "zh": "加/增加",
+      "vi": "thêm",
+      "th": "เพิ่ม",
+      "id": "menambah"
+    },
+    "examples": {
+      "en": "参加 (さんか) - participation",
+      "ja": "参加",
+      "my": "ပါဝင်မှု",
+      "zh": "参加",
+      "vi": "tham gia",
+      "th": "การเข้าร่วม",
+      "id": "partisipasi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "受",
+    "hiragana": "うける",
+    "meanings": {
+      "en": "accept, undergo, answer",
+      "ja": "うける",
+      "my": "လက်ခံသည်",
+      "zh": "受/接受",
+      "vi": "nhận",
+      "th": "รับ",
+      "id": "menerima"
+    },
+    "examples": {
+      "en": "受ける (うける) - to receive",
+      "ja": "受ける",
+      "my": "လက်ခံသည်",
+      "zh": "接受",
+      "vi": "nhận",
+      "th": "รับ",
+      "id": "menerima"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "続",
+    "hiragana": "つづく",
+    "meanings": {
+      "en": "continue, series, sequel",
+      "ja": "つづく",
+      "my": "ဆက်လုပ်သည်",
+      "zh": "续/继续",
+      "vi": "tiếp tục",
+      "th": "ดำเนินต่อ",
+      "id": "melanjutkan"
+    },
+    "examples": {
+      "en": "続ける (つづける) - to continue",
+      "ja": "続ける",
+      "my": "ဆက်လုပ်သည်",
+      "zh": "继续",
+      "vi": "tiếp tục",
+      "th": "ดำเนินต่อไป",
+      "id": "melanjutkan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "進",
+    "hiragana": "すすむ",
+    "meanings": {
+      "en": "advance, proceed",
+      "ja": "すすむ",
+      "my": "ရှေ့ဆက်သည်",
+      "zh": "进/前进",
+      "vi": "tiến",
+      "th": "ก้าวหน้า",
+      "id": "maju"
+    },
+    "examples": {
+      "en": "進歩 (しんぽ) - progress",
+      "ja": "進歩",
+      "my": "တိုးတက်မှု",
+      "zh": "进步",
+      "vi": "tiến bộ",
+      "th": "ความก้าวหน้า",
+      "id": "kemajuan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "数",
+    "hiragana": "かず",
+    "meanings": {
+      "en": "number, strength, figures",
+      "ja": "かず",
+      "my": "နံပါတ်",
+      "zh": "数/数字",
+      "vi": "số",
+      "th": "จำนวน",
+      "id": "angka"
+    },
+    "examples": {
+      "en": "数字 (すうじ) - number",
+      "ja": "数字",
+      "my": "နံပါတ်",
+      "zh": "数字",
+      "vi": "chữ số",
+      "th": "ตัวเลข",
+      "id": "angka"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "記",
+    "hiragana": "しるす",
+    "meanings": {
+      "en": "scribe, account, narrative",
+      "ja": "しるす",
+      "my": "မှတ်သားသည်",
+      "zh": "记/记录",
+      "vi": "ghi",
+      "th": "จดบันทึก",
+      "id": "mencatat"
+    },
+    "examples": {
+      "en": "記録 (きろく) - record",
+      "ja": "記録",
+      "my": "မှတ်တမ်း",
+      "zh": "记录",
+      "vi": "ghi chép",
+      "th": "บันทึก",
+      "id": "catatan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "初",
+    "hiragana": "はじめ",
+    "meanings": {
+      "en": "first time, beginning",
+      "ja": "はじめ",
+      "my": "ပထမ",
+      "zh": "初/初次",
+      "vi": "đầu tiên",
+      "th": "แรก",
+      "id": "pertama"
+    },
+    "examples": {
+      "en": "最初 (さいしょ) - the first",
+      "ja": "最初",
+      "my": "ပထမဆုံး",
+      "zh": "最初",
+      "vi": "đầu tiên",
+      "th": "ครั้งแรก",
+      "id": "pertama"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "meanings": {
+      "en": "finger, point to, indicate",
+      "ja": "ゆび",
+      "my": "လက်ချောင်း",
+      "zh": "指/手指",
+      "vi": "ngón tay",
+      "th": "นิ้ว",
+      "id": "jari"
+    },
+    "examples": {
+      "en": "指 (ゆび) - finger",
+      "ja": "指",
+      "my": "လက်ချောင်း",
+      "zh": "手指",
+      "vi": "ngón tay",
+      "th": "นิ้ว",
+      "id": "jari"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "権",
+    "hiragana": "けん",
+    "meanings": {
+      "en": "authority, power, rights",
+      "ja": "けん",
+      "my": "အာဏာ",
+      "zh": "权/权力",
+      "vi": "quyền",
+      "th": "อำนาจ",
+      "id": "kekuasaan"
+    },
+    "examples": {
+      "en": "権利 (けんり) - right",
+      "ja": "権利",
+      "my": "အခွင့်အရေး",
+      "zh": "权利",
+      "vi": "quyền lợi",
+      "th": "สิทธิ",
+      "id": "hak"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "支",
+    "hiragana": "ささえる",
+    "meanings": {
+      "en": "branch, support, sustain",
+      "ja": "ささえる",
+      "my": "ထောက်ပံ့သည်",
+      "zh": "支/支持",
+      "vi": "ủng hộ",
+      "th": "สนับสนุน",
+      "id": "mendukung"
+    },
+    "examples": {
+      "en": "支援 (しえん) - support",
+      "ja": "支援",
+      "my": "ပံ့ပိုးမှု",
+      "zh": "支援",
+      "vi": "hỗ trợ",
+      "th": "การสนับสนุน",
+      "id": "dukungan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "産",
+    "hiragana": "うむ",
+    "meanings": {
+      "en": "products, bear, give birth",
+      "ja": "うむ",
+      "my": "မွေးဖွားသည်",
+      "zh": "产/生产",
+      "vi": "sinh sản",
+      "th": "ผลิต",
+      "id": "memproduksi"
+    },
+    "examples": {
+      "en": "生産 (せいさん) - production",
+      "ja": "生産",
+      "my": "ထုတ်လုပ်မှု",
+      "zh": "生产",
+      "vi": "sản xuất",
+      "th": "การผลิต",
+      "id": "produksi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "点",
+    "hiragana": "つける",
+    "meanings": {
+      "en": "spot, point, mark",
+      "ja": "つける",
+      "my": "အစက်",
+      "zh": "点/点",
+      "vi": "điểm",
+      "th": "จุด",
+      "id": "titik"
+    },
+    "examples": {
+      "en": "点 (てん) - point",
+      "ja": "点",
+      "my": "အမှတ်",
+      "zh": "点",
+      "vi": "điểm",
+      "th": "จุด",
+      "id": "poin"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "報",
+    "hiragana": "むくいる",
+    "meanings": {
+      "en": "report, news, reward",
+      "ja": "むくいる",
+      "my": "သတင်းပို့သည်",
+      "zh": "报/报告",
+      "vi": "báo cáo",
+      "th": "รายงาน",
+      "id": "melaporkan"
+    },
+    "examples": {
+      "en": "報告 (ほうこく) - report",
+      "ja": "報告",
+      "my": "အစီရင်ခံစာ",
+      "zh": "报告",
+      "vi": "báo cáo",
+      "th": "รายงาน",
+      "id": "laporan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "済",
+    "hiragana": "すむ",
+    "meanings": {
+      "en": "settle, relieve, finish",
+      "ja": "すむ",
+      "my": "ပြီးဆုံးသည်",
+      "zh": "济/完成",
+      "vi": "hoàn thành",
+      "th": "เสร็จสิ้น",
+      "id": "selesai"
+    },
+    "examples": {
+      "en": "済む (すむ) - to finish",
+      "ja": "済む",
+      "my": "ပြီးဆုံးသည်",
+      "zh": "结束",
+      "vi": "kết thúc",
+      "th": "เสร็จ",
+      "id": "selesai"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "活",
+    "hiragana": "かつ",
+    "meanings": {
+      "en": "living",
+      "ja": "かつ",
+      "my": "အသက်ရှင်ခြင်း",
+      "zh": "活/活动",
+      "vi": "sống",
+      "th": "มีชีวิต",
+      "id": "hidup"
+    },
+    "examples": {
+      "en": "生活 (せいかつ) - lifestyle",
+      "ja": "生活",
+      "my": "နေထိုင်မှုပုံစံ",
+      "zh": "生活",
+      "vi": "cuộc sống",
+      "th": "ชีวิต",
+      "id": "kehidupan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "原",
+    "hiragana": "はら",
+    "meanings": {
+      "en": "original, primitive, field",
+      "ja": "はら",
+      "my": "မူလ",
+      "zh": "原/原来",
+      "vi": "nguyên",
+      "th": "เดิม",
+      "id": "asli"
+    },
+    "examples": {
+      "en": "原因 (げんいん) - cause",
+      "ja": "原因",
+      "my": "အကြောင်းရင်း",
+      "zh": "原因",
+      "vi": "nguyên nhân",
+      "th": "สาเหตุ",
+      "id": "penyebab"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "共",
+    "hiragana": "とも",
+    "meanings": {
+      "en": "together, both, neither",
+      "ja": "とも",
+      "my": "အတူတူ",
+      "zh": "共/共同",
+      "vi": "cùng",
+      "th": "ร่วมกัน",
+      "id": "bersama"
+    },
+    "examples": {
+      "en": "共通 (きょうつう) - common",
+      "ja": "共通",
+      "my": "ဘုံ",
+      "zh": "共通",
+      "vi": "chung",
+      "th": "ร่วมกัน",
+      "id": "umum"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "得",
+    "hiragana": "える",
+    "meanings": {
+      "en": "gain, get, acquire",
+      "ja": "える",
+      "my": "ရရှိသည်",
+      "zh": "得/得到",
+      "vi": "đạt được",
+      "th": "ได้รับ",
+      "id": "mendapatkan"
+    },
+    "examples": {
+      "en": "得る (える) - to obtain",
+      "ja": "得る",
+      "my": "ရရှိသည်",
+      "zh": "获得",
+      "vi": "đạt được",
+      "th": "ได้รับ",
+      "id": "memperoleh"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "解",
+    "hiragana": "とく",
+    "meanings": {
+      "en": "unravel, explanation",
+      "ja": "とく",
+      "my": "ဖြေရှင်းသည်",
+      "zh": "解/解决",
+      "vi": "giải",
+      "th": "แก้ไข",
+      "id": "memecahkan"
+    },
+    "examples": {
+      "en": "解決 (かいけつ) - solution",
+      "ja": "解決",
+      "my": "ဖြေရှင်းချက်",
+      "zh": "解决",
+      "vi": "giải quyết",
+      "th": "การแก้ปัญหา",
+      "id": "solusi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "交",
+    "hiragana": "まじわる",
+    "meanings": {
+      "en": "mingle, mixing, association",
+      "ja": "まじわる",
+      "my": "ရောနှောသည်",
+      "zh": "交/交往",
+      "vi": "giao",
+      "th": "พบปะ",
+      "id": "bercampur"
+    },
+    "examples": {
+      "en": "交流 (こうりゅう) - exchange",
+      "ja": "交流",
+      "my": "ဖလှယ်ခြင်း",
+      "zh": "交流",
+      "vi": "giao lưu",
+      "th": "การแลกเปลี่ยน",
+      "id": "pertukaran"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "資",
+    "hiragana": "し",
+    "meanings": {
+      "en": "assets, resources, capital",
+      "ja": "し",
+      "my": "အရင်းအနှီး",
+      "zh": "资/资本",
+      "vi": "tư bản",
+      "th": "ทุน",
+      "id": "modal"
+    },
+    "examples": {
+      "en": "資本 (しほん) - capital",
+      "ja": "資本",
+      "my": "အရင်းအနှီး",
+      "zh": "资本",
+      "vi": "vốn",
+      "th": "ทุน",
+      "id": "modal"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "予",
+    "hiragana": "あらかじめ",
+    "meanings": {
+      "en": "beforehand, previous",
+      "ja": "あらかじめ",
+      "my": "ကြိုတင်",
+      "zh": "予/预先",
+      "vi": "trước",
+      "th": "ก่อน",
+      "id": "sebelumnya"
+    },
+    "examples": {
+      "en": "予約 (よやく) - reservation",
+      "ja": "予約",
+      "my": "ကြိုတင်မှာယူမှု",
+      "zh": "预约",
+      "vi": "đặt trước",
+      "th": "การจอง",
+      "id": "reservasi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "向",
+    "hiragana": "むく",
+    "meanings": {
+      "en": "facing, beyond",
+      "ja": "むく",
+      "my": "မျက်နှာမူသည်",
+      "zh": "向/面向",
+      "vi": "hướng",
+      "th": "หันหน้า",
+      "id": "menghadap"
+    },
+    "examples": {
+      "en": "方向 (ほうこう) - direction",
+      "ja": "方向",
+      "my": "ဦးတည်ချက်",
+      "zh": "方向",
+      "vi": "phương hướng",
+      "th": "ทิศทาง",
+      "id": "arah"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "際",
+    "hiragana": "きわ",
+    "meanings": {
+      "en": "occasion, time",
+      "ja": "きわ",
+      "my": "အခါသမယ",
+      "zh": "际/时候",
+      "vi": "lúc",
+      "th": "โอกาส",
+      "id": "kesempatan"
+    },
+    "examples": {
+      "en": "際 (さい) - occasion",
+      "ja": "際",
+      "my": "အခါသမယ",
+      "zh": "时候",
+      "vi": "dịp",
+      "th": "โอกาส",
+      "id": "kesempatan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "勝",
+    "hiragana": "かつ",
+    "meanings": {
+      "en": "victory, win",
+      "ja": "かつ",
+      "my": "အနိုင်ရသည်",
+      "zh": "胜/胜利",
+      "vi": "thắng",
+      "th": "ชนะ",
+      "id": "menang"
+    },
+    "examples": {
+      "en": "勝利 (しょうり) - victory",
+      "ja": "勝利",
+      "my": "အောင်ပွဲ",
+      "zh": "胜利",
+      "vi": "chiến thắng",
+      "th": "ชัยชนะ",
+      "id": "kemenangan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "面",
+    "hiragana": "おも",
+    "meanings": {
+      "en": "mask, face, surface",
+      "ja": "おも",
+      "my": "မျက်နှာ",
+      "zh": "面/脸",
+      "vi": "mặt",
+      "th": "หน้า",
+      "id": "wajah"
+    },
+    "examples": {
+      "en": "面 (めん) - surface",
+      "ja": "面",
+      "my": "မျက်နှာပြင်",
+      "zh": "表面",
+      "vi": "bề mặt",
+      "th": "พื้นผิว",
+      "id": "permukaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "告",
+    "hiragana": "つげる",
+    "meanings": {
+      "en": "revelation, inform",
+      "ja": "つげる",
+      "my": "အကြောင်းကြားသည်",
+      "zh": "告/告诉",
+      "vi": "báo",
+      "th": "แจ้ง",
+      "id": "memberi tahu"
+    },
+    "examples": {
+      "en": "報告 (ほうこく) - report",
+      "ja": "報告",
+      "my": "အစီရင်ခံစာ",
+      "zh": "报告",
+      "vi": "báo cáo",
+      "th": "รายงาน",
+      "id": "laporan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "反",
+    "hiragana": "そる",
+    "meanings": {
+      "en": "anti-",
+      "ja": "そる",
+      "my": "ဆန့်ကျင်",
+      "zh": "反/反对",
+      "vi": "chống",
+      "th": "ต่อต้าน",
+      "id": "anti"
+    },
+    "examples": {
+      "en": "反対 (はんたい) - opposition",
+      "ja": "反対",
+      "my": "ဆန့်ကျင်မှု",
+      "zh": "反对",
+      "vi": "phản đối",
+      "th": "การคัดค้าน",
+      "id": "oposisi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "判",
+    "hiragana": "はん",
+    "meanings": {
+      "en": "judgement, signature",
+      "ja": "はん",
+      "my": "စီရင်ချက်",
+      "zh": "判/判断",
+      "vi": "phán",
+      "th": "ตัดสิน",
+      "id": "penghakiman"
+    },
+    "examples": {
+      "en": "判断 (はんだん) - judgement",
+      "ja": "判断",
+      "my": "ဆုံးဖြတ်ချက်",
+      "zh": "判断",
+      "vi": "phán đoán",
+      "th": "การตัดสิน",
+      "id": "penilaian"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "認",
+    "hiragana": "みとめる",
+    "meanings": {
+      "en": "acknowledge, witness, recognize",
+      "ja": "みとめる",
+      "my": "အသိအမှတ်ပြုသည်",
+      "zh": "认/认识",
+      "vi": "nhận",
+      "th": "รับรู้",
+      "id": "mengakui"
+    },
+    "examples": {
+      "en": "認識 (にんしき) - recognition",
+      "ja": "認識",
+      "my": "အသိအမှတ်ပြုမှု",
+      "zh": "认识",
+      "vi": "nhận thức",
+      "th": "การรับรู้",
+      "id": "pengakuan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "参",
+    "hiragana": "まいる",
+    "meanings": {
+      "en": "going, coming, participate",
+      "ja": "まいる",
+      "my": "သွားရောက်သည်",
+      "zh": "参/参加",
+      "vi": "tham",
+      "th": "เข้าร่วม",
+      "id": "berpartisipasi"
+    },
+    "examples": {
+      "en": "参加 (さんか) - participation",
+      "ja": "参加",
+      "my": "ပါဝင်မှု",
+      "zh": "参加",
+      "vi": "tham gia",
+      "th": "การเข้าร่วม",
+      "id": "partisipasi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "利",
+    "hiragana": "きく",
+    "meanings": {
+      "en": "profit, advantage, benefit",
+      "ja": "きく",
+      "my": "အမြတ်",
+      "zh": "利/利益",
+      "vi": "lợi",
+      "th": "ผลประโยชน์",
+      "id": "keuntungan"
+    },
+    "examples": {
+      "en": "利用 (りよう) - use",
+      "ja": "利用",
+      "my": "အသုံးပြုခြင်း",
+      "zh": "利用",
+      "vi": "sử dụng",
+      "th": "การใช้",
+      "id": "penggunaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "組",
+    "hiragana": "くむ",
+    "meanings": {
+      "en": "association, assemble, unite",
+      "ja": "くむ",
+      "my": "စုစည်းသည်",
+      "zh": "组/组织",
+      "vi": "tổ",
+      "th": "จัดกลุ่ม",
+      "id": "mengelompokkan"
+    },
+    "examples": {
+      "en": "組織 (そしき) - organization",
+      "ja": "組織",
+      "my": "အဖွဲ့အစည်း",
+      "zh": "组织",
+      "vi": "tổ chức",
+      "th": "องค์กร",
+      "id": "organisasi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "信",
+    "hiragana": "しん",
+    "meanings": {
+      "en": "faith, truth, trust",
+      "ja": "しん",
+      "my": "ယုံကြည်ချက်",
+      "zh": "信/相信",
+      "vi": "tín",
+      "th": "ความเชื่อ",
+      "id": "iman"
+    },
+    "examples": {
+      "en": "信用 (しんよう) - trust",
+      "ja": "信用",
+      "my": "ယုံကြည်မှု",
+      "zh": "信用",
+      "vi": "tín dụng",
+      "th": "ความเชื่อถือ",
+      "id": "kepercayaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "在",
+    "hiragana": "ある",
+    "meanings": {
+      "en": "exist, outskirts",
+      "ja": "ある",
+      "my": "ရှိသည်",
+      "zh": "在/存在",
+      "vi": "tồn tại",
+      "th": "มีอยู่",
+      "id": "ada"
+    },
+    "examples": {
+      "en": "存在 (そんざい) - existence",
+      "ja": "存在",
+      "my": "တည်ရှိမှု",
+      "zh": "存在",
+      "vi": "sự tồn tại",
+      "th": "การดำรงอยู่",
+      "id": "keberadaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "件",
+    "hiragana": "くだん",
+    "meanings": {
+      "en": "affair, case, matter",
+      "ja": "くだん",
+      "my": "ကိစ္စ",
+      "zh": "件/事件",
+      "vi": "việc",
+      "th": "กรณี",
+      "id": "perkara"
+    },
+    "examples": {
+      "en": "事件 (じけん) - incident",
+      "ja": "事件",
+      "my": "အဖြစ်အပျက်",
+      "zh": "事件",
+      "vi": "sự việc",
+      "th": "เหตุการณ์",
+      "id": "insiden"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "側",
+    "hiragana": "がわ",
+    "meanings": {
+      "en": "side, lean, oppose",
+      "ja": "がわ",
+      "my": "ဘေး",
+      "zh": "侧/侧面",
+      "vi": "bên",
+      "th": "ด้าน",
+      "id": "sisi"
+    },
+    "examples": {
+      "en": "側 (がわ) - side",
+      "ja": "側",
+      "my": "ဘေးထွက်",
+      "zh": "侧面",
+      "vi": "bên cạnh",
+      "th": "ด้านข้าง",
+      "id": "sisi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "任",
+    "hiragana": "まかせる",
+    "meanings": {
+      "en": "responsibility, duty",
+      "ja": "まかせる",
+      "my": "တာဝန်ပေးသည်",
+      "zh": "任/任务",
+      "vi": "nhiệm",
+      "th": "หน้าที่",
+      "id": "tanggung jawab"
+    },
+    "examples": {
+      "en": "責任 (せきにん) - responsibility",
+      "ja": "責任",
+      "my": "တာဝန်ယူမှု",
+      "zh": "责任",
+      "vi": "trách nhiệm",
+      "th": "ความรับผิดชอบ",
+      "id": "tanggung jawab"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "引",
+    "hiragana": "ひく",
+    "meanings": {
+      "en": "pull, tug, jerk",
+      "ja": "ひく",
+      "my": "ဆွဲသည်",
+      "zh": "引/拉",
+      "vi": "kéo",
+      "th": "ดึง",
+      "id": "menarik"
+    },
+    "examples": {
+      "en": "引く (ひく) - to pull",
+      "ja": "引く",
+      "my": "ဆွဲသည်",
+      "zh": "拉",
+      "vi": "kéo",
+      "th": "ดึง",
+      "id": "menarik"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "求",
+    "hiragana": "もとめる",
+    "meanings": {
+      "en": "request, want, demand",
+      "ja": "もとめる",
+      "my": "တောင်းဆိုသည်",
+      "zh": "求/要求",
+      "vi": "cầu",
+      "th": "ขอ",
+      "id": "meminta"
+    },
+    "examples": {
+      "en": "要求 (ようきゅう) - request",
+      "ja": "要求",
+      "my": "တောင်းဆိုချက်",
+      "zh": "要求",
+      "vi": "yêu cầu",
+      "th": "คำขอ",
+      "id": "permintaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "所",
+    "hiragana": "ところ",
+    "meanings": {
+      "en": "place, extent",
+      "ja": "ところ",
+      "my": "နေရာ",
+      "zh": "所/场所",
+      "vi": "nơi",
+      "th": "สถานที่",
+      "id": "tempat"
+    },
+    "examples": {
+      "en": "場所 (ばしょ) - place",
+      "ja": "場所",
+      "my": "နေရာ",
+      "zh": "场所",
+      "vi": "địa điểm",
+      "th": "สถานที่",
+      "id": "tempat"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "次",
+    "hiragana": "つぐ",
+    "meanings": {
+      "en": "next, order",
+      "ja": "つぐ",
+      "my": "နောက်",
+      "zh": "次/次",
+      "vi": "thứ",
+      "th": "ถัดไป",
+      "id": "berikutnya"
+    },
+    "examples": {
+      "en": "次 (つぎ) - next",
+      "ja": "次",
+      "my": "နောက်တစ်ခု",
+      "zh": "下一个",
+      "vi": "tiếp theo",
+      "th": "ถัดไป",
+      "id": "selanjutnya"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "昨",
+    "hiragana": "さく",
+    "meanings": {
+      "en": "yesterday, previous",
+      "ja": "さく",
+      "my": "မနေ့က",
+      "zh": "昨/昨天",
+      "vi": "hôm qua",
+      "th": "เมื่อวาน",
+      "id": "kemarin"
+    },
+    "examples": {
+      "en": "昨日 (さくじつ) - yesterday",
+      "ja": "昨日",
+      "my": "မနေ့က",
+      "zh": "昨天",
+      "vi": "hôm qua",
+      "th": "เมื่อวาน",
+      "id": "kemarin"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "論",
+    "hiragana": "あげつらう",
+    "meanings": {
+      "en": "argument, discourse",
+      "ja": "あげつらう",
+      "my": "ဆွေးနွေးသည်",
+      "zh": "论/论述",
+      "vi": "luận",
+      "th": "อภิปราย",
+      "id": "argumentasi"
+    },
+    "examples": {
+      "en": "議論 (ぎろん) - argument",
+      "ja": "議論",
+      "my": "ဆွေးနွေးငြင်းခုံမှု",
+      "zh": "议论",
+      "vi": "tranh luận",
+      "th": "การโต้แย้ง",
+      "id": "argumen"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "官",
+    "hiragana": "かん",
+    "meanings": {
+      "en": "bureaucrat, government",
+      "ja": "かん",
+      "my": "အစိုးရအရာရှိ",
+      "zh": "官/官员",
+      "vi": "quan",
+      "th": "ข้าราชการ",
+      "id": "birokrat"
+    },
+    "examples": {
+      "en": "官員 (かんいん) - official",
+      "ja": "官員",
+      "my": "အရာရှိ",
+      "zh": "官员",
+      "vi": "quan chức",
+      "th": "เจ้าหน้าที่",
+      "id": "pejabat"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "増",
+    "hiragana": "ます",
+    "meanings": {
+      "en": "increase, add",
+      "ja": "ます",
+      "my": "တိုးသည်",
+      "zh": "增/增加",
+      "vi": "tăng",
+      "th": "เพิ่ม",
+      "id": "meningkat"
+    },
+    "examples": {
+      "en": "増加 (ぞうか) - increase",
+      "ja": "増加",
+      "my": "တိုးမြှင့်ခြင်း",
+      "zh": "增加",
+      "vi": "gia tăng",
+      "th": "การเพิ่มขึ้น",
+      "id": "peningkatan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "係",
+    "hiragana": "かかる",
+    "meanings": {
+      "en": "person in charge, connection",
+      "ja": "かかる",
+      "my": "တာဝန်ခံ",
+      "zh": "系/关系",
+      "vi": "hệ",
+      "th": "ผู้รับผิดชอบ",
+      "id": "penanggung jawab"
+    },
+    "examples": {
+      "en": "係 (かかり) - clerk",
+      "ja": "係",
+      "my": "ဝန်ထမ်း",
+      "zh": "负责人",
+      "vi": "nhân viên",
+      "th": "พนักงาน",
+      "id": "petugas"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "感",
+    "hiragana": "かん",
+    "meanings": {
+      "en": "emotion, feeling, sensation",
+      "ja": "かん",
+      "my": "ခံစားမှု",
+      "zh": "感/感觉",
+      "vi": "cảm",
+      "th": "ความรู้สึก",
+      "id": "perasaan"
+    },
+    "examples": {
+      "en": "感じ (かんじ) - feeling",
+      "ja": "感じ",
+      "my": "ခံစားချက်",
+      "zh": "感觉",
+      "vi": "cảm giác",
+      "th": "ความรู้สึก",
+      "id": "perasaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "情",
+    "hiragana": "なさけ",
+    "meanings": {
+      "en": "feelings, emotion, passion",
+      "ja": "なさけ",
+      "my": "စိတ်ခံစားမှု",
+      "zh": "情/情感",
+      "vi": "tình",
+      "th": "อารมณ์",
+      "id": "emosi"
+    },
+    "examples": {
+      "en": "感情 (かんじょう) - emotion",
+      "ja": "感情",
+      "my": "စိတ်ခံစားမှု",
+      "zh": "感情",
+      "vi": "tình cảm",
+      "th": "อารมณ์",
+      "id": "emosi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "投",
+    "hiragana": "なげる",
+    "meanings": {
+      "en": "throw, discard",
+      "ja": "なげる",
+      "my": "ပစ်သည်",
+      "zh": "投/投掷",
+      "vi": "ném",
+      "th": "โยน",
+      "id": "melempar"
+    },
+    "examples": {
+      "en": "投資 (とうし) - investment",
+      "ja": "投資",
+      "my": "ရင်းနှီးမြှုပ်နှံမှု",
+      "zh": "投资",
+      "vi": "đầu tư",
+      "th": "การลงทุน",
+      "id": "investasi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "示",
+    "hiragana": "しめす",
+    "meanings": {
+      "en": "show, indicate, display",
+      "ja": "しめす",
+      "my": "ပြသသည်",
+      "zh": "示/显示",
+      "vi": "chỉ",
+      "th": "แสดง",
+      "id": "menunjukkan"
+    },
+    "examples": {
+      "en": "示す (しめす) - to show",
+      "ja": "示す",
+      "my": "ပြသသည်",
+      "zh": "显示",
+      "vi": "chỉ ra",
+      "th": "แสดง",
+      "id": "menunjukkan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "変",
+    "hiragana": "かわる",
+    "meanings": {
+      "en": "unusual, change, strange",
+      "ja": "かわる",
+      "my": "ပြောင်းလဲသည်",
+      "zh": "变/变化",
+      "vi": "biến",
+      "th": "เปลี่ยนแปลง",
+      "id": "berubah"
+    },
+    "examples": {
+      "en": "変化 (へんか) - change",
+      "ja": "変化",
+      "my": "ပြောင်းလဲမှု",
+      "zh": "变化",
+      "vi": "thay đổi",
+      "th": "การเปลี่ยนแปลง",
+      "id": "perubahan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "打",
+    "hiragana": "うつ",
+    "meanings": {
+      "en": "strike, hit, knock",
+      "ja": "うつ",
+      "my": "ရိုက်သည်",
+      "zh": "打/打",
+      "vi": "đánh",
+      "th": "ตี",
+      "id": "memukul"
+    },
+    "examples": {
+      "en": "打つ (うつ) - to hit",
+      "ja": "打つ",
+      "my": "ရိုက်သည်",
+      "zh": "打",
+      "vi": "đánh",
+      "th": "ตี",
+      "id": "memukul"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "直",
+    "hiragana": "ただちに",
+    "meanings": {
+      "en": "straightaway, honesty",
+      "ja": "ただちに",
+      "my": "ချက်ချင်း",
+      "zh": "直/直接",
+      "vi": "thẳng",
+      "th": "ตรง",
+      "id": "langsung"
+    },
+    "examples": {
+      "en": "直接 (ちょくせつ) - direct",
+      "ja": "直接",
+      "my": "တိုက်ရိုက်",
+      "zh": "直接",
+      "vi": "trực tiếp",
+      "th": "โดยตรง",
+      "id": "langsung"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "両",
+    "hiragana": "りょう",
+    "meanings": {
+      "en": "both",
+      "ja": "りょう",
+      "my": "နှစ်ဖက်စလုံး",
+      "zh": "两/两个",
+      "vi": "hai",
+      "th": "ทั้งสอง",
+      "id": "keduanya"
+    },
+    "examples": {
+      "en": "両方 (りょうほう) - both sides",
+      "ja": "両方",
+      "my": "နှစ်ဖက်စလုံး",
+      "zh": "双方",
+      "vi": "cả hai",
+      "th": "ทั้งสองฝ่าย",
+      "id": "kedua belah pihak"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "式",
+    "hiragana": "しき",
+    "meanings": {
+      "en": "style, ceremony",
+      "ja": "しき",
+      "my": "ပုံစံ",
+      "zh": "式/仪式",
+      "vi": "thức",
+      "th": "พิธี",
+      "id": "upacara"
+    },
+    "examples": {
+      "en": "式 (しき) - ceremony",
+      "ja": "式",
+      "my": "အခမ်းအနား",
+      "zh": "仪式",
+      "vi": "nghi thức",
+      "th": "พิธีการ",
+      "id": "upacara"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "確",
+    "hiragana": "たしか",
+    "meanings": {
+      "en": "assurance, firm, confirm",
+      "ja": "たしか",
+      "my": "သေချာသော",
+      "zh": "确/确实",
+      "vi": "chắc",
+      "th": "แน่นอน",
+      "id": "pasti"
+    },
+    "examples": {
+      "en": "確か (たしか) - certain",
+      "ja": "確か",
+      "my": "သေချာသည်",
+      "zh": "确实",
+      "vi": "chắc chắn",
+      "th": "แน่นอน",
+      "id": "pasti"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "果",
+    "hiragana": "はたす",
+    "meanings": {
+      "en": "fruit, reward, achieve",
+      "ja": "はたす",
+      "my": "ပြီးမြောက်စေသည်",
+      "zh": "果/结果",
+      "vi": "quả",
+      "th": "ผล",
+      "id": "buah"
+    },
+    "examples": {
+      "en": "結果 (けっか) - result",
+      "ja": "結果",
+      "my": "ရလဒ်",
+      "zh": "结果",
+      "vi": "kết quả",
+      "th": "ผลลัพธ์",
+      "id": "hasil"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "容",
+    "hiragana": "よう",
+    "meanings": {
+      "en": "contain, form",
+      "ja": "よう",
+      "my": "ပါဝင်သည်",
+      "zh": "容/容纳",
+      "vi": "dung",
+      "th": "บรรจุ",
+      "id": "berisi"
+    },
+    "examples": {
+      "en": "容器 (ようき) - container",
+      "ja": "容器",
+      "my": "ဘူး",
+      "zh": "容器",
+      "vi": "thùng chứa",
+      "th": "ภาชนะ",
+      "id": "wadah"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "必",
+    "hiragana": "かならず",
+    "meanings": {
+      "en": "invariably, certain",
+      "ja": "かならず",
+      "my": "ဧကန်မုချ",
+      "zh": "必/必须",
+      "vi": "ất",
+      "th": "แน่นอน",
+      "id": "pasti"
+    },
+    "examples": {
+      "en": "必要 (ひつよう) - necessary",
+      "ja": "必要",
+      "my": "လိုအပ်သော",
+      "zh": "必要",
+      "vi": "cần thiết",
+      "th": "จำเป็น",
+      "id": "perlu"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "演",
+    "hiragana": "えん",
+    "meanings": {
+      "en": "performance, act",
+      "ja": "えん",
+      "my": "ဖျော်ဖြေသည်",
+      "zh": "演/表演",
+      "vi": "diễn",
+      "th": "แสดง",
+      "id": "berakting"
+    },
+    "examples": {
+      "en": "演技 (えんぎ) - acting",
+      "ja": "演技",
+      "my": "သရုပ်ဆောင်မှု",
+      "zh": "演技",
+      "vi": "diễn xuất",
+      "th": "การแสดง",
+      "id": "akting"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "歳",
+    "hiragana": "さい",
+    "meanings": {
+      "en": "age, year-end",
+      "ja": "さい",
+      "my": "အသက်",
+      "zh": "岁/年龄",
+      "vi": "tuổi",
+      "th": "อายุ",
+      "id": "usia"
+    },
+    "examples": {
+      "en": "歳 (さい) - age",
+      "ja": "歳",
+      "my": "အသက်",
+      "zh": "岁",
+      "vi": "tuổi",
+      "th": "อายุ",
+      "id": "umur"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "争",
+    "hiragana": "あらそう",
+    "meanings": {
+      "en": "contend, dispute, argue",
+      "ja": "あらそう",
+      "my": "အငြင်းပွားသည်",
+      "zh": "争/争吵",
+      "vi": "tranh",
+      "th": "โต้แย้ง",
+      "id": "bersaing"
+    },
+    "examples": {
+      "en": "争う (あらそう) - to dispute",
+      "ja": "争う",
+      "my": "အငြင်းပွားသည်",
+      "zh": "争论",
+      "vi": "tranh cãi",
+      "th": "โต้เถียง",
+      "id": "berselisih"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "談",
+    "hiragana": "だん",
+    "meanings": {
+      "en": "discuss, talk",
+      "ja": "だん",
+      "my": "ဆွေးနွေးသည်",
+      "zh": "谈/谈话",
+      "vi": "đàm",
+      "th": "สนทนา",
+      "id": "berbicara"
+    },
+    "examples": {
+      "en": "会談 (かいだん) - conference",
+      "ja": "会談",
+      "my": "ဆွေးနွေးပွဲ",
+      "zh": "会谈",
+      "vi": "hội đàm",
+      "th": "การประชุม",
+      "id": "konferensi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "能",
+    "hiragana": "あたう",
+    "meanings": {
+      "en": "ability, talent, skill",
+      "ja": "あたう",
+      "my": "နိုင်",
+      "zh": "能/能力",
+      "vi": "năng",
+      "th": "สามารถ",
+      "id": "bisa"
+    },
+    "examples": {
+      "en": "能力 (のうりょく) - ability",
+      "ja": "能力",
+      "my": "စွမ်းရည်",
+      "zh": "能力",
+      "vi": "năng lực",
+      "th": "ความสามารถ",
+      "id": "kemampuan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "位",
+    "hiragana": "くらい",
+    "meanings": {
+      "en": "rank, grade, about",
+      "ja": "くらい",
+      "my": "အဆင့်",
+      "zh": "位/位置",
+      "vi": "vị",
+      "th": "ตำแหน่ง",
+      "id": "peringkat"
+    },
+    "examples": {
+      "en": "位 (くらい) - rank",
+      "ja": "位",
+      "my": "အဆင့်",
+      "zh": "地位",
+      "vi": "vị trí",
+      "th": "ตำแหน่ง",
+      "id": "peringkat"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "置",
+    "hiragana": "おく",
+    "meanings": {
+      "en": "placement, put, set",
+      "ja": "おく",
+      "my": "ထားသည်",
+      "zh": "置/放置",
+      "vi": "đặt",
+      "th": "วาง",
+      "id": "menempatkan"
+    },
+    "examples": {
+      "en": "置く (おく) - to put",
+      "ja": "置く",
+      "my": "ထားသည်",
+      "zh": "放置",
+      "vi": "đặt",
+      "th": "วาง",
+      "id": "menempatkan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "流",
+    "hiragana": "ながれる",
+    "meanings": {
+      "en": "current, flow",
+      "ja": "ながれる",
+      "my": "စီးဆင်းသည်",
+      "zh": "流/流动",
+      "vi": "chảy",
+      "th": "ไหล",
+      "id": "mengalir"
+    },
+    "examples": {
+      "en": "流れる (ながれる) - to flow",
+      "ja": "流れる",
+      "my": "စီးဆင်းသည်",
+      "zh": "流动",
+      "vi": "chảy",
+      "th": "ไหล",
+      "id": "mengalir"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "格",
+    "hiragana": "かく",
+    "meanings": {
+      "en": "status, rank, capacity",
+      "ja": "かく",
+      "my": "အဆင့်အတန်း",
+      "zh": "格/资格",
+      "vi": "cách",
+      "th": "สถานะ",
+      "id": "status"
+    },
+    "examples": {
+      "en": "資格 (しかく) - qualification",
+      "ja": "資格",
+      "my": "အရည်အချင်း",
+      "zh": "资格",
+      "vi": "tư cách",
+      "th": "คุณสมบัติ",
+      "id": "kualifikasi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "疑",
+    "hiragana": "うたがう",
+    "meanings": {
+      "en": "doubt, distrust",
+      "ja": "うたがう",
+      "my": "သံသယဝင်သည်",
+      "zh": "疑/怀疑",
+      "vi": "nghi",
+      "th": "สงสัย",
+      "id": "meragukan"
+    },
+    "examples": {
+      "en": "疑う (うたがう) - to doubt",
+      "ja": "疑う",
+      "my": "သံသယဝင်သည်",
+      "zh": "怀疑",
+      "vi": "nghi ngờ",
+      "th": "สงสัย",
+      "id": "meragukan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "過",
+    "hiragana": "すぎる",
+    "meanings": {
+      "en": "overdo, exceed, go beyond",
+      "ja": "すぎる",
+      "my": "ကျော်လွန်သည်",
+      "zh": "过/超过",
+      "vi": "quá",
+      "th": "เกิน",
+      "id": "melebihi"
+    },
+    "examples": {
+      "en": "過ぎる (すぎる) - to exceed",
+      "ja": "過ぎる",
+      "my": "ကျော်လွန်သည်",
+      "zh": "超过",
+      "vi": "vượt quá",
+      "th": "เกิน",
+      "id": "melebihi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "局",
+    "hiragana": "きょく",
+    "meanings": {
+      "en": "bureau, board, office",
+      "ja": "きょく",
+      "my": "ရုံး",
+      "zh": "局/局",
+      "vi": "cục",
+      "th": "สำนักงาน",
+      "id": "kantor"
+    },
+    "examples": {
+      "en": "郵便局 (ゆうびんきょく) - post office",
+      "ja": "郵便局",
+      "my": "စာတိုက်",
+      "zh": "邮局",
+      "vi": "bưu điện",
+      "th": "ที่ทำการไปรษณีย์",
+      "id": "kantor pos"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "放",
+    "hiragana": "はなす",
+    "meanings": {
+      "en": "set free, release",
+      "ja": "はなす",
+      "my": "လွှတ်ပေးသည်",
+      "zh": "放/放开",
+      "vi": "thả",
+      "th": "ปล่อย",
+      "id": "melepaskan"
+    },
+    "examples": {
+      "en": "放す (はなす) - to release",
+      "ja": "放す",
+      "my": "လွှတ်ပေးသည်",
+      "zh": "放开",
+      "vi": "thả",
+      "th": "ปล่อย",
+      "id": "melepaskan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "常",
+    "hiragana": "つね",
+    "meanings": {
+      "en": "usual, ordinary, normal",
+      "ja": "つね",
+      "my": "သာမန်",
+      "zh": "常/经常",
+      "vi": "thường",
+      "th": "ปกติ",
+      "id": "biasa"
+    },
+    "examples": {
+      "en": "日常 (にちじょう) - daily life",
+      "ja": "日常",
+      "my": "နေ့စဉ်ဘဝ",
+      "zh": "日常",
+      "vi": "hàng ngày",
+      "th": "ชีวิตประจำวัน",
+      "id": "sehari-hari"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "状",
+    "hiragana": "じょう",
+    "meanings": {
+      "en": "conditions, form, appearance",
+      "ja": "じょう",
+      "my": "အခြေအနေ",
+      "zh": "状/状况",
+      "vi": "trạng",
+      "th": "สภาพ",
+      "id": "kondisi"
+    },
+    "examples": {
+      "en": "状態 (じょうたい) - condition",
+      "ja": "状態",
+      "my": "အခြေအနေ",
+      "zh": "状态",
+      "vi": "tình trạng",
+      "th": "สภาพ",
+      "id": "kondisi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "球",
+    "hiragana": "たま",
+    "meanings": {
+      "en": "ball, sphere",
+      "ja": "たま",
+      "my": "ဘော်လုံး",
+      "zh": "球/球",
+      "vi": "bóng",
+      "th": "ลูกบอล",
+      "id": "bola"
+    },
+    "examples": {
+      "en": "野球 (やきゅう) - baseball",
+      "ja": "野球",
+      "my": "ဘေ့စ်ဘော",
+      "zh": "棒球",
+      "vi": "bóng chày",
+      "th": "เบสบอล",
+      "id": "bisbol"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "職",
+    "hiragana": "しょく",
+    "meanings": {
+      "en": "post, employment, work",
+      "ja": "しょく",
+      "my": "အလုပ်",
+      "zh": "职/职业",
+      "vi": "chức",
+      "th": "อาชีพ",
+      "id": "pekerjaan"
+    },
+    "examples": {
+      "en": "職業 (しょくぎょう) - occupation",
+      "ja": "職業",
+      "my": "အလုပ်အကိုင်",
+      "zh": "职业",
+      "vi": "nghề nghiệp",
+      "th": "อาชีพ",
+      "id": "pekerjaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "与",
+    "hiragana": "あたえる",
+    "meanings": {
+      "en": "give, award",
+      "ja": "あたえる",
+      "my": "ပေးသည်",
+      "zh": "与/给予",
+      "vi": "cho",
+      "th": "ให้",
+      "id": "memberi"
+    },
+    "examples": {
+      "en": "与える (あたえる) - to give",
+      "ja": "与える",
+      "my": "ပေးသည်",
+      "zh": "给予",
+      "vi": "cho",
+      "th": "ให้",
+      "id": "memberi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "供",
+    "hiragana": "とも",
+    "meanings": {
+      "en": "submit, offer, accompany",
+      "ja": "とも",
+      "my": "ပါသည်",
+      "zh": "供/提供",
+      "vi": "cung",
+      "th": "ให้บริการ",
+      "id": "menyediakan"
+    },
+    "examples": {
+      "en": "供える (そなえる) - to offer",
+      "ja": "供える",
+      "my": "ပူဇော်သည်",
+      "zh": "供奉",
+      "vi": "cúng",
+      "th": "ถวาย",
+      "id": "mempersembahkan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "役",
+    "hiragana": "やく",
+    "meanings": {
+      "en": "duty, service, role",
+      "ja": "やく",
+      "my": "အခန်းကဏ္ဍ",
+      "zh": "役/角色",
+      "vi": "vai",
+      "th": "บทบาท",
+      "id": "peran"
+    },
+    "examples": {
+      "en": "役割 (やくわり) - role",
+      "ja": "役割",
+      "my": "အခန်းကဏ္ဍ",
+      "zh": "角色",
+      "vi": "vai trò",
+      "th": "บทบาท",
+      "id": "peran"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "暴",
+    "hiragana": "あばく",
+    "meanings": {
+      "en": "outburst, force, violence",
+      "ja": "あばく",
+      "my": "အကြမ်းဖက်",
+      "zh": "暴/暴力",
+      "vi": "bạo",
+      "th": "ความรุนแรง",
+      "id": "kekerasan"
+    },
+    "examples": {
+      "en": "暴力 (ぼうりょく) - violence",
+      "ja": "暴力",
+      "my": "အကြမ်းဖက်မှု",
+      "zh": "暴力",
+      "vi": "bạo lực",
+      "th": "ความรุนแรง",
+      "id": "kekerasan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "輪",
+    "hiragana": "わ",
+    "meanings": {
+      "en": "wheel, ring, circle",
+      "ja": "わ",
+      "my": "ဘီး",
+      "zh": "轮/车轮",
+      "vi": "luân",
+      "th": "ล้อ",
+      "id": "roda"
+    },
+    "examples": {
+      "en": "車輪 (しゃりん) - wheel",
+      "ja": "車輪",
+      "my": "ဘီး",
+      "zh": "车轮",
+      "vi": "bánh xe",
+      "th": "ล้อ",
+      "id": "roda"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "占",
+    "hiragana": "しめる",
+    "meanings": {
+      "en": "fortune-telling, divining",
+      "ja": "しめる",
+      "my": "ဟောသည်",
+      "zh": "占/占卜",
+      "vi": "chiêm",
+      "th": "ทำนาย",
+      "id": "meramal"
+    },
+    "examples": {
+      "en": "占い (うらない) - fortune-telling",
+      "ja": "占い",
+      "my": "ဗေဒင်ဟောခြင်း",
+      "zh": "占卜",
+      "vi": "bói toán",
+      "th": "การทำนาย",
+      "id": "ramalan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "植",
+    "hiragana": "うえる",
+    "meanings": {
+      "en": "plant",
+      "ja": "うえる",
+      "my": "စိုက်ပျိုးသည်",
+      "zh": "植/种植",
+      "vi": "thực",
+      "th": "ปลูก",
+      "id": "menanam"
+    },
+    "examples": {
+      "en": "植物 (しょくぶつ) - plant",
+      "ja": "植物",
+      "my": "အပင်",
+      "zh": "植物",
+      "vi": "thực vật",
+      "th": "พืช",
+      "id": "tanaman"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "清",
+    "hiragana": "きよい",
+    "meanings": {
+      "en": "pure, purify, cleanse",
+      "ja": "きよい",
+      "my": "သန့်ရှင်းသော",
+      "zh": "清/清洁",
+      "vi": "thanh",
+      "th": "สะอาด",
+      "id": "bersih"
+    },
+    "examples": {
+      "en": "清い (きよい) - pure",
+      "ja": "清い",
+      "my": "စင်ကြယ်သည်",
+      "zh": "清净",
+      "vi": "trong sạch",
+      "th": "บริสุทธิ์",
+      "id": "murni"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "倍",
+    "hiragana": "ばい",
+    "meanings": {
+      "en": "double, twice, times",
+      "ja": "ばい",
+      "my": "နှစ်ဆ",
+      "zh": "倍/倍数",
+      "vi": "bội",
+      "th": "เท่า",
+      "id": "kali lipat"
+    },
+    "examples": {
+      "en": "倍 (ばい) - double",
+      "ja": "倍",
+      "my": "နှစ်ဆ",
+      "zh": "倍",
+      "vi": "gấp",
+      "th": "เท่า",
+      "id": "kali"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "均",
+    "hiragana": "ならす",
+    "meanings": {
+      "en": "level, average",
+      "ja": "ならす",
+      "my": "ညီမျှ",
+      "zh": "均/平均",
+      "vi": "quân",
+      "th": "เท่าเทียม",
+      "id": "rata"
+    },
+    "examples": {
+      "en": "平均 (へいきん) - average",
+      "ja": "平均",
+      "my": "ပျမ်းမျှ",
+      "zh": "平均",
+      "vi": "trung bình",
+      "th": "เฉลี่ย",
+      "id": "rata-rata"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "億",
+    "hiragana": "おく",
+    "meanings": {
+      "en": "hundred million",
+      "ja": "おく",
+      "my": "သိန်းတစ်ရာ",
+      "zh": "亿/亿",
+      "vi": "ức",
+      "th": "ร้อยล้าน",
+      "id": "seratus juta"
+    },
+    "examples": {
+      "en": "億 (おく) - hundred million",
+      "ja": "億",
+      "my": "သိန်းတစ်ရာ",
+      "zh": "亿",
+      "vi": "trăm triệu",
+      "th": "ร้อยล้าน",
+      "id": "seratus juta"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "圧",
+    "hiragana": "おす",
+    "meanings": {
+      "en": "pressure, push, oppress",
+      "ja": "おす",
+      "my": "ဖိအား",
+      "zh": "压/压力",
+      "vi": "áp",
+      "th": "ความดัน",
+      "id": "tekanan"
+    },
+    "examples": {
+      "en": "圧力 (あつりょく) - pressure",
+      "ja": "圧力",
+      "my": "ဖိအား",
+      "zh": "压力",
+      "vi": "áp lực",
+      "th": "ความดัน",
+      "id": "tekanan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "芸",
+    "hiragana": "げい",
+    "meanings": {
+      "en": "technique, art, craft",
+      "ja": "げい",
+      "my": "အနုပညာ",
+      "zh": "芸/艺术",
+      "vi": "nghệ",
+      "th": "ศิลปะ",
+      "id": "seni"
+    },
+    "examples": {
+      "en": "芸術 (げいじゅつ) - art",
+      "ja": "芸術",
+      "my": "အနုပညာ",
+      "zh": "艺术",
+      "vi": "nghệ thuật",
+      "th": "ศิลปะ",
+      "id": "seni"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "署",
+    "hiragana": "しょ",
+    "meanings": {
+      "en": "signature, govt office",
+      "ja": "しょ",
+      "my": "ရုံး",
+      "zh": "署/署",
+      "vi": "thự",
+      "th": "สำนักงาน",
+      "id": "kantor"
+    },
+    "examples": {
+      "en": "署 (しょ) - office",
+      "ja": "署",
+      "my": "ရုံး",
+      "zh": "署",
+      "vi": "sở",
+      "th": "สำนักงาน",
+      "id": "kantor"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "伸",
+    "hiragana": "のびる",
+    "meanings": {
+      "en": "expand, stretch, extend",
+      "ja": "のびる",
+      "my": "ရှည်ထွက်သည်",
+      "zh": "伸/伸展",
+      "vi": "thân",
+      "th": "ยืด",
+      "id": "memperpanjang"
+    },
+    "examples": {
+      "en": "伸びる (のびる) - to stretch",
+      "ja": "伸びる",
+      "my": "ရှည်ထွက်သည်",
+      "zh": "伸展",
+      "vi": "duỗi ra",
+      "th": "ยืด",
+      "id": "meregang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "停",
+    "hiragana": "とめる",
+    "meanings": {
+      "en": "halt, stopping",
+      "ja": "とめる",
+      "my": "ရပ်တန့်သည်",
+      "zh": "停/停止",
+      "vi": "đình",
+      "th": "หยุด",
+      "id": "berhenti"
+    },
+    "examples": {
+      "en": "停止 (ていし) - stop",
+      "ja": "停止",
+      "my": "ရပ်တန့်ခြင်း",
+      "zh": "停止",
+      "vi": "dừng lại",
+      "th": "หยุด",
+      "id": "berhenti"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "爆",
+    "hiragana": "はぜる",
+    "meanings": {
+      "en": "bomb, burst open",
+      "ja": "はぜる",
+      "my": "ပေါက်ကွဲသည်",
+      "zh": "爆/爆炸",
+      "vi": "bạo",
+      "th": "ระเบิด",
+      "id": "meledak"
+    },
+    "examples": {
+      "en": "爆発 (ばくはつ) - explosion",
+      "ja": "爆発",
+      "my": "ပေါက်ကွဲမှု",
+      "zh": "爆炸",
+      "vi": "nổ",
+      "th": "การระเบิด",
+      "id": "ledakan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "陸",
+    "hiragana": "おか",
+    "meanings": {
+      "en": "land, six",
+      "ja": "おか",
+      "my": "ကုန်းမြေ",
+      "zh": "陆/陆地",
+      "vi": "lục",
+      "th": "แผ่นดิน",
+      "id": "daratan"
+    },
+    "examples": {
+      "en": "陸 (りく) - land",
+      "ja": "陸",
+      "my": "ကုန်းမြေ",
+      "zh": "陆地",
+      "vi": "đất liền",
+      "th": "พื้นดิน",
+      "id": "daratan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "玉",
+    "hiragana": "たま",
+    "meanings": {
+      "en": "jewel, ball",
+      "ja": "たま",
+      "my": "ကျောက်မျက်",
+      "zh": "玉/玉",
+      "vi": "ngọc",
+      "th": "หยก",
+      "id": "batu permata"
+    },
+    "examples": {
+      "en": "玉 (たま) - jewel",
+      "ja": "玉",
+      "my": "ကျောက်မျက်ရတနာ",
+      "zh": "玉",
+      "vi": "ngọc",
+      "th": "อัญมณี",
+      "id": "permata"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "波",
+    "hiragana": "なみ",
+    "meanings": {
+      "en": "waves, billows",
+      "ja": "なみ",
+      "my": "လှိုင်း",
+      "zh": "波/波浪",
+      "vi": "ba",
+      "th": "คลื่น",
+      "id": "gelombang"
+    },
+    "examples": {
+      "en": "波 (なみ) - wave",
+      "ja": "波",
+      "my": "လှိုင်း",
+      "zh": "波浪",
+      "vi": "sóng",
+      "th": "คลื่น",
+      "id": "gelombang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "帯",
+    "hiragana": "おびる",
+    "meanings": {
+      "en": "sash, belt, zone",
+      "ja": "おびる",
+      "my": "ခါးပန်း",
+      "zh": "带/腰带",
+      "vi": "đái",
+      "th": "เข็มขัด",
+      "id": "sabuk"
+    },
+    "examples": {
+      "en": "帯 (おび) - belt",
+      "ja": "帯",
+      "my": "ခါးပန်း",
+      "zh": "腰带",
+      "vi": "thắt lưng",
+      "th": "เข็มขัด",
+      "id": "sabuk"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "延",
+    "hiragana": "のびる",
+    "meanings": {
+      "en": "prolong, stretching",
+      "ja": "のびる",
+      "my": "ရှည်ကြာသည်",
+      "zh": "延/延长",
+      "vi": "diên",
+      "th": "ยืดออก",
+      "id": "memperpanjang"
+    },
+    "examples": {
+      "en": "延長 (えんちょう) - extension",
+      "ja": "延長",
+      "my": "တိုးချဲ့ခြင်း",
+      "zh": "延长",
+      "vi": "kéo dài",
+      "th": "การขยาย",
+      "id": "perpanjangan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "羽",
+    "hiragana": "はね",
+    "meanings": {
+      "en": "feathers, counter for birds",
+      "ja": "はね",
+      "my": "အတောင်",
+      "zh": "羽/羽毛",
+      "vi": "vũ",
+      "th": "ขนนก",
+      "id": "bulu"
+    },
+    "examples": {
+      "en": "羽 (はね) - feather",
+      "ja": "羽",
+      "my": "အတောင်",
+      "zh": "羽毛",
+      "vi": "lông vũ",
+      "th": "ขนนก",
+      "id": "bulu"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "固",
+    "hiragana": "かためる",
+    "meanings": {
+      "en": "harden, set, clot",
+      "ja": "かためる",
+      "my": "ခိုင်မာစေသည်",
+      "zh": "固/坚固",
+      "vi": "cố",
+      "th": "แข็ง",
+      "id": "mengeras"
+    },
+    "examples": {
+      "en": "固定 (こてい) - fixation",
+      "ja": "固定",
+      "my": "ပုံသေသတ်မှတ်ခြင်း",
+      "zh": "固定",
+      "vi": "cố định",
+      "th": "การยึดติด",
+      "id": "tetap"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "則",
+    "hiragana": "のっとる",
+    "meanings": {
+      "en": "rule, follow, based on",
+      "ja": "のっとる",
+      "my": "စည်းကမ်း",
+      "zh": "则/规则",
+      "vi": "tắc",
+      "th": "กฎ",
+      "id": "aturan"
+    },
+    "examples": {
+      "en": "規則 (きそく) - rule",
+      "ja": "規則",
+      "my": "စည်းကမ်း",
+      "zh": "规则",
+      "vi": "quy tắc",
+      "th": "กฎ",
+      "id": "aturan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "乱",
+    "hiragana": "みだれる",
+    "meanings": {
+      "en": "riot, war, disorder",
+      "ja": "みだれる",
+      "my": "ရှုပ်ထွေးသည်",
+      "zh": "乱/混乱",
+      "vi": "loạn",
+      "th": "วุ่นวาย",
+      "id": "kacau"
+    },
+    "examples": {
+      "en": "混乱 (こんらん) - chaos",
+      "ja": "混乱",
+      "my": "ရှုပ်ထွေးမှု",
+      "zh": "混乱",
+      "vi": "hỗn loạn",
+      "th": "ความวุ่นวาย",
+      "id": "kekacauan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "普",
+    "hiragana": "あまねく",
+    "meanings": {
+      "en": "universal, generally",
+      "ja": "あまねく",
+      "my": "အထွေထွေ",
+      "zh": "普/普遍",
+      "vi": "phổ",
+      "th": "ทั่วไป",
+      "id": "umum"
+    },
+    "examples": {
+      "en": "普通 (ふつう) - normal",
+      "ja": "普通",
+      "my": "သာမန်",
+      "zh": "普通",
+      "vi": "bình thường",
+      "th": "ปกติ",
+      "id": "biasa"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "測",
+    "hiragana": "はかる",
+    "meanings": {
+      "en": "fathom, plan, measure",
+      "ja": "はかる",
+      "my": "တိုင်းတာသည်",
+      "zh": "测/测量",
+      "vi": "trắc",
+      "th": "วัด",
+      "id": "mengukur"
+    },
+    "examples": {
+      "en": "測定 (そくてい) - measurement",
+      "ja": "測定",
+      "my": "တိုင်းတာခြင်း",
+      "zh": "测定",
+      "vi": "đo lường",
+      "th": "การวัด",
+      "id": "pengukuran"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "豊",
+    "hiragana": "ゆたか",
+    "meanings": {
+      "en": "bountiful, rich",
+      "ja": "ゆたか",
+      "my": "ပေါများသော",
+      "zh": "豊/丰富",
+      "vi": "phong",
+      "th": "อุดมสมบูรณ์",
+      "id": "melimpah"
+    },
+    "examples": {
+      "en": "豊か (ゆたか) - abundant",
+      "ja": "豊か",
+      "my": "ပေါများသည်",
+      "zh": "丰富",
+      "vi": "phong phú",
+      "th": "อุดมสมบูรณ์",
+      "id": "berlimpah"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "厚",
+    "hiragana": "あつい",
+    "meanings": {
+      "en": "thick, heavy, rich",
+      "ja": "あつい",
+      "my": "ထူသော",
+      "zh": "厚/厚",
+      "vi": "hậu",
+      "th": "หนา",
+      "id": "tebal"
+    },
+    "examples": {
+      "en": "厚い (あつい) - thick",
+      "ja": "厚い",
+      "my": "ထူသည်",
+      "zh": "厚的",
+      "vi": "dày",
+      "th": "หนา",
+      "id": "tebal"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "齢",
+    "hiragana": "よわい",
+    "meanings": {
+      "en": "age",
+      "ja": "よわい",
+      "my": "အသက်",
+      "zh": "齢/年龄",
+      "vi": "lệnh",
+      "th": "อายุ",
+      "id": "usia"
+    },
+    "examples": {
+      "en": "年齢 (ねんれい) - age",
+      "ja": "年齢",
+      "my": "အသက်",
+      "zh": "年龄",
+      "vi": "tuổi",
+      "th": "อายุ",
+      "id": "usia"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "囲",
+    "hiragana": "かこむ",
+    "meanings": {
+      "en": "surround, enclosure",
+      "ja": "かこむ",
+      "my": "ဝိုင်းရံသည်",
+      "zh": "囲/围",
+      "vi": "vi",
+      "th": "ล้อม",
+      "id": "mengelilingi"
+    },
+    "examples": {
+      "en": "囲む (かこむ) - to surround",
+      "ja": "囲む",
+      "my": "ဝိုင်းရံသည်",
+      "zh": "包围",
+      "vi": "bao vây",
+      "th": "ล้อมรอบ",
+      "id": "mengepung"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "卒",
+    "hiragana": "そっする",
+    "meanings": {
+      "en": "graduate, soldier, die",
+      "ja": "そっする",
+      "my": "ဘွဲ့ရသည်",
+      "zh": "卒/毕业",
+      "vi": "tốt",
+      "th": "จบการศึกษา",
+      "id": "lulus"
+    },
+    "examples": {
+      "en": "卒業 (そつぎょう) - graduation",
+      "ja": "卒業",
+      "my": "ဘွဲ့ရခြင်း",
+      "zh": "毕业",
+      "vi": "tốt nghiệp",
+      "th": "การสำเร็จการศึกษา",
+      "id": "kelulusan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "略",
+    "hiragana": "ほぼ",
+    "meanings": {
+      "en": "abbreviation, outline",
+      "ja": "ほぼ",
+      "my": "အတိုကောက်",
+      "zh": "略/省略",
+      "vi": "lược",
+      "th": "โดยย่อ",
+      "id": "singkatan"
+    },
+    "examples": {
+      "en": "略す (りゃくす) - to abbreviate",
+      "ja": "略す",
+      "my": "အတိုကောက်ချုံ့သည်",
+      "zh": "省略",
+      "vi": "lược bỏ",
+      "th": "ย่อ",
+      "id": "menyingkat"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "承",
+    "hiragana": "うけたまわる",
+    "meanings": {
+      "en": "hear, listen, receive",
+      "ja": "うけたまわる",
+      "my": "ကြားသည်",
+      "zh": "承/承接",
+      "vi": "thừa",
+      "th": "รับทราบ",
+      "id": "menerima"
+    },
+    "examples": {
+      "en": "承る (うけたまわる) - to hear",
+      "ja": "承る",
+      "my": "ကြားရသည်",
+      "zh": "听闻",
+      "vi": "nghe",
+      "th": "รับทราบ",
+      "id": "mendengar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "順",
+    "hiragana": "じゅん",
+    "meanings": {
+      "en": "obey, order, turn",
+      "ja": "じゅん",
+      "my": "အစဉ်လိုက်",
+      "zh": "顺/顺序",
+      "vi": "thuận",
+      "th": "ลำดับ",
+      "id": "urutan"
+    },
+    "examples": {
+      "en": "順序 (じゅんじょ) - order",
+      "ja": "順序",
+      "my": "အစီအစဉ်",
+      "zh": "顺序",
+      "vi": "thứ tự",
+      "th": "ลำดับ",
+      "id": "urutan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "岩",
+    "hiragana": "いわ",
+    "meanings": {
+      "en": "boulder, rock, cliff",
+      "ja": "いわ",
+      "my": "ကျောက်",
+      "zh": "岩/岩石",
+      "vi": "nhai",
+      "th": "หิน",
+      "id": "batu"
+    },
+    "examples": {
+      "en": "岩 (いわ) - rock",
+      "ja": "岩",
+      "my": "ကျောက်",
+      "zh": "岩石",
+      "vi": "đá",
+      "th": "หิน",
+      "id": "batu"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "練",
+    "hiragana": "ねる",
+    "meanings": {
+      "en": "practice, train, polish",
+      "ja": "ねる",
+      "my": "လေ့ကျင့်သည်",
+      "zh": "练/练习",
+      "vi": "luyện",
+      "th": "ฝึกฝน",
+      "id": "berlatih"
+    },
+    "examples": {
+      "en": "練習 (れんしゅう) - practice",
+      "ja": "練習",
+      "my": "လေ့ကျင့်ခန်း",
+      "zh": "练习",
+      "vi": "luyện tập",
+      "th": "การฝึกฝน",
+      "id": "latihan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "軽",
+    "hiragana": "かるい",
+    "meanings": {
+      "en": "lightly, trifling",
+      "ja": "かるい",
+      "my": "ပေါ့သော",
+      "zh": "轻/轻的",
+      "vi": "khinh",
+      "th": "เบา",
+      "id": "ringan"
+    },
+    "examples": {
+      "en": "軽い (かるい) - light",
+      "ja": "軽い",
+      "my": "ပေါ့သည်",
+      "zh": "轻的",
+      "vi": "nhẹ",
+      "th": "เบา",
+      "id": "ringan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "了",
+    "hiragana": "りょう",
+    "meanings": {
+      "en": "complete, finish",
+      "ja": "りょう",
+      "my": "ပြီးဆုံး",
+      "zh": "了/完了",
+      "vi": "liễu",
+      "th": "เสร็จ",
+      "id": "selesai"
+    },
+    "examples": {
+      "en": "了 (りょう) - finish",
+      "ja": "了",
+      "my": "ပြီးဆုံးသည်",
+      "zh": "完了",
+      "vi": "kết thúc",
+      "th": "เสร็จ",
+      "id": "selesai"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "庁",
+    "hiragana": "やくしょ",
+    "meanings": {
+      "en": "government office",
+      "ja": "やくしょ",
+      "my": "အစိုးရရုံး",
+      "zh": "庁/厅",
+      "vi": "sảnh",
+      "th": "สำนักงาน",
+      "id": "kantor pemerintah"
+    },
+    "examples": {
+      "en": "庁 (ちょう) - office",
+      "ja": "庁",
+      "my": "ရုံး",
+      "zh": "厅",
+      "vi": "sở",
+      "th": "สำนักงาน",
+      "id": "kantor"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "城",
+    "hiragana": "しろ",
+    "meanings": {
+      "en": "castle",
+      "ja": "しろ",
+      "my": "ရဲတိုက်",
+      "zh": "城/城堡",
+      "vi": "thành",
+      "th": "ปราสาท",
+      "id": "istana"
+    },
+    "examples": {
+      "en": "城 (しろ) - castle",
+      "ja": "城",
+      "my": "ရဲတိုက်",
+      "zh": "城堡",
+      "vi": "lâu đài",
+      "th": "ปราสาท",
+      "id": "kastil"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "患",
+    "hiragana": "わずらう",
+    "meanings": {
+      "en": "afflicted, disease, suffer",
+      "ja": "わずらう",
+      "my": "ဖျားနာသည်",
+      "zh": "患/患病",
+      "vi": "hoạn",
+      "th": "ป่วย",
+      "id": "menderita"
+    },
+    "examples": {
+      "en": "患者 (かんじゃ) - patient",
+      "ja": "患者",
+      "my": "လူနာ",
+      "zh": "患者",
+      "vi": "bệnh nhân",
+      "th": "ผู้ป่วย",
+      "id": "pasien"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "層",
+    "hiragana": "そう",
+    "meanings": {
+      "en": "stratum, social class, layer",
+      "ja": "そう",
+      "my": "အလွှာ",
+      "zh": "层/层次",
+      "vi": "tầng",
+      "th": "ชั้น",
+      "id": "lapisan"
+    },
+    "examples": {
+      "en": "層 (そう) - layer",
+      "ja": "層",
+      "my": "အလွှာ",
+      "zh": "层",
+      "vi": "tầng",
+      "th": "ชั้น",
+      "id": "lapisan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "版",
+    "hiragana": "はん",
+    "meanings": {
+      "en": "printing block, edition",
+      "ja": "はん",
+      "my": "ထုတ်ဝေမှု",
+      "zh": "版/版本",
+      "vi": "bản",
+      "th": "รุ่น",
+      "id": "edisi"
+    },
+    "examples": {
+      "en": "版 (ばん) - edition",
+      "ja": "版",
+      "my": "ထုတ်ဝေမှု",
+      "zh": "版本",
+      "vi": "phiên bản",
+      "th": "รุ่น",
+      "id": "edisi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "令",
+    "hiragana": "れい",
+    "meanings": {
+      "en": "orders, command, decree",
+      "ja": "れい",
+      "my": "အမိန့်",
+      "zh": "令/命令",
+      "vi": "lệnh",
+      "th": "คำสั่ง",
+      "id": "perintah"
+    },
+    "examples": {
+      "en": "命令 (めいれい) - command",
+      "ja": "命令",
+      "my": "အမိန့်",
+      "zh": "命令",
+      "vi": "mệnh lệnh",
+      "th": "คำสั่ง",
+      "id": "perintah"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "角",
+    "hiragana": "かど",
+    "meanings": {
+      "en": "angle, corner",
+      "ja": "かど",
+      "my": "ထောင့်",
+      "zh": "角/角",
+      "vi": "giác",
+      "th": "มุม",
+      "id": "sudut"
+    },
+    "examples": {
+      "en": "角 (かく) - angle",
+      "ja": "角",
+      "my": "ထောင့်",
+      "zh": "角度",
+      "vi": "góc",
+      "th": "มุม",
+      "id": "sudut"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "絡",
+    "hiragana": "からむ",
+    "meanings": {
+      "en": "entwine, coil around",
+      "ja": "からむ",
+      "my": "ရစ်ပတ်သည်",
+      "zh": "络/缠绕",
+      "vi": "lạc",
+      "th": "พัน",
+      "id": "melingkar"
+    },
+    "examples": {
+      "en": "絡む (からむ) - to entwine",
+      "ja": "絡む",
+      "my": "ရစ်ပတ်သည်",
+      "zh": "缠绕",
+      "vi": "quấn",
+      "th": "พัน",
+      "id": "melilit"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "損",
+    "hiragana": "そこなう",
+    "meanings": {
+      "en": "damage, loss, hurt",
+      "ja": "そこなう",
+      "my": "ပျက်စီးစေသည်",
+      "zh": "损/损失",
+      "vi": "tổn",
+      "th": "เสียหาย",
+      "id": "kerusakan"
+    },
+    "examples": {
+      "en": "損害 (そんがい) - damage",
+      "ja": "損害",
+      "my": "ပျက်စီးဆုံးရှုံးမှု",
+      "zh": "损害",
+      "vi": "thiệt hại",
+      "th": "ความเสียหาย",
+      "id": "kerusakan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "募",
+    "hiragana": "つのる",
+    "meanings": {
+      "en": "recruit, campaign",
+      "ja": "つのる",
+      "my": "စုဆောင်းသည်",
+      "zh": "募/招募",
+      "vi": "mộ",
+      "th": "รับสมัคร",
+      "id": "merekrut"
+    },
+    "examples": {
+      "en": "募集 (ぼしゅう) - recruitment",
+      "ja": "募集",
+      "my": "စုဆောင်းခြင်း",
+      "zh": "募集",
+      "vi": "tuyển mộ",
+      "th": "การรับสมัคร",
+      "id": "rekrutmen"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "裏",
+    "hiragana": "うら",
+    "meanings": {
+      "en": "back, reverse, inside",
+      "ja": "うら",
+      "my": "အနောက်",
+      "zh": "裏/背面",
+      "vi": "lý",
+      "th": "ด้านหลัง",
+      "id": "belakang"
+    },
+    "examples": {
+      "en": "裏 (うら) - back side",
+      "ja": "裏",
+      "my": "နောက်ဘက်",
+      "zh": "背面",
+      "vi": "mặt sau",
+      "th": "ด้านหลัง",
+      "id": "belakang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "仏",
+    "hiragana": "ほとけ",
+    "meanings": {
+      "en": "Buddha, the dead",
+      "ja": "ほとけ",
+      "my": "ဗုဒ္ဓ",
+      "zh": "仏/佛",
+      "vi": "phật",
+      "th": "พระพุทธเจ้า",
+      "id": "Buddha"
+    },
+    "examples": {
+      "en": "仏教 (ぶっきょう) - Buddhism",
+      "ja": "仏教",
+      "my": "ဗုဒ္ဓဘာသာ",
+      "zh": "佛教",
+      "vi": "Phật giáo",
+      "th": "พระพุทธศาสนา",
+      "id": "Buddha"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "績",
+    "hiragana": "せき",
+    "meanings": {
+      "en": "exploits, achievements",
+      "ja": "せき",
+      "my": "အောင်မြင်မှု",
+      "zh": "绩/成绩",
+      "vi": "tích",
+      "th": "ผลงาน",
+      "id": "prestasi"
+    },
+    "examples": {
+      "en": "成績 (せいせき) - grades",
+      "ja": "成績",
+      "my": "အဆင့်",
+      "zh": "成绩",
+      "vi": "thành tích",
+      "th": "เกรด",
+      "id": "nilai"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "築",
+    "hiragana": "きずく",
+    "meanings": {
+      "en": "fabricate, build, construct",
+      "ja": "きずく",
+      "my": "ဆောက်လုပ်သည်",
+      "zh": "築/建筑",
+      "vi": "trúc",
+      "th": "สร้าง",
+      "id": "membangun"
+    },
+    "examples": {
+      "en": "建築 (けんちく) - construction",
+      "ja": "建築",
+      "my": "ဆောက်လုပ်ရေး",
+      "zh": "建筑",
+      "vi": "kiến trúc",
+      "th": "การก่อสร้าง",
+      "id": "konstruksi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "貨",
+    "hiragana": "たから",
+    "meanings": {
+      "en": "freight, goods, property",
+      "ja": "たから",
+      "my": "ကုန်ပစ္စည်း",
+      "zh": "货/货物",
+      "vi": "hóa",
+      "th": "สินค้า",
+      "id": "barang"
+    },
+    "examples": {
+      "en": "貨物 (かもつ) - cargo",
+      "ja": "貨物",
+      "my": "ကုန်တင်ကုန်ချ",
+      "zh": "货物",
+      "vi": "hàng hóa",
+      "th": "สินค้า",
+      "id": "kargo"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "混",
+    "hiragana": "まじる",
+    "meanings": {
+      "en": "mix, blend, confuse",
+      "ja": "まじる",
+      "my": "ရောနှောသည်",
+      "zh": "混/混合",
+      "vi": "hỗn",
+      "th": "ผสม",
+      "id": "campur"
+    },
+    "examples": {
+      "en": "混ざる (まざる) - to mix",
+      "ja": "混ざる",
+      "my": "ရောနှောသည်",
+      "zh": "混合",
+      "vi": "trộn",
+      "th": "ผสม",
+      "id": "mencampur"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "昇",
+    "hiragana": "のぼる",
+    "meanings": {
+      "en": "rise up",
+      "ja": "のぼる",
+      "my": "တက်သည်",
+      "zh": "昇/上升",
+      "vi": "thăng",
+      "th": "ขึ้น",
+      "id": "naik"
+    },
+    "examples": {
+      "en": "昇進 (しょうしん) - promotion",
+      "ja": "昇進",
+      "my": "ရာထူးတိုးခြင်း",
+      "zh": "晋升",
+      "vi": "thăng chức",
+      "th": "การเลื่อนตำแหน่ง",
+      "id": "promosi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "池",
+    "hiragana": "いけ",
+    "meanings": {
+      "en": "pond, pool, reservoir",
+      "ja": "いけ",
+      "my": "ကန်",
+      "zh": "池/池塘",
+      "vi": "trì",
+      "th": "สระน้ำ",
+      "id": "kolam"
+    },
+    "examples": {
+      "en": "池 (いけ) - pond",
+      "ja": "池",
+      "my": "ကန်",
+      "zh": "池塘",
+      "vi": "ao",
+      "th": "สระน้ำ",
+      "id": "kolam"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "血",
+    "hiragana": "ち",
+    "meanings": {
+      "en": "blood",
+      "ja": "ち",
+      "my": "သွေး",
+      "zh": "血/血",
+      "vi": "huyết",
+      "th": "เลือด",
+      "id": "darah"
+    },
+    "examples": {
+      "en": "血 (ち) - blood",
+      "ja": "血",
+      "my": "သွေး",
+      "zh": "血",
+      "vi": "máu",
+      "th": "เลือด",
+      "id": "darah"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "温",
+    "hiragana": "あたたかい",
+    "meanings": {
+      "en": "warm",
+      "ja": "あたたかい",
+      "my": "နွေးထွေးသော",
+      "zh": "温/温暖",
+      "vi": "ôn",
+      "th": "อบอุ่น",
+      "id": "hangat"
+    },
+    "examples": {
+      "en": "温かい (あたたかい) - warm",
+      "ja": "温かい",
+      "my": "နွေးထွေးသည်",
+      "zh": "温暖的",
+      "vi": "ấm áp",
+      "th": "อบอุ่น",
+      "id": "hangat"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "季",
+    "hiragana": "き",
+    "meanings": {
+      "en": "seasons",
+      "ja": "き",
+      "my": "ရာသီ",
+      "zh": "季/季节",
+      "vi": "quý",
+      "th": "ฤดู",
+      "id": "musim"
+    },
+    "examples": {
+      "en": "季節 (きせつ) - season",
+      "ja": "季節",
+      "my": "ရာသီ",
+      "zh": "季节",
+      "vi": "mùa",
+      "th": "ฤดูกาล",
+      "id": "musim"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "星",
+    "hiragana": "ほし",
+    "meanings": {
+      "en": "star",
+      "ja": "ほし",
+      "my": "ကြယ်",
+      "zh": "星/星星",
+      "vi": "tinh",
+      "th": "ดาว",
+      "id": "bintang"
+    },
+    "examples": {
+      "en": "星 (ほし) - star",
+      "ja": "星",
+      "my": "ကြယ်",
+      "zh": "星星",
+      "vi": "ngôi sao",
+      "th": "ดาว",
+      "id": "bintang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "永",
+    "hiragana": "ながい",
+    "meanings": {
+      "en": "eternity, long",
+      "ja": "ながい",
+      "my": "ထာဝရ",
+      "zh": "永/永远",
+      "vi": "vĩnh",
+      "th": "นิรันดร์",
+      "id": "abadi"
+    },
+    "examples": {
+      "en": "永遠 (えいえん) - eternity",
+      "ja": "永遠",
+      "my": "ထာဝရ",
+      "zh": "永远",
+      "vi": "vĩnh viễn",
+      "th": "นิรันดร์",
+      "id": "abadi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "著",
+    "hiragana": "あらわす",
+    "meanings": {
+      "en": "renowned, publish, write",
+      "ja": "あらわす",
+      "my": "ထင်ရှားသော",
+      "zh": "著/著名",
+      "vi": "trứ",
+      "th": "มีชื่อเสียง",
+      "id": "terkenal"
+    },
+    "examples": {
+      "en": "著者 (ちょしゃ) - author",
+      "ja": "著者",
+      "my": "စာရေးဆရာ",
+      "zh": "作者",
+      "vi": "tác giả",
+      "th": "ผู้แต่ง",
+      "id": "penulis"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "誌",
+    "hiragana": "し",
+    "meanings": {
+      "en": "document, records",
+      "ja": "し",
+      "my": "မှတ်တမ်း",
+      "zh": "誌/杂志",
+      "vi": "chí",
+      "th": "บันทึก",
+      "id": "dokumen"
+    },
+    "examples": {
+      "en": "雑誌 (ざっし) - magazine",
+      "ja": "雑誌",
+      "my": "မဂ္ဂဇင်း",
+      "zh": "杂志",
+      "vi": "tạp chí",
+      "th": "นิตยสาร",
+      "id": "majalah"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "庫",
+    "hiragana": "くら",
+    "meanings": {
+      "en": "warehouse, storehouse",
+      "ja": "くら",
+      "my": "ဂိုဒေါင်",
+      "zh": "库/仓库",
+      "vi": "khố",
+      "th": "คลัง",
+      "id": "gudang"
+    },
+    "examples": {
+      "en": "倉庫 (そうこ) - warehouse",
+      "ja": "倉庫",
+      "my": "ဂိုဒေါင်",
+      "zh": "仓库",
+      "vi": "kho",
+      "th": "คลังสินค้า",
+      "id": "gudang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "刊",
+    "hiragana": "かん",
+    "meanings": {
+      "en": "publish, carve, engrave",
+      "ja": "かん",
+      "my": "ထုတ်ဝေသည်",
+      "zh": "刊/刊登",
+      "vi": "san",
+      "th": "ตีพิมพ์",
+      "id": "menerbitkan"
+    },
+    "examples": {
+      "en": "刊行 (かんこう) - publication",
+      "ja": "刊行",
+      "my": "ထုတ်ဝေခြင်း",
+      "zh": "刊行",
+      "vi": "xuất bản",
+      "th": "การตีพิมพ์",
+      "id": "penerbitan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "像",
+    "hiragana": "ぞう",
+    "meanings": {
+      "en": "statue, picture, image",
+      "ja": "ぞう",
+      "my": "ရုပ်",
+      "zh": "像/雕像",
+      "vi": "tượng",
+      "th": "รูปปั้น",
+      "id": "patung"
+    },
+    "examples": {
+      "en": "画像 (가ぞう) - image",
+      "ja": "画像",
+      "my": "ပုံရိပ်",
+      "zh": "画像",
+      "vi": "hình ảnh",
+      "th": "ภาพ",
+      "id": "gambar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "香",
+    "hiragana": "かおり",
+    "meanings": {
+      "en": "incense, smell, perfume",
+      "ja": "かおり",
+      "my": "ရနံ့",
+      "zh": "香/香味",
+      "vi": "hương",
+      "th": "กลิ่น",
+      "id": "wangi"
+    },
+    "examples": {
+      "en": "香り (かおり) - fragrance",
+      "ja": "香り",
+      "my": "ရနံ့",
+      "zh": "香味",
+      "vi": "hương thơm",
+      "th": "กลิ่นหอม",
+      "id": "aroma"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "坂",
+    "hiragana": "さか",
+    "meanings": {
+      "en": "slope, incline, hill",
+      "ja": "さか",
+      "my": "တောင်စောင်း",
+      "zh": "坂/斜坡",
+      "vi": "bản",
+      "th": "เนิน",
+      "id": "lereng"
+    },
+    "examples": {
+      "en": "坂道 (さかみち) - slope",
+      "ja": "坂道",
+      "my": "တောင်စောင်းလမ်း",
+      "zh": "坡道",
+      "vi": "dốc",
+      "th": "ทางลาด",
+      "id": "lereng"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "底",
+    "hiragana": "そこ",
+    "meanings": {
+      "en": "bottom, sole, depth",
+      "ja": "そこ",
+      "my": "အောက်ခြေ",
+      "zh": "底/底部",
+      "vi": "đế",
+      "th": "ก้น",
+      "id": "dasar"
+    },
+    "examples": {
+      "en": "底 (そこ) - bottom",
+      "ja": "底",
+      "my": "အောက်ခြေ",
+      "zh": "底部",
+      "vi": "đáy",
+      "th": "ก้น",
+      "id": "dasar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "布",
+    "hiragana": "ぬの",
+    "meanings": {
+      "en": "linen, cloth, spread",
+      "ja": "ぬの",
+      "my": "အထည်",
+      "zh": "布/布料",
+      "vi": "bố",
+      "th": "ผ้า",
+      "id": "kain"
+    },
+    "examples": {
+      "en": "布 (ぬの) - cloth",
+      "ja": "布",
+      "my": "အထည်",
+      "zh": "布",
+      "vi": "vải",
+      "th": "ผ้า",
+      "id": "kain"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "寺",
+    "hiragana": "てら",
+    "meanings": {
+      "en": "Buddhist temple",
+      "ja": "てら",
+      "my": "ဘုရားကျောင်း",
+      "zh": "寺/寺庙",
+      "vi": "tự",
+      "th": "วัด",
+      "id": "kuil"
+    },
+    "examples": {
+      "en": "寺 (てら) - temple",
+      "ja": "寺",
+      "my": "ဘုရားကျောင်း",
+      "zh": "寺庙",
+      "vi": "chùa",
+      "th": "วัด",
+      "id": "kuil"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "宇",
+    "hiragana": "う",
+    "meanings": {
+      "en": "eaves, roof, heaven",
+      "ja": "う",
+      "my": "မိုး",
+      "zh": "宇/宇宙",
+      "vi": "vũ",
+      "th": "เอกภพ",
+      "id": "alam semesta"
+    },
+    "examples": {
+      "en": "宇宙 (うちゅう) - universe",
+      "ja": "宇宙",
+      "my": "စကြဝဠာ",
+      "zh": "宇宙",
+      "vi": "vũ trụ",
+      "th": "จักรวาล",
+      "id": "alam semesta"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "巨",
+    "hiragana": "きょ",
+    "meanings": {
+      "en": "gigantic, great",
+      "ja": "きょ",
+      "my": "ကြီးမားသော",
+      "zh": "巨/巨大",
+      "vi": "cự",
+      "th": "ใหญ่โต",
+      "id": "raksasa"
+    },
+    "examples": {
+      "en": "巨大 (きょだい) - huge",
+      "ja": "巨大",
+      "my": "ဧရာမ",
+      "zh": "巨大",
+      "vi": "khổng lồ",
+      "th": "ใหญ่โต",
+      "id": "besar sekali"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "震",
+    "hiragana": "ふるう",
+    "meanings": {
+      "en": "quake, shake, tremble",
+      "ja": "ふるう",
+      "my": "တုန်သည်",
+      "zh": "震/震动",
+      "vi": "chấn",
+      "th": "สั่นสะเทือน",
+      "id": "guncang"
+    },
+    "examples": {
+      "en": "地震 (じしん) - earthquake",
+      "ja": "地震",
+      "my": "ငလျင်",
+      "zh": "地震",
+      "vi": "động đất",
+      "th": "แผ่นดินไหว",
+      "id": "gempa bumi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "希",
+    "hiragana": "まれ",
+    "meanings": {
+      "en": "hope, beg, request",
+      "ja": "まれ",
+      "my": "မျှော်လင့်ချက်",
+      "zh": "希/希望",
+      "vi": "hy",
+      "th": "หวัง",
+      "id": "harapan"
+    },
+    "examples": {
+      "en": "希望 (きぼう) - hope",
+      "ja": "希望",
+      "my": "မျှော်လင့်ချက်",
+      "zh": "希望",
+      "vi": "hy vọng",
+      "th": "ความหวัง",
+      "id": "harapan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "触",
+    "hiragana": "ふれる",
+    "meanings": {
+      "en": "contact, touch, feel",
+      "ja": "ふれる",
+      "my": "ထိသည်",
+      "zh": "触/接触",
+      "vi": "xúc",
+      "th": "สัมผัส",
+      "id": "menyentuh"
+    },
+    "examples": {
+      "en": "触る (さわる) - to touch",
+      "ja": "触る",
+      "my": "ထိသည်",
+      "zh": "触摸",
+      "vi": "chạm",
+      "th": "แตะ",
+      "id": "menyentuh"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "依",
+    "hiragana": "よる",
+    "meanings": {
+      "en": "reliant, depend on",
+      "ja": "よる",
+      "my": "မှီခိုသည်",
+      "zh": "依/依靠",
+      "vi": "y",
+      "th": "พึ่งพา",
+      "id": "bergantung"
+    },
+    "examples": {
+      "en": "依存 (いぞん) - dependence",
+      "ja": "依存",
+      "my": "မှီခိုမှု",
+      "zh": "依存",
+      "vi": "phụ thuộc",
+      "th": "การพึ่งพา",
+      "id": "ketergantungan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "籍",
+    "hiragana": "せき",
+    "meanings": {
+      "en": "enroll, register",
+      "ja": "せき",
+      "my": "မှတ်ပုံတင်",
+      "zh": "籍/籍贯",
+      "vi": "tịch",
+      "th": "ทะเบียน",
+      "id": "pendaftaran"
+    },
+    "examples": {
+      "en": "国籍 (こくせき) - nationality",
+      "ja": "国籍",
+      "my": "နိုင်ငံသားဖြစ်မှု",
+      "zh": "国籍",
+      "vi": "quốc tịch",
+      "th": "สัญชาติ",
+      "id": "kewarganegaraan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "汚",
+    "hiragana": "よごす",
+    "meanings": {
+      "en": "dirty, pollute, disgrace",
+      "ja": "よごす",
+      "my": "ညစ်ပတ်စေသည်",
+      "zh": "汚/脏",
+      "vi": "ô",
+      "th": "สกปรก",
+      "id": "kotor"
+    },
+    "examples": {
+      "en": "汚い (きたない) - dirty",
+      "ja": "汚い",
+      "my": "ညစ်ပတ်သည်",
+      "zh": "脏的",
+      "vi": "bẩn",
+      "th": "สกปรก",
+      "id": "kotor"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "枚",
+    "hiragana": "まい",
+    "meanings": {
+      "en": "sheet, counter for flat objects",
+      "ja": "まい",
+      "my": "ပြား",
+      "zh": "枚/张",
+      "vi": "mai",
+      "th": "แผ่น",
+      "id": "lembar"
+    },
+    "examples": {
+      "en": "一枚 (いちまい) - one sheet",
+      "ja": "一枚",
+      "my": "တစ်ပြား",
+      "zh": "一张",
+      "vi": "một tờ",
+      "th": "หนึ่งแผ่น",
+      "id": "satu lembar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "複",
+    "hiragana": "ふく",
+    "meanings": {
+      "en": "duplicate, double, multiple",
+      "ja": "ふく",
+      "my": "အဆ",
+      "zh": "复/重复",
+      "vi": "phức",
+      "th": "ซ้ำ",
+      "id": "ganda"
+    },
+    "examples": {
+      "en": "複数 (ふくすう) - plural",
+      "ja": "複数",
+      "my": "အများကိန်း",
+      "zh": "复数",
+      "vi": "số nhiều",
+      "th": "พหูพจน์",
+      "id": "jamak"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "郵",
+    "hiragana": "ゆう",
+    "meanings": {
+      "en": "mail, stagecoach stop",
+      "ja": "ゆう",
+      "my": "စာပို့",
+      "zh": "邮/邮政",
+      "vi": "bưu",
+      "th": "ไปรษณีย์",
+      "id": "pos"
+    },
+    "examples": {
+      "en": "郵便 (ゆうびん) - mail",
+      "ja": "郵便",
+      "my": "စာပို့",
+      "zh": "邮政",
+      "vi": "bưu chính",
+      "th": "ไปรษณีย์",
+      "id": "pos"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "仲",
+    "hiragana": "なか",
+    "meanings": {
+      "en": "go-between, relationship",
+      "ja": "なか",
+      "my": "ဆက်ဆံရေး",
+      "zh": "仲/关系",
+      "vi": "trọng",
+      "th": "ความสัมพันธ์",
+      "id": "hubungan"
+    },
+    "examples": {
+      "en": "仲間 (なかま) - friend",
+      "ja": "仲間",
+      "my": "သူငယ်ချင်း",
+      "zh": "伙伴",
+      "vi": "bạn bè",
+      "th": "เพื่อน",
+      "id": "teman"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "栄",
+    "hiragana": "さかえる",
+    "meanings": {
+      "en": "flourish, prosperity",
+      "ja": "さかえる",
+      "my": "ထွန်းကားသည်",
+      "zh": "栄/繁荣",
+      "vi": "vinh",
+      "th": "รุ่งเรือง",
+      "id": "makmur"
+    },
+    "examples": {
+      "en": "栄える (さかえる) - to prosper",
+      "ja": "栄える",
+      "my": "ထွန်းကားသည်",
+      "zh": "繁荣",
+      "vi": "thịnh vượng",
+      "th": "รุ่งเรือง",
+      "id": "makmur"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "札",
+    "hiragana": "ふだ",
+    "meanings": {
+      "en": "ticket, paper money",
+      "ja": "ふだ",
+      "my": "လက်မှတ်",
+      "zh": "札/牌",
+      "vi": "trát",
+      "th": "ตั๋ว",
+      "id": "tiket"
+    },
+    "examples": {
+      "en": "札 (ふだ) - tag",
+      "ja": "札",
+      "my": "တံဆိပ်",
+      "zh": "牌子",
+      "vi": "thẻ",
+      "th": "ป้าย",
+      "id": "kartu"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "板",
+    "hiragana": "いた",
+    "meanings": {
+      "en": "plank, board, stage",
+      "ja": "いた",
+      "my": "ပျဉ်",
+      "zh": "板/木板",
+      "vi": "bản",
+      "th": "ไม้กระดาน",
+      "id": "papan"
+    },
+    "examples": {
+      "en": "板 (いた) - board",
+      "ja": "板",
+      "my": "ပျဉ်",
+      "zh": "木板",
+      "vi": "ván",
+      "th": "กระดาน",
+      "id": "papan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "meanings": {
+      "en": "skeleton, bone",
+      "ja": "ほね",
+      "my": "အရိုး",
+      "zh": "骨/骨头",
+      "vi": "cốt",
+      "th": "กระดูก",
+      "id": "tulang"
+    },
+    "examples": {
+      "en": "骨 (ほね) - bone",
+      "ja": "骨",
+      "my": "အရိုး",
+      "zh": "骨头",
+      "vi": "xương",
+      "th": "กระดูก",
+      "id": "tulang"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "傾",
+    "hiragana": "かたむく",
+    "meanings": {
+      "en": "lean, incline, tilt",
+      "ja": "かたむく",
+      "my": "စောင်းသည်",
+      "zh": "倾/倾斜",
+      "vi": "khuynh",
+      "th": "เอียง",
+      "id": "miring"
+    },
+    "examples": {
+      "en": "傾く (かたむく) - to lean",
+      "ja": "傾く",
+      "my": "စောင်းသည်",
+      "zh": "倾斜",
+      "vi": "nghiêng",
+      "th": "เอียง",
+      "id": "miring"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "届",
+    "hiragana": "とどける",
+    "meanings": {
+      "en": "deliver, reach, report",
+      "ja": "とどける",
+      "my": "ပေးပို့သည်",
+      "zh": "届/送达",
+      "vi": "giới",
+      "th": "ส่งถึง",
+      "id": "mengirimkan"
+    },
+    "examples": {
+      "en": "届ける (とどける) - to deliver",
+      "ja": "届ける",
+      "my": "ပေးပို့သည်",
+      "zh": "送达",
+      "vi": "gửi đến",
+      "th": "ส่งถึง",
+      "id": "mengantarkan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "巻",
+    "hiragana": "まく",
+    "meanings": {
+      "en": "scroll, volume, roll up",
+      "ja": "まく",
+      "my": "လိပ်သည်",
+      "zh": "巻/卷",
+      "vi": "quyển",
+      "th": "ม้วน",
+      "id": "gulung"
+    },
+    "examples": {
+      "en": "巻く (まく) - to wind",
+      "ja": "巻く",
+      "my": "လိပ်သည်",
+      "zh": "卷",
+      "vi": "cuộn",
+      "th": "ม้วน",
+      "id": "menggulung"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "燃",
+    "hiragana": "もえる",
+    "meanings": {
+      "en": "burn, blaze, glow",
+      "ja": "もえる",
+      "my": "လောင်သည်",
+      "zh": "燃/燃烧",
+      "vi": "nhiên",
+      "th": "เผาไหม้",
+      "id": "terbakar"
+    },
+    "examples": {
+      "en": "燃える (もえる) - to burn",
+      "ja": "燃える",
+      "my": "လောင်သည်",
+      "zh": "燃烧",
+      "vi": "cháy",
+      "th": "เผา",
+      "id": "terbakar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "跡",
+    "hiragana": "あと",
+    "meanings": {
+      "en": "tracks, mark, impression",
+      "ja": "あと",
+      "my": "သဲလွန်စ",
+      "zh": "迹/痕迹",
+      "vi": "tích",
+      "th": "ร่องรอย",
+      "id": "jejak"
+    },
+    "examples": {
+      "en": "跡 (あと) - trace",
+      "ja": "跡",
+      "my": "သဲလွန်စ",
+      "zh": "痕迹",
+      "vi": "dấu vết",
+      "th": "ร่องรอย",
+      "id": "jejak"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "包",
+    "hiragana": "つつむ",
+    "meanings": {
+      "en": "wrap, pack up, cover",
+      "ja": "つつむ",
+      "my": "ထုပ်ပိုးသည်",
+      "zh": "包/包裹",
+      "vi": "bao",
+      "th": "ห่อ",
+      "id": "membungkus"
+    },
+    "examples": {
+      "en": "包む (つつむ) - to wrap",
+      "ja": "包む",
+      "my": "ထုပ်ပိုးသည်",
+      "zh": "包裹",
+      "vi": "gói",
+      "th": "ห่อ",
+      "id": "membungkus"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "駐",
+    "hiragana": "ちゅう",
+    "meanings": {
+      "en": "stop-over, reside in",
+      "ja": "ちゅう",
+      "my": "တပ်စွဲသည်",
+      "zh": "驻/驻扎",
+      "vi": "trú",
+      "th": "ประจำ",
+      "id": "bermukim"
+    },
+    "examples": {
+      "en": "駐車 (ちゅうしゃ) - parking",
+      "ja": "駐車",
+      "my": "ကားရပ်နားရန်",
+      "zh": "停车",
+      "vi": "đỗ xe",
+      "th": "จอดรถ",
+      "id": "parkir"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "弱",
+    "hiragana": "よわい",
+    "meanings": {
+      "en": "weak, frail",
+      "ja": "よわい",
+      "my": "အားနည်းသော",
+      "zh": "弱/弱的",
+      "vi": "nhược",
+      "th": "อ่อนแอ",
+      "id": "lemah"
+    },
+    "examples": {
+      "en": "弱い (よわい) - weak",
+      "ja": "弱い",
+      "my": "အားနည်းသည်",
+      "zh": "弱的",
+      "vi": "yếu",
+      "th": "อ่อนแอ",
+      "id": "lemah"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "紹",
+    "hiragana": "しょう",
+    "meanings": {
+      "en": "introduce, inherit",
+      "ja": "しょう",
+      "my": "မိတ်ဆက်သည်",
+      "zh": "绍/介绍",
+      "vi": "thiệu",
+      "th": "แนะนำ",
+      "id": "memperkenalkan"
+    },
+    "examples": {
+      "en": "紹介 (しょうかい) - introduction",
+      "ja": "紹介",
+      "my": "မိတ်ဆက်ခြင်း",
+      "zh": "介绍",
+      "vi": "giới thiệu",
+      "th": "การแนะนำ",
+      "id": "pengenalan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "雇",
+    "hiragana": "やとう",
+    "meanings": {
+      "en": "employ, hire",
+      "ja": "やとう",
+      "my": "ငှားရမ်းသည်",
+      "zh": "雇/雇佣",
+      "vi": "cổ",
+      "th": "จ้าง",
+      "id": "mempekerjakan"
+    },
+    "examples": {
+      "en": "雇用 (こよう) - employment",
+      "ja": "雇用",
+      "my": "အလုပ်ခန့်ခြင်း",
+      "zh": "雇用",
+      "vi": "thuê",
+      "th": "การจ้างงาน",
+      "id": "pekerjaan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "替",
+    "hiragana": "かわる",
+    "meanings": {
+      "en": "exchange, spare, substitute",
+      "ja": "かわる",
+      "my": "လဲလှယ်သည်",
+      "zh": "替/替换",
+      "vi": "thế",
+      "th": "แทน",
+      "id": "mengganti"
+    },
+    "examples": {
+      "en": "替える (かえる) - to replace",
+      "ja": "替える",
+      "my": "အစားထိုးသည်",
+      "zh": "替换",
+      "vi": "thay thế",
+      "th": "แทนที่",
+      "id": "menggantikan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "預",
+    "hiragana": "あずける",
+    "meanings": {
+      "en": "deposit, entrust to",
+      "ja": "あずける",
+      "my": "အပ်နှံသည်",
+      "zh": "预/预备",
+      "vi": "dự",
+      "th": "ฝาก",
+      "id": "menitipkan"
+    },
+    "examples": {
+      "en": "預ける (あずける) - to deposit",
+      "ja": "預ける",
+      "my": "အပ်နှံသည်",
+      "zh": "寄存",
+      "vi": "gửi",
+      "th": "ฝาก",
+      "id": "menitip"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "焼",
+    "hiragana": "やく",
+    "meanings": {
+      "en": "bake, burning",
+      "ja": "やく",
+      "my": "ဖုတ်သည်",
+      "zh": "焼/烧",
+      "vi": "thiêu",
+      "th": "เผา",
+      "id": "membakar"
+    },
+    "examples": {
+      "en": "焼く (やく) - to burn",
+      "ja": "焼く",
+      "my": "ဖုတ်သည်",
+      "zh": "烧",
+      "vi": "nung",
+      "th": "เผา",
+      "id": "membakar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "簡",
+    "hiragana": "かん",
+    "meanings": {
+      "en": "simplicity, brevity",
+      "ja": "かん",
+      "my": "ရိုးရှင်းသော",
+      "zh": "简/简单",
+      "vi": "giản",
+      "th": "ง่าย",
+      "id": "sederhana"
+    },
+    "examples": {
+      "en": "簡単 (かんたん) - simple",
+      "ja": "簡単",
+      "my": "ရိုးရှင်းသော",
+      "zh": "简单",
+      "vi": "đơn giản",
+      "th": "ง่าย",
+      "id": "sederhana"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "章",
+    "hiragana": "しょう",
+    "meanings": {
+      "en": "badge, chapter",
+      "ja": "しょう",
+      "my": "အခန်း",
+      "zh": "章/章节",
+      "vi": "chương",
+      "th": "บท",
+      "id": "bab"
+    },
+    "examples": {
+      "en": "章 (しょう) - chapter",
+      "ja": "章",
+      "my": "အခန်း",
+      "zh": "章节",
+      "vi": "chương",
+      "th": "บท",
+      "id": "bab"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "臓",
+    "hiragana": "はらわた",
+    "meanings": {
+      "en": "entrails, viscera",
+      "ja": "はらわた",
+      "my": "အူ",
+      "zh": "臓/内脏",
+      "vi": "tạng",
+      "th": "อวัยวะภายใน",
+      "id": "jeroan"
+    },
+    "examples": {
+      "en": "内臓 (ないぞう) - internal organs",
+      "ja": "内臓",
+      "my": "အတွင်းအင်္ဂါ",
+      "zh": "内脏",
+      "vi": "nội tạng",
+      "th": "อวัยวะภายใน",
+      "id": "organ dalam"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "律",
+    "hiragana": "りつ",
+    "meanings": {
+      "en": "rhythm, law, regulation",
+      "ja": "りつ",
+      "my": "ဥပဒေ",
+      "zh": "律/法律",
+      "vi": "luật",
+      "th": "กฎหมาย",
+      "id": "hukum"
+    },
+    "examples": {
+      "en": "法律 (ほうりつ) - law",
+      "ja": "法律",
+      "my": "ဥပဒေ",
+      "zh": "法律",
+      "vi": "pháp luật",
+      "th": "กฎหมาย",
+      "id": "hukum"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "贈",
+    "hiragana": "おくる",
+    "meanings": {
+      "en": "presents, send, award",
+      "ja": "おくる",
+      "my": "လက်ဆောင်ပေးသည်",
+      "zh": "赠/赠送",
+      "vi": "tặng",
+      "th": "มอบให้",
+      "id": "memberi"
+    },
+    "examples": {
+      "en": "贈る (おくる) - to give",
+      "ja": "贈る",
+      "my": "လက်ဆောင်ပေးသည်",
+      "zh": "赠送",
+      "vi": "tặng",
+      "th": "ให้",
+      "id": "memberi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "照",
+    "hiragana": "てる",
+    "meanings": {
+      "en": "illuminate, shine, compare",
+      "ja": "てる",
+      "my": "ထွန်းလင်းသည်",
+      "zh": "照/照亮",
+      "vi": "chiếu",
+      "th": "ส่อง",
+      "id": "menyinari"
+    },
+    "examples": {
+      "en": "照る (てる) - to shine",
+      "ja": "照る",
+      "my": "ထွန်းလင်းသည်",
+      "zh": "照耀",
+      "vi": "chiếu sáng",
+      "th": "ส่องแสง",
+      "id": "bersinar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "薄",
+    "hiragana": "うすい",
+    "meanings": {
+      "en": "dilute, thin, weak",
+      "ja": "うすい",
+      "my": "ပါးသော",
+      "zh": "薄/薄",
+      "vi": "bạc",
+      "th": "บาง",
+      "id": "tipis"
+    },
+    "examples": {
+      "en": "薄い (うすい) - thin",
+      "ja": "薄い",
+      "my": "ပါးသည်",
+      "zh": "薄的",
+      "vi": "mỏng",
+      "th": "บาง",
+      "id": "tipis"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "群",
+    "hiragana": "むれる",
+    "meanings": {
+      "en": "flock, group, crowd",
+      "ja": "むれる",
+      "my": "အုပ်စု",
+      "zh": "群/群体",
+      "vi": "quần",
+      "th": "กลุ่ม",
+      "id": "kelompok"
+    },
+    "examples": {
+      "en": "群 (ぐん) - group",
+      "ja": "群",
+      "my": "အုပ်စု",
+      "zh": "群",
+      "vi": "đám",
+      "th": "กลุ่ม",
+      "id": "kelompok"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "秒",
+    "hiragana": "びょう",
+    "meanings": {
+      "en": "second",
+      "ja": "びょう",
+      "my": "စက္ကန့်",
+      "zh": "秒/秒",
+      "vi": "giây",
+      "th": "วินาที",
+      "id": "detik"
+    },
+    "examples": {
+      "en": "秒 (びょう) - second",
+      "ja": "秒",
+      "my": "စက္ကန့်",
+      "zh": "秒",
+      "vi": "giây",
+      "th": "วินาที",
+      "id": "detik"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "奥",
+    "hiragana": "おく",
+    "meanings": {
+      "en": "heart, interior",
+      "ja": "おく",
+      "my": "အတွင်း",
+      "zh": "奥/内部",
+      "vi": "áo",
+      "th": "ภายใน",
+      "id": "dalam"
+    },
+    "examples": {
+      "en": "奥 (おく) - interior",
+      "ja": "奥",
+      "my": "အတွင်းပိုင်း",
+      "zh": "内部",
+      "vi": "bên trong",
+      "th": "ภายใน",
+      "id": "pedalaman"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "詰",
+    "hiragana": "つめる",
+    "meanings": {
+      "en": "packed, close, rebuke",
+      "ja": "つめる",
+      "my": "ထုပ်ပိုးသည်",
+      "zh": "詰/填塞",
+      "vi": "cật",
+      "th": "อัด",
+      "id": "mengisi"
+    },
+    "examples": {
+      "en": "詰める (つめる) - to pack",
+      "ja": "詰める",
+      "my": "ထုပ်ပိုးသည်",
+      "zh": "填满",
+      "vi": "nhồi",
+      "th": "อัด",
+      "id": "mengemas"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "双",
+    "hiragana": "ふた",
+    "meanings": {
+      "en": "pair, set, comparison",
+      "ja": "ふた",
+      "my": "စုံ",
+      "zh": "双/双",
+      "vi": "song",
+      "th": "คู่",
+      "id": "pasangan"
+    },
+    "examples": {
+      "en": "双 (そう) - pair",
+      "ja": "双",
+      "my": "စုံတွဲ",
+      "zh": "双",
+      "vi": "cặp",
+      "th": "คู่",
+      "id": "pasangan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "刺",
+    "hiragana": "さす",
+    "meanings": {
+      "en": "thorn, pierce, stab",
+      "ja": "さす",
+      "my": "ထိုးသည်",
+      "zh": "刺/刺",
+      "vi": "thứ",
+      "th": "แทง",
+      "id": "menusuk"
+    },
+    "examples": {
+      "en": "刺す (さす) - to stab",
+      "ja": "刺す",
+      "my": "ထိုးသည်",
+      "zh": "刺",
+      "vi": "đâm",
+      "th": "แทง",
+      "id": "menusuk"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "純",
+    "hiragana": "じゅん",
+    "meanings": {
+      "en": "genuine, purity, innocence",
+      "ja": "じゅん",
+      "my": "စင်ကြယ်သော",
+      "zh": "纯/纯洁",
+      "vi": "thuần",
+      "th": "บริสุทธิ์",
+      "id": "murni"
+    },
+    "examples": {
+      "en": "純粋 (じゅんすい) - pure",
+      "ja": "純粋",
+      "my": "စင်ကြယ်သော",
+      "zh": "纯粹",
+      "vi": "thuần khiết",
+      "th": "บริสุทธิ์",
+      "id": "murni"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "翌",
+    "hiragana": "よく",
+    "meanings": {
+      "en": "the following, next",
+      "ja": "よく",
+      "my": "နောက်",
+      "zh": "翌/翌日",
+      "vi": "dực",
+      "th": "ถัดไป",
+      "id": "berikutnya"
+    },
+    "examples": {
+      "en": "翌日 (よくじつ) - next day",
+      "ja": "翌日",
+      "my": "နောက်နေ့",
+      "zh": "翌日",
+      "vi": "ngày hôm sau",
+      "th": "วันถัดไป",
+      "id": "hari berikutnya"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "快",
+    "hiragana": "こころよい",
+    "meanings": {
+      "en": "cheerful, pleasant",
+      "ja": "こころよい",
+      "my": "ပျော်ရွှင်သော",
+      "zh": "快/愉快",
+      "vi": "khoái",
+      "th": "ร่าเริง",
+      "id": "menyenangkan"
+    },
+    "examples": {
+      "en": "快い (こころよい) - pleasant",
+      "ja": "快い",
+      "my": "ပျော်ရွှင်ဖွယ်",
+      "zh": "愉快",
+      "vi": "dễ chịu",
+      "th": "น่าพอใจ",
+      "id": "menyenangkan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "片",
+    "hiragana": "かた",
+    "meanings": {
+      "en": "one-sided, piece",
+      "ja": "かた",
+      "my": "အပိုင်းအစ",
+      "zh": "片/片",
+      "vi": "phiến",
+      "th": "ชิ้น",
+      "id": "potongan"
+    },
+    "examples": {
+      "en": "片方 (かたほう) - one side",
+      "ja": "片方",
+      "my": "တစ်ဖက်",
+      "zh": "一方",
+      "vi": "một phía",
+      "th": "ด้านเดียว",
+      "id": "satu sisi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "敬",
+    "hiragana": "うやまう",
+    "meanings": {
+      "en": "awe, respect, honor",
+      "ja": "うやまう",
+      "my": "ရိုသေသည်",
+      "zh": "敬/尊敬",
+      "vi": "kính",
+      "th": "เคารพ",
+      "id": "hormat"
+    },
+    "examples": {
+      "en": "敬う (うやまう) - to respect",
+      "ja": "敬う",
+      "my": "ရိုသေသည်",
+      "zh": "尊敬",
+      "vi": "kính trọng",
+      "th": "เคารพ",
+      "id": "menghormati"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "悩",
+    "hiragana": "なやむ",
+    "meanings": {
+      "en": "trouble, worry, distress",
+      "ja": "なやむ",
+      "my": "စိုးရိမ်သည်",
+      "zh": "悩/烦恼",
+      "vi": "não",
+      "th": "กังวล",
+      "id": "khawatir"
+    },
+    "examples": {
+      "en": "悩む (なやむ) - to worry",
+      "ja": "悩む",
+      "my": "စိုးရိမ်သည်",
+      "zh": "烦恼",
+      "vi": "lo lắng",
+      "th": "กังวล",
+      "id": "khawatir"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "泉",
+    "hiragana": "いずみ",
+    "meanings": {
+      "en": "spring, fountain",
+      "ja": "いずみ",
+      "my": "စမ်း",
+      "zh": "泉/泉水",
+      "vi": "tuyền",
+      "th": "น้ำพุ",
+      "id": "mata air"
+    },
+    "examples": {
+      "en": "泉 (いずみ) - spring",
+      "ja": "泉",
+      "my": "စမ်းရေ",
+      "zh": "泉水",
+      "vi": "suối",
+      "th": "น้ำพุ",
+      "id": "mata air"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "皮",
+    "hiragana": "かわ",
+    "meanings": {
+      "en": "skin, hide, leather",
+      "ja": "かわ",
+      "my": "အရေ",
+      "zh": "皮/皮肤",
+      "vi": "bì",
+      "th": "หนัง",
+      "id": "kulit"
+    },
+    "examples": {
+      "en": "皮 (かわ) - skin",
+      "ja": "皮",
+      "my": "အရေ",
+      "zh": "皮肤",
+      "vi": "da",
+      "th": "หนัง",
+      "id": "kulit"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "漁",
+    "hiragana": "あさる",
+    "meanings": {
+      "en": "fishing, fishery",
+      "ja": "あさる",
+      "my": "ငါးဖမ်းသည်",
+      "zh": "渔/渔业",
+      "vi": "ngư",
+      "th": "ประมง",
+      "id": "perikanan"
+    },
+    "examples": {
+      "en": "漁業 (ぎょぎょう) - fishing industry",
+      "ja": "漁業",
+      "my": "ငါးဖမ်းလုပ်ငန်း",
+      "zh": "渔业",
+      "vi": "ngư nghiệp",
+      "th": "ประมง",
+      "id": "perikanan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "荒",
+    "hiragana": "あらい",
+    "meanings": {
+      "en": "rough, wild",
+      "ja": "あらい",
+      "my": "ကြမ်းတမ်းသော",
+      "zh": "荒/荒芜",
+      "vi": "hoang",
+      "th": "รุนแรง",
+      "id": "kasar"
+    },
+    "examples": {
+      "en": "荒い (あらい) - rough",
+      "ja": "荒い",
+      "my": "ကြမ်းတမ်းသည်",
+      "zh": "粗野",
+      "vi": "thô",
+      "th": "หยาบ",
+      "id": "kasar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "貯",
+    "hiragana": "ためる",
+    "meanings": {
+      "en": "savings, store",
+      "ja": "ためる",
+      "my": "သိုလှောင်သည်",
+      "zh": "贮/贮存",
+      "vi": "trữ",
+      "th": "สะสม",
+      "id": "menyimpan"
+    },
+    "examples": {
+      "en": "貯金 (ちょきん) - savings",
+      "ja": "貯金",
+      "my": "စုဆောင်းငွေ",
+      "zh": "存款",
+      "vi": "tiết kiệm",
+      "th": "เงินออม",
+      "id": "tabungan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "硬",
+    "hiragana": "かたい",
+    "meanings": {
+      "en": "stiff, hard",
+      "ja": "かたい",
+      "my": "မာသော",
+      "zh": "硬/硬的",
+      "vi": "ngạnh",
+      "th": "แข็ง",
+      "id": "keras"
+    },
+    "examples": {
+      "en": "硬い (かたい) - hard",
+      "ja": "硬い",
+      "my": "မာသည်",
+      "zh": "硬的",
+      "vi": "cứng",
+      "th": "แข็ง",
+      "id": "keras"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "埋",
+    "hiragana": "うめる",
+    "meanings": {
+      "en": "bury, be filled up",
+      "ja": "うめる",
+      "my": "မြှုပ်နှံသည်",
+      "zh": "埋/埋藏",
+      "vi": "mai",
+      "th": "ฝัง",
+      "id": "mengubur"
+    },
+    "examples": {
+      "en": "埋める (うめる) - to bury",
+      "ja": "埋める",
+      "my": "မြှုပ်နှံသည်",
+      "zh": "埋",
+      "vi": "chôn",
+      "th": "ฝัง",
+      "id": "mengubur"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "柱",
+    "hiragana": "はしら",
+    "meanings": {
+      "en": "pillar, post, support",
+      "ja": "はしら",
+      "my": "တိုင်",
+      "zh": "柱/柱子",
+      "vi": "trụ",
+      "th": "เสา",
+      "id": "tiang"
+    },
+    "examples": {
+      "en": "柱 (はしら) - pillar",
+      "ja": "柱",
+      "my": "တိုင်",
+      "zh": "柱子",
+      "vi": "cột",
+      "th": "เสา",
+      "id": "pilar"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "祭",
+    "hiragana": "まつり",
+    "meanings": {
+      "en": "ritual, offer prayers",
+      "ja": "まつり",
+      "my": "ပွဲတော်",
+      "zh": "祭/祭祀",
+      "vi": "tế",
+      "th": "พิธี",
+      "id": "ritus"
+    },
+    "examples": {
+      "en": "祭り (まつり) - festival",
+      "ja": "祭り",
+      "my": "ပွဲတော်",
+      "zh": "祭典",
+      "vi": "lễ hội",
+      "th": "เทศกาล",
+      "id": "festival"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "meanings": {
+      "en": "sack, bag, pouch",
+      "ja": "ふくろ",
+      "my": "အိတ်",
+      "zh": "袋/袋子",
+      "vi": "đại",
+      "th": "ถุง",
+      "id": "kantong"
+    },
+    "examples": {
+      "en": "袋 (ふくろ) - bag",
+      "ja": "袋",
+      "my": "အိတ်",
+      "zh": "袋子",
+      "vi": "túi",
+      "th": "ถุง",
+      "id": "kantong"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "筆",
+    "hiragana": "ふで",
+    "meanings": {
+      "en": "writing brush, handwriting",
+      "ja": "ふで",
+      "my": "စုတ်တံ",
+      "zh": "笔/笔",
+      "vi": "bút",
+      "th": "พู่กัน",
+      "id": "kuas"
+    },
+    "examples": {
+      "en": "筆 (ふで) - brush",
+      "ja": "筆",
+      "my": "စုတ်တံ",
+      "zh": "毛笔",
+      "vi": "bút lông",
+      "th": "พู่กัน",
+      "id": "kuas"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "訓",
+    "hiragana": "よむ",
+    "meanings": {
+      "en": "instruction, explanation",
+      "ja": "よむ",
+      "my": "သွန်သင်ချက်",
+      "zh": "训/训示",
+      "vi": "huấn",
+      "th": "คำสอน",
+      "id": "petunjuk"
+    },
+    "examples": {
+      "en": "訓 (くん) - kun reading",
+      "ja": "訓",
+      "my": "ခွန်းဖတ်",
+      "zh": "训读",
+      "vi": "kun đọc",
+      "th": "การอ่านคุน",
+      "id": "bacaan kun"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "浴",
+    "hiragana": "あびる",
+    "meanings": {
+      "en": "bathe, bask in",
+      "ja": "あびる",
+      "my": "ရေချိုးသည်",
+      "zh": "浴/沐浴",
+      "vi": "dục",
+      "th": "อาบน้ำ",
+      "id": "mandi"
+    },
+    "examples": {
+      "en": "浴びる (あびる) - to bathe",
+      "ja": "浴びる",
+      "my": "ရေချိုးသည်",
+      "zh": "沐浴",
+      "vi": "tắm",
+      "th": "อาบน้ำ",
+      "id": "mandi"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "童",
+    "hiragana": "わらべ",
+    "meanings": {
+      "en": "juvenile, child",
+      "ja": "わらべ",
+      "my": "ကလေး",
+      "zh": "童/儿童",
+      "vi": "đồng",
+      "th": "เด็ก",
+      "id": "anak"
+    },
+    "examples": {
+      "en": "童話 (どうわ) - fairy tale",
+      "ja": "童話",
+      "my": "ဒဏ္ဍာရီ",
+      "zh": "童话",
+      "vi": "truyện cổ tích",
+      "th": "นิทาน",
+      "id": "dongeng"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "宝",
+    "hiragana": "たから",
+    "meanings": {
+      "en": "treasure, wealth",
+      "ja": "たから",
+      "my": "ရတနာ",
+      "zh": "宝/宝物",
+      "vi": "bảo",
+      "th": "สมบัติ",
+      "id": "harta"
+    },
+    "examples": {
+      "en": "宝物 (たからもの) - treasure",
+      "ja": "宝物",
+      "my": "ရတနာ",
+      "zh": "宝物",
+      "vi": "kho báu",
+      "th": "สมบัติ",
+      "id": "harta karun"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "封",
+    "hiragana": "ふう",
+    "meanings": {
+      "en": "seal, closing",
+      "ja": "ふう",
+      "my": "တံဆိပ်ခတ်သည်",
+      "zh": "封/封条",
+      "vi": "phong",
+      "th": "ปิดผนึก",
+      "id": "segel"
+    },
+    "examples": {
+      "en": "封筒 (ふうとう) - envelope",
+      "ja": "封筒",
+      "my": "စာအိတ်",
+      "zh": "信封",
+      "vi": "phong bì",
+      "th": "ซองจดหมาย",
+      "id": "amplop"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "胸",
+    "hiragana": "むね",
+    "meanings": {
+      "en": "bosom, breast, heart",
+      "ja": "むね",
+      "my": "ရင်ဘတ်",
+      "zh": "胸/胸部",
+      "vi": "hung",
+      "th": "หน้าอก",
+      "id": "dada"
+    },
+    "examples": {
+      "en": "胸 (むね) - chest",
+      "ja": "胸",
+      "my": "ရင်ဘတ်",
+      "zh": "胸",
+      "vi": "ngực",
+      "th": "หน้าอก",
+      "id": "dada"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "砂",
+    "hiragana": "すな",
+    "meanings": {
+      "en": "sand",
+      "ja": "すな",
+      "my": "သဲ",
+      "zh": "砂/沙子",
+      "vi": "sa",
+      "th": "ทราย",
+      "id": "pasir"
+    },
+    "examples": {
+      "en": "砂 (すな) - sand",
+      "ja": "砂",
+      "my": "သဲ",
+      "zh": "沙子",
+      "vi": "cát",
+      "th": "ทราย",
+      "id": "pasir"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "塩",
+    "hiragana": "しお",
+    "meanings": {
+      "en": "salt",
+      "ja": "しお",
+      "my": "ဆား",
+      "zh": "塩/盐",
+      "vi": "diêm",
+      "th": "เกลือ",
+      "id": "garam"
+    },
+    "examples": {
+      "en": "塩 (しお) - salt",
+      "ja": "塩",
+      "my": "ဆား",
+      "zh": "盐",
+      "vi": "muối",
+      "th": "เกลือ",
+      "id": "garam"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "賢",
+    "hiragana": "かしこい",
+    "meanings": {
+      "en": "intelligent, wise",
+      "ja": "かしこい",
+      "my": "ပညာရှိသော",
+      "zh": "贤/贤明",
+      "vi": "hiền",
+      "th": "ฉลาด",
+      "id": "bijaksana"
+    },
+    "examples": {
+      "en": "賢い (かしこい) - wise",
+      "ja": "賢い",
+      "my": "ပညာရှိသည်",
+      "zh": "聪明的",
+      "vi": "thông minh",
+      "th": "ฉลาด",
+      "id": "bijak"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "腕",
+    "hiragana": "うで",
+    "meanings": {
+      "en": "arm, ability, talent",
+      "ja": "うで",
+      "my": "လက်မောင်း",
+      "zh": "腕/手腕",
+      "vi": "oản",
+      "th": "แขน",
+      "id": "lengan"
+    },
+    "examples": {
+      "en": "腕 (うで) - arm",
+      "ja": "腕",
+      "my": "လက်မောင်း",
+      "zh": "手腕",
+      "vi": "cánh tay",
+      "th": "แขน",
+      "id": "lengan"
+    },
+    "level": "n3"
+  },
+  {
+    "kanji": "兆",
+    "hiragana": "きざす",
+    "meanings": {
+      "en": "trillion, sign, omen",
+      "ja": "きざす",
+      "my": "လက္ခဏာ",
+      "zh": "兆/兆头",
+      "vi": "triệu",
+      "th": "ล้านล้าน",
+      "id": "triliun"
+    },
+    "examples": {
+      "en": "兆し (きざし) - sign",
+      "ja": "兆し",
+      "my": "လက္ခဏာ",
+      "zh": "征兆",
+      "vi": "triệu chứng",
+      "th": "สัญญาณ",
+      "id": "tanda"
+    },
+    "level": "n3"
+  }
+]
