@@ -1,0 +1,722 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "hari, matahari, Jepang",
+    "example": "hari ini",
+    "level": "n5"
+  },
+  {
+    "kanji": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "meaning": "satu",
+    "example": "satu hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "negara",
+    "example": "Jepang",
+    "level": "n5"
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと",
+    "meaning": "orang",
+    "example": "orang Jepang",
+    "level": "n5"
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "tahun",
+    "example": "tahun depan",
+    "level": "n5"
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお(きい)",
+    "meaning": "besar",
+    "example": "besar",
+    "level": "n5"
+  },
+  {
+    "kanji": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお, と",
+    "meaning": "sepuluh",
+    "example": "sepuluh menit",
+    "level": "n5"
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた(つ)",
+    "meaning": "dua",
+    "example": "dua orang",
+    "level": "n5"
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "buku",
+    "example": "buku",
+    "level": "n5"
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた(る)",
+    "meaning": "di dalam, tengah",
+    "example": "di dalam",
+    "level": "n5"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い(きる), う(む), お(う), は(える), なま",
+    "meaning": "kehidupan, lahir",
+    "example": "hidup",
+    "level": "n5"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "lima",
+    "example": "lima hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "antara, jarak",
+    "example": "di antara",
+    "level": "n5"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, うわ, かみ, あ(げる), のぼ(る), たてまつ(る)",
+    "meaning": "atas, naik",
+    "example": "di atas",
+    "level": "n5"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "timur",
+    "example": "timur",
+    "level": "n5"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ), よん",
+    "meaning": "empat",
+    "example": "empat hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "sekarang",
+    "example": "sekarang",
+    "level": "n5"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな, -がね",
+    "meaning": "emas, uang",
+    "example": "uang",
+    "level": "n5"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "sembilan",
+    "example": "sembilan hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る), はい(る)",
+    "meaning": "masuk",
+    "example": "masuk",
+    "level": "n5"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "belajar, sekolah",
+    "example": "sekolah",
+    "level": "n5"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "tinggi, mahal",
+    "example": "tinggi",
+    "level": "n5"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "yen, bulat",
+    "example": "yen Jepang",
+    "level": "n5"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, ね",
+    "meaning": "anak",
+    "example": "anak",
+    "level": "n5"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず(す), と-",
+    "meaning": "luar",
+    "example": "di luar",
+    "level": "n5"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ), よう",
+    "meaning": "delapan",
+    "example": "delapan hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ), むい",
+    "meaning": "enam",
+    "example": "enam hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ(げる), くだ(る), お(ろす)",
+    "meaning": "bawah, turun",
+    "example": "di bawah",
+    "level": "n5"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く(る), きた(る), き, こ",
+    "meaning": "datang",
+    "example": "datang",
+    "level": "n5"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき",
+    "meaning": "semangat, udara",
+    "example": "sehat",
+    "level": "n5"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い(きる), う(む), お(う), は(える), なま",
+    "meaning": "kehidupan, lahir, hidup",
+    "example": "hidup",
+    "level": "n5"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "lima",
+    "example": "lima hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "antara, jarak, selang",
+    "example": "di antara",
+    "level": "n5"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, うわ, かみ, あ(げる), のぼ(る), たてまつ(る)",
+    "meaning": "atas, naik, di atas",
+    "example": "di atas",
+    "level": "n5"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "timur",
+    "example": "timur",
+    "level": "n5"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ), よん",
+    "meaning": "empat",
+    "example": "empat hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "sekarang",
+    "example": "sekarang",
+    "level": "n5"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな, -がね",
+    "meaning": "emas, uang",
+    "example": "uang",
+    "level": "n5"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "sembilan",
+    "example": "sembilan hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る), はい(る)",
+    "meaning": "masuk",
+    "example": "masuk",
+    "level": "n5"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "belajar, sekolah, ilmu",
+    "example": "sekolah",
+    "level": "n5"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "tinggi, mahal",
+    "example": "tinggi",
+    "level": "n5"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "yen, bulat",
+    "example": "yen Jepang",
+    "level": "n5"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, ね",
+    "meaning": "anak",
+    "example": "anak",
+    "level": "n5"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず(す), と-",
+    "meaning": "luar, di luar",
+    "example": "di luar",
+    "level": "n5"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ), よう",
+    "meaning": "delapan",
+    "example": "delapan hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ), むい",
+    "meaning": "enam",
+    "example": "enam hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ(げる), くだ(る), お(ろす)",
+    "meaning": "bawah, turun, di bawah",
+    "example": "di bawah",
+    "level": "n5"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く(る), きた(る), き, こ",
+    "meaning": "datang",
+    "example": "datang",
+    "level": "n5"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき",
+    "meaning": "semangat, udara, perasaan",
+    "example": "sehat",
+    "level": "n5"
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい), こ-, お-, さ-",
+    "meaning": "kecil",
+    "example": "kecil",
+    "level": "n5"
+  },
+  {
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ), なの",
+    "meaning": "tujuh",
+    "example": "tujuh hal",
+    "level": "n5"
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "meaning": "gunung",
+    "example": "gunung",
+    "level": "n5"
+  },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す), はなし",
+    "meaning": "berbicara, cerita",
+    "example": "berbicara",
+    "level": "n5"
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな, め",
+    "meaning": "wanita, perempuan",
+    "example": "wanita",
+    "level": "n5"
+  },
+  {
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "utara",
+    "example": "utara",
+    "level": "n5"
+  },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "siang hari",
+    "example": "pagi",
+    "level": "n5"
+  },
+  {
+    "kanji": "百",
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "meaning": "ratus",
+    "example": "seratus",
+    "level": "n5"
+  },
+  {
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning": "menulis",
+    "example": "menulis",
+    "level": "n5"
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき, ま(ず)",
+    "meaning": "depan, sebelumnya",
+    "example": "depan",
+    "level": "n5"
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な",
+    "meaning": "nama",
+    "example": "nama",
+    "level": "n5"
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "sungai",
+    "example": "sungai",
+    "level": "n5"
+  },
+  {
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "seribu",
+    "example": "seribu",
+    "level": "n5"
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "air",
+    "example": "air",
+    "level": "n5"
+  },
+  {
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning": "setengah",
+    "example": "setengah",
+    "level": "n5"
+  },
+  {
+    "kanji": "男",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "meaning": "pria, laki-laki",
+    "example": "pria",
+    "level": "n5"
+  },
+  {
+    "kanji": "西",
+    "onyomi": "セイ, サイ",
+    "kunyomi": "にし",
+    "meaning": "barat",
+    "example": "barat",
+    "level": "n5"
+  },
+  {
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "meaning": "listrik",
+    "example": "listrik",
+    "level": "n5"
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "sekolah",
+    "example": "sekolah",
+    "level": "n5"
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning": "bahasa, kata",
+    "example": "bahasa Jepang",
+    "level": "n5"
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "meaning": "tanah",
+    "example": "tanah",
+    "level": "n5"
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "meaning": "pohon, kayu",
+    "example": "pohon",
+    "level": "n5"
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き(く)",
+    "meaning": "mendengar, bertanya",
+    "example": "mendengar",
+    "level": "n5"
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く(う), た(べる), は(む)",
+    "meaning": "makan, makanan",
+    "example": "makan",
+    "level": "n5"
+  },
+  {
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "mobil, kereta",
+    "example": "mobil",
+    "level": "n5"
+  },
+  {
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん",
+    "meaning": "apa",
+    "example": "apa",
+    "level": "n5"
+  },
+  {
+    "kanji": "南",
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "meaning": "selatan",
+    "example": "selatan",
+    "level": "n5"
+  },
+  {
+    "kanji": "万",
+    "onyomi": "マン, バン",
+    "kunyomi": "",
+    "meaning": "sepuluh ribu",
+    "example": "sepuluh ribu",
+    "level": "n5"
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと(に)",
+    "meaning": "setiap",
+    "example": "setiap hari",
+    "level": "n5"
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning": "putih",
+    "example": "putih",
+    "level": "n5"
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ",
+    "meaning": "langit",
+    "example": "cuaca",
+    "level": "n5"
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは, かあ",
+    "meaning": "ibu",
+    "example": "ibu",
+    "level": "n5"
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "meaning": "api",
+    "example": "api",
+    "level": "n5"
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "kanan",
+    "example": "sebelah kanan",
+    "level": "n5"
+  },
+  {
+    "kanji": "読",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ(む)",
+    "meaning": "membaca",
+    "example": "membaca",
+    "level": "n5"
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "teman",
+    "example": "teman",
+    "level": "n5"
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "meaning": "kiri",
+    "example": "sebelah kiri",
+    "level": "n5"
+  },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning": "istirahat",
+    "example": "istirahat",
+    "level": "n5"
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち, とう",
+    "meaning": "ayah",
+    "example": "ayah",
+    "level": "n5"
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま",
+    "meaning": "hujan",
+    "example": "hujan",
+    "level": "n5"
+  }
+]

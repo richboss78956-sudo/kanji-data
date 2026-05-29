@@ -1,0 +1,562 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "ngày, mặt trời, Nhật Bản",
+    "example": "hôm nay",
+    "level": "n5"
+  },
+  {
+    "kanji": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "meaning": "một",
+    "example": "một thứ",
+    "level": "n5"
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "đất nước",
+    "example": "Nhật Bản",
+    "level": "n5"
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと",
+    "meaning": "người",
+    "example": "người Nhật",
+    "level": "n5"
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "năm",
+    "example": "năm sau",
+    "level": "n5"
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお(きい)",
+    "meaning": "to lớn",
+    "example": "to lớn",
+    "level": "n5"
+  },
+  {
+    "kanji": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお, と",
+    "meaning": "mười",
+    "example": "mười phút",
+    "level": "n5"
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた(つ)",
+    "meaning": "hai",
+    "example": "hai người",
+    "level": "n5"
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "sách",
+    "example": "sách",
+    "level": "n5"
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた(る)",
+    "meaning": "trong, giữa",
+    "example": "bên trong",
+    "level": "n5"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い(きる), う(む), お(う), は(える), なま",
+    "meaning": "cuộc sống, sinh ra",
+    "example": "sống",
+    "level": "n5"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "năm",
+    "example": "năm thứ",
+    "level": "n5"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "khoảng, giữa",
+    "example": "ở giữa",
+    "level": "n5"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, うわ, かみ, あ(げる), のぼ(る), たてまつ(る)",
+    "meaning": "trên, lên",
+    "example": "bên trên",
+    "level": "n5"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "phía đông",
+    "example": "phía đông",
+    "level": "n5"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ), よん",
+    "meaning": "bốn",
+    "example": "bốn thứ",
+    "level": "n5"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "bây giờ",
+    "example": "bây giờ",
+    "level": "n5"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな, -がね",
+    "meaning": "vàng, tiền",
+    "example": "tiền",
+    "level": "n5"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "chín",
+    "example": "chín thứ",
+    "level": "n5"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る), はい(る)",
+    "meaning": "vào",
+    "example": "đi vào",
+    "level": "n5"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "học, trường học",
+    "example": "trường học",
+    "level": "n5"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "cao, đắt",
+    "example": "cao",
+    "level": "n5"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "yên, tròn",
+    "example": "yên Nhật",
+    "level": "n5"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, ね",
+    "meaning": "trẻ em",
+    "example": "trẻ em",
+    "level": "n5"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず(す), と-",
+    "meaning": "bên ngoài",
+    "example": "bên ngoài",
+    "level": "n5"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ), よう",
+    "meaning": "tám",
+    "example": "tám thứ",
+    "level": "n5"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ), むい",
+    "meaning": "sáu",
+    "example": "sáu thứ",
+    "level": "n5"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ(げる), くだ(る), お(ろす)",
+    "meaning": "dưới, xuống",
+    "example": "bên dưới",
+    "level": "n5"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く(る), きた(る), き, こ",
+    "meaning": "đến",
+    "example": "đến",
+    "level": "n5"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき",
+    "meaning": "tinh thần, khí",
+    "example": "khỏe mạnh",
+    "level": "n5"
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい), こ-, お-, さ-",
+    "meaning": "nhỏ, bé",
+    "example": "nhỏ",
+    "level": "n5"
+  },
+  {
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ), なの",
+    "meaning": "bảy",
+    "example": "bảy thứ",
+    "level": "n5"
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "meaning": "núi",
+    "example": "núi",
+    "level": "n5"
+  },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す), はなし",
+    "meaning": "nói chuyện",
+    "example": "nói",
+    "level": "n5"
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな, め",
+    "meaning": "phụ nữ, nữ",
+    "example": "phụ nữ",
+    "level": "n5"
+  },
+  {
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "phía bắc",
+    "example": "phía bắc",
+    "level": "n5"
+  },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "buổi trưa",
+    "example": "buổi sáng",
+    "level": "n5"
+  },
+  {
+    "kanji": "百",
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "meaning": "trăm",
+    "example": "một trăm",
+    "level": "n5"
+  },
+  {
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning": "viết",
+    "example": "viết",
+    "level": "n5"
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき, ま(ず)",
+    "meaning": "trước, phía trước",
+    "example": "phía trước",
+    "level": "n5"
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な",
+    "meaning": "tên",
+    "example": "tên",
+    "level": "n5"
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "sông",
+    "example": "sông",
+    "level": "n5"
+  },
+  {
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "một nghìn",
+    "example": "một nghìn",
+    "level": "n5"
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "nước",
+    "example": "nước",
+    "level": "n5"
+  },
+  {
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning": "một nửa",
+    "example": "một nửa",
+    "level": "n5"
+  },
+  {
+    "kanji": "男",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "meaning": "đàn ông, nam",
+    "example": "đàn ông",
+    "level": "n5"
+  },
+  {
+    "kanji": "西",
+    "onyomi": "セイ, サイ",
+    "kunyomi": "にし",
+    "meaning": "phía tây",
+    "example": "phía tây",
+    "level": "n5"
+  },
+  {
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "meaning": "điện",
+    "example": "điện",
+    "level": "n5"
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "trường học",
+    "example": "trường học",
+    "level": "n5"
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning": "ngôn ngữ, từ",
+    "example": "tiếng Nhật",
+    "level": "n5"
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "meaning": "đất",
+    "example": "đất",
+    "level": "n5"
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "meaning": "cây, gỗ",
+    "example": "cây",
+    "level": "n5"
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き(く)",
+    "meaning": "nghe, hỏi",
+    "example": "nghe",
+    "level": "n5"
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く(う), た(べる), は(む)",
+    "meaning": "ăn, thức ăn",
+    "example": "ăn",
+    "level": "n5"
+  },
+  {
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "xe",
+    "example": "xe",
+    "level": "n5"
+  },
+  {
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん",
+    "meaning": "cái gì",
+    "example": "cái gì",
+    "level": "n5"
+  },
+  {
+    "kanji": "南",
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "meaning": "phía nam",
+    "example": "phía nam",
+    "level": "n5"
+  },
+  {
+    "kanji": "万",
+    "onyomi": "マン, バン",
+    "kunyomi": "",
+    "meaning": "mười nghìn",
+    "example": "mười nghìn",
+    "level": "n5"
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと(に)",
+    "meaning": "mỗi",
+    "example": "mỗi ngày",
+    "level": "n5"
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning": "trắng",
+    "example": "màu trắng",
+    "level": "n5"
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ",
+    "meaning": "trời, bầu trời",
+    "example": "thời tiết",
+    "level": "n5"
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは, かあ",
+    "meaning": "mẹ",
+    "example": "mẹ",
+    "level": "n5"
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "meaning": "lửa",
+    "example": "lửa",
+    "level": "n5"
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "phải",
+    "example": "bên phải",
+    "level": "n5"
+  },
+  {
+    "kanji": "読",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ(む)",
+    "meaning": "đọc",
+    "example": "đọc",
+    "level": "n5"
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "bạn",
+    "example": "bạn bè",
+    "level": "n5"
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "meaning": "trái",
+    "example": "bên trái",
+    "level": "n5"
+  },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning": "nghỉ ngơi",
+    "example": "nghỉ",
+    "level": "n5"
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち, とう",
+    "meaning": "cha",
+    "example": "cha",
+    "level": "n5"
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま",
+    "meaning": "mưa",
+    "example": "mưa",
+    "level": "n5"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "วัน, ดวงอาทิตย์, ญี่ปุ่น",
+    "example": "วันนี้",
+    "level": "n5"
+  },
+  {
+    "kanji": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "meaning": "หนึ่ง",
+    "example": "หนึ่งสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "ประเทศ",
+    "example": "ประเทศญี่ปุ่น",
+    "level": "n5"
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと",
+    "meaning": "คน",
+    "example": "คนญี่ปุ่น",
+    "level": "n5"
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "ปี",
+    "example": "ปีหน้า",
+    "level": "n5"
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお(きい)",
+    "meaning": "ใหญ่",
+    "example": "ใหญ่",
+    "level": "n5"
+  },
+  {
+    "kanji": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお, と",
+    "meaning": "สิบ",
+    "example": "สิบนาที",
+    "level": "n5"
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた(つ)",
+    "meaning": "สอง",
+    "example": "สองคน",
+    "level": "n5"
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "หนังสือ",
+    "example": "หนังสือ",
+    "level": "n5"
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた(る)",
+    "meaning": "ข้างใน, กลาง",
+    "example": "ข้างใน",
+    "level": "n5"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い(きる), う(む), お(う), は(える), なま",
+    "meaning": "ชีวิต, การเกิด",
+    "example": "มีชีวิต",
+    "level": "n5"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "ห้า",
+    "example": "ห้าสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "ระหว่าง, ช่วง",
+    "example": "ระหว่าง",
+    "level": "n5"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, うわ, かみ, あ(げる), のぼ(る), たてまつ(る)",
+    "meaning": "บน, ขึ้น",
+    "example": "ข้างบน",
+    "level": "n5"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "ตะวันออก",
+    "example": "ทิศตะวันออก",
+    "level": "n5"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ), よん",
+    "meaning": "สี่",
+    "example": "สี่สิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "ตอนนี้",
+    "example": "ตอนนี้",
+    "level": "n5"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな, -がね",
+    "meaning": "ทองคำ, เงิน",
+    "example": "เงิน",
+    "level": "n5"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "เก้า",
+    "example": "เก้าสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る), はい(る)",
+    "meaning": "เข้า",
+    "example": "เข้าไป",
+    "level": "n5"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "เรียน, โรงเรียน",
+    "example": "โรงเรียน",
+    "level": "n5"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "สูง, แพง",
+    "example": "สูง",
+    "level": "n5"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "เยน, กลม",
+    "example": "เงินเยน",
+    "level": "n5"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, ね",
+    "meaning": "เด็ก",
+    "example": "เด็ก",
+    "level": "n5"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず(す), と-",
+    "meaning": "ข้างนอก",
+    "example": "ข้างนอก",
+    "level": "n5"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ), よう",
+    "meaning": "แปด",
+    "example": "แปดสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ), むい",
+    "meaning": "หก",
+    "example": "หกสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ(げる), くだ(る), お(ろす)",
+    "meaning": "ล่าง, ลง",
+    "example": "ข้างล่าง",
+    "level": "n5"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く(る), きた(る), き, こ",
+    "meaning": "มา",
+    "example": "มา",
+    "level": "n5"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき",
+    "meaning": "จิตใจ, ลม, อากาศ",
+    "example": "แข็งแรง",
+    "level": "n5"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い(きる), う(む), お(う), は(える), なま",
+    "meaning": "ชีวิต, การเกิด, สด",
+    "example": "มีชีวิต",
+    "level": "n5"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "ห้า",
+    "example": "ห้าสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "ระหว่าง, ช่วง, เวลา",
+    "example": "ระหว่าง",
+    "level": "n5"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, うわ, かみ, あ(げる), のぼ(る), たてまつ(る)",
+    "meaning": "บน, ขึ้น, ข้างบน",
+    "example": "ข้างบน",
+    "level": "n5"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "ตะวันออก",
+    "example": "ทิศตะวันออก",
+    "level": "n5"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ), よん",
+    "meaning": "สี่",
+    "example": "สี่สิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "ตอนนี้, ปัจจุบัน",
+    "example": "ตอนนี้",
+    "level": "n5"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな, -がね",
+    "meaning": "ทองคำ, เงิน",
+    "example": "เงิน",
+    "level": "n5"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "เก้า",
+    "example": "เก้าสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る), はい(る)",
+    "meaning": "เข้า, ใส่",
+    "example": "เข้าไป",
+    "level": "n5"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "เรียน, โรงเรียน, การศึกษา",
+    "example": "โรงเรียน",
+    "level": "n5"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "สูง, แพง",
+    "example": "สูง",
+    "level": "n5"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "เยน, กลม",
+    "example": "เงินเยน",
+    "level": "n5"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, ね",
+    "meaning": "เด็ก, ลูก",
+    "example": "เด็ก",
+    "level": "n5"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず(す), と-",
+    "meaning": "ข้างนอก, ภายนอก",
+    "example": "ข้างนอก",
+    "level": "n5"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ), よう",
+    "meaning": "แปด",
+    "example": "แปดสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ), むい",
+    "meaning": "หก",
+    "example": "หกสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ(げる), くだ(る), お(ろす)",
+    "meaning": "ล่าง, ลง, ข้างล่าง",
+    "example": "ข้างล่าง",
+    "level": "n5"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く(る), きた(る), き, こ",
+    "meaning": "มา",
+    "example": "มา",
+    "level": "n5"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき",
+    "meaning": "จิตใจ, ลม, อากาศ, ความรู้สึก",
+    "example": "แข็งแรง",
+    "level": "n5"
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい), こ-, お-, さ-",
+    "meaning": "เล็ก, น้อย",
+    "example": "เล็ก",
+    "level": "n5"
+  },
+  {
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ), なの",
+    "meaning": "เจ็ด",
+    "example": "เจ็ดสิ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "meaning": "ภูเขา",
+    "example": "ภูเขา",
+    "level": "n5"
+  },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す), はなし",
+    "meaning": "พูด, เรื่องราว",
+    "example": "พูด",
+    "level": "n5"
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな, め",
+    "meaning": "ผู้หญิง, หญิง",
+    "example": "ผู้หญิง",
+    "level": "n5"
+  },
+  {
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "เหนือ",
+    "example": "ทิศเหนือ",
+    "level": "n5"
+  },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "เที่ยงวัน",
+    "example": "ตอนเช้า",
+    "level": "n5"
+  },
+  {
+    "kanji": "百",
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "meaning": "ร้อย",
+    "example": "หนึ่งร้อย",
+    "level": "n5"
+  },
+  {
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning": "เขียน",
+    "example": "เขียน",
+    "level": "n5"
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき, ま(ず)",
+    "meaning": "ก่อน, ข้างหน้า",
+    "example": "ข้างหน้า",
+    "level": "n5"
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な",
+    "meaning": "ชื่อ",
+    "example": "ชื่อ",
+    "level": "n5"
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "แม่น้ำ",
+    "example": "แม่น้ำ",
+    "level": "n5"
+  },
+  {
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "พัน",
+    "example": "หนึ่งพัน",
+    "level": "n5"
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "น้ำ",
+    "example": "น้ำ",
+    "level": "n5"
+  },
+  {
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning": "ครึ่ง",
+    "example": "ครึ่งหนึ่ง",
+    "level": "n5"
+  },
+  {
+    "kanji": "男",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "meaning": "ผู้ชาย, ชาย",
+    "example": "ผู้ชาย",
+    "level": "n5"
+  },
+  {
+    "kanji": "西",
+    "onyomi": "セイ, サイ",
+    "kunyomi": "にし",
+    "meaning": "ตะวันตก",
+    "example": "ทิศตะวันตก",
+    "level": "n5"
+  },
+  {
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "meaning": "ไฟฟ้า",
+    "example": "ไฟฟ้า",
+    "level": "n5"
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "โรงเรียน",
+    "example": "โรงเรียน",
+    "level": "n5"
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning": "ภาษา, คำพูด",
+    "example": "ภาษาญี่ปุ่น",
+    "level": "n5"
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "meaning": "ดิน",
+    "example": "ดิน",
+    "level": "n5"
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "meaning": "ต้นไม้, ไม้",
+    "example": "ต้นไม้",
+    "level": "n5"
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き(く)",
+    "meaning": "ได้ยิน, ฟัง, ถาม",
+    "example": "ฟัง",
+    "level": "n5"
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く(う), た(べる), は(む)",
+    "meaning": "กิน, อาหาร",
+    "example": "กิน",
+    "level": "n5"
+  },
+  {
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "รถ",
+    "example": "รถ",
+    "level": "n5"
+  },
+  {
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん",
+    "meaning": "อะไร",
+    "example": "อะไร",
+    "level": "n5"
+  },
+  {
+    "kanji": "南",
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "meaning": "ใต้",
+    "example": "ทิศใต้",
+    "level": "n5"
+  },
+  {
+    "kanji": "万",
+    "onyomi": "マン, バン",
+    "kunyomi": "",
+    "meaning": "หนึ่งหมื่น",
+    "example": "หนึ่งหมื่น",
+    "level": "n5"
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと(に)",
+    "meaning": "ทุก",
+    "example": "ทุกวัน",
+    "level": "n5"
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning": "ขาว",
+    "example": "สีขาว",
+    "level": "n5"
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ",
+    "meaning": "ฟ้า, ท้องฟ้า, สวรรค์",
+    "example": "อากาศ",
+    "level": "n5"
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは, かあ",
+    "meaning": "แม่",
+    "example": "แม่",
+    "level": "n5"
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "meaning": "ไฟ",
+    "example": "ไฟ",
+    "level": "n5"
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "ขวา",
+    "example": "ข้างขวา",
+    "level": "n5"
+  },
+  {
+    "kanji": "読",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ(む)",
+    "meaning": "อ่าน",
+    "example": "อ่าน",
+    "level": "n5"
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "เพื่อน",
+    "example": "เพื่อน",
+    "level": "n5"
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "meaning": "ซ้าย",
+    "example": "ข้างซ้าย",
+    "level": "n5"
+  },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning": "พักผ่อน, หยุด",
+    "example": "พักผ่อน",
+    "level": "n5"
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち, とう",
+    "meaning": "พ่อ",
+    "example": "พ่อ",
+    "level": "n5"
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま",
+    "meaning": "ฝน",
+    "example": "ฝน",
+    "level": "n5"
+  }
+]

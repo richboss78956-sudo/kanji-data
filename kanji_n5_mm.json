@@ -1,0 +1,642 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "နေ၊ နေ့၊ ဂျပန်",
+    "example": "ယနေ့",
+    "level": "n5"
+  },
+  {
+    "kanji": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "meaning": "တစ်",
+    "example": "အရာတစ်ခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "နိုင်ငံ",
+    "example": "ဂျပန်နိုင်ငံ",
+    "level": "n5"
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと",
+    "meaning": "လူ",
+    "example": "ဂျပန်လူမျိုး",
+    "level": "n5"
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "နှစ်",
+    "example": "လာမည့်နှစ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお(きい)",
+    "meaning": "ကြီးမားသော",
+    "example": "ကြီးမားသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお, と",
+    "meaning": "ဆယ်",
+    "example": "ဆယ်မိနစ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた(つ)",
+    "meaning": "နှစ်",
+    "example": "လူနှစ်ယောက်",
+    "level": "n5"
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "စာအုပ်၊ အမှန်",
+    "example": "စာအုပ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた(る)",
+    "meaning": "အလယ်၊ အတွင်း",
+    "example": "အလယ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが(い), おさ",
+    "meaning": "ရှည်လျားသော",
+    "example": "ရှည်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "出",
+    "onyomi": "シュツ, スイ",
+    "kunyomi": "で(る), だ(す), い(でる)",
+    "meaning": "ထွက်သည်",
+    "example": "အပြင်ထွက်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "三",
+    "onyomi": "サン",
+    "kunyomi": "み(つ)",
+    "meaning": "သုံး",
+    "example": "အရာသုံးခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき, -どき",
+    "meaning": "အချိန်",
+    "example": "အချိန်",
+    "level": "n5"
+  },
+  {
+    "kanji": "行",
+    "onyomi": "コウ, ギョウ, アン",
+    "kunyomi": "い(く), ゆ(く), おこな(う)",
+    "meaning": "သွားသည်",
+    "example": "သွားသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み(る), み(せる)",
+    "meaning": "မြင်သည်၊ ကြည့်သည်",
+    "example": "ကြည့်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "月",
+    "onyomi": "ゲツ, ガツ",
+    "kunyomi": "つき",
+    "meaning": "လ၊ ဂြိုဟ်",
+    "example": "လ",
+    "level": "n5"
+  },
+  {
+    "kanji": "分",
+    "onyomi": "ブン, フン, ブ",
+    "kunyomi": "わ(ける)",
+    "meaning": "မိနစ်၊ နားလည်သည်",
+    "example": "နားလည်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "後",
+    "onyomi": "ゴ, コウ",
+    "kunyomi": "のち, うし(ろ), あと",
+    "meaning": "နောက်၊ နောက်ကျ",
+    "example": "နောက်မှ",
+    "level": "n5"
+  },
+  {
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "meaning": "ရှေ့",
+    "example": "ရှေ့",
+    "level": "n5"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い(きる), う(む), お(う), は(える), なま",
+    "meaning": "ဘဝ၊ အသက်",
+    "example": "အသက်ရှင်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "ငါး",
+    "example": "အရာငါးခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "ကြား",
+    "example": "အကြား",
+    "level": "n5"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, うわ, かみ, あ(げる), のぼ(る), たてまつ(る)",
+    "meaning": "အပေါ်",
+    "example": "အပေါ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "အရှေ့",
+    "example": "အရှေ့",
+    "level": "n5"
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ), よん",
+    "meaning": "လေး",
+    "example": "အရာလေးခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "ယခု",
+    "example": "ယခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな, -がね",
+    "meaning": "ရွှေ၊ ငွေ",
+    "example": "ငွေကြေး",
+    "level": "n5"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "ကိုး",
+    "example": "အရာကိုးခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る), はい(る)",
+    "meaning": "ဝင်သည်",
+    "example": "ဝင်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "ကျောင်း",
+    "example": "ကျောင်း",
+    "level": "n5"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "မြင့်မားသော",
+    "example": "မြင့်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "ယန်း",
+    "example": "ယန်း",
+    "level": "n5"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, ね",
+    "meaning": "ကလေး",
+    "example": "ကလေး",
+    "level": "n5"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず(す), と-",
+    "meaning": "အပြင်",
+    "example": "အပြင်",
+    "level": "n5"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ), よう",
+    "meaning": "ရှစ်",
+    "example": "အရာရှစ်ခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ), むい",
+    "meaning": "ခြောက်",
+    "example": "အရာခြောက်ခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ(げる), くだ(る), お(ろす)",
+    "meaning": "အောက်",
+    "example": "အောက်",
+    "level": "n5"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く(る), きた(る), き, こ",
+    "meaning": "လာသည်",
+    "example": "လာသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき",
+    "meaning": "စိတ်၊ လေ",
+    "example": "ကျန်းမာသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい), こ-, お-, さ-",
+    "meaning": "သေး",
+    "example": "သေးငယ်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ), なの",
+    "meaning": "ခုနှစ်",
+    "example": "အရာခုနှစ်ခု",
+    "level": "n5"
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "meaning": "တောင်",
+    "example": "တောင်",
+    "level": "n5"
+  },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す), はなし",
+    "meaning": "ပြောသည်",
+    "example": "ပြောသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな, め",
+    "meaning": "အမျိုးသမီး",
+    "example": "မိန်းမ",
+    "level": "n5"
+  },
+  {
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "မြောက်",
+    "example": "မြောက်",
+    "level": "n5"
+  },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "နေ့လယ်",
+    "example": "နံနက်",
+    "level": "n5"
+  },
+  {
+    "kanji": "百",
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "meaning": "ရာ",
+    "example": "တစ်ရာ",
+    "level": "n5"
+  },
+  {
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning": "ရေးသည်",
+    "example": "ရေးသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき, ま(ず)",
+    "meaning": "ရှေ့",
+    "example": "ရှေ့",
+    "level": "n5"
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な",
+    "meaning": "အမည်",
+    "example": "အမည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "မြစ်",
+    "example": "မြစ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "တစ်ထောင်",
+    "example": "တစ်ထောင်",
+    "level": "n5"
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "ရေ",
+    "example": "ရေ",
+    "level": "n5"
+  },
+  {
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning": "တစ်ဝက်",
+    "example": "တစ်ဝက်",
+    "level": "n5"
+  },
+  {
+    "kanji": "男",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "meaning": "အမျိုးသား",
+    "example": "ယောကျ်ား",
+    "level": "n5"
+  },
+  {
+    "kanji": "西",
+    "onyomi": "セイ, サイ",
+    "kunyomi": "にし",
+    "meaning": "အနောက်",
+    "example": "အနောက်",
+    "level": "n5"
+  },
+  {
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "meaning": "လျှပ်စစ်",
+    "example": "လျှပ်စစ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "ကျောင်း",
+    "example": "ကျောင်း",
+    "level": "n5"
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning": "စကား၊ ဘာသာ",
+    "example": "ဂျပန်စကား",
+    "level": "n5"
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "meaning": "မြေ",
+    "example": "မြေ",
+    "level": "n5"
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "meaning": "သစ်ပင်",
+    "example": "သစ်ပင်",
+    "level": "n5"
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き(く)",
+    "meaning": "ကြားသည်",
+    "example": "ကြားသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く(う), た(べる), は(む)",
+    "meaning": "စားသည်",
+    "example": "စားသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "ကား",
+    "example": "ကား",
+    "level": "n5"
+  },
+  {
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん",
+    "meaning": "ဘာ",
+    "example": "ဘာ",
+    "level": "n5"
+  },
+  {
+    "kanji": "南",
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "meaning": "တောင်",
+    "example": "တောင်",
+    "level": "n5"
+  },
+  {
+    "kanji": "万",
+    "onyomi": "マン, バン",
+    "kunyomi": "",
+    "meaning": "တစ်သောင်း",
+    "example": "တစ်သောင်း",
+    "level": "n5"
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと(に)",
+    "meaning": "တိုင်း",
+    "example": "နေ့တိုင်း",
+    "level": "n5"
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning": "ဖြူ",
+    "example": "ဖြူ",
+    "level": "n5"
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ",
+    "meaning": "ကောင်းကင်",
+    "example": "ရာသီဥတု",
+    "level": "n5"
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは, かあ",
+    "meaning": "မိခင်",
+    "example": "မိခင်",
+    "level": "n5"
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "meaning": "မီး",
+    "example": "မီး",
+    "level": "n5"
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "ညာ",
+    "example": "ညာ",
+    "level": "n5"
+  },
+  {
+    "kanji": "読",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ(む)",
+    "meaning": "ဖတ်သည်",
+    "example": "ဖတ်သည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "သူငယ်ချင်း",
+    "example": "သူငယ်ချင်း",
+    "level": "n5"
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "meaning": "ဘယ်",
+    "example": "ဘယ်",
+    "level": "n5"
+  },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning": "အနားယူသည်",
+    "example": "အနားယူသည်",
+    "level": "n5"
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち, とう",
+    "meaning": "ဖခင်",
+    "example": "ဖခင်",
+    "level": "n5"
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま",
+    "meaning": "မိုး",
+    "example": "မိုး",
+    "level": "n5"
+  }
+]
