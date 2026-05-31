@@ -1,0 +1,1338 @@
+[
+  {
+    "kanji": "会",
+    "onyomi": "カイ",
+    "kunyomi": "あ(う)",
+    "meaning": "pertemuan, bertemu",
+    "example": "会社 (かいしゃ) - perusahaan",
+    "level": "n4"
+  },
+  {
+    "kanji": "同",
+    "onyomi": "ドウ",
+    "kunyomi": "おな(じ)",
+    "meaning": "sama, setuju, sama",
+    "example": "同じ (おなじ) - sama",
+    "level": "n4"
+  },
+  {
+    "kanji": "事",
+    "onyomi": "ジ",
+    "kunyomi": "こと",
+    "meaning": "hal, benda, fakta, bisnis, alasan",
+    "example": "仕事 (しごと) - pekerjaan",
+    "level": "n4"
+  },
+  {
+    "kanji": "自",
+    "onyomi": "ジ, シ",
+    "kunyomi": "みずか(ら)",
+    "meaning": "diri sendiri",
+    "example": "自分 (じぶん) - diri sendiri",
+    "level": "n4"
+  },
+  {
+    "kanji": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "meaning": "perusahaan, firma, kantor, asosiasi, kuil",
+    "example": "社会 (しゃかい) - masyarakat",
+    "level": "n4"
+  },
+  {
+    "kanji": "発",
+    "onyomi": "ハツ, ホツ",
+    "kunyomi": "",
+    "meaning": "keberangkatan, pelepasan, memancarkan, mulai dari",
+    "example": "出発 (しゅっぱつ) - keberangkatan",
+    "level": "n4"
+  },
+  {
+    "kanji": "者",
+    "onyomi": "シャ",
+    "kunyomi": "もの",
+    "meaning": "seseorang, orang",
+    "example": "記者 (きしゃ) - reporter",
+    "level": "n4"
+  },
+  {
+    "kanji": "地",
+    "onyomi": "チ, ジ",
+    "kunyomi": "",
+    "meaning": "tanah, bumi",
+    "example": "地面 (じめん) - tanah",
+    "level": "n4"
+  },
+  {
+    "kanji": "業",
+    "onyomi": "ギョウ",
+    "kunyomi": "わざ",
+    "meaning": "bisnis, pekerjaan, seni, pertunjukan",
+    "example": "仕事 (しごと) - pekerjaan",
+    "level": "n4"
+  },
+  {
+    "kanji": "方",
+    "onyomi": "ホウ",
+    "kunyomi": "かた",
+    "meaning": "arah, orang, alternatif",
+    "example": "方法 (ほうほう) - metode",
+    "level": "n4"
+  },
+  {
+    "kanji": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら(しい), あら(た)",
+    "meaning": "baru",
+    "example": "新聞 (しんぶん) - koran",
+    "level": "n4"
+  },
+  {
+    "kanji": "場",
+    "onyomi": "ジョウ",
+    "kunyomi": "ば",
+    "meaning": "lokasi, tempat",
+    "example": "場所 (ばしょ) - tempat",
+    "level": "n4"
+  },
+  {
+    "kanji": "員",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "meaning": "karyawan, anggota, nomor, yang bertanggung jawab",
+    "example": "社員 (しゃいん) - karyawan",
+    "level": "n4"
+  },
+  {
+    "kanji": "立",
+    "onyomi": "リツ",
+    "kunyomi": "た(つ)",
+    "meaning": "berdiri, bangkit",
+    "example": "立つ (たつ) - berdiri",
+    "level": "n4"
+  },
+  {
+    "kanji": "開",
+    "onyomi": "カイ",
+    "kunyomi": "ひら(く), あ(ける)",
+    "meaning": "membuka, membentangkan, membuka segel",
+    "example": "開ける (あける) - membuka",
+    "level": "n4"
+  },
+  {
+    "kanji": "手",
+    "onyomi": "シュ",
+    "kunyomi": "て",
+    "meaning": "tangan",
+    "example": "手紙 (てがみ) - surat",
+    "level": "n4"
+  },
+  {
+    "kanji": "力",
+    "onyomi": "リョク, リキ",
+    "kunyomi": "ちから",
+    "meaning": "kekuatan, tenaga, kuat, tegang, bertahan, berusaha",
+    "example": "力 (ちから) - kekuatan",
+    "level": "n4"
+  },
+  {
+    "kanji": "問",
+    "onyomi": "モン",
+    "kunyomi": "と(う)",
+    "meaning": "pertanyaan, bertanya, masalah",
+    "example": "問題 (もんだい) - masalah",
+    "level": "n4"
+  },
+  {
+    "kanji": "代",
+    "onyomi": "ダイ",
+    "kunyomi": "か(わり)",
+    "meaning": "pengganti, perubahan, mengganti, periode",
+    "example": "代わり (かわり) - pengganti",
+    "level": "n4"
+  },
+  {
+    "kanji": "明",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "あか(るい)",
+    "meaning": "terang, cahaya",
+    "example": "明日 (あした) - besok",
+    "level": "n4"
+  },
+  {
+    "kanji": "動",
+    "onyomi": "ドウ",
+    "kunyomi": "うご(く)",
+    "meaning": "bergerak, gerakan, perubahan",
+    "example": "動く (うごく) - bergerak",
+    "level": "n4"
+  },
+  {
+    "kanji": "京",
+    "onyomi": "キョウ, ケイ, キン",
+    "kunyomi": "みやこ",
+    "meaning": "ibu kota",
+    "example": "京都 (きょうと) - Kyoto",
+    "level": "n4"
+  },
+  {
+    "kanji": "目",
+    "onyomi": "モク, ボク",
+    "kunyomi": "め",
+    "meaning": "mata, kelas, lihat, wawasan, pengalaman",
+    "example": "目 (め) - mata",
+    "level": "n4"
+  },
+  {
+    "kanji": "通",
+    "onyomi": "ツウ",
+    "kunyomi": "とお(る), かよ(う)",
+    "meaning": "lalu lintas, melewati, jalan, bepergian",
+    "example": "通る (とおる) - melewati",
+    "level": "n4"
+  },
+  {
+    "kanji": "言",
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "い(う), こと",
+    "meaning": "berkata, kata",
+    "example": "言う (いう) - berkata",
+    "level": "n4"
+  },
+  {
+    "kanji": "理",
+    "onyomi": "リ",
+    "kunyomi": "",
+    "meaning": "logika, pengaturan, alasan, keadilan, kebenaran",
+    "example": "理由 (りゆう) - alasan",
+    "level": "n4"
+  },
+  {
+    "kanji": "体",
+    "onyomi": "タイ",
+    "kunyomi": "からだ",
+    "meaning": "tubuh, zat, objek, realitas",
+    "example": "体 (からだ) - tubuh",
+    "level": "n4"
+  },
+  {
+    "kanji": "田",
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "meaning": "sawah, ladang padi",
+    "example": "田 (た) - sawah",
+    "level": "n4"
+  },
+  {
+    "kanji": "主",
+    "onyomi": "シュ",
+    "kunyomi": "ぬし, おも",
+    "meaning": "tuan, kepala, master, hal utama, pokok",
+    "example": "主人 (しゅじん) - suami, tuan rumah",
+    "level": "n4"
+  },
+  {
+    "kanji": "題",
+    "onyomi": "ダイ",
+    "kunyomi": "",
+    "meaning": "topik, subjek",
+    "example": "問題 (もんだい) - masalah",
+    "level": "n4"
+  },
+  {
+    "kanji": "意",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "meaning": "ide, pikiran, hati, rasa, pemikiran",
+    "example": "意味 (いみ) - arti",
+    "level": "n4"
+  },
+  {
+    "kanji": "不",
+    "onyomi": "フ, ブ",
+    "kunyomi": "",
+    "meaning": "negatif, tidak, buruk",
+    "example": "不便 (ふべん) - tidak nyaman",
+    "level": "n4"
+  },
+  {
+    "kanji": "作",
+    "onyomi": "サク, サ",
+    "kunyomi": "つく(る)",
+    "meaning": "membuat, produksi, menyiapkan, membangun",
+    "example": "作る (つくる) - membuat",
+    "level": "n4"
+  },
+  {
+    "kanji": "用",
+    "onyomi": "ヨウ",
+    "kunyomi": "もち(いる)",
+    "meaning": "menggunakan, bisnis, layanan, mempekerjakan",
+    "example": "使う (つかう) - menggunakan",
+    "level": "n4"
+  },
+  {
+    "kanji": "度",
+    "onyomi": "ド, タク",
+    "kunyomi": "たび, た(い)",
+    "meaning": "derajat, kejadian, waktu, penghitung kejadian",
+    "example": "毎度 (まいど) - setiap kali",
+    "level": "n4"
+  },
+  {
+    "kanji": "強",
+    "onyomi": "キョウ, ゴウ",
+    "kunyomi": "つよ(い)",
+    "meaning": "kuat",
+    "example": "強い (つよい) - kuat",
+    "level": "n4"
+  },
+  {
+    "kanji": "公",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "publik, pangeran, pejabat, pemerintahan",
+    "example": "公園 (こうえん) - taman",
+    "level": "n4"
+  },
+  {
+    "kanji": "持",
+    "onyomi": "ジ",
+    "kunyomi": "も(つ)",
+    "meaning": "memegang, memiliki",
+    "example": "持つ (もつ) - memegang",
+    "level": "n4"
+  },
+  {
+    "kanji": "野",
+    "onyomi": "ヤ",
+    "kunyomi": "の",
+    "meaning": "dataran, ladang, pedesaan, kehidupan sipil",
+    "example": "野原 (のはら) - ladang",
+    "level": "n4"
+  },
+  {
+    "kanji": "以",
+    "onyomi": "イ",
+    "kunyomi": "もっ(て)",
+    "meaning": "dengan cara, karena, dibandingkan dengan",
+    "example": "以上 (いじょう) - di atas",
+    "level": "n4"
+  },
+  {
+    "kanji": "思",
+    "onyomi": "シ",
+    "kunyomi": "おも(う)",
+    "meaning": "berpikir",
+    "example": "思う (おもう) - berpikir",
+    "level": "n4"
+  },
+  {
+    "kanji": "家",
+    "onyomi": "カ",
+    "kunyomi": "いえ, や, うち",
+    "meaning": "rumah, keluarga, profesional, ahli",
+    "example": "家族 (かぞく) - keluarga",
+    "level": "n4"
+  },
+  {
+    "kanji": "世",
+    "onyomi": "セイ, セ",
+    "kunyomi": "よ",
+    "meaning": "generasi, dunia, masyarakat, publik",
+    "example": "世界 (せかい) - dunia",
+    "level": "n4"
+  },
+  {
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお(い)",
+    "meaning": "banyak, sering, banyak",
+    "example": "多い (おおい) - banyak",
+    "level": "n4"
+  },
+  {
+    "kanji": "正",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "ただ(しい), まさ(に)",
+    "meaning": "benar, keadilan, lurus",
+    "example": "正しい (ただしい) - benar",
+    "level": "n4"
+  },
+  {
+    "kanji": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす(い)",
+    "meaning": "aman, damai, murah",
+    "example": "安い (やすい) - murah",
+    "level": "n4"
+  },
+  {
+    "kanji": "院",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "meaning": "lembaga, kuil, rumah besar, sekolah",
+    "example": "病院 (びょういん) - rumah sakit",
+    "level": "n4"
+  },
+  {
+    "kanji": "心",
+    "onyomi": "シン",
+    "kunyomi": "こころ",
+    "meaning": "hati, pikiran, semangat",
+    "example": "心 (こころ) - hati",
+    "level": "n4"
+  },
+  {
+    "kanji": "界",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "meaning": "dunia, batas",
+    "example": "世界 (せかい) - dunia",
+    "level": "n4"
+  },
+  {
+    "kanji": "教",
+    "onyomi": "キョウ",
+    "kunyomi": "おし(える), おそ(わる)",
+    "meaning": "mengajar, iman, doktrin",
+    "example": "教える (おしえる) - mengajar",
+    "level": "n4"
+  },
+  {
+    "kanji": "文",
+    "onyomi": "ブン, モン",
+    "kunyomi": "ふみ",
+    "meaning": "kalimat, sastra, gaya, seni",
+    "example": "文学 (ぶんがく) - sastra",
+    "level": "n4"
+  },
+  {
+    "kanji": "元",
+    "onyomi": "ゲン, ガン",
+    "kunyomi": "もと",
+    "meaning": "awal, masa lalu, asal",
+    "example": "元気 (げんき) - kesehatan",
+    "level": "n4"
+  },
+  {
+    "kanji": "重",
+    "onyomi": "ジュウ, チョウ",
+    "kunyomi": "おも(い), かさ(ねる)",
+    "meaning": "berat, penting, menghormati",
+    "example": "重い (おもい) - berat",
+    "level": "n4"
+  },
+  {
+    "kanji": "近",
+    "onyomi": "キン",
+    "kunyomi": "ちか(い)",
+    "meaning": "dekat, dini, mirip",
+    "example": "近い (ちかい) - dekat",
+    "level": "n4"
+  },
+  {
+    "kanji": "考",
+    "onyomi": "コウ",
+    "kunyomi": "かんが(える)",
+    "meaning": "mempertimbangkan, berpikir",
+    "example": "考える (かんがえる) - berpikir",
+    "level": "n4"
+  },
+  {
+    "kanji": "画",
+    "onyomi": "ガ, カク",
+    "kunyomi": "かく(する)",
+    "meaning": "coretan kuas, gambar",
+    "example": "映画 (えいが) - film",
+    "level": "n4"
+  },
+  {
+    "kanji": "海",
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
+    "meaning": "laut, samudra",
+    "example": "海 (うみ) - laut",
+    "level": "n4"
+  },
+  {
+    "kanji": "売",
+    "onyomi": "バイ",
+    "kunyomi": "う(る)",
+    "meaning": "menjual",
+    "example": "売る (うる) - menjual",
+    "level": "n4"
+  },
+  {
+    "kanji": "知",
+    "onyomi": "チ",
+    "kunyomi": "し(る)",
+    "meaning": "tahu, kebijaksanaan",
+    "example": "知る (しる) - tahu",
+    "level": "n4"
+  },
+  {
+    "kanji": "道",
+    "onyomi": "ドウ",
+    "kunyomi": "みち",
+    "meaning": "jalan, distrik, perjalanan",
+    "example": "道 (みち) - jalan",
+    "level": "n4"
+  },
+  {
+    "kanji": "集",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ(める)",
+    "meaning": "mengumpulkan, bertemu",
+    "example": "集める (あつめる) - mengumpulkan",
+    "level": "n4"
+  },
+  {
+    "kanji": "別",
+    "onyomi": "ベツ",
+    "kunyomi": "わか(れる), わ(ける)",
+    "meaning": "terpisah, bercabang, menyimpang",
+    "example": "別れる (わかれる) - berpisah",
+    "level": "n4"
+  },
+  {
+    "kanji": "物",
+    "onyomi": "ブツ, モツ",
+    "kunyomi": "もの",
+    "meaning": "benda, objek, hal",
+    "example": "物 (もの) - benda",
+    "level": "n4"
+  },
+  {
+    "kanji": "使",
+    "onyomi": "シ",
+    "kunyomi": "つか(う)",
+    "meaning": "menggunakan, perintah, utusan",
+    "example": "使う (つかう) - menggunakan",
+    "level": "n4"
+  },
+  {
+    "kanji": "品",
+    "onyomi": "ヒン",
+    "kunyomi": "しな",
+    "meaning": "barang, kehalusan, martabat",
+    "example": "品物 (しなもの) - barang",
+    "level": "n4"
+  },
+  {
+    "kanji": "計",
+    "onyomi": "ケイ",
+    "kunyomi": "はか(る)",
+    "meaning": "rencana, skema, mengukur",
+    "example": "計画 (けいかく) - rencana",
+    "level": "n4"
+  },
+  {
+    "kanji": "死",
+    "onyomi": "シ",
+    "kunyomi": "し(ぬ)",
+    "meaning": "kematian, mati",
+    "example": "死ぬ (しぬ) - mati",
+    "level": "n4"
+  },
+  {
+    "kanji": "特",
+    "onyomi": "トク",
+    "kunyomi": "",
+    "meaning": "istimewa",
+    "example": "特別 (とくべつ) - istimewa",
+    "level": "n4"
+  },
+  {
+    "kanji": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたくし, わたし",
+    "meaning": "pribadi, saya",
+    "example": "私 (わたし) - saya",
+    "level": "n4"
+  },
+  {
+    "kanji": "始",
+    "onyomi": "シ",
+    "kunyomi": "はじ(める)",
+    "meaning": "memulai, mulai",
+    "example": "始める (はじめる) - memulai",
+    "level": "n4"
+  },
+  {
+    "kanji": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "meaning": "pagi",
+    "example": "朝 (あさ) - pagi",
+    "level": "n4"
+  },
+  {
+    "kanji": "運",
+    "onyomi": "ウン",
+    "kunyomi": "はこ(ぶ)",
+    "meaning": "membawa, keberuntungan, takdir, mengangkut",
+    "example": "運ぶ (はこぶ) - membawa",
+    "level": "n4"
+  },
+  {
+    "kanji": "終",
+    "onyomi": "シュウ",
+    "kunyomi": "お(わる)",
+    "meaning": "akhir, selesai",
+    "example": "終わる (おわる) - selesai",
+    "level": "n4"
+  },
+  {
+    "kanji": "台",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "うてな",
+    "meaning": "alas, dudukan, penghitung mesin dan kendaraan",
+    "example": "台所 (だいどころ) - dapur",
+    "level": "n4"
+  },
+  {
+    "kanji": "広",
+    "onyomi": "コウ",
+    "kunyomi": "ひろ(い)",
+    "meaning": "lebar, luas",
+    "example": "広い (ひろい) - lebar",
+    "level": "n4"
+  },
+  {
+    "kanji": "住",
+    "onyomi": "ジュウ, チュウ",
+    "kunyomi": "す(む)",
+    "meaning": "tinggal, berdiam, menghuni",
+    "example": "住む (すむ) - tinggal",
+    "level": "n4"
+  },
+  {
+    "kanji": "無",
+    "onyomi": "ム, ブ",
+    "kunyomi": "な(い)",
+    "meaning": "ketiadaan, tidak ada",
+    "example": "無い (ない) - tidak ada",
+    "level": "n4"
+  },
+  {
+    "kanji": "真",
+    "onyomi": "シン",
+    "kunyomi": "ま, まこと",
+    "meaning": "benar, realitas",
+    "example": "真 (まこと) - kebenaran",
+    "level": "n4"
+  },
+  {
+    "kanji": "有",
+    "onyomi": "ユウ, ウ",
+    "kunyomi": "あ(る)",
+    "meaning": "memiliki, ada, terjadi",
+    "example": "有る (ある) - ada",
+    "level": "n4"
+  },
+  {
+    "kanji": "口",
+    "onyomi": "コウ",
+    "kunyomi": "くち",
+    "meaning": "mulut",
+    "example": "口 (くち) - mulut",
+    "level": "n4"
+  },
+  {
+    "kanji": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく(ない), すこ(し)",
+    "meaning": "sedikit, kecil",
+    "example": "少ない (すくない) - sedikit",
+    "level": "n4"
+  },
+  {
+    "kanji": "町",
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "meaning": "kota, desa, blok, jalan",
+    "example": "町 (まち) - kota",
+    "level": "n4"
+  },
+  {
+    "kanji": "料",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "biaya, bahan",
+    "example": "料理 (りょうり) - memasak",
+    "level": "n4"
+  },
+  {
+    "kanji": "工",
+    "onyomi": "コウ, ク, グ",
+    "kunyomi": "",
+    "meaning": "kerajinan, konstruksi",
+    "example": "工場 (こうじょう) - pabrik",
+    "level": "n4"
+  },
+  {
+    "kanji": "建",
+    "onyomi": "ケン, コン",
+    "kunyomi": "た(てる)",
+    "meaning": "membangun",
+    "example": "建てる (たてる) - membangun",
+    "level": "n4"
+  },
+  {
+    "kanji": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら, から, あ(く), す(く), むな(しい)",
+    "meaning": "kosong, langit, hampa",
+    "example": "空 (そら) - langit",
+    "level": "n4"
+  },
+  {
+    "kanji": "急",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ(ぐ)",
+    "meaning": "tergesa, darurat, tiba-tiba, curam",
+    "example": "急ぐ (いそぐ) - terburu-buru",
+    "level": "n4"
+  },
+  {
+    "kanji": "止",
+    "onyomi": "シ",
+    "kunyomi": "と(まる), とど(まる), や(める), よ(す)",
+    "meaning": "berhenti",
+    "example": "止まる (とまる) - berhenti",
+    "level": "n4"
+  },
+  {
+    "kanji": "送",
+    "onyomi": "ソウ",
+    "kunyomi": "おく(る)",
+    "meaning": "mengantar, mengirim",
+    "example": "送る (おくる) - mengirim",
+    "level": "n4"
+  },
+  {
+    "kanji": "切",
+    "onyomi": "セツ, サイ",
+    "kunyomi": "き(る)",
+    "meaning": "memotong",
+    "example": "切る (きる) - memotong",
+    "level": "n4"
+  },
+  {
+    "kanji": "転",
+    "onyomi": "テン",
+    "kunyomi": "ころ(がる)",
+    "meaning": "berputar, berbalik, berubah",
+    "example": "転ぶ (ころぶ) - jatuh",
+    "level": "n4"
+  },
+  {
+    "kanji": "研",
+    "onyomi": "ケン",
+    "kunyomi": "と(ぐ)",
+    "meaning": "memoles, mempelajari, menajamkan",
+    "example": "研究 (けんきゅう) - penelitian",
+    "level": "n4"
+  },
+  {
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし, た(りる)",
+    "meaning": "kaki, cukup",
+    "example": "足 (あし) - kaki",
+    "level": "n4"
+  },
+  {
+    "kanji": "究",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "meaning": "penelitian, studi",
+    "example": "研究 (けんきゅう) - penelitian",
+    "level": "n4"
+  },
+  {
+    "kanji": "楽",
+    "onyomi": "ガク, ラク",
+    "kunyomi": "たの(しい)",
+    "meaning": "musik, nyaman, mudah",
+    "example": "楽しい (たのしい) - menyenangkan",
+    "level": "n4"
+  },
+  {
+    "kanji": "起",
+    "onyomi": "キ",
+    "kunyomi": "お(きる), おこ(す)",
+    "meaning": "bangun, berdiri, membangkitkan",
+    "example": "起きる (おきる) - bangun",
+    "level": "n4"
+  },
+  {
+    "kanji": "着",
+    "onyomi": "チャク",
+    "kunyomi": "き(る), つ(く)",
+    "meaning": "tiba, memakai, penghitung pakaian",
+    "example": "着る (きる) - memakai",
+    "level": "n4"
+  },
+  {
+    "kanji": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
+    "meaning": "toko",
+    "example": "店 (みせ) - toko",
+    "level": "n4"
+  },
+  {
+    "kanji": "病",
+    "onyomi": "ビョウ",
+    "kunyomi": "や(む)",
+    "meaning": "sakit",
+    "example": "病気 (びょうき) - penyakit",
+    "level": "n4"
+  },
+  {
+    "kanji": "質",
+    "onyomi": "シツ, シチ",
+    "kunyomi": "たち, ただ(す)",
+    "meaning": "zat, kualitas, materi, temperamen",
+    "example": "質 (しつ) - kualitas",
+    "level": "n4"
+  },
+  {
+    "kanji": "待",
+    "onyomi": "タイ",
+    "kunyomi": "ま(つ)",
+    "meaning": "menunggu, tergantung",
+    "example": "待つ (まつ) - menunggu",
+    "level": "n4"
+  },
+  {
+    "kanji": "試",
+    "onyomi": "シ",
+    "kunyomi": "こころ(みる), ため(す)",
+    "meaning": "tes, mencoba, percobaan",
+    "example": "試す (ためす) - mencoba",
+    "level": "n4"
+  },
+  {
+    "kanji": "族",
+    "onyomi": "ゾク",
+    "kunyomi": "",
+    "meaning": "suku, keluarga",
+    "example": "家族 (かぞく) - keluarga",
+    "level": "n4"
+  },
+  {
+    "kanji": "銀",
+    "onyomi": "ギン",
+    "kunyomi": "",
+    "meaning": "perak",
+    "example": "銀行 (ぎんこう) - bank",
+    "level": "n4"
+  },
+  {
+    "kanji": "早",
+    "onyomi": "ソウ, サッ",
+    "kunyomi": "はや(い)",
+    "meaning": "awal, cepat",
+    "example": "早い (はやい) - cepat",
+    "level": "n4"
+  },
+  {
+    "kanji": "映",
+    "onyomi": "エイ",
+    "kunyomi": "うつ(る), は(える)",
+    "meaning": "memantulkan, proyeksi",
+    "example": "映画 (えいが) - film",
+    "level": "n4"
+  },
+  {
+    "kanji": "親",
+    "onyomi": "シン",
+    "kunyomi": "おや, した(しい)",
+    "meaning": "orang tua, keintiman, kerabat",
+    "example": "親 (おや) - orang tua",
+    "level": "n4"
+  },
+  {
+    "kanji": "験",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "verifikasi, efek, pengujian",
+    "example": "試験 (しけん) - ujian",
+    "level": "n4"
+  },
+  {
+    "kanji": "英",
+    "onyomi": "エイ",
+    "kunyomi": "",
+    "meaning": "Inggris, bahasa Inggris, pahlawan",
+    "example": "英語 (えいご) - bahasa Inggris",
+    "level": "n4"
+  },
+  {
+    "kanji": "医",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "meaning": "dokter, obat",
+    "example": "医者 (いしゃ) - dokter",
+    "level": "n4"
+  },
+  {
+    "kanji": "仕",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "melayani, melakukan, pejabat",
+    "example": "仕事 (しごと) - pekerjaan",
+    "level": "n4"
+  },
+  {
+    "kanji": "去",
+    "onyomi": "キョ, コ",
+    "kunyomi": "さ(る)",
+    "meaning": "pergi, berlalu, meninggalkan",
+    "example": "行く (いく) - pergi",
+    "level": "n4"
+  },
+  {
+    "kanji": "味",
+    "onyomi": "ミ",
+    "kunyomi": "あじ",
+    "meaning": "rasa",
+    "example": "味 (あじ) - rasa",
+    "level": "n4"
+  },
+  {
+    "kanji": "写",
+    "onyomi": "シャ",
+    "kunyomi": "うつ(る)",
+    "meaning": "menyalin, difoto, menggambarkan",
+    "example": "写る (うつる) - difoto",
+    "level": "n4"
+  },
+  {
+    "kanji": "字",
+    "onyomi": "ジ",
+    "kunyomi": "",
+    "meaning": "karakter, huruf",
+    "example": "漢字 (かんじ) - Kanji",
+    "level": "n4"
+  },
+  {
+    "kanji": "答",
+    "onyomi": "トウ",
+    "kunyomi": "こた(える)",
+    "meaning": "jawaban",
+    "example": "答える (こたえる) - menjawab",
+    "level": "n4"
+  },
+  {
+    "kanji": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よ, よる",
+    "meaning": "malam",
+    "example": "夜 (よる) - malam",
+    "level": "n4"
+  },
+  {
+    "kanji": "音",
+    "onyomi": "オン",
+    "kunyomi": "おと, ね",
+    "meaning": "suara",
+    "example": "音 (おと) - suara",
+    "level": "n4"
+  },
+  {
+    "kanji": "注",
+    "onyomi": "チュウ",
+    "kunyomi": "そそ(ぐ), さ(す), つ(ぐ)",
+    "meaning": "menuang, mengairi, mengalir ke, berkonsentrasi",
+    "example": "注意 (ちゅうい) - perhatian",
+    "level": "n4"
+  },
+  {
+    "kanji": "帰",
+    "onyomi": "キ",
+    "kunyomi": "かえ(る), かえ(す)",
+    "meaning": "pulang, sampai, mengakibatkan",
+    "example": "帰る (かえる) - pulang",
+    "level": "n4"
+  },
+  {
+    "kanji": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる(い)",
+    "meaning": "tua",
+    "example": "古い (ふるい) - tua",
+    "level": "n4"
+  },
+  {
+    "kanji": "歌",
+    "onyomi": "カ",
+    "kunyomi": "うた, うた(う)",
+    "meaning": "lagu, menyanyi",
+    "example": "歌 (うた) - lagu",
+    "level": "n4"
+  },
+  {
+    "kanji": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か(う)",
+    "meaning": "membeli",
+    "example": "買う (かう) - membeli",
+    "level": "n4"
+  },
+  {
+    "kanji": "悪",
+    "onyomi": "アク",
+    "kunyomi": "わる(い)",
+    "meaning": "buruk, jahat, salah",
+    "example": "悪い (わるい) - buruk",
+    "level": "n4"
+  },
+  {
+    "kanji": "図",
+    "onyomi": "ズ, ト",
+    "kunyomi": "はか(る)",
+    "meaning": "peta, gambar, rencana",
+    "example": "地図 (ちず) - peta",
+    "level": "n4"
+  },
+  {
+    "kanji": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "meaning": "minggu",
+    "example": "今週 (こんしゅう) - minggu ini",
+    "level": "n4"
+  },
+  {
+    "kanji": "室",
+    "onyomi": "シツ",
+    "kunyomi": "むろ",
+    "meaning": "ruangan, apartemen",
+    "example": "教室 (きょうしつ) - ruang kelas",
+    "level": "n4"
+  },
+  {
+    "kanji": "歩",
+    "onyomi": "ホ, ブ",
+    "kunyomi": "ある(く), あゆ(む)",
+    "meaning": "berjalan, langkah",
+    "example": "歩く (あるく) - berjalan",
+    "level": "n4"
+  },
+  {
+    "kanji": "風",
+    "onyomi": "フウ, フ",
+    "kunyomi": "かぜ, かざ-",
+    "meaning": "angin, udara, gaya",
+    "example": "風 (かぜ) - angin",
+    "level": "n4"
+  },
+  {
+    "kanji": "紙",
+    "onyomi": "シ",
+    "kunyomi": "かみ",
+    "meaning": "kertas",
+    "example": "紙 (かみ) - kertas",
+    "level": "n4"
+  },
+  {
+    "kanji": "黒",
+    "onyomi": "コク",
+    "kunyomi": "くろ",
+    "meaning": "hitam",
+    "example": "黒い (くろい) - hitam",
+    "level": "n4"
+  },
+  {
+    "kanji": "花",
+    "onyomi": "カ, ケ",
+    "kunyomi": "はな",
+    "meaning": "bunga",
+    "example": "花 (はな) - bunga",
+    "level": "n4"
+  },
+  {
+    "kanji": "春",
+    "onyomi": "シュン",
+    "kunyomi": "はる",
+    "meaning": "musim semi",
+    "example": "春 (はる) - musim semi",
+    "level": "n4"
+  },
+  {
+    "kanji": "赤",
+    "onyomi": "セキ, シャク",
+    "kunyomi": "あか(い)",
+    "meaning": "merah",
+    "example": "赤い (あかい) - merah",
+    "level": "n4"
+  },
+  {
+    "kanji": "青",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "あお(い)",
+    "meaning": "biru",
+    "example": "青い (あおい) - biru",
+    "level": "n4"
+  },
+  {
+    "kanji": "館",
+    "onyomi": "カン",
+    "kunyomi": "やかた",
+    "meaning": "bangunan, rumah besar",
+    "example": "図書館 (としょかん) - perpustakaan",
+    "level": "n4"
+  },
+  {
+    "kanji": "屋",
+    "onyomi": "オク",
+    "kunyomi": "や",
+    "meaning": "atap, rumah, toko",
+    "example": "屋根 (やね) - atap",
+    "level": "n4"
+  },
+  {
+    "kanji": "色",
+    "onyomi": "ショク, シキ",
+    "kunyomi": "いろ",
+    "meaning": "warna",
+    "example": "色 (いろ) - warna",
+    "level": "n4"
+  },
+  {
+    "kanji": "走",
+    "onyomi": "ソウ",
+    "kunyomi": "はし(る)",
+    "meaning": "lari",
+    "example": "走る (はしる) - lari",
+    "level": "n4"
+  },
+  {
+    "kanji": "秋",
+    "onyomi": "シュウ",
+    "kunyomi": "あき",
+    "meaning": "musim gugur",
+    "example": "秋 (あき) - musim gugur",
+    "level": "n4"
+  },
+  {
+    "kanji": "夏",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "なつ",
+    "meaning": "musim panas",
+    "example": "夏 (なつ) - musim panas",
+    "level": "n4"
+  },
+  {
+    "kanji": "習",
+    "onyomi": "シュウ",
+    "kunyomi": "なら(う)",
+    "meaning": "belajar",
+    "example": "習う (ならう) - belajar",
+    "level": "n4"
+  },
+  {
+    "kanji": "駅",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "meaning": "stasiun",
+    "example": "駅 (えき) - stasiun",
+    "level": "n4"
+  },
+  {
+    "kanji": "洋",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "samudra, laut, luar negeri, gaya Barat",
+    "example": "洋食 (ようしょく) - makanan Barat",
+    "level": "n4"
+  },
+  {
+    "kanji": "旅",
+    "onyomi": "リョ",
+    "kunyomi": "たび",
+    "meaning": "perjalanan",
+    "example": "旅行 (りょこう) - perjalanan",
+    "level": "n4"
+  },
+  {
+    "kanji": "服",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "pakaian",
+    "example": "服 (ふく) - pakaian",
+    "level": "n4"
+  },
+  {
+    "kanji": "夕",
+    "onyomi": "",
+    "kunyomi": "ゆう",
+    "meaning": "sore",
+    "example": "夕方 (ゆうがた) - sore hari",
+    "level": "n4"
+  },
+  {
+    "kanji": "借",
+    "onyomi": "シャク",
+    "kunyomi": "か(りる)",
+    "meaning": "meminjam, menyewa",
+    "example": "借りる (かりる) - meminjam",
+    "level": "n4"
+  },
+  {
+    "kanji": "曜",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "hari dalam seminggu",
+    "example": "曜日 (ようび) - hari dalam seminggu",
+    "level": "n4"
+  },
+  {
+    "kanji": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の(む)",
+    "meaning": "minum",
+    "example": "飲む (のむ) - minum",
+    "level": "n4"
+  },
+  {
+    "kanji": "肉",
+    "onyomi": "ニク",
+    "kunyomi": "",
+    "meaning": "daging",
+    "example": "肉 (にく) - daging",
+    "level": "n4"
+  },
+  {
+    "kanji": "貸",
+    "onyomi": "タイ",
+    "kunyomi": "か(す), かし",
+    "meaning": "meminjamkan",
+    "example": "貸す (かす) - meminjamkan",
+    "level": "n4"
+  },
+  {
+    "kanji": "堂",
+    "onyomi": "ドウ",
+    "kunyomi": "",
+    "meaning": "aula, balai",
+    "example": "食堂 (しょくどう) - ruang makan",
+    "level": "n4"
+  },
+  {
+    "kanji": "鳥",
+    "onyomi": "チョウ",
+    "kunyomi": "とり",
+    "meaning": "burung, ayam",
+    "example": "鳥 (とり) - burung",
+    "level": "n4"
+  },
+  {
+    "kanji": "飯",
+    "onyomi": "ハン",
+    "kunyomi": "めし",
+    "meaning": "nasi, makanan",
+    "example": "ご飯 (ごはん) - nasi",
+    "level": "n4"
+  },
+  {
+    "kanji": "勉",
+    "onyomi": "ベン",
+    "kunyomi": "つと(める)",
+    "meaning": "usaha, upaya",
+    "example": "勉強 (べんきょう) - belajar",
+    "level": "n4"
+  },
+  {
+    "kanji": "冬",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ",
+    "meaning": "musim dingin",
+    "example": "冬 (ふゆ) - musim dingin",
+    "level": "n4"
+  },
+  {
+    "kanji": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "meaning": "siang hari",
+    "example": "昼 (ひる) - siang hari",
+    "level": "n4"
+  },
+  {
+    "kanji": "茶",
+    "onyomi": "チャ, サ",
+    "kunyomi": "",
+    "meaning": "teh",
+    "example": "お茶 (おちゃ) - teh",
+    "level": "n4"
+  },
+  {
+    "kanji": "弟",
+    "onyomi": "テイ, ダイ, デ",
+    "kunyomi": "おとうと",
+    "meaning": "adik laki-laki",
+    "example": "弟 (おとうと) - adik laki-laki",
+    "level": "n4"
+  },
+  {
+    "kanji": "牛",
+    "onyomi": "ギュウ",
+    "kunyomi": "うし",
+    "meaning": "sapi",
+    "example": "牛 (うし) - sapi",
+    "level": "n4"
+  },
+  {
+    "kanji": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "うお, さかな",
+    "meaning": "ikan",
+    "example": "魚 (さかな) - ikan",
+    "level": "n4"
+  },
+  {
+    "kanji": "兄",
+    "onyomi": "キョウ, ケイ",
+    "kunyomi": "あに",
+    "meaning": "kakak laki-laki",
+    "example": "兄 (あに) - kakak laki-laki",
+    "level": "n4"
+  },
+  {
+    "kanji": "犬",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ",
+    "meaning": "anjing",
+    "example": "犬 (いぬ) - anjing",
+    "level": "n4"
+  },
+  {
+    "kanji": "妹",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
+    "meaning": "adik perempuan",
+    "example": "妹 (いもうと) - adik perempuan",
+    "level": "n4"
+  },
+  {
+    "kanji": "姉",
+    "onyomi": "シ",
+    "kunyomi": "あね",
+    "meaning": "kakak perempuan",
+    "example": "姉 (あね) - kakak perempuan",
+    "level": "n4"
+  },
+  {
+    "kanji": "漢",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "China",
+    "example": "漢字 (かんじ) - Kanji",
+    "level": "n4"
+  }
+]

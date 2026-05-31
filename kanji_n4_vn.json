@@ -1,0 +1,1338 @@
+[
+  {
+    "kanji": "会",
+    "onyomi": "カイ",
+    "kunyomi": "あ(う)",
+    "meaning": "cuộc họp, gặp gỡ",
+    "example": "会社 (かいしゃ) - công ty",
+    "level": "n4"
+  },
+  {
+    "kanji": "同",
+    "onyomi": "ドウ",
+    "kunyomi": "おな(じ)",
+    "meaning": "cùng, đồng ý, bằng nhau",
+    "example": "同じ (おなじ) - giống nhau",
+    "level": "n4"
+  },
+  {
+    "kanji": "事",
+    "onyomi": "ジ",
+    "kunyomi": "こと",
+    "meaning": "việc, điều, sự thật, công việc, lý do, có thể",
+    "example": "仕事 (しごと) - công việc",
+    "level": "n4"
+  },
+  {
+    "kanji": "自",
+    "onyomi": "ジ, シ",
+    "kunyomi": "みずか(ら)",
+    "meaning": "bản thân, tự mình",
+    "example": "自分 (じぶん) - bản thân",
+    "level": "n4"
+  },
+  {
+    "kanji": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "meaning": "công ty, hãng, văn phòng, hiệp hội, đền thờ",
+    "example": "社会 (しゃかい) - xã hội",
+    "level": "n4"
+  },
+  {
+    "kanji": "発",
+    "onyomi": "ハツ, ホツ",
+    "kunyomi": "",
+    "meaning": "khởi hành, phát xả, phát ra, bắt đầu từ",
+    "example": "出発 (しゅっぱつ) - khởi hành",
+    "level": "n4"
+  },
+  {
+    "kanji": "者",
+    "onyomi": "シャ",
+    "kunyomi": "もの",
+    "meaning": "ai đó, người",
+    "example": "記者 (きしゃ) - phóng viên",
+    "level": "n4"
+  },
+  {
+    "kanji": "地",
+    "onyomi": "チ, ジ",
+    "kunyomi": "",
+    "meaning": "mặt đất, trái đất",
+    "example": "地面 (じめん) - mặt đất",
+    "level": "n4"
+  },
+  {
+    "kanji": "業",
+    "onyomi": "ギョウ",
+    "kunyomi": "わざ",
+    "meaning": "kinh doanh, nghề nghiệp, nghệ thuật, biểu diễn",
+    "example": "仕事 (しごと) - công việc",
+    "level": "n4"
+  },
+  {
+    "kanji": "方",
+    "onyomi": "ホウ",
+    "kunyomi": "かた",
+    "meaning": "hướng, người, thay thế",
+    "example": "方法 (ほうほう) - phương pháp",
+    "level": "n4"
+  },
+  {
+    "kanji": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら(しい), あら(た)",
+    "meaning": "mới",
+    "example": "新聞 (しんぶん) - báo chí",
+    "level": "n4"
+  },
+  {
+    "kanji": "場",
+    "onyomi": "ジョウ",
+    "kunyomi": "ば",
+    "meaning": "địa điểm, nơi chốn",
+    "example": "場所 (ばしょ) - địa điểm",
+    "level": "n4"
+  },
+  {
+    "kanji": "員",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "meaning": "nhân viên, thành viên, con số, người phụ trách",
+    "example": "社員 (しゃいん) - nhân viên",
+    "level": "n4"
+  },
+  {
+    "kanji": "立",
+    "onyomi": "リツ",
+    "kunyomi": "た(つ)",
+    "meaning": "đứng lên, thức dậy",
+    "example": "立つ (たつ) - đứng",
+    "level": "n4"
+  },
+  {
+    "kanji": "開",
+    "onyomi": "カイ",
+    "kunyomi": "ひら(く), あ(ける)",
+    "meaning": "mở, mở ra, mở niêm phong",
+    "example": "開ける (あける) - mở",
+    "level": "n4"
+  },
+  {
+    "kanji": "手",
+    "onyomi": "シュ",
+    "kunyomi": "て",
+    "meaning": "tay",
+    "example": "手紙 (てがみ) - thư từ",
+    "level": "n4"
+  },
+  {
+    "kanji": "力",
+    "onyomi": "リョク, リキ",
+    "kunyomi": "ちから",
+    "meaning": "sức mạnh, lực lượng, mạnh mẽ, căng thẳng, chịu đựng, cố gắng",
+    "example": "力 (ちから) - sức mạnh",
+    "level": "n4"
+  },
+  {
+    "kanji": "問",
+    "onyomi": "モン",
+    "kunyomi": "と(う)",
+    "meaning": "câu hỏi, hỏi, vấn đề",
+    "example": "問題 (もんだい) - vấn đề",
+    "level": "n4"
+  },
+  {
+    "kanji": "代",
+    "onyomi": "ダイ",
+    "kunyomi": "か(わり)",
+    "meaning": "thay thế, thay đổi, chuyển đổi, thay thế, thời kỳ",
+    "example": "代わり (かわり) - thay thế",
+    "level": "n4"
+  },
+  {
+    "kanji": "明",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "あか(るい)",
+    "meaning": "sáng sủa, ánh sáng",
+    "example": "明日 (あした) - ngày mai",
+    "level": "n4"
+  },
+  {
+    "kanji": "動",
+    "onyomi": "ドウ",
+    "kunyomi": "うご(く)",
+    "meaning": "di chuyển, cử động, thay đổi",
+    "example": "動く (うごく) - di chuyển",
+    "level": "n4"
+  },
+  {
+    "kanji": "京",
+    "onyomi": "キョウ, ケイ, キン",
+    "kunyomi": "みやこ",
+    "meaning": "thủ đô, kinh đô",
+    "example": "京都 (きょうと) - Kyoto",
+    "level": "n4"
+  },
+  {
+    "kanji": "目",
+    "onyomi": "モク, ボク",
+    "kunyomi": "め",
+    "meaning": "mắt, lớp, cái nhìn, hiểu biết, kinh nghiệm",
+    "example": "目 (め) - mắt",
+    "level": "n4"
+  },
+  {
+    "kanji": "通",
+    "onyomi": "ツウ",
+    "kunyomi": "とお(る), かよ(う)",
+    "meaning": "giao thông, đi qua, đại lộ, đi lại",
+    "example": "通る (とおる) - đi qua",
+    "level": "n4"
+  },
+  {
+    "kanji": "言",
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "い(う), こと",
+    "meaning": "nói, lời nói",
+    "example": "言う (いう) - nói",
+    "level": "n4"
+  },
+  {
+    "kanji": "理",
+    "onyomi": "リ",
+    "kunyomi": "",
+    "meaning": "logic, sắp xếp, lý do, công lý, sự thật",
+    "example": "理由 (りゆう) - lý do",
+    "level": "n4"
+  },
+  {
+    "kanji": "体",
+    "onyomi": "タイ",
+    "kunyomi": "からだ",
+    "meaning": "cơ thể, chất, vật thể, hiện thực",
+    "example": "体 (からだ) - cơ thể",
+    "level": "n4"
+  },
+  {
+    "kanji": "田",
+    "onyomi": "デン",
+    "kunyomi": "た",
+    "meaning": "ruộng lúa",
+    "example": "田 (た) - ruộng lúa",
+    "level": "n4"
+  },
+  {
+    "kanji": "主",
+    "onyomi": "シュ",
+    "kunyomi": "ぬし, おも",
+    "meaning": "chủ nhân, thủ lĩnh, bậc thầy, điều chính, chính yếu",
+    "example": "主人 (しゅじん) - chồng, chủ nhà",
+    "level": "n4"
+  },
+  {
+    "kanji": "題",
+    "onyomi": "ダイ",
+    "kunyomi": "",
+    "meaning": "chủ đề, đề tài",
+    "example": "問題 (もんだい) - vấn đề",
+    "level": "n4"
+  },
+  {
+    "kanji": "意",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "meaning": "ý tưởng, tâm trí, trái tim, khẩu vị, suy nghĩ",
+    "example": "意味 (いみ) - ý nghĩa",
+    "level": "n4"
+  },
+  {
+    "kanji": "不",
+    "onyomi": "フ, ブ",
+    "kunyomi": "",
+    "meaning": "phủ định, không, xấu",
+    "example": "不便 (ふべん) - bất tiện",
+    "level": "n4"
+  },
+  {
+    "kanji": "作",
+    "onyomi": "サク, サ",
+    "kunyomi": "つく(る)",
+    "meaning": "làm, sản xuất, chuẩn bị, xây dựng",
+    "example": "作る (つくる) - làm",
+    "level": "n4"
+  },
+  {
+    "kanji": "用",
+    "onyomi": "ヨウ",
+    "kunyomi": "もち(いる)",
+    "meaning": "sử dụng, công việc, dịch vụ, dùng, thuê",
+    "example": "使う (つかう) - sử dụng",
+    "level": "n4"
+  },
+  {
+    "kanji": "度",
+    "onyomi": "ド, タク",
+    "kunyomi": "たび, た(い)",
+    "meaning": "độ, lần, thời gian, số lần",
+    "example": "毎度 (まいど) - mỗi lần",
+    "level": "n4"
+  },
+  {
+    "kanji": "強",
+    "onyomi": "キョウ, ゴウ",
+    "kunyomi": "つよ(い)",
+    "meaning": "mạnh",
+    "example": "強い (つよい) - mạnh",
+    "level": "n4"
+  },
+  {
+    "kanji": "公",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "công cộng, hoàng tử, quan chức, chính phủ",
+    "example": "公園 (こうえん) - công viên",
+    "level": "n4"
+  },
+  {
+    "kanji": "持",
+    "onyomi": "ジ",
+    "kunyomi": "も(つ)",
+    "meaning": "cầm, có",
+    "example": "持つ (もつ) - cầm, có",
+    "level": "n4"
+  },
+  {
+    "kanji": "野",
+    "onyomi": "ヤ",
+    "kunyomi": "の",
+    "meaning": "đồng bằng, cánh đồng, mộc mạc, đời sống dân sự",
+    "example": "野原 (のはら) - cánh đồng",
+    "level": "n4"
+  },
+  {
+    "kanji": "以",
+    "onyomi": "イ",
+    "kunyomi": "もっ(て)",
+    "meaning": "bằng phương tiện, bởi vì, theo quan điểm, so với",
+    "example": "以上 (いじょう) - trên đây, hơn",
+    "level": "n4"
+  },
+  {
+    "kanji": "思",
+    "onyomi": "シ",
+    "kunyomi": "おも(う)",
+    "meaning": "nghĩ, suy nghĩ",
+    "example": "思う (おもう) - nghĩ",
+    "level": "n4"
+  },
+  {
+    "kanji": "家",
+    "onyomi": "カ",
+    "kunyomi": "いえ, や, うち",
+    "meaning": "nhà, gia đình, chuyên gia",
+    "example": "家族 (かぞく) - gia đình",
+    "level": "n4"
+  },
+  {
+    "kanji": "世",
+    "onyomi": "セイ, セ",
+    "kunyomi": "よ",
+    "meaning": "thế hệ, thế giới, xã hội, công chúng",
+    "example": "世界 (せかい) - thế giới",
+    "level": "n4"
+  },
+  {
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお(い)",
+    "meaning": "nhiều, thường xuyên, nhiều",
+    "example": "多い (おおい) - nhiều",
+    "level": "n4"
+  },
+  {
+    "kanji": "正",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "ただ(しい), まさ(に)",
+    "meaning": "đúng, công lý, chính trực",
+    "example": "正しい (ただしい) - đúng",
+    "level": "n4"
+  },
+  {
+    "kanji": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす(い)",
+    "meaning": "an toàn, hòa bình, rẻ",
+    "example": "安い (やすい) - rẻ",
+    "level": "n4"
+  },
+  {
+    "kanji": "院",
+    "onyomi": "イン",
+    "kunyomi": "",
+    "meaning": "tổ chức, đền thờ, dinh thự, trường học",
+    "example": "病院 (びょういん) - bệnh viện",
+    "level": "n4"
+  },
+  {
+    "kanji": "心",
+    "onyomi": "シン",
+    "kunyomi": "こころ",
+    "meaning": "trái tim, tâm trí, tinh thần",
+    "example": "心 (こころ) - trái tim",
+    "level": "n4"
+  },
+  {
+    "kanji": "界",
+    "onyomi": "カイ",
+    "kunyomi": "",
+    "meaning": "thế giới, ranh giới",
+    "example": "世界 (せかい) - thế giới",
+    "level": "n4"
+  },
+  {
+    "kanji": "教",
+    "onyomi": "キョウ",
+    "kunyomi": "おし(える), おそ(わる)",
+    "meaning": "dạy, đức tin, học thuyết",
+    "example": "教える (おしえる) - dạy",
+    "level": "n4"
+  },
+  {
+    "kanji": "文",
+    "onyomi": "ブン, モン",
+    "kunyomi": "ふみ",
+    "meaning": "câu văn, văn học, phong cách, nghệ thuật",
+    "example": "文学 (ぶんがく) - văn học",
+    "level": "n4"
+  },
+  {
+    "kanji": "元",
+    "onyomi": "ゲン, ガン",
+    "kunyomi": "もと",
+    "meaning": "bắt đầu, thời gian trước đây, nguồn gốc",
+    "example": "元気 (げんき) - sức khỏe, năng lượng",
+    "level": "n4"
+  },
+  {
+    "kanji": "重",
+    "onyomi": "ジュウ, チョウ",
+    "kunyomi": "おも(い), かさ(ねる)",
+    "meaning": "nặng, quan trọng, tôn trọng",
+    "example": "重い (おもい) - nặng",
+    "level": "n4"
+  },
+  {
+    "kanji": "近",
+    "onyomi": "キン",
+    "kunyomi": "ちか(い)",
+    "meaning": "gần, sớm, tương tự",
+    "example": "近い (ちかい) - gần",
+    "level": "n4"
+  },
+  {
+    "kanji": "考",
+    "onyomi": "コウ",
+    "kunyomi": "かんが(える)",
+    "meaning": "suy nghĩ, cân nhắc",
+    "example": "考える (かんがえる) - suy nghĩ",
+    "level": "n4"
+  },
+  {
+    "kanji": "画",
+    "onyomi": "ガ, カク",
+    "kunyomi": "かく(する)",
+    "meaning": "nét bút, hình ảnh",
+    "example": "映画 (えいが) - phim ảnh",
+    "level": "n4"
+  },
+  {
+    "kanji": "海",
+    "onyomi": "カイ",
+    "kunyomi": "うみ",
+    "meaning": "biển, đại dương",
+    "example": "海 (うみ) - biển",
+    "level": "n4"
+  },
+  {
+    "kanji": "売",
+    "onyomi": "バイ",
+    "kunyomi": "う(る)",
+    "meaning": "bán",
+    "example": "売る (うる) - bán",
+    "level": "n4"
+  },
+  {
+    "kanji": "知",
+    "onyomi": "チ",
+    "kunyomi": "し(る)",
+    "meaning": "biết, trí tuệ",
+    "example": "知る (しる) - biết",
+    "level": "n4"
+  },
+  {
+    "kanji": "道",
+    "onyomi": "ドウ",
+    "kunyomi": "みち",
+    "meaning": "đường, phố, quận, hành trình, khóa học",
+    "example": "道 (みち) - đường",
+    "level": "n4"
+  },
+  {
+    "kanji": "集",
+    "onyomi": "シュウ",
+    "kunyomi": "あつ(める)",
+    "meaning": "tập hợp, gặp gỡ",
+    "example": "集める (あつめる) - tập hợp",
+    "level": "n4"
+  },
+  {
+    "kanji": "別",
+    "onyomi": "ベツ",
+    "kunyomi": "わか(れる), わ(ける)",
+    "meaning": "tách biệt, phân nhánh, phân kỳ",
+    "example": "別れる (わかれる) - chia tay",
+    "level": "n4"
+  },
+  {
+    "kanji": "物",
+    "onyomi": "ブツ, モツ",
+    "kunyomi": "もの",
+    "meaning": "đồ vật, vật thể, sự việc",
+    "example": "物 (もの) - đồ vật",
+    "level": "n4"
+  },
+  {
+    "kanji": "使",
+    "onyomi": "シ",
+    "kunyomi": "つか(う)",
+    "meaning": "sử dụng, ra lệnh, sứ giả, đại sứ",
+    "example": "使う (つかう) - sử dụng",
+    "level": "n4"
+  },
+  {
+    "kanji": "品",
+    "onyomi": "ヒン",
+    "kunyomi": "しな",
+    "meaning": "hàng hóa, sự tinh tế, phẩm giá, bài viết",
+    "example": "品物 (しなもの) - hàng hóa",
+    "level": "n4"
+  },
+  {
+    "kanji": "計",
+    "onyomi": "ケイ",
+    "kunyomi": "はか(る)",
+    "meaning": "âm mưu, kế hoạch, đề án, đo lường",
+    "example": "計画 (けいかく) - kế hoạch",
+    "level": "n4"
+  },
+  {
+    "kanji": "死",
+    "onyomi": "シ",
+    "kunyomi": "し(ぬ)",
+    "meaning": "cái chết, chết",
+    "example": "死ぬ (しぬ) - chết",
+    "level": "n4"
+  },
+  {
+    "kanji": "特",
+    "onyomi": "トク",
+    "kunyomi": "",
+    "meaning": "đặc biệt",
+    "example": "特別 (とくべつ) - đặc biệt",
+    "level": "n4"
+  },
+  {
+    "kanji": "私",
+    "onyomi": "シ",
+    "kunyomi": "わたくし, わたし",
+    "meaning": "riêng tư, tôi",
+    "example": "私 (わたし) - tôi",
+    "level": "n4"
+  },
+  {
+    "kanji": "始",
+    "onyomi": "シ",
+    "kunyomi": "はじ(める)",
+    "meaning": "bắt đầu, khởi đầu",
+    "example": "始める (はじめる) - bắt đầu",
+    "level": "n4"
+  },
+  {
+    "kanji": "朝",
+    "onyomi": "チョウ",
+    "kunyomi": "あさ",
+    "meaning": "buổi sáng",
+    "example": "朝 (あさ) - buổi sáng",
+    "level": "n4"
+  },
+  {
+    "kanji": "運",
+    "onyomi": "ウン",
+    "kunyomi": "はこ(ぶ)",
+    "meaning": "mang, vận may, số phận, vận chuyển",
+    "example": "運ぶ (はこぶ) - mang",
+    "level": "n4"
+  },
+  {
+    "kanji": "終",
+    "onyomi": "シュウ",
+    "kunyomi": "お(わる)",
+    "meaning": "kết thúc, kết liễu",
+    "example": "終わる (おわる) - kết thúc",
+    "level": "n4"
+  },
+  {
+    "kanji": "台",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "うてな",
+    "meaning": "bệ, giá đỡ, đơn vị đếm máy móc và xe cộ",
+    "example": "台所 (だいどころ) - nhà bếp",
+    "level": "n4"
+  },
+  {
+    "kanji": "広",
+    "onyomi": "コウ",
+    "kunyomi": "ひろ(い)",
+    "meaning": "rộng, rộng rãi",
+    "example": "広い (ひろい) - rộng",
+    "level": "n4"
+  },
+  {
+    "kanji": "住",
+    "onyomi": "ジュウ, チュウ",
+    "kunyomi": "す(む)",
+    "meaning": "ở, cư trú",
+    "example": "住む (すむ) - ở",
+    "level": "n4"
+  },
+  {
+    "kanji": "無",
+    "onyomi": "ム, ブ",
+    "kunyomi": "な(い)",
+    "meaning": "hư vô, không có",
+    "example": "無い (ない) - không có",
+    "level": "n4"
+  },
+  {
+    "kanji": "真",
+    "onyomi": "シン",
+    "kunyomi": "ま, まこと",
+    "meaning": "thật, thực tế, phái Phật giáo",
+    "example": "真 (まこと) - sự thật",
+    "level": "n4"
+  },
+  {
+    "kanji": "有",
+    "onyomi": "ユウ, ウ",
+    "kunyomi": "あ(る)",
+    "meaning": "sở hữu, có, tồn tại",
+    "example": "有る (ある) - có",
+    "level": "n4"
+  },
+  {
+    "kanji": "口",
+    "onyomi": "コウ",
+    "kunyomi": "くち",
+    "meaning": "miệng",
+    "example": "口 (くち) - miệng",
+    "level": "n4"
+  },
+  {
+    "kanji": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく(ない), すこ(し)",
+    "meaning": "ít, một ít",
+    "example": "少ない (すくない) - ít",
+    "level": "n4"
+  },
+  {
+    "kanji": "町",
+    "onyomi": "チョウ",
+    "kunyomi": "まち",
+    "meaning": "thị trấn, làng, dãy phố, đường phố",
+    "example": "町 (まち) - thị trấn",
+    "level": "n4"
+  },
+  {
+    "kanji": "料",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "phí, vật liệu",
+    "example": "料理 (りょうり) - nấu ăn",
+    "level": "n4"
+  },
+  {
+    "kanji": "工",
+    "onyomi": "コウ, ク, グ",
+    "kunyomi": "",
+    "meaning": "thủ công, xây dựng",
+    "example": "工場 (こうじょう) - nhà máy",
+    "level": "n4"
+  },
+  {
+    "kanji": "建",
+    "onyomi": "ケン, コン",
+    "kunyomi": "た(てる)",
+    "meaning": "xây dựng",
+    "example": "建てる (たてる) - xây dựng",
+    "level": "n4"
+  },
+  {
+    "kanji": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら, から, あ(く), す(く), むな(しい)",
+    "meaning": "trống, bầu trời, khoảng không",
+    "example": "空 (そら) - bầu trời",
+    "level": "n4"
+  },
+  {
+    "kanji": "急",
+    "onyomi": "キュウ",
+    "kunyomi": "いそ(ぐ)",
+    "meaning": "vội vàng, khẩn cấp, đột ngột, dốc",
+    "example": "急ぐ (いそぐ) - vội vàng",
+    "level": "n4"
+  },
+  {
+    "kanji": "止",
+    "onyomi": "シ",
+    "kunyomi": "と(まる), とど(まる), や(める), よ(す)",
+    "meaning": "dừng lại, ngừng",
+    "example": "止まる (とまる) - dừng lại",
+    "level": "n4"
+  },
+  {
+    "kanji": "送",
+    "onyomi": "ソウ",
+    "kunyomi": "おく(る)",
+    "meaning": "hộ tống, gửi",
+    "example": "送る (おくる) - gửi",
+    "level": "n4"
+  },
+  {
+    "kanji": "切",
+    "onyomi": "セツ, サイ",
+    "kunyomi": "き(る)",
+    "meaning": "cắt, ngắt, sắc bén",
+    "example": "切る (きる) - cắt",
+    "level": "n4"
+  },
+  {
+    "kanji": "転",
+    "onyomi": "テン",
+    "kunyomi": "ころ(がる)",
+    "meaning": "xoay, quay, thay đổi",
+    "example": "転ぶ (ころぶ) - ngã",
+    "level": "n4"
+  },
+  {
+    "kanji": "研",
+    "onyomi": "ケン",
+    "kunyomi": "と(ぐ)",
+    "meaning": "đánh bóng, nghiên cứu, mài sắc",
+    "example": "研究 (けんきゅう) - nghiên cứu",
+    "level": "n4"
+  },
+  {
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし, た(りる)",
+    "meaning": "chân, đủ",
+    "example": "足 (あし) - chân",
+    "level": "n4"
+  },
+  {
+    "kanji": "究",
+    "onyomi": "キュウ",
+    "kunyomi": "",
+    "meaning": "nghiên cứu, học tập",
+    "example": "研究 (けんきゅう) - nghiên cứu",
+    "level": "n4"
+  },
+  {
+    "kanji": "楽",
+    "onyomi": "ガク, ラク",
+    "kunyomi": "たの(しい)",
+    "meaning": "âm nhạc, thoải mái, nhẹ nhàng",
+    "example": "楽しい (たのしい) - vui vẻ",
+    "level": "n4"
+  },
+  {
+    "kanji": "起",
+    "onyomi": "キ",
+    "kunyomi": "お(きる), おこ(す)",
+    "meaning": "thức dậy, đứng dậy, đánh thức",
+    "example": "起きる (おきる) - thức dậy",
+    "level": "n4"
+  },
+  {
+    "kanji": "着",
+    "onyomi": "チャク",
+    "kunyomi": "き(る), つ(く)",
+    "meaning": "đến, mặc, đơn vị đếm quần áo",
+    "example": "着る (きる) - mặc",
+    "level": "n4"
+  },
+  {
+    "kanji": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ",
+    "meaning": "cửa hàng, tiệm",
+    "example": "店 (みせ) - cửa hàng",
+    "level": "n4"
+  },
+  {
+    "kanji": "病",
+    "onyomi": "ビョウ",
+    "kunyomi": "や(む)",
+    "meaning": "bệnh, ốm",
+    "example": "病気 (びょうき) - bệnh tật",
+    "level": "n4"
+  },
+  {
+    "kanji": "質",
+    "onyomi": "シツ, シチ",
+    "kunyomi": "たち, ただ(す)",
+    "meaning": "chất, chất lượng, vấn đề, tính khí",
+    "example": "質 (しつ) - chất lượng",
+    "level": "n4"
+  },
+  {
+    "kanji": "待",
+    "onyomi": "タイ",
+    "kunyomi": "ま(つ)",
+    "meaning": "đợi, phụ thuộc",
+    "example": "待つ (まつ) - đợi",
+    "level": "n4"
+  },
+  {
+    "kanji": "試",
+    "onyomi": "シ",
+    "kunyomi": "こころ(みる), ため(す)",
+    "meaning": "kiểm tra, thử, cố gắng, thí nghiệm",
+    "example": "試す (ためす) - kiểm tra",
+    "level": "n4"
+  },
+  {
+    "kanji": "族",
+    "onyomi": "ゾク",
+    "kunyomi": "",
+    "meaning": "bộ lạc, gia đình",
+    "example": "家族 (かぞく) - gia đình",
+    "level": "n4"
+  },
+  {
+    "kanji": "銀",
+    "onyomi": "ギン",
+    "kunyomi": "",
+    "meaning": "bạc",
+    "example": "銀行 (ぎんこう) - ngân hàng",
+    "level": "n4"
+  },
+  {
+    "kanji": "早",
+    "onyomi": "ソウ, サッ",
+    "kunyomi": "はや(い)",
+    "meaning": "sớm, nhanh",
+    "example": "早い (はやい) - sớm",
+    "level": "n4"
+  },
+  {
+    "kanji": "映",
+    "onyomi": "エイ",
+    "kunyomi": "うつ(る), は(える)",
+    "meaning": "phản chiếu, hình chiếu",
+    "example": "映画 (えいが) - phim ảnh",
+    "level": "n4"
+  },
+  {
+    "kanji": "親",
+    "onyomi": "シン",
+    "kunyomi": "おや, した(しい)",
+    "meaning": "cha mẹ, thân mật, họ hàng",
+    "example": "親 (おや) - cha mẹ",
+    "level": "n4"
+  },
+  {
+    "kanji": "験",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "xác minh, hiệu quả, kiểm tra",
+    "example": "試験 (しけん) - thi cử",
+    "level": "n4"
+  },
+  {
+    "kanji": "英",
+    "onyomi": "エイ",
+    "kunyomi": "",
+    "meaning": "Anh, tiếng Anh, anh hùng, xuất sắc",
+    "example": "英語 (えいご) - tiếng Anh",
+    "level": "n4"
+  },
+  {
+    "kanji": "医",
+    "onyomi": "イ",
+    "kunyomi": "",
+    "meaning": "bác sĩ, y học",
+    "example": "医者 (いしゃ) - bác sĩ",
+    "level": "n4"
+  },
+  {
+    "kanji": "仕",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "phục vụ, làm, quan chức",
+    "example": "仕事 (しごと) - công việc",
+    "level": "n4"
+  },
+  {
+    "kanji": "去",
+    "onyomi": "キョ, コ",
+    "kunyomi": "さ(る)",
+    "meaning": "đã qua, rời đi, biến mất",
+    "example": "行く (いく) - đi",
+    "level": "n4"
+  },
+  {
+    "kanji": "味",
+    "onyomi": "ミ",
+    "kunyomi": "あじ",
+    "meaning": "hương vị",
+    "example": "味 (あじ) - hương vị",
+    "level": "n4"
+  },
+  {
+    "kanji": "写",
+    "onyomi": "シャ",
+    "kunyomi": "うつ(る)",
+    "meaning": "sao chép, chụp ảnh, mô tả",
+    "example": "写る (うつる) - được chụp",
+    "level": "n4"
+  },
+  {
+    "kanji": "字",
+    "onyomi": "ジ",
+    "kunyomi": "",
+    "meaning": "ký tự, chữ cái",
+    "example": "漢字 (かんじ) - Kanji",
+    "level": "n4"
+  },
+  {
+    "kanji": "答",
+    "onyomi": "トウ",
+    "kunyomi": "こた(える)",
+    "meaning": "câu trả lời, đáp án",
+    "example": "答える (こたえる) - trả lời",
+    "level": "n4"
+  },
+  {
+    "kanji": "夜",
+    "onyomi": "ヤ",
+    "kunyomi": "よ, よる",
+    "meaning": "đêm, buổi tối",
+    "example": "夜 (よる) - đêm",
+    "level": "n4"
+  },
+  {
+    "kanji": "音",
+    "onyomi": "オン",
+    "kunyomi": "おと, ね",
+    "meaning": "âm thanh",
+    "example": "音 (おと) - âm thanh",
+    "level": "n4"
+  },
+  {
+    "kanji": "注",
+    "onyomi": "チュウ",
+    "kunyomi": "そそ(ぐ), さ(す), つ(ぐ)",
+    "meaning": "rót, tưới, chảy vào, tập trung vào",
+    "example": "注意 (ちゅうい) - chú ý",
+    "level": "n4"
+  },
+  {
+    "kanji": "帰",
+    "onyomi": "キ",
+    "kunyomi": "かえ(る), かえ(す)",
+    "meaning": "trở về nhà, đến nơi, dẫn đến",
+    "example": "帰る (かえる) - về nhà",
+    "level": "n4"
+  },
+  {
+    "kanji": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる(い)",
+    "meaning": "cũ",
+    "example": "古い (ふるい) - cũ",
+    "level": "n4"
+  },
+  {
+    "kanji": "歌",
+    "onyomi": "カ",
+    "kunyomi": "うた, うた(う)",
+    "meaning": "bài hát, hát",
+    "example": "歌 (うた) - bài hát",
+    "level": "n4"
+  },
+  {
+    "kanji": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か(う)",
+    "meaning": "mua",
+    "example": "買う (かう) - mua",
+    "level": "n4"
+  },
+  {
+    "kanji": "悪",
+    "onyomi": "アク",
+    "kunyomi": "わる(い)",
+    "meaning": "xấu, ác, sai",
+    "example": "悪い (わるい) - xấu",
+    "level": "n4"
+  },
+  {
+    "kanji": "図",
+    "onyomi": "ズ, ト",
+    "kunyomi": "はか(る)",
+    "meaning": "bản đồ, bản vẽ, kế hoạch",
+    "example": "地図 (ちず) - bản đồ",
+    "level": "n4"
+  },
+  {
+    "kanji": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "meaning": "tuần",
+    "example": "今週 (こんしゅう) - tuần này",
+    "level": "n4"
+  },
+  {
+    "kanji": "室",
+    "onyomi": "シツ",
+    "kunyomi": "むろ",
+    "meaning": "phòng, căn hộ, buồng",
+    "example": "教室 (きょうしつ) - lớp học",
+    "level": "n4"
+  },
+  {
+    "kanji": "歩",
+    "onyomi": "ホ, ブ",
+    "kunyomi": "ある(く), あゆ(む)",
+    "meaning": "đi bộ, số bước",
+    "example": "歩く (あるく) - đi bộ",
+    "level": "n4"
+  },
+  {
+    "kanji": "風",
+    "onyomi": "フウ, フ",
+    "kunyomi": "かぜ, かざ-",
+    "meaning": "gió, không khí, phong cách",
+    "example": "風 (かぜ) - gió",
+    "level": "n4"
+  },
+  {
+    "kanji": "紙",
+    "onyomi": "シ",
+    "kunyomi": "かみ",
+    "meaning": "giấy",
+    "example": "紙 (かみ) - giấy",
+    "level": "n4"
+  },
+  {
+    "kanji": "黒",
+    "onyomi": "コク",
+    "kunyomi": "くろ",
+    "meaning": "đen",
+    "example": "黒い (くろい) - màu đen",
+    "level": "n4"
+  },
+  {
+    "kanji": "花",
+    "onyomi": "カ, ケ",
+    "kunyomi": "はな",
+    "meaning": "hoa",
+    "example": "花 (はな) - hoa",
+    "level": "n4"
+  },
+  {
+    "kanji": "春",
+    "onyomi": "シュン",
+    "kunyomi": "はる",
+    "meaning": "mùa xuân",
+    "example": "春 (はる) - mùa xuân",
+    "level": "n4"
+  },
+  {
+    "kanji": "赤",
+    "onyomi": "セキ, シャク",
+    "kunyomi": "あか(い)",
+    "meaning": "đỏ",
+    "example": "赤い (あかい) - màu đỏ",
+    "level": "n4"
+  },
+  {
+    "kanji": "青",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "あお(い)",
+    "meaning": "xanh",
+    "example": "青い (あおい) - màu xanh",
+    "level": "n4"
+  },
+  {
+    "kanji": "館",
+    "onyomi": "カン",
+    "kunyomi": "やかた",
+    "meaning": "tòa nhà, dinh thự",
+    "example": "図書館 (としょかん) - thư viện",
+    "level": "n4"
+  },
+  {
+    "kanji": "屋",
+    "onyomi": "オク",
+    "kunyomi": "や",
+    "meaning": "mái nhà, nhà, cửa hàng",
+    "example": "屋根 (やね) - mái nhà",
+    "level": "n4"
+  },
+  {
+    "kanji": "色",
+    "onyomi": "ショク, シキ",
+    "kunyomi": "いろ",
+    "meaning": "màu sắc",
+    "example": "色 (いろ) - màu sắc",
+    "level": "n4"
+  },
+  {
+    "kanji": "走",
+    "onyomi": "ソウ",
+    "kunyomi": "はし(る)",
+    "meaning": "chạy",
+    "example": "走る (はしる) - chạy",
+    "level": "n4"
+  },
+  {
+    "kanji": "秋",
+    "onyomi": "シュウ",
+    "kunyomi": "あき",
+    "meaning": "mùa thu",
+    "example": "秋 (あき) - mùa thu",
+    "level": "n4"
+  },
+  {
+    "kanji": "夏",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "なつ",
+    "meaning": "mùa hè",
+    "example": "夏 (なつ) - mùa hè",
+    "level": "n4"
+  },
+  {
+    "kanji": "習",
+    "onyomi": "シュウ",
+    "kunyomi": "なら(う)",
+    "meaning": "học",
+    "example": "習う (ならう) - học",
+    "level": "n4"
+  },
+  {
+    "kanji": "駅",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "meaning": "nhà ga",
+    "example": "駅 (えき) - nhà ga",
+    "level": "n4"
+  },
+  {
+    "kanji": "洋",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "đại dương, nước ngoài, phong cách phương Tây",
+    "example": "洋食 (ようしょく) - đồ ăn Tây",
+    "level": "n4"
+  },
+  {
+    "kanji": "旅",
+    "onyomi": "リョ",
+    "kunyomi": "たび",
+    "meaning": "du lịch",
+    "example": "旅行 (りょこう) - du lịch",
+    "level": "n4"
+  },
+  {
+    "kanji": "服",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "quần áo",
+    "example": "服 (ふく) - quần áo",
+    "level": "n4"
+  },
+  {
+    "kanji": "夕",
+    "onyomi": "",
+    "kunyomi": "ゆう",
+    "meaning": "buổi tối",
+    "example": "夕方 (ゆうがた) - chiều tối",
+    "level": "n4"
+  },
+  {
+    "kanji": "借",
+    "onyomi": "シャク",
+    "kunyomi": "か(りる)",
+    "meaning": "mượn, thuê",
+    "example": "借りる (かりる) - mượn",
+    "level": "n4"
+  },
+  {
+    "kanji": "曜",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "ngày trong tuần",
+    "example": "曜日 (ようび) - thứ trong tuần",
+    "level": "n4"
+  },
+  {
+    "kanji": "飲",
+    "onyomi": "イン",
+    "kunyomi": "の(む)",
+    "meaning": "uống",
+    "example": "飲む (のむ) - uống",
+    "level": "n4"
+  },
+  {
+    "kanji": "肉",
+    "onyomi": "ニク",
+    "kunyomi": "",
+    "meaning": "thịt",
+    "example": "肉 (にく) - thịt",
+    "level": "n4"
+  },
+  {
+    "kanji": "貸",
+    "onyomi": "タイ",
+    "kunyomi": "か(す), かし",
+    "meaning": "cho mượn",
+    "example": "貸す (かす) - cho mượn",
+    "level": "n4"
+  },
+  {
+    "kanji": "堂",
+    "onyomi": "ドウ",
+    "kunyomi": "",
+    "meaning": "đại sảnh",
+    "example": "食堂 (しょくどう) - nhà ăn",
+    "level": "n4"
+  },
+  {
+    "kanji": "鳥",
+    "onyomi": "チョウ",
+    "kunyomi": "とり",
+    "meaning": "chim",
+    "example": "鳥 (とり) - chim",
+    "level": "n4"
+  },
+  {
+    "kanji": "飯",
+    "onyomi": "ハン",
+    "kunyomi": "めし",
+    "meaning": "cơm",
+    "example": "ご飯 (ごはん) - cơm",
+    "level": "n4"
+  },
+  {
+    "kanji": "勉",
+    "onyomi": "ベン",
+    "kunyomi": "つと(める)",
+    "meaning": "cố gắng, nỗ lực",
+    "example": "勉強 (べんきょう) - học tập",
+    "level": "n4"
+  },
+  {
+    "kanji": "冬",
+    "onyomi": "トウ",
+    "kunyomi": "ふゆ",
+    "meaning": "mùa đông",
+    "example": "冬 (ふゆ) - mùa đông",
+    "level": "n4"
+  },
+  {
+    "kanji": "昼",
+    "onyomi": "チュウ",
+    "kunyomi": "ひる",
+    "meaning": "ban ngày, buổi trưa",
+    "example": "昼 (ひる) - ban ngày",
+    "level": "n4"
+  },
+  {
+    "kanji": "茶",
+    "onyomi": "チャ, サ",
+    "kunyomi": "",
+    "meaning": "trà",
+    "example": "お茶 (おちゃ) - trà",
+    "level": "n4"
+  },
+  {
+    "kanji": "弟",
+    "onyomi": "テイ, ダイ, デ",
+    "kunyomi": "おとうと",
+    "meaning": "em trai",
+    "example": "弟 (おとうと) - em trai",
+    "level": "n4"
+  },
+  {
+    "kanji": "牛",
+    "onyomi": "ギュウ",
+    "kunyomi": "うし",
+    "meaning": "bò",
+    "example": "牛 (うし) - bò",
+    "level": "n4"
+  },
+  {
+    "kanji": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "うお, さかな",
+    "meaning": "cá",
+    "example": "魚 (さかな) - cá",
+    "level": "n4"
+  },
+  {
+    "kanji": "兄",
+    "onyomi": "キョウ, ケイ",
+    "kunyomi": "あに",
+    "meaning": "anh trai",
+    "example": "兄 (あに) - anh trai",
+    "level": "n4"
+  },
+  {
+    "kanji": "犬",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ",
+    "meaning": "chó",
+    "example": "犬 (いぬ) - chó",
+    "level": "n4"
+  },
+  {
+    "kanji": "妹",
+    "onyomi": "マイ",
+    "kunyomi": "いもうと",
+    "meaning": "em gái",
+    "example": "妹 (いもうと) - em gái",
+    "level": "n4"
+  },
+  {
+    "kanji": "姉",
+    "onyomi": "シ",
+    "kunyomi": "あね",
+    "meaning": "chị gái",
+    "example": "姉 (あね) - chị gái",
+    "level": "n4"
+  },
+  {
+    "kanji": "漢",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "Trung Quốc",
+    "example": "漢字 (かんじ) - Chữ Hán",
+    "level": "n4"
+  }
+]
