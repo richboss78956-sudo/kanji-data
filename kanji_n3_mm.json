@@ -1,0 +1,2962 @@
+[
+  {
+    "kanji": "政",
+    "onyomi": "セイ",
+    "kunyomi": "まつりごと",
+    "meaning": "နိုင်ငံရေး၊ အစိုးရ",
+    "example": "政治 (せいじ) - နိုင်ငံရေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "議",
+    "onyomi": "ギ",
+    "kunyomi": "",
+    "meaning": "ဆွေးနွေးခြင်း၊ ညှိနှိုင်းခြင်း၊ ငြင်းခုံခြင်း",
+    "example": "会議 (かいぎ) - အစည်းအဝေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "民",
+    "onyomi": "ミン",
+    "kunyomi": "たみ",
+    "meaning": "ပြည်သူ၊ နိုင်ငံသား၊ လူမျိုး",
+    "example": "国民 (こくみん) - နိုင်ငံသား",
+    "level": "n3"
+  },
+  {
+    "kanji": "連",
+    "onyomi": "レン",
+    "kunyomi": "つら(なる), つ(れる)",
+    "meaning": "ခေါ်ဆောင်သွားခြင်း၊ ဦးဆောင်ခြင်း၊ ချိတ်ဆက်ခြင်း",
+    "example": "連絡 (れんらく) - ဆက်သွယ်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "対",
+    "onyomi": "タイ, ツイ",
+    "kunyomi": "",
+    "meaning": "ဆန့်ကျင်ဘက်၊ တန်းတူ၊ နှိုင်းယှဉ်",
+    "example": "対話 (たいわ) - ဆွေးနွေးမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "部",
+    "onyomi": "ブ",
+    "kunyomi": "",
+    "meaning": "အပိုင်း၊ ဌာန၊ အတန်း၊ အစိတ်အပိုင်း",
+    "example": "部分 (ぶぶん) - အစိတ်အပိုင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "合",
+    "onyomi": "ゴウ, ガッ, カッ",
+    "kunyomi": "あ(う), あい",
+    "meaning": "ကိုက်ညီခြင်း၊ သင့်တော်ခြင်း၊ ပူးပေါင်းခြင်း",
+    "example": "合う (あう) - ကိုက်ညီရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "市",
+    "onyomi": "シ",
+    "kunyomi": "いち",
+    "meaning": "စျေး၊ မြို့၊ မြို့တော်",
+    "example": "市役所 (しやくしょ) - မြို့တော်ခန်းမ",
+    "level": "n3"
+  },
+  {
+    "kanji": "内",
+    "onyomi": "ナイ",
+    "kunyomi": "うち",
+    "meaning": "အတွင်း၊ အတွင်းဘက်၊ အကြား၊ အိမ်",
+    "example": "内側 (うちがわ) - အတွင်းဘက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "相",
+    "onyomi": "ソウ, ショウ",
+    "kunyomi": "あい",
+    "meaning": "အပြန်အလှန်၊ အချင်းချင်း၊ အတူတူ၊ ဝန်ကြီး",
+    "example": "相談 (そうだん) - တိုင်ပင်ဆွေးနွေးခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "定",
+    "onyomi": "テイ, ジョウ",
+    "kunyomi": "さだ(める)",
+    "meaning": "သတ်မှတ်ရန်၊ ပြုပြင်ရန်၊ ဆုံးဖြတ်ရန်",
+    "example": "決定 (けってい) - ဆုံးဖြတ်ချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "回",
+    "onyomi": "カイ",
+    "kunyomi": "まわ(す)",
+    "meaning": "အကြိမ်၊ လှည့်ခြင်း၊ ရေတွက်သောစကားလုံး",
+    "example": "回る (まわる) - လှည့်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "選",
+    "onyomi": "セン",
+    "kunyomi": "えら(ぶ)",
+    "meaning": "ရွေးချယ်ရန်၊ ရွေးကောက်ရန်",
+    "example": "選択 (せんたく) - ရွေးချယ်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "米",
+    "onyomi": "ベイ, マイ, メエトル",
+    "kunyomi": "こめ",
+    "meaning": "ဆန်၊ အမေရိကန်၊ မီတာ",
+    "example": "米国 (べいこく) - အမေရိကန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "実",
+    "onyomi": "ジツ",
+    "kunyomi": "み, みの(る)",
+    "meaning": "အဖြစ်မှန်၊ အမှန်တရား",
+    "example": "実際 (じっさい) - အမှန်တကယ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "関",
+    "onyomi": "カン",
+    "kunyomi": "せき, かか(わる)",
+    "meaning": "ဆက်သွယ်မှု၊ အတားအဆီး၊ ပတ်သက်ခြင်း",
+    "example": "関係 (かんけい) - ဆက်စပ်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "決",
+    "onyomi": "ケツ",
+    "kunyomi": "き(める)",
+    "meaning": "ဆုံးဖြတ်ရန်၊ သတ်မှတ်ရန်၊ ခန့်အပ်ရန်",
+    "example": "決める (きめる) - ဆုံးဖြတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "全",
+    "onyomi": "ゼン",
+    "kunyomi": "まった(く), すべ(て)",
+    "meaning": "အားလုံး၊ တစ်ခုလုံး၊ ပြည့်စုံသော",
+    "example": "全部 (ぜんぶ) - အားလုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "表",
+    "onyomi": "ヒョウ",
+    "kunyomi": "おもて, あらわ(す)",
+    "meaning": "မျက်နှာပြင်၊ ဇယား၊ ပုံ",
+    "example": "表現 (ひょうげん) - ဖော်ပြချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "戦",
+    "onyomi": "セン",
+    "kunyomi": "いくさ, たたか(う)",
+    "meaning": "စစ်၊ တိုက်ပွဲ၊ ယှဉ်ပြိုင်မှု",
+    "example": "戦争 (せんそう) - စစ်ပွဲ",
+    "level": "n3"
+  },
+  {
+    "kanji": "経",
+    "onyomi": "ケイ",
+    "kunyomi": "へ(る), た(つ)",
+    "meaning": "လောင်ဂျီကျု၊ ဖြတ်သန်းခြင်း",
+    "example": "経験 (けいけん) - အတွေ့အကြုံ",
+    "level": "n3"
+  },
+  {
+    "kanji": "最",
+    "onyomi": "サイ",
+    "kunyomi": "もっと(も)",
+    "meaning": "အလွန်ဆုံး၊ အများဆုံး၊ အစွန်းရောက်",
+    "example": "最高 (さいこう) - အမြင့်ဆုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "現",
+    "onyomi": "ゲン",
+    "kunyomi": "あらわ(れる), うつ(つ)",
+    "meaning": "လက်ရှိ၊ ရှိပြီးသား၊ အမှန်တကယ်",
+    "example": "現在 (げんざい) - လက်ရှိ",
+    "level": "n3"
+  },
+  {
+    "kanji": "調",
+    "onyomi": "チョウ",
+    "kunyomi": "しら(べる), ととの(う)",
+    "meaning": "သံစဉ်၊ ပြင်ဆင်ရန်၊ စုံစမ်းရန်",
+    "example": "調査 (ちょうさ) - စုံစမ်းစစ်ဆေးမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "化",
+    "onyomi": "カ, ケ",
+    "kunyomi": "ば(ける), ふ(ける)",
+    "meaning": "ပြောင်းလဲခြင်း၊ အသွင်ယူခြင်း",
+    "example": "変化 (へんか) - အပြောင်းအလဲ",
+    "level": "n3"
+  },
+  {
+    "kanji": "当",
+    "onyomi": "トウ",
+    "kunyomi": "あ(たる)",
+    "meaning": "ထိရန်၊ မှန်ကန်သော၊ သင့်လျော်သော",
+    "example": "当然 (とうぜん) - သဘာဝကျကျ",
+    "level": "n3"
+  },
+  {
+    "kanji": "約",
+    "onyomi": "ヤク",
+    "kunyomi": "つづ(まる)",
+    "meaning": "ကတိ၊ ခန့်မှန်းခြေ၊ ကျုံ့ခြင်း",
+    "example": "約束 (やくそく) - ကတိ",
+    "level": "n3"
+  },
+  {
+    "kanji": "首",
+    "onyomi": "シュ",
+    "kunyomi": "くび",
+    "meaning": "လည်ပင်း",
+    "example": "首 (くび) - လည်ပင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "法",
+    "onyomi": "ホウ",
+    "kunyomi": "のり",
+    "meaning": "နည်းလမ်း၊ ဥပဒေ၊ စည်းကမ်း",
+    "example": "方法 (ほうほう) - နည်းလမ်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "性",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "",
+    "meaning": "လိင်၊ သဘာဝ",
+    "example": "性格 (せいかく) - ကိုယ်ရည်ကိုယ်သွေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "的",
+    "onyomi": "テキ",
+    "kunyomi": "",
+    "meaning": "အမှတ်အသား၊ ပစ်မှတ်၊ အရာဝတ္ထု",
+    "example": "目的 (もくてき) - ရည်ရွယ်ချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "要",
+    "onyomi": "ヨウ",
+    "kunyomi": "い(る), かなめ",
+    "meaning": "လိုအပ်ချက်၊ အဓိကအချက်",
+    "example": "必要 (ひつよう) - လိုအပ်ချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "制",
+    "onyomi": "セイ",
+    "kunyomi": "",
+    "meaning": "စနစ်၊ ဥပဒေ၊ စည်းမျဉ်း",
+    "example": "制度 (せいど) - စနစ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "治",
+    "onyomi": "ジ, チ",
+    "kunyomi": "おさ(める), なお(る)",
+    "meaning": "အုပ်ချုပ်ရန်၊ ကုသရန်",
+    "example": "政治 (せいじ) - နိုင်ငံရေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "務",
+    "onyomi": "ム",
+    "kunyomi": "つと(める)",
+    "meaning": "တာဝန်",
+    "example": "事務 (じむ) - ရုံးအလုပ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "成",
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "な(る)",
+    "meaning": "ဖြစ်လာရန်၊ ကြီးထွားရန်",
+    "example": "成功 (せいこう) - အောင်မြင်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "期",
+    "onyomi": "キ, ゴ",
+    "kunyomi": "",
+    "meaning": "ကာလ၊ အချိန်",
+    "example": "期間 (きかん) - ကာလ",
+    "level": "n3"
+  },
+  {
+    "kanji": "取",
+    "onyomi": "シュ",
+    "kunyomi": "と(る)",
+    "meaning": "ယူရန်",
+    "example": "取る (とる) - ယူရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "都",
+    "onyomi": "ト, ツ",
+    "kunyomi": "みやこ",
+    "meaning": "မြို့တော်",
+    "example": "首都 (しゅと) - မြို့တော်",
+    "level": "n3"
+  },
+  {
+    "kanji": "和",
+    "onyomi": "ワ, オ",
+    "kunyomi": "やわ(らぐ), なご(む)",
+    "meaning": "သဟဇာတဖြစ်ခြင်း၊ ဂျပန်ပုံစံ၊ ငြိမ်းချမ်းရေး",
+    "example": "和食 (わしょく) - ဂျပန်အစားအစာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "機",
+    "onyomi": "キ",
+    "kunyomi": "はた",
+    "meaning": "စက်၊ လေယာဉ်၊ အခွင့်အရေး",
+    "example": "機会 (きかい) - အခွင့်အရေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "平",
+    "onyomi": "ヘイ, ビョウ",
+    "kunyomi": "たい(ら), ひら",
+    "meaning": "ပြန့်ပြူးသော၊ ငြိမ်းချမ်းရေး",
+    "example": "平和 (へいわ) - ငြိမ်းချမ်းရေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "加",
+    "onyomi": "カ",
+    "kunyomi": "くわ(える)",
+    "meaning": "ထည့်ရန်၊ တိုးမြှင့်ရန်",
+    "example": "追加 (ついか) - ထပ်တိုးခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "受",
+    "onyomi": "ジュ",
+    "kunyomi": "う(ける)",
+    "meaning": "လက်ခံရန်၊ ခံယူရန်",
+    "example": "受ける (うける) - လက်ခံရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "続",
+    "onyomi": "ゾク",
+    "kunyomi": "つづ(く)",
+    "meaning": "ဆက်ရန်၊ အစဉ်အဆက်",
+    "example": "続く (つづく) - ဆက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "進",
+    "onyomi": "シン",
+    "kunyomi": "すす(む)",
+    "meaning": "ရှေ့သို့တိုးရန်",
+    "example": "進む (すすむ) - တိုးတက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "数",
+    "onyomi": "スウ",
+    "kunyomi": "かず, かぞ(える)",
+    "meaning": "နံပါတ်၊ အင်အား",
+    "example": "数字 (すうじ) - နံပါတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "記",
+    "onyomi": "キ",
+    "kunyomi": "しる(す)",
+    "meaning": "မှတ်တမ်းတင်ရန်၊ စာရင်းပြုရန်",
+    "example": "記憶 (きおく) - မှတ်ဉာဏ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "初",
+    "onyomi": "ショ",
+    "kunyomi": "はじ(め), はつ",
+    "meaning": "ပထမဆုံးအကြိမ်၊ အစ",
+    "example": "初めて (はじめて) - ပထမဆုံးအကြိမ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "指",
+    "onyomi": "シ",
+    "kunyomi": "ゆび, さ(す)",
+    "meaning": "လက်ချောင်း၊ ညွှန်ပြရန်",
+    "example": "指 (ゆび) - လက်ချောင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "権",
+    "onyomi": "ケン",
+    "kunyomi": "",
+    "meaning": "အာဏာ၊ လုပ်ပိုင်ခွင့်",
+    "example": "権利 (けんり) - အခွင့်အရေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "支",
+    "onyomi": "シ",
+    "kunyomi": "ささ(える)",
+    "meaning": "ထောက်ပံ့ရန်၊ ခွဲထွက်ခြင်း",
+    "example": "支援 (しえん) - ထောက်ပံ့မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "産",
+    "onyomi": "サン",
+    "kunyomi": "う(む), む(す)",
+    "meaning": "ထွက်ကုန်၊ မွေးဖွားရန်",
+    "example": "生産 (せいさん) - ထုတ်လုပ်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "点",
+    "onyomi": "テン",
+    "kunyomi": "つ(ける)",
+    "meaning": "အစက်၊ အမှတ်",
+    "example": "点 (てん) - အမှတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "報",
+    "onyomi": "ホウ",
+    "kunyomi": "むく(いる)",
+    "meaning": "အစီရင်ခံစာ၊ သတင်း",
+    "example": "報告 (ほうこく) - အစီရင်ခံစာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "済",
+    "onyomi": "サイ, セイ",
+    "kunyomi": "す(む)",
+    "meaning": "ပြီးဆုံးရန်၊ ဖြေရှင်းရန်",
+    "example": "済む (すむ) - ပြီးဆုံးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "活",
+    "onyomi": "カツ",
+    "kunyomi": "",
+    "meaning": "အသက်ရှင်ခြင်း",
+    "example": "活動 (かつどう) - လှုပ်ရှားမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "原",
+    "onyomi": "ゲン",
+    "kunyomi": "はら",
+    "meaning": "မူရင်း၊ လယ်ကွင်း",
+    "example": "原因 (げんいん) - အကြောင်းရင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "共",
+    "onyomi": "キョウ",
+    "kunyomi": "とも",
+    "meaning": "အတူတူ",
+    "example": "共通 (きょうつう) - တူညီသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "得",
+    "onyomi": "トク",
+    "kunyomi": "え(る)",
+    "meaning": "ရရှိရန်၊ နိုင်ရန်",
+    "example": "得る (える) - ရရှိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "解",
+    "onyomi": "カイ, ゲ",
+    "kunyomi": "と(く), ほど(く)",
+    "meaning": "ဖြေရှင်းရန်၊ ရှင်းလင်းချက်",
+    "example": "解決 (かいけつ) - ဖြေရှင်းချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "交",
+    "onyomi": "コウ",
+    "kunyomi": "まじ(わる), ま(ぜる), か(わす)",
+    "meaning": "ရောနှောခြင်း၊ ဆက်ဆံရေး",
+    "example": "交通 (こうつう) - ယာဉ်ကြော",
+    "level": "n3"
+  },
+  {
+    "kanji": "資",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "ပိုင်ဆိုင်မှု၊ အရင်းအနှီး",
+    "example": "資金 (しきん) - ရန်ပုံငွေ",
+    "level": "n3"
+  },
+  {
+    "kanji": "予",
+    "onyomi": "ヨ, シャ",
+    "kunyomi": "あらかじ(め)",
+    "meaning": "ကြိုတင်",
+    "example": "予定 (よてい) - အချိန်ဇယား",
+    "level": "n3"
+  },
+  {
+    "kanji": "向",
+    "onyomi": "コウ",
+    "kunyomi": "む(く), むか(い)",
+    "meaning": "မျက်နှာမူခြင်း",
+    "example": "方向 (ほうこう) - ဦးတည်ချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "際",
+    "onyomi": "サイ",
+    "kunyomi": "きわ",
+    "meaning": "အခါသမယ",
+    "example": "際 (さい) - အခါသမယ",
+    "level": "n3"
+  },
+  {
+    "kanji": "勝",
+    "onyomi": "ショウ",
+    "kunyomi": "か(つ), まさ(る)",
+    "meaning": "အနိုင်ရခြင်း",
+    "example": "勝つ (かつ) - အနိုင်ရရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "面",
+    "onyomi": "メン",
+    "kunyomi": "おも, おもて, つら",
+    "meaning": "မျက်နှာ၊ မျက်နှာပြင်",
+    "example": "面 (めん) - မျက်နှာပြင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "告",
+    "onyomi": "コク",
+    "kunyomi": "つ(げる)",
+    "meaning": "အသိပေးခြင်း",
+    "example": "報告 (ほうこく) - အစီရင်ခံစာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "反",
+    "onyomi": "ハン",
+    "kunyomi": "そ(る)",
+    "meaning": "ဆန့်ကျင်ဘက်",
+    "example": "反対 (はんたい) - ဆန့်ကျင်ခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "判",
+    "onyomi": "ハン",
+    "kunyomi": "",
+    "meaning": "စီရင်ချက်",
+    "example": "判断 (はんだん) - ဆုံးဖြတ်ချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "認",
+    "onyomi": "ニン",
+    "kunyomi": "みと(める), したた(める)",
+    "meaning": "အသိအမှတ်ပြုရန်",
+    "example": "認識 (にんしき) - အသိအမှတ်ပြုခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "参",
+    "onyomi": "サン",
+    "kunyomi": "まい(る)",
+    "meaning": "သွားခြင်း၊ ပါဝင်ခြင်း",
+    "example": "参加 (さんか) - ပါဝင်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "利",
+    "onyomi": "リ",
+    "kunyomi": "き(く)",
+    "meaning": "အမြတ်၊ အကျိုး",
+    "example": "利用 (りよう) - အသုံးပြုခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "組",
+    "onyomi": "ソ",
+    "kunyomi": "く(む), くみ",
+    "meaning": "စုစည်းခြင်း",
+    "example": "組む (くむ) - စုစည်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "信",
+    "onyomi": "シン",
+    "kunyomi": "",
+    "meaning": "ယုံကြည်ခြင်း",
+    "example": "信用 (しんよう) - ယုံကြည်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "在",
+    "onyomi": "ザイ",
+    "kunyomi": "あ(る)",
+    "meaning": "ရှိခြင်း",
+    "example": "存在 (そんざい) - တည်ရှိမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "件",
+    "onyomi": "ケン",
+    "kunyomi": "くだん",
+    "meaning": "အရေးကိစ္စ",
+    "example": "事件 (じけん) - အဖြစ်အပျက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "側",
+    "onyomi": "ソク",
+    "kunyomi": "がわ, そば",
+    "meaning": "ဘက်",
+    "example": "側 (がわ) - ဘက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "任",
+    "onyomi": "ニン",
+    "kunyomi": "まか(せる)",
+    "meaning": "တာဝန်",
+    "example": "責任 (せきにん) - တာဝန်ယူမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "引",
+    "onyomi": "イン",
+    "kunyomi": "ひ(く)",
+    "meaning": "ဆွဲရန်",
+    "example": "引く (ひく) - ဆွဲရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "求",
+    "onyomi": "キュウ",
+    "kunyomi": "もと(める)",
+    "meaning": "တောင်းဆိုရန်",
+    "example": "要求 (ようきゅう) - တောင်းဆိုမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "所",
+    "onyomi": "ショ",
+    "kunyomi": "ところ",
+    "meaning": "နေရာ",
+    "example": "場所 (ばしょ) - နေရာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "次",
+    "onyomi": "ジ, シ",
+    "kunyomi": "つ(ぐ), つぎ",
+    "meaning": "နောက်တစ်ခု",
+    "example": "次 (つぎ) - နောက်တစ်ခု",
+    "level": "n3"
+  },
+  {
+    "kanji": "昨",
+    "onyomi": "サク",
+    "kunyomi": "",
+    "meaning": "မနေ့က",
+    "example": "昨日 (きのう) - မနေ့က",
+    "level": "n3"
+  },
+  {
+    "kanji": "論",
+    "onyomi": "ロン",
+    "kunyomi": "あげつら(う)",
+    "meaning": "ငြင်းခုံခြင်း",
+    "example": "議論 (ぎろん) - ဆွေးနွေးငြင်းခုံခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "官",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "အစိုးရအရာရှိ",
+    "example": "役所 (やくしょ) - အစိုးရရုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "増",
+    "onyomi": "ゾウ",
+    "kunyomi": "ま(す), ふ(える)",
+    "meaning": "တိုးမြှင့်ရန်",
+    "example": "増える (ふえる) - တိုးလာရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "係",
+    "onyomi": "ケイ",
+    "kunyomi": "かか(る), かかり",
+    "meaning": "တာဝန်ခံသူ",
+    "example": "係 (かかり) - တာဝန်ခံသူ",
+    "level": "n3"
+  },
+  {
+    "kanji": "感",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "စိတ်ခံစားမှု",
+    "example": "感じ (かんじ) - ခံစားချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "情",
+    "onyomi": "ジョウ, セイ",
+    "kunyomi": "なさ(け)",
+    "meaning": "စိတ်ခံစားမှု",
+    "example": "感情 (かんじょう) - စိတ်ခံစားမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "投",
+    "onyomi": "トウ",
+    "kunyomi": "な(げる)",
+    "meaning": "ပစ်ရန်",
+    "example": "投げる (なげる) - ပစ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "示",
+    "onyomi": "ジ, シ",
+    "kunyomi": "しめ(す)",
+    "meaning": "ပြသရန်",
+    "example": "示す (しめす) - ပြသရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "変",
+    "onyomi": "ヘン",
+    "kunyomi": "か(わる)",
+    "meaning": "ပြောင်းလဲခြင်း",
+    "example": "変わる (かわる) - ပြောင်းလဲရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "打",
+    "onyomi": "ダ",
+    "kunyomi": "う(つ), ぶ(つ)",
+    "meaning": "ရိုက်ရန်",
+    "example": "打つ (うつ) - ရိုက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "直",
+    "onyomi": "チョク, ジキ",
+    "kunyomi": "ただ(ちに), す(ぐ)",
+    "meaning": "ချက်ချင်း၊ ပြုပြင်ရန်",
+    "example": "直す (なおす) - ပြုပြင်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "両",
+    "onyomi": "リョウ",
+    "kunyomi": "",
+    "meaning": "နှစ်ခုလုံး",
+    "example": "両方 (りょうほう) - နှစ်ဘက်စလုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "式",
+    "onyomi": "シキ",
+    "kunyomi": "",
+    "meaning": "ပုံစံ၊ အခမ်းအနား",
+    "example": "式 (しき) - အခမ်းအနား",
+    "level": "n3"
+  },
+  {
+    "kanji": "確",
+    "onyomi": "カク",
+    "kunyomi": "たし(か)",
+    "meaning": "သေချာသော",
+    "example": "確か (たしか) - သေချာသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "果",
+    "onyomi": "カ",
+    "kunyomi": "は(たす)",
+    "meaning": "အသီး၊ ရလဒ်",
+    "example": "結果 (けっか) - ရလဒ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "容",
+    "onyomi": "ヨウ",
+    "kunyomi": "",
+    "meaning": "ထားရှိခြင်း၊ ပုံစံ",
+    "example": "内容 (ないよう) - အကြောင်းအရာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "必",
+    "onyomi": "ヒツ",
+    "kunyomi": "かなら(ず)",
+    "meaning": "သေချာသည်",
+    "example": "必ず (かならず) - သေချာပေါက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "演",
+    "onyomi": "エン",
+    "kunyomi": "",
+    "meaning": "ဖျော်ဖြေခြင်း၊ သရုပ်ဆောင်ခြင်း",
+    "example": "演劇 (えんげき) - ပြဇာတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "歳",
+    "onyomi": "サイ, セイ",
+    "kunyomi": "",
+    "meaning": "အသက်",
+    "example": "歳 (さい) - အသက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "争",
+    "onyomi": "ソウ",
+    "kunyomi": "あらそ(う)",
+    "meaning": "ငြင်းခုံရန်",
+    "example": "争う (あらそう) - တိုက်ခိုက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "談",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "meaning": "ဆွေးနွေးရန်",
+    "example": "話し合い (はなしあい) - ဆွေးနွေးခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "能",
+    "onyomi": "ノウ",
+    "kunyomi": "あた(う)",
+    "meaning": "စွမ်းရည်",
+    "example": "可能 (かのう) - ဖြစ်နိုင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "位",
+    "onyomi": "イ",
+    "kunyomi": "くらい, ぐらい",
+    "meaning": "အဆင့်",
+    "example": "位 (くらい) - အဆင့်",
+    "level": "n3"
+  },
+  {
+    "kanji": "置",
+    "onyomi": "チ",
+    "kunyomi": "お(く)",
+    "meaning": "ထားရန်",
+    "example": "置く (おく) - ထားရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "流",
+    "onyomi": "リュウ, ル",
+    "kunyomi": "なが(れる)",
+    "meaning": "စီးဆင်းခြင်း",
+    "example": "流れる (ながれる) - စီးဆင်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "格",
+    "onyomi": "カク, コウ, キャク",
+    "kunyomi": "",
+    "meaning": "အဆင့်အတန်း",
+    "example": "格 (かく) - အဆင့်အတန်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "疑",
+    "onyomi": "ギ",
+    "kunyomi": "うたが(う)",
+    "meaning": "သံသယရှိရန်",
+    "example": "疑う (うたがう) - သံသယရှိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "過",
+    "onyomi": "カ",
+    "kunyomi": "す(ぎる), よぎ(る)",
+    "meaning": "လွန်ကျူးရန်",
+    "example": "過ぎる (すぎる) - ကျော်လွန်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "局",
+    "onyomi": "キョク",
+    "kunyomi": "",
+    "meaning": "ရုံး",
+    "example": "局 (きょく) - ရုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "放",
+    "onyomi": "ホウ",
+    "kunyomi": "はな(す), ほう(る)",
+    "meaning": "လွှတ်ရန်",
+    "example": "放す (はなす) - လွှတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "常",
+    "onyomi": "ジョウ",
+    "kunyomi": "つね",
+    "meaning": "ပုံမှန်",
+    "example": "常に (つねに) - အမြဲတမ်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "状",
+    "onyomi": "ジョウ",
+    "kunyomi": "",
+    "meaning": "အခြေအနေ",
+    "example": "状態 (じょうたい) - အခြေအနေ",
+    "level": "n3"
+  },
+  {
+    "kanji": "球",
+    "onyomi": "キュウ",
+    "kunyomi": "たま",
+    "meaning": "ဘောလုံး",
+    "example": "球 (たま) - ဘောလုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "職",
+    "onyomi": "ショク",
+    "kunyomi": "",
+    "meaning": "အလုပ်အကိုင်",
+    "example": "職業 (しょくぎょう) - အလုပ်အကိုင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "与",
+    "onyomi": "ヨ",
+    "kunyomi": "あた(える), あずか(る)",
+    "meaning": "ပေးရန်",
+    "example": "与える (あたえる) - ပေးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "供",
+    "onyomi": "キョウ, ク, クウ",
+    "kunyomi": "そな(える), とも",
+    "meaning": "ပူဇော်ရန်",
+    "example": "供える (そなえる) - ပူဇော်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "役",
+    "onyomi": "ヤク, エキ",
+    "kunyomi": "",
+    "meaning": "အခန်းကဏ္ဍ",
+    "example": "役割 (やくわり) - အခန်းကဏ္ဍ",
+    "level": "n3"
+  },
+  {
+    "kanji": "構",
+    "onyomi": "コウ",
+    "kunyomi": "かま(う)",
+    "meaning": "တည်ဆောက်ပုံ",
+    "example": "構造 (こうぞう) - တည်ဆောက်ပုံ",
+    "level": "n3"
+  },
+  {
+    "kanji": "割",
+    "onyomi": "カツ",
+    "kunyomi": "わ(る), わり",
+    "meaning": "ခွဲရန်",
+    "example": "割る (わる) - ခွဲရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "身",
+    "onyomi": "シン",
+    "kunyomi": "み",
+    "meaning": "ကိုယ်ခန္ဓာ",
+    "example": "身 (み) - ကိုယ်ခန္ဓာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "費",
+    "onyomi": "ヒ",
+    "kunyomi": "つい(やす)",
+    "meaning": "အသုံးစရိတ်",
+    "example": "消費 (しょうひ) - စားသုံးမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "付",
+    "onyomi": "フ",
+    "kunyomi": "つ(ける)",
+    "meaning": "တွဲရန်",
+    "example": "付ける (つける) - တွဲရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "由",
+    "onyomi": "ユ, ユウ",
+    "kunyomi": "よし, よ(る)",
+    "meaning": "အကြောင်းရင်း",
+    "example": "理由 (りゆう) - အကြောင်းရင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "説",
+    "onyomi": "セツ, ゼイ",
+    "kunyomi": "と(く)",
+    "meaning": "သီအိုရီ",
+    "example": "説明 (せつめい) - ရှင်းလင်းချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "難",
+    "onyomi": "ナン",
+    "kunyomi": "かた(い), むずか(しい), にく(い)",
+    "meaning": "ခက်ခဲသော",
+    "example": "難しい (むずかしい) - ခက်ခဲသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "優",
+    "onyomi": "ユウ, ウ",
+    "kunyomi": "やさ(しい), すぐ(れる)",
+    "meaning": "ကြင်နာသော",
+    "example": "優しい (やさしい) - ကြင်နာသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "夫",
+    "onyomi": "フ, フウ",
+    "kunyomi": "おっと",
+    "meaning": "ခင်ပွန်း",
+    "example": "夫 (おっと) - ခင်ပွန်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "収",
+    "onyomi": "シュウ",
+    "kunyomi": "おさ(める)",
+    "meaning": "ဝင်ငွေ",
+    "example": "収入 (しゅうにゅう) - ဝင်ငွေ",
+    "level": "n3"
+  },
+  {
+    "kanji": "断",
+    "onyomi": "ダン",
+    "kunyomi": "た(つ), ことわ(る)",
+    "meaning": "ငြင်းပယ်ရန်",
+    "example": "断る (ことわる) - ငြင်းပယ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "石",
+    "onyomi": "セキ, シャク, コク",
+    "kunyomi": "いし",
+    "meaning": "ကျောက်",
+    "example": "石 (いし) - ကျောက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "違",
+    "onyomi": "イ",
+    "kunyomi": "ちが(う), たが(う)",
+    "meaning": "ကွာခြားရန်",
+    "example": "違う (ちがう) - ကွာခြားရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "消",
+    "onyomi": "ショウ",
+    "kunyomi": "き(える), け(す)",
+    "meaning": "ငြှိမ်းသတ်ရန်",
+    "example": "消す (けす) - ဖျက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "神",
+    "onyomi": "シン, ジン",
+    "kunyomi": "かみ",
+    "meaning": "ဘုရား",
+    "example": "神 (かみ) - ဘုရား",
+    "level": "n3"
+  },
+  {
+    "kanji": "番",
+    "onyomi": "バン",
+    "kunyomi": "つが(い)",
+    "meaning": "အမှတ်စဉ်",
+    "example": "番 (ばん) - နံပါတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "規",
+    "onyomi": "キ",
+    "kunyomi": "",
+    "meaning": "စံနှုန်း",
+    "example": "規則 (きそく) - စည်းမျဉ်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "術",
+    "onyomi": "ジュツ",
+    "kunyomi": "すべ",
+    "meaning": "နည်းပညာ",
+    "example": "技術 (ぎじゅつ) - နည်းပညာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "備",
+    "onyomi": "ビ",
+    "kunyomi": "そな(える)",
+    "meaning": "ပြင်ဆင်ရန်",
+    "example": "準備 (じゅんび) - ပြင်ဆင်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "宅",
+    "onyomi": "タク",
+    "kunyomi": "",
+    "meaning": "အိမ်",
+    "example": "宅 (たく) - အိမ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "害",
+    "onyomi": "ガイ",
+    "kunyomi": "",
+    "meaning": "ထိခိုက်မှု",
+    "example": "被害 (ひがい) - ထိခိုက်ဆုံးရှုံးမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "配",
+    "onyomi": "ハイ",
+    "kunyomi": "くば(る)",
+    "meaning": "ဖြန့်ဝေရန်",
+    "example": "配る (くばる) - ဖြန့်ဝေရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "警",
+    "onyomi": "ケイ",
+    "kunyomi": "",
+    "meaning": "သတိပေးခြင်း",
+    "example": "警察 (けいさつ) - ရဲ",
+    "level": "n3"
+  },
+  {
+    "kanji": "育",
+    "onyomi": "イク",
+    "kunyomi": "そだ(つ), はぐく(む)",
+    "meaning": "ကြီးပြင်းရန်",
+    "example": "育つ (そだつ) - ကြီးပြင်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "席",
+    "onyomi": "セキ",
+    "kunyomi": "むしろ",
+    "meaning": "နေရာ",
+    "example": "席 (せき) - နေရာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "訪",
+    "onyomi": "ホウ",
+    "kunyomi": "おとず(れる), たず(ねる)",
+    "meaning": "သွားရောက်လည်ပတ်ရန်",
+    "example": "訪れる (おとずれる) - လည်ပတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "乗",
+    "onyomi": "ジョウ, ショウ",
+    "kunyomi": "の(る)",
+    "meaning": "စီးရန်",
+    "example": "乗る (のる) - စီးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "残",
+    "onyomi": "ザン",
+    "kunyomi": "のこ(る)",
+    "meaning": "ကျန်ရှိရန်",
+    "example": "残る (のこる) - ကျန်ရှိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "想",
+    "onyomi": "ソウ, ソ",
+    "kunyomi": "おも(う)",
+    "meaning": "အတွေး",
+    "example": "想像 (そうぞう) - စိတ်ကူး",
+    "level": "n3"
+  },
+  {
+    "kanji": "声",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "こえ",
+    "meaning": "အသံ",
+    "example": "声 (こえ) - အသံ",
+    "level": "n3"
+  },
+  {
+    "kanji": "助",
+    "onyomi": "ジョ",
+    "kunyomi": "たす(ける)",
+    "meaning": "ကူညီရန်",
+    "example": "助ける (たすける) - ကူညီရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "労",
+    "onyomi": "ロウ",
+    "kunyomi": "ろう(する), いたわ(る), ねぎら(う)",
+    "meaning": "လုပ်အား",
+    "example": "労働 (ろうどう) - အလုပ်သမား",
+    "level": "n3"
+  },
+  {
+    "kanji": "例",
+    "onyomi": "レイ",
+    "kunyomi": "たと(えば)",
+    "meaning": "ဥပမာ",
+    "example": "例えば (たとえば) - ဥပမာအားဖြင့်",
+    "level": "n3"
+  },
+  {
+    "kanji": "然",
+    "onyomi": "ゼン, ネン",
+    "kunyomi": "しか, さ",
+    "meaning": "ထိုသို့သောအရာ",
+    "example": "自然 (しぜん) - သဘာဝ",
+    "level": "n3"
+  },
+  {
+    "kanji": "限",
+    "onyomi": "ゲン",
+    "kunyomi": "かぎ(る)",
+    "meaning": "ကန့်သတ်ရန်",
+    "example": "限る (かぎる) - ကန့်သတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "追",
+    "onyomi": "ツイ",
+    "kunyomi": "お(う)",
+    "meaning": "လိုက်ရန်",
+    "example": "追う (おう) - လိုက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "商",
+    "onyomi": "ショウ",
+    "kunyomi": "あきな(う)",
+    "meaning": "ကုန်သွယ်မှု",
+    "example": "商品 (しょうひん) - ကုန်ပစ္စည်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "葉",
+    "onyomi": "ヨウ",
+    "kunyomi": "は",
+    "meaning": "အရွက်",
+    "example": "葉 (は) - အရွက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "伝",
+    "onyomi": "デン",
+    "kunyomi": "つた(わる)",
+    "meaning": "ထုတ်လွှင့်ရန်",
+    "example": "伝える (つたえる) - ပြောပြရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "働",
+    "onyomi": "ドウ",
+    "kunyomi": "はたら(く)",
+    "meaning": "အလုပ်လုပ်ရန်",
+    "example": "働く (はたらく) - အလုပ်လုပ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "形",
+    "onyomi": "ケイ, ギョウ",
+    "kunyomi": "かた, かたち, なり",
+    "meaning": "ပုံစံ",
+    "example": "形 (かたち) - ပုံစံ",
+    "level": "n3"
+  },
+  {
+    "kanji": "景",
+    "onyomi": "ケイ, ケ",
+    "kunyomi": "",
+    "meaning": "ရှုခင်း",
+    "example": "景色 (けしき) - ရှုခင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "落",
+    "onyomi": "ラク",
+    "kunyomi": "お(ちる)",
+    "meaning": "ကျရန်",
+    "example": "落ちる (おちる) - ကျရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "好",
+    "onyomi": "コウ",
+    "kunyomi": "この(む), す(く)",
+    "meaning": "ကြိုက်နှစ်သက်သော",
+    "example": "好き (すき) - ကြိုက်သည်",
+    "level": "n3"
+  },
+  {
+    "kanji": "退",
+    "onyomi": "タイ",
+    "kunyomi": "しりぞ(く), ひ(く), の(ける), ど(く)",
+    "meaning": "ဆုတ်ခွာရန်",
+    "example": "退く (しりぞく) - ဆုတ်ခွာရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "頭",
+    "onyomi": "トウ, ズ, ト",
+    "kunyomi": "あたま, かしら",
+    "meaning": "ခေါင်း",
+    "example": "頭 (あたま) - ခေါင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "負",
+    "onyomi": "フ",
+    "kunyomi": "ま(ける), お(う)",
+    "meaning": "ရှုံးနိမ့်ခြင်း",
+    "example": "負ける (まける) - ရှုံးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "渡",
+    "onyomi": "ト",
+    "kunyomi": "わた(る)",
+    "meaning": "ကူးရန်",
+    "example": "渡る (わたる) - ကူးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "失",
+    "onyomi": "シツ",
+    "kunyomi": "うしな(う), う(せる)",
+    "meaning": "ဆုံးရှုံးရန်",
+    "example": "失う (うしなう) - ဆုံးရှုံးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "差",
+    "onyomi": "サ",
+    "kunyomi": "さ(す)",
+    "meaning": "ကွာခြားချက်",
+    "example": "差 (さ) - ကွာခြားချက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "末",
+    "onyomi": "マツ",
+    "kunyomi": "すえ",
+    "meaning": "အဆုံး",
+    "example": "末 (すえ) - အဆုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "守",
+    "onyomi": "シュ, ス",
+    "kunyomi": "まも(る), もり",
+    "meaning": "ကာကွယ်ရန်",
+    "example": "守る (まもる) - ကာကွယ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "若",
+    "onyomi": "ジャク",
+    "kunyomi": "わか(い), も(し)",
+    "meaning": "ငယ်ရွယ်သော",
+    "example": "若い (わかい) - ငယ်ရွယ်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "種",
+    "onyomi": "シュ",
+    "kunyomi": "たね, -ぐさ",
+    "meaning": "မျိုးစိတ်",
+    "example": "種 (たね) - မျိုးစေ့",
+    "level": "n3"
+  },
+  {
+    "kanji": "美",
+    "onyomi": "ビ, ミ",
+    "kunyomi": "うつく(しい)",
+    "meaning": "အလှအပ",
+    "example": "美しい (うつくしい) - လှပသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "命",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "いのち",
+    "meaning": "ဘဝ",
+    "example": "命 (いのち) - အသက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "福",
+    "onyomi": "フク",
+    "kunyomi": "",
+    "meaning": "ကံကောင်းခြင်း",
+    "example": "福 (ふく) - ကံကောင်းခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "望",
+    "onyomi": "ボウ",
+    "kunyomi": "のぞ(む), もち",
+    "meaning": "မျှော်လင့်ချက်",
+    "example": "望む (のぞむ) - မျှော်လင့်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "非",
+    "onyomi": "ヒ",
+    "kunyomi": "あら(ず)",
+    "meaning": "မဟုတ်သော",
+    "example": "非常 (ひじょう) - အရေးပေါ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "観",
+    "onyomi": "カン",
+    "kunyomi": "み(る)",
+    "meaning": "မြင်ကွင်း",
+    "example": "観光 (かんこう) - ခရီးသွားလာရေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "察",
+    "onyomi": "サツ",
+    "kunyomi": "",
+    "meaning": "မှန်းဆရန်",
+    "example": "考察 (こうさつ) - ဆင်ခြင်သုံးသပ်ခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "段",
+    "onyomi": "ダン",
+    "kunyomi": "",
+    "meaning": "အဆင့်",
+    "example": "段 (だん) - အဆင့်",
+    "level": "n3"
+  },
+  {
+    "kanji": "横",
+    "onyomi": "オウ",
+    "kunyomi": "よこ",
+    "meaning": "ဘေး",
+    "example": "横 (よこ) - ဘေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "深",
+    "onyomi": "シン",
+    "kunyomi": "ふか(い)",
+    "meaning": "နက်ရှိုင်းသော",
+    "example": "深い (ふかい) - နက်ရှိုင်းသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "申",
+    "onyomi": "シン",
+    "kunyomi": "もう(す), さる",
+    "meaning": "လျှောက်ထားရန်",
+    "example": "申す (もうす) - ပြောကြားရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "様",
+    "onyomi": "ヨウ",
+    "kunyomi": "さま, さん",
+    "meaning": "ပုံစံ",
+    "example": "様 (さま) - လူကြီးမင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "財",
+    "onyomi": "ザイ, サイ, ゾク",
+    "kunyomi": "",
+    "meaning": "ပိုင်ဆိုင်မှု",
+    "example": "財産 (ざいさん) - ပိုင်ဆိုင်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "港",
+    "onyomi": "コウ",
+    "kunyomi": "みなと",
+    "meaning": "ဆိပ်ကမ်း",
+    "example": "港 (みなと) - ဆိပ်ကမ်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "識",
+    "onyomi": "シキ",
+    "kunyomi": "し(る)",
+    "meaning": "သိရန်",
+    "example": "知識 (ちしき) - အသိပညာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "呼",
+    "onyomi": "コ",
+    "kunyomi": "よ(ぶ)",
+    "meaning": "ခေါ်ရန်",
+    "example": "呼ぶ (よぶ) - ခေါ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "達",
+    "onyomi": "タツ, ダ",
+    "kunyomi": "-たち",
+    "meaning": "အောင်မြင်ရန်",
+    "example": "達する (たっする) - ရောက်ရှိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "良",
+    "onyomi": "リョウ",
+    "kunyomi": "よ(い), い(い)",
+    "meaning": "ကောင်းသော",
+    "example": "良い (よい) - ကောင်းသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "阪",
+    "onyomi": "ハン",
+    "kunyomi": "さか",
+    "meaning": "တောင်စောင်း",
+    "example": "大阪 (おおさか) - အိုဆာကာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "候",
+    "onyomi": "コウ",
+    "kunyomi": "そうろう",
+    "meaning": "ရာသီဥတု",
+    "example": "候補 (こうほ) - ကိုယ်စားလှယ်လောင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "程",
+    "onyomi": "テイ",
+    "kunyomi": "ほど",
+    "meaning": "အတိုင်းအတာ",
+    "example": "程度 (ていど) - အတိုင်းအတာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "満",
+    "onyomi": "マン",
+    "kunyomi": "み(ちる)",
+    "meaning": "ပြည့်သော",
+    "example": "満ちる (みちる) - ပြည့်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "敗",
+    "onyomi": "ハイ",
+    "kunyomi": "やぶ(れる)",
+    "meaning": "ရှုံးနိမ့်ခြင်း",
+    "example": "敗れる (やぶれる) - ရှုံးနိမ့်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "値",
+    "onyomi": "チ",
+    "kunyomi": "ね, あたい",
+    "meaning": "စျေးနှုန်း",
+    "example": "値段 (ねだん) - စျေးနှုန်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "突",
+    "onyomi": "トツ, カ",
+    "kunyomi": "つ(く)",
+    "meaning": "ထိုးရန်",
+    "example": "突く (つく) - ထိုးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "光",
+    "onyomi": "コウ",
+    "kunyomi": "ひか(る), ひかり",
+    "meaning": "အလင်း",
+    "example": "光 (ひかり) - အလင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "路",
+    "onyomi": "ロ, ル",
+    "kunyomi": "みち",
+    "meaning": "လမ်း",
+    "example": "道路 (どうろ) - လမ်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "科",
+    "onyomi": "カ",
+    "kunyomi": "",
+    "meaning": "ဌာန",
+    "example": "科学 (かがく) - သိပ္ပံပညာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "積",
+    "onyomi": "セキ",
+    "kunyomi": "つ(む)",
+    "meaning": "စုပုံရန်",
+    "example": "積む (つむ) - စုပုံရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "他",
+    "onyomi": "タ",
+    "kunyomi": "ほか",
+    "meaning": "အခြား",
+    "example": "他 (ほか) - အခြား",
+    "level": "n3"
+  },
+  {
+    "kanji": "処",
+    "onyomi": "ショ",
+    "kunyomi": "",
+    "meaning": "စွန့်ပစ်ရန်",
+    "example": "処分 (しょぶん) - စွန့်ပစ်ခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "太",
+    "onyomi": "タイ, タ",
+    "kunyomi": "ふと(い)",
+    "meaning": "ထူသော",
+    "example": "太い (ふとい) - ထူသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "客",
+    "onyomi": "キャク, カク",
+    "kunyomi": "",
+    "meaning": "ဧည့်သည်",
+    "example": "客 (きゃく) - ဧည့်သည်",
+    "level": "n3"
+  },
+  {
+    "kanji": "否",
+    "onyomi": "ヒ",
+    "kunyomi": "いな, いや",
+    "meaning": "ငြင်းပယ်ရန်",
+    "example": "否定 (ひてい) - ငြင်းဆိုခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "師",
+    "onyomi": "シ",
+    "kunyomi": "",
+    "meaning": "ဆရာ",
+    "example": "教師 (きょうし) - ဆရာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "登",
+    "onyomi": "トウ, ト",
+    "kunyomi": "のぼ(る), あ(がる)",
+    "meaning": "တက်ရန်",
+    "example": "登る (のぼる) - တက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "易",
+    "onyomi": "エキ, イ",
+    "kunyomi": "やさ(しい), やす(い)",
+    "meaning": "လွယ်ကူသော",
+    "example": "易しい (やさしい) - လွယ်ကူသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "速",
+    "onyomi": "ソク",
+    "kunyomi": "はや(い)",
+    "meaning": "မြန်သော",
+    "example": "速い (はやい) - မြန်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "存",
+    "onyomi": "ソン, ゾン",
+    "kunyomi": "",
+    "meaning": "တည်ရှိရန်",
+    "example": "存在 (そんざい) - တည်ရှိမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "飛",
+    "onyomi": "ヒ",
+    "kunyomi": "と(ぶ)",
+    "meaning": "ပျံရန်",
+    "example": "飛ぶ (とぶ) - ပျံရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "殺",
+    "onyomi": "サツ, サイ",
+    "kunyomi": "ころ(す)",
+    "meaning": "သတ်ရန်",
+    "example": "殺す (ころす) - သတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "号",
+    "onyomi": "ゴウ",
+    "kunyomi": "",
+    "meaning": "အမှတ်စဉ်",
+    "example": "番号 (ばんごう) - နံပါတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "単",
+    "onyomi": "タン",
+    "kunyomi": "ひとえ",
+    "meaning": "ရိုးရိုး",
+    "example": "簡単 (かんたん) - ရိုးရှင်းသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "座",
+    "onyomi": "ザ",
+    "kunyomi": "すわ(る)",
+    "meaning": "ထိုင်ရန်",
+    "example": "座る (すわる) - ထိုင်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "破",
+    "onyomi": "ハ",
+    "kunyomi": "やぶ(る)",
+    "meaning": "ဖြတ်ရန်",
+    "example": "破る (やぶる) - ဖြတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "除",
+    "onyomi": "ジョ, ジ",
+    "kunyomi": "のぞ(く)",
+    "meaning": "ဖယ်ရှားရန်",
+    "example": "除く (のぞく) - ဖယ်ရှားရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "完",
+    "onyomi": "カン",
+    "kunyomi": "",
+    "meaning": "ပြီးပြည့်စုံသော",
+    "example": "完了 (かんりょう) - ပြီးစီးခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "降",
+    "onyomi": "コウ, ゴ",
+    "kunyomi": "お(りる), ふ(る)",
+    "meaning": "ဆင်းရန်",
+    "example": "降りる (おりる) - ဆင်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "責",
+    "onyomi": "セキ",
+    "kunyomi": "せ(める)",
+    "meaning": "အပြစ်တင်ရန်",
+    "example": "責任 (せきにん) - တာဝန်ယူမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "捕",
+    "onyomi": "ホ",
+    "kunyomi": "と(らえる), つか(まえる)",
+    "meaning": "ဖမ်းရန်",
+    "example": "捕まえる (つかまえる) - ဖမ်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "危",
+    "onyomi": "キ",
+    "kunyomi": "あぶ(ない), あや(うい)",
+    "meaning": "အန္တရာယ်ရှိသော",
+    "example": "危ない (あぶない) - အန္တရာယ်ရှိသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "給",
+    "onyomi": "キュウ",
+    "kunyomi": "たま(う), たも(う)",
+    "meaning": "လစာ",
+    "example": "給料 (きゅうりょう) - လစာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "苦",
+    "onyomi": "ク",
+    "kunyomi": "くる(しい), にが(い)",
+    "meaning": "ခါးသော",
+    "example": "苦しい (くるしい) - နာကျင်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "迎",
+    "onyomi": "ゲイ",
+    "kunyomi": "むか(える)",
+    "meaning": "ကြိုဆိုရန်",
+    "example": "迎える (むかえる) - ကြိုဆိုရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "園",
+    "onyomi": "エン",
+    "kunyomi": "その",
+    "meaning": "ဥယျာဉ်",
+    "example": "公園 (こうえん) - ပန်းခြံ",
+    "level": "n3"
+  },
+  {
+    "kanji": "具",
+    "onyomi": "グ",
+    "kunyomi": "そな(える), つぶさ(に)",
+    "meaning": "ကိရိယာ",
+    "example": "道具 (どうぐ) - ကိရိယာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "辞",
+    "onyomi": "ジ",
+    "kunyomi": "や(める)",
+    "meaning": "နှုတ်ထွက်ရန်",
+    "example": "辞める (やめる) - နှုတ်ထွက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "因",
+    "onyomi": "イン",
+    "kunyomi": "よ(る), ちな(む)",
+    "meaning": "အကြောင်းရင်း",
+    "example": "原因 (げんいん) - အကြောင်းရင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "馬",
+    "onyomi": "バ",
+    "kunyomi": "うま",
+    "meaning": "မြင်း",
+    "example": "馬 (うま) - မြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "愛",
+    "onyomi": "アイ",
+    "kunyomi": "いと(しい), まな",
+    "meaning": "အချစ်",
+    "example": "愛 (あい) - အချစ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "富",
+    "onyomi": "フ, フウ",
+    "kunyomi": "と(む), とみ",
+    "meaning": "ချမ်းသာကြွယ်ဝမှု",
+    "example": "富む (とむ) - ချမ်းသာရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "彼",
+    "onyomi": "ヒ",
+    "kunyomi": "かれ, かの",
+    "meaning": "သူ",
+    "example": "彼 (かれ) - သူ (ယောကျ်ား)",
+    "level": "n3"
+  },
+  {
+    "kanji": "未",
+    "onyomi": "ミ, ビ",
+    "kunyomi": "いま(だ), ま(だ)",
+    "meaning": "မဟုတ်သေး",
+    "example": "未来 (みらい) - အနာဂတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "舞",
+    "onyomi": "ブ",
+    "kunyomi": "ま(う), まい",
+    "meaning": "ကရန်",
+    "example": "舞う (まう) - ကရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "亡",
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "な(くなる)",
+    "meaning": "ဆုံးပါးရန်",
+    "example": "亡くなる (なくなる) - ဆုံးပါးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "冷",
+    "onyomi": "レイ",
+    "kunyomi": "つめ(たい), ひ(える), さ(める)",
+    "meaning": "အေးသော",
+    "example": "冷たい (つめたい) - အေးသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "適",
+    "onyomi": "テキ",
+    "kunyomi": "かな(う)",
+    "meaning": "သင့်လျော်သော",
+    "example": "適する (てきする) - သင့်လျော်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "婦",
+    "onyomi": "フ",
+    "kunyomi": "よめ",
+    "meaning": "အမျိုးသမီး",
+    "example": "婦人 (ふじん) - အမျိုးသမီး",
+    "level": "n3"
+  },
+  {
+    "kanji": "寄",
+    "onyomi": "キ",
+    "kunyomi": "よ(る)",
+    "meaning": "ချဉ်းကပ်ရန်",
+    "example": "寄る (よる) - ဝင်ရောက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "込",
+    "onyomi": "",
+    "kunyomi": "こ(む)",
+    "meaning": "စည်ကားသော",
+    "example": "込む (こむ) - စည်ကားရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "顔",
+    "onyomi": "ガン",
+    "kunyomi": "かお",
+    "meaning": "မျက်နှာ",
+    "example": "顔 (かお) - မျက်နှာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "類",
+    "onyomi": "ルイ",
+    "kunyomi": "たぐ(い)",
+    "meaning": "အမျိုးအစား",
+    "example": "種類 (しゅるい) - အမျိုးအစား",
+    "level": "n3"
+  },
+  {
+    "kanji": "余",
+    "onyomi": "ヨ",
+    "kunyomi": "あま(る)",
+    "meaning": "ပိုလွန်းသော",
+    "example": "余る (あまる) - ပိုလျှံရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "王",
+    "onyomi": "オウ",
+    "kunyomi": "",
+    "meaning": "ဘုရင်",
+    "example": "王 (おう) - ဘုရင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "返",
+    "onyomi": "ヘン",
+    "kunyomi": "かえ(す)",
+    "meaning": "ပြန်ရန်",
+    "example": "返す (かえす) - ပြန်ပေးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "妻",
+    "onyomi": "サイ",
+    "kunyomi": "つま",
+    "meaning": "ဇနီး",
+    "example": "妻 (つま) - ဇနီး",
+    "level": "n3"
+  },
+  {
+    "kanji": "背",
+    "onyomi": "ハイ",
+    "kunyomi": "せ, せい",
+    "meaning": "အရပ်",
+    "example": "背 (せ) - အရပ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "熱",
+    "onyomi": "ネツ",
+    "kunyomi": "あつ(い)",
+    "meaning": "အပူ",
+    "example": "熱い (あつい) - ပူသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "宿",
+    "onyomi": "シュク",
+    "kunyomi": "やど",
+    "meaning": "တည်းခိုရာ",
+    "example": "宿 (やど) - တည်းခိုခန်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "薬",
+    "onyomi": "ヤク",
+    "kunyomi": "くすり",
+    "meaning": "ဆေး",
+    "example": "薬 (くすり) - ဆေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "険",
+    "onyomi": "ケン",
+    "kunyomi": "けわ(しい)",
+    "meaning": "မတ်စောက်သော",
+    "example": "険しい (けわしい) - မတ်စောက်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "頼",
+    "onyomi": "ライ",
+    "kunyomi": "たの(む), たよ(る)",
+    "meaning": "ယုံကြည်ရန်",
+    "example": "頼む (たのむ) - တောင်းဆိုရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "覚",
+    "onyomi": "カク",
+    "kunyomi": "おぼ(える), さ(ます)",
+    "meaning": "မှတ်မိရန်",
+    "example": "覚える (おぼえる) - မှတ်မိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "船",
+    "onyomi": "セン",
+    "kunyomi": "ふね, ふな",
+    "meaning": "သင်္ဘော",
+    "example": "船 (ふね) - သင်္ဘော",
+    "level": "n3"
+  },
+  {
+    "kanji": "途",
+    "onyomi": "ト",
+    "kunyomi": "みち",
+    "meaning": "လမ်းကြောင်း",
+    "example": "途中 (とちゅう) - လမ်းတွင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "許",
+    "onyomi": "キョ",
+    "kunyomi": "ゆる(す)",
+    "meaning": "ခွင့်ပြုရန်",
+    "example": "許す (ゆるす) - ခွင့်ပြုရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "抜",
+    "onyomi": "バツ",
+    "kunyomi": "ぬ(く)",
+    "meaning": "နှုတ်ရန်",
+    "example": "抜く (ぬく) - နှုတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "便",
+    "onyomi": "ベン, ビン",
+    "kunyomi": "たよ(り)",
+    "meaning": "အဆင်ပြေခြင်း",
+    "example": "便利 (べんり) - အဆင်ပြေသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "留",
+    "onyomi": "リュウ, ル",
+    "kunyomi": "と(まる), とど(める)",
+    "meaning": "ရပ်တန့်ရန်",
+    "example": "留まる (とまる) - ရပ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "罪",
+    "onyomi": "ザイ",
+    "kunyomi": "つみ",
+    "meaning": "အပြစ်",
+    "example": "罪 (つみ) - အပြစ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "努",
+    "onyomi": "ド",
+    "kunyomi": "つと(める)",
+    "meaning": "ကြိုးစားရန်",
+    "example": "努力 (どりょく) - ကြိုးစားမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "精",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "しら(げる)",
+    "meaning": "စွမ်းအင်",
+    "example": "精神 (せいしん) - စိတ်ဓာတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "散",
+    "onyomi": "サン",
+    "kunyomi": "ち(る), ばら(ける)",
+    "meaning": "ဖြန့်ကျဲရန်",
+    "example": "散る (ちる) - ကြွေကျရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "静",
+    "onyomi": "セイ, ジョウ",
+    "kunyomi": "しず(か)",
+    "meaning": "တိတ်ဆိတ်သော",
+    "example": "静か (しずか) - တိတ်ဆိတ်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "婚",
+    "onyomi": "コン",
+    "kunyomi": "",
+    "meaning": "လက်ထပ်ခြင်း",
+    "example": "結婚 (けっこん) - လက်ထပ်ခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "喜",
+    "onyomi": "キ",
+    "kunyomi": "よろこ(ぶ)",
+    "meaning": "ဝမ်းမြောက်ရန်",
+    "example": "喜ぶ (よろこぶ) - ဝမ်းမြောက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "浮",
+    "onyomi": "フ",
+    "kunyomi": "う(かぶ)",
+    "meaning": "မျောရန်",
+    "example": "浮かぶ (うかぶ) - မျောရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "絶",
+    "onyomi": "ゼツ",
+    "kunyomi": "た(える)",
+    "meaning": "ပြတ်တောက်ရန်",
+    "example": "絶える (たえる) - ပြတ်တောက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "幸",
+    "onyomi": "コウ",
+    "kunyomi": "さいわ(い), さち, しあわ(せ)",
+    "meaning": "ပျော်ရွှင်မှု",
+    "example": "幸せ (しあわせ) - ပျော်ရွှင်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "押",
+    "onyomi": "オウ",
+    "kunyomi": "お(す)",
+    "meaning": "ဖိရန်",
+    "example": "押す (おす) - ဖိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "倒",
+    "onyomi": "トウ",
+    "kunyomi": "たお(れる)",
+    "meaning": "လဲကျရန်",
+    "example": "倒れる (たおれる) - လဲကျရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "等",
+    "onyomi": "トウ",
+    "kunyomi": "ひと(しい), など",
+    "meaning": "စသည်",
+    "example": "など (など) - စသည်",
+    "level": "n3"
+  },
+  {
+    "kanji": "老",
+    "onyomi": "ロウ",
+    "kunyomi": "お(いる), ふ(ける)",
+    "meaning": "အိုမင်းရန်",
+    "example": "老いる (おいる) - အိုမင်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "曲",
+    "onyomi": "キョク",
+    "kunyomi": "ま(がる)",
+    "meaning": "ကွေးရန်",
+    "example": "曲がる (まがる) - ကွေးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "払",
+    "onyomi": "",
+    "kunyomi": "はら(う)",
+    "meaning": "ပေးချေရန်",
+    "example": "払う (はらう) - ပေးချေရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "庭",
+    "onyomi": "テイ",
+    "kunyomi": "にわ",
+    "meaning": "ဥယျာဉ်",
+    "example": "庭 (にわ) - ဥယျာဉ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "徒",
+    "onyomi": "ト",
+    "kunyomi": "いたずら, あだ",
+    "meaning": "ခြေလျင်",
+    "example": "徒歩 (とほ) - ခြေလျင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "勤",
+    "onyomi": "キン, ゴン",
+    "kunyomi": "つと(める)",
+    "meaning": "လုပ်ကိုင်ရန်",
+    "example": "勤める (つとめる) - အလုပ်လုပ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "遅",
+    "onyomi": "チ",
+    "kunyomi": "おく(れる), おそ(い)",
+    "meaning": "နောက်ကျသော",
+    "example": "遅い (おそい) - နှေးသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "居",
+    "onyomi": "キョ, コ",
+    "kunyomi": "い(る), お(る)",
+    "meaning": "နေထိုင်ရန်",
+    "example": "居る (いる) - ရှိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "雑",
+    "onyomi": "ザツ, ゾウ",
+    "kunyomi": "まじ(る)",
+    "meaning": "စုံလုံသော",
+    "example": "雑誌 (ざっし) - မဂ္ဂဇင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "招",
+    "onyomi": "ショウ",
+    "kunyomi": "まね(く)",
+    "meaning": "ဖိတ်ရန်",
+    "example": "招く (まねく) - ဖိတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "困",
+    "onyomi": "コン",
+    "kunyomi": "こま(る)",
+    "meaning": "ဒုက္ခရောက်ရန်",
+    "example": "困る (こまる) - ဒုက္ခရောက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "欠",
+    "onyomi": "ケツ, ケン",
+    "kunyomi": "か(ける)",
+    "meaning": "မရှိခြင်း",
+    "example": "欠ける (かける) - မရှိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "更",
+    "onyomi": "コウ",
+    "kunyomi": "さら(に), ふ(ける)",
+    "meaning": "ပိုမို၍",
+    "example": "更に (さらに) - ထို့အပြင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "刻",
+    "onyomi": "コク",
+    "kunyomi": "きざ(む)",
+    "meaning": "ထွင်းရန်",
+    "example": "刻む (きざむ) - ထွင်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "賛",
+    "onyomi": "サン",
+    "kunyomi": "",
+    "meaning": "ထောက်ခံရန်",
+    "example": "賛成 (さんせい) - ထောက်ခံခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "抱",
+    "onyomi": "ホウ",
+    "kunyomi": "だ(く), いだ(く), かか(える)",
+    "meaning": "ဖက်ရန်",
+    "example": "抱く (だく) - ဖက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "犯",
+    "onyomi": "ハン",
+    "kunyomi": "おか(す)",
+    "meaning": "ကျူးလွန်ရန်",
+    "example": "犯罪 (はんざい) - ရာဇဝတ်မှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "恐",
+    "onyomi": "キョウ",
+    "kunyomi": "おそ(れる), こわ(い)",
+    "meaning": "ကြောက်ရန်",
+    "example": "恐い (こわい) - ကြောက်စရာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "息",
+    "onyomi": "ムス, ソク",
+    "kunyomi": "いき",
+    "meaning": "အသက်ရှု",
+    "example": "息 (いき) - အသက်ရှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "遠",
+    "onyomi": "エン",
+    "kunyomi": "とお(い)",
+    "meaning": "ဝေးသော",
+    "example": "遠い (とおい) - ဝေးသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "戻",
+    "onyomi": "レイ",
+    "kunyomi": "もど(る)",
+    "meaning": "ပြန်ရန်",
+    "example": "戻る (もどる) - ပြန်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "願",
+    "onyomi": "ガン",
+    "kunyomi": "ねが(う)",
+    "meaning": "ဆန္ဒပြုရန်",
+    "example": "願う (ねがう) - ဆုတောင်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "絵",
+    "onyomi": "カイ, エ",
+    "kunyomi": "",
+    "meaning": "ပုံ",
+    "example": "絵 (え) - ပုံ",
+    "level": "n3"
+  },
+  {
+    "kanji": "越",
+    "onyomi": "エツ",
+    "kunyomi": "こ(す)",
+    "meaning": "ကျော်ဖြတ်ရန်",
+    "example": "越す (こす) - ကျော်လွန်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "欲",
+    "onyomi": "ヨク",
+    "kunyomi": "ほ(しい)",
+    "meaning": "လိုချင်ခြင်း",
+    "example": "欲しい (ほしい) - လိုချင်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "痛",
+    "onyomi": "ツウ",
+    "kunyomi": "いた(い)",
+    "meaning": "နာကျင်ခြင်း",
+    "example": "痛い (いたい) - နာကျင်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "笑",
+    "onyomi": "ショウ",
+    "kunyomi": "わら(う), え(む)",
+    "meaning": "ရယ်ရန်",
+    "example": "笑う (わらう) - ရယ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "互",
+    "onyomi": "ゴ",
+    "kunyomi": "たが(い), かたみ(に)",
+    "meaning": "အပြန်အလှန်",
+    "example": "互い (たがい) - အပြန်အလှန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "束",
+    "onyomi": "ソク",
+    "kunyomi": "たば, つか",
+    "meaning": "စည်းရန်",
+    "example": "束 (たば) - အစုအပေါင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "似",
+    "onyomi": "ジ, ネ",
+    "kunyomi": "に(る)",
+    "meaning": "ဆင်တူရန်",
+    "example": "似る (にる) - ဆင်တူရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "列",
+    "onyomi": "レツ, レ",
+    "kunyomi": "",
+    "meaning": "တန်း",
+    "example": "列 (れつ) - တန်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "探",
+    "onyomi": "タン",
+    "kunyomi": "さぐ(る), さが(す)",
+    "meaning": "ရှာရန်",
+    "example": "探す (さがす) - ရှာရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "逃",
+    "onyomi": "トウ",
+    "kunyomi": "に(げる), のが(す)",
+    "meaning": "လွတ်မြောက်ရန်",
+    "example": "逃げる (にげる) - ထွက်ပြေးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "遊",
+    "onyomi": "ユウ",
+    "kunyomi": "あそ(ぶ)",
+    "meaning": "ကစားရန်",
+    "example": "遊ぶ (あそぶ) - ကစားရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "迷",
+    "onyomi": "メイ",
+    "kunyomi": "まよ(う)",
+    "meaning": "လမ်းမှားရန်",
+    "example": "迷う (まよう) - လမ်းမှားရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "夢",
+    "onyomi": "ム",
+    "kunyomi": "ゆめ",
+    "meaning": "အိပ်မက်",
+    "example": "夢 (ゆめ) - အိပ်မက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "君",
+    "onyomi": "クン",
+    "kunyomi": "きみ",
+    "meaning": "မင်း",
+    "example": "君 (きみ) - မင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "閉",
+    "onyomi": "ヘイ",
+    "kunyomi": "と(じる), し(める)",
+    "meaning": "ပိတ်ရန်",
+    "example": "閉じる (とじる) - ပိတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "緒",
+    "onyomi": "ショ",
+    "kunyomi": "お",
+    "meaning": "ကြိုး",
+    "example": "緒 (お) - ကြိုး",
+    "level": "n3"
+  },
+  {
+    "kanji": "折",
+    "onyomi": "セツ, シャク",
+    "kunyomi": "お(る), おり",
+    "meaning": "ခေါက်ရန်",
+    "example": "折る (おる) - ခေါက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "草",
+    "onyomi": "ソウ",
+    "kunyomi": "くさ",
+    "meaning": "မြက်",
+    "example": "草 (くさ) - မြက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "暮",
+    "onyomi": "ボ",
+    "kunyomi": "く(らす)",
+    "meaning": "နေထိုင်ရန်",
+    "example": "暮らす (くらす) - နေထိုင်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "酒",
+    "onyomi": "シュ",
+    "kunyomi": "さけ, さか-",
+    "meaning": "အရက်",
+    "example": "酒 (さけ) - အရက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "悲",
+    "onyomi": "ヒ",
+    "kunyomi": "かな(しい)",
+    "meaning": "ဝမ်းနည်းသော",
+    "example": "悲しい (かなしい) - ဝမ်းနည်းသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "晴",
+    "onyomi": "セイ",
+    "kunyomi": "は(れる)",
+    "meaning": "သာယာရန်",
+    "example": "晴れる (はれる) - သာယာရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "掛",
+    "onyomi": "ケイ",
+    "kunyomi": "か(ける)",
+    "meaning": "ချိတ်ရန်",
+    "example": "掛ける (かける) - ချိတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "到",
+    "onyomi": "トウ",
+    "kunyomi": "いた(る)",
+    "meaning": "ရောက်ရှိရန်",
+    "example": "到着 (とうちゃく) - ရောက်ရှိခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "寝",
+    "onyomi": "シン",
+    "kunyomi": "ね(る)",
+    "meaning": "အိပ်ရန်",
+    "example": "寝る (ねる) - အိပ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "暗",
+    "onyomi": "アン",
+    "kunyomi": "くら(い)",
+    "meaning": "မှောင်သော",
+    "example": "暗い (くらい) - မှောင်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "盗",
+    "onyomi": "トウ",
+    "kunyomi": "ぬす(む)",
+    "meaning": "ခိုးယူရန်",
+    "example": "盗む (ぬすむ) - ခိုးယူရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "吸",
+    "onyomi": "キュウ",
+    "kunyomi": "す(う)",
+    "meaning": "ရှူရန်",
+    "example": "吸う (すう) - ရှူရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "陽",
+    "onyomi": "ヨウ",
+    "kunyomi": "ひ",
+    "meaning": "နေရောင်",
+    "example": "太陽 (たいよう) - နေ",
+    "level": "n3"
+  },
+  {
+    "kanji": "御",
+    "onyomi": "ギョ, ゴ",
+    "kunyomi": "おん, お",
+    "meaning": "ရိုသေလေးစားဖွယ်",
+    "example": "御飯 (ごはん) - ထမင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "歯",
+    "onyomi": "シ",
+    "kunyomi": "は",
+    "meaning": "သွား",
+    "example": "歯 (は) - သွား",
+    "level": "n3"
+  },
+  {
+    "kanji": "忘",
+    "onyomi": "ボウ",
+    "kunyomi": "わす(れる)",
+    "meaning": "မေ့ရန်",
+    "example": "忘れる (わすれる) - မေ့ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "雪",
+    "onyomi": "セツ",
+    "kunyomi": "ゆき",
+    "meaning": "နှင်း",
+    "example": "雪 (ゆき) - နှင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "吹",
+    "onyomi": "スイ",
+    "kunyomi": "ふ(く)",
+    "meaning": "မှုတ်ရန်",
+    "example": "吹く (ふく) - မှုတ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "娘",
+    "onyomi": "ジョウ",
+    "kunyomi": "むすめ, こ",
+    "meaning": "သမီး",
+    "example": "娘 (むすめ) - သမီး",
+    "level": "n3"
+  },
+  {
+    "kanji": "誤",
+    "onyomi": "ゴ",
+    "kunyomi": "あやま(る)",
+    "meaning": "မှားယွင်းရန်",
+    "example": "誤る (あやまる) - မှားယွင်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "洗",
+    "onyomi": "セン",
+    "kunyomi": "あら(う)",
+    "meaning": "ဆေးရန်",
+    "example": "洗う (あらう) - ဆေးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "慣",
+    "onyomi": "カン",
+    "kunyomi": "な(れる)",
+    "meaning": "ကျင့်သားရရန်",
+    "example": "慣れる (なれる) - ကျင့်သားရရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "礼",
+    "onyomi": "レイ, ライ",
+    "kunyomi": "",
+    "meaning": "အလေးပြုခြင်း",
+    "example": "礼 (れい) - ကျေးဇူးတင်ခြင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "窓",
+    "onyomi": "ソウ",
+    "kunyomi": "まど",
+    "meaning": "ပြတင်း",
+    "example": "窓 (まど) - ပြတင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "昔",
+    "onyomi": "セキ, シャク",
+    "kunyomi": "むかし",
+    "meaning": "ရှေးခေတ်",
+    "example": "昔 (むかし) - ရှေးခေတ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "貧",
+    "onyomi": "ヒン, ビン",
+    "kunyomi": "まず(しい)",
+    "meaning": "ဆင်းရဲသော",
+    "example": "貧しい (まずしい) - ဆင်းရဲသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "怒",
+    "onyomi": "ド",
+    "kunyomi": "いか(る), おこ(る)",
+    "meaning": "ဒေါသထွက်ရန်",
+    "example": "怒る (おこる) - ဒေါသထွက်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "泳",
+    "onyomi": "エイ",
+    "kunyomi": "およ(ぐ)",
+    "meaning": "ရေကူးရန်",
+    "example": "泳ぐ (およぐ) - ရေကူးရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "祖",
+    "onyomi": "ソ",
+    "kunyomi": "",
+    "meaning": "ဘိုးဘေး",
+    "example": "祖先 (そせん) - ဘိုးဘေး",
+    "level": "n3"
+  },
+  {
+    "kanji": "杯",
+    "onyomi": "ハイ",
+    "kunyomi": "さかずき",
+    "meaning": "ခွက်",
+    "example": "杯 (はい) - ခွက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "疲",
+    "onyomi": "ヒ",
+    "kunyomi": "つか(れる)",
+    "meaning": "ပင်ပန်းရန်",
+    "example": "疲れる (つかれる) - ပင်ပန်းရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "皆",
+    "onyomi": "カイ",
+    "kunyomi": "みな, みんな",
+    "meaning": "အားလုံး",
+    "example": "皆 (みんな) - အားလုံး",
+    "level": "n3"
+  },
+  {
+    "kanji": "鳴",
+    "onyomi": "メイ",
+    "kunyomi": "な(く), な(る)",
+    "meaning": "မြည်ရန်",
+    "example": "鳴く (なく) - အော်မြည်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "腹",
+    "onyomi": "フク",
+    "kunyomi": "はら",
+    "meaning": "ဝမ်း",
+    "example": "腹 (はら) - ဗိုက်",
+    "level": "n3"
+  },
+  {
+    "kanji": "煙",
+    "onyomi": "エン",
+    "kunyomi": "けむ(る), けむり",
+    "meaning": "မီးခိုး",
+    "example": "煙 (けむり) - မီးခိုး",
+    "level": "n3"
+  },
+  {
+    "kanji": "眠",
+    "onyomi": "ミン",
+    "kunyomi": "ねむ(る)",
+    "meaning": "အိပ်ရန်",
+    "example": "眠る (ねむる) - အိပ်ရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "怖",
+    "onyomi": "フ",
+    "kunyomi": "こわ(い), お(じる)",
+    "meaning": "ကြောက်စရာ",
+    "example": "怖い (こわい) - ကြောက်စရာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "meaning": "နား",
+    "example": "耳 (みみ) - နား",
+    "level": "n3"
+  },
+  {
+    "kanji": "頂",
+    "onyomi": "チョウ",
+    "kunyomi": "いただ(く)",
+    "meaning": "လက်ခံရန်",
+    "example": "頂く (いただく) - ရရှိရန်",
+    "level": "n3"
+  },
+  {
+    "kanji": "箱",
+    "onyomi": "ソウ",
+    "kunyomi": "はこ",
+    "meaning": "သေတ္တာ",
+    "example": "箱 (はこ) - သေတ္တာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "晩",
+    "onyomi": "バン",
+    "kunyomi": "",
+    "meaning": "ညနေ",
+    "example": "晩 (ばん) - ညနေ",
+    "level": "n3"
+  },
+  {
+    "kanji": "寒",
+    "onyomi": "カン",
+    "kunyomi": "さむ(い)",
+    "meaning": "အေးသော",
+    "example": "寒い (さむい) - အေးသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "髪",
+    "onyomi": "ハツ",
+    "kunyomi": "かみ",
+    "meaning": "ဆံပင်",
+    "example": "髪 (かみ) - ဆံပင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "忙",
+    "onyomi": "ボウ, モウ",
+    "kunyomi": "いそが(しい)",
+    "meaning": "အလုပ်များသော",
+    "example": "忙しい (いそがしい) - အလုပ်များသော",
+    "level": "n3"
+  },
+  {
+    "kanji": "才",
+    "onyomi": "サイ",
+    "kunyomi": "",
+    "meaning": "အရည်အချင်း",
+    "example": "才能 (さいのう) - အရည်အချင်း",
+    "level": "n3"
+  },
+  {
+    "kanji": "靴",
+    "onyomi": "カ",
+    "kunyomi": "くつ",
+    "meaning": "ဖိနပ်",
+    "example": "靴 (くつ) - ဖိနပ်",
+    "level": "n3"
+  },
+  {
+    "kanji": "恥",
+    "onyomi": "チ",
+    "kunyomi": "はじ, は(ずかしい)",
+    "meaning": "ရှက်ခြင်း",
+    "example": "恥ずかしい (はずかしい) - ရှက်စရာ",
+    "level": "n3"
+  },
+  {
+    "kanji": "偶",
+    "onyomi": "グウ",
+    "kunyomi": "たま",
+    "meaning": "မတော်တဆ",
+    "example": "偶然 (ぐうぜん) - မတော်တဆမှု",
+    "level": "n3"
+  },
+  {
+    "kanji": "偉",
+    "onyomi": "イ",
+    "kunyomi": "えら(い)",
+    "meaning": "ကြီးကျယ်သော",
+    "example": "偉い (えらい) - ကြီးကျယ်သော",
+    "level": "n3"
+  },
+  {
+    "kanji": "猫",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ",
+    "meaning": "ကြောင်",
+    "example": "猫 (ねこ) - ကြောင်",
+    "level": "n3"
+  },
+  {
+    "kanji": "幾",
+    "onyomi": "キ",
+    "kunyomi": "いく(つ)",
+    "meaning": "မည်မျှ",
+    "example": "幾つ (いくつ) - မည်မျှ",
+    "level": "n3"
+  },
+  {
+    "kanji": "誰",
+    "onyomi": "スイ",
+    "kunyomi": "だれ",
+    "meaning": "မည်သူ",
+    "example": "誰 (だれ) - မည်သူ",
+    "level": "n3"
+  }
+]
