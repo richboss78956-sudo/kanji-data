@@ -1,0 +1,5154 @@
+[
+  {
+    "id": "1",
+    "word": "浴びる",
+    "reading": "あびる",
+    "meaning": "to bathe, to shower",
+    "example": "シャワーを浴びる (あびる) - to take a shower",
+    "level": "n5"
+  },
+  {
+    "id": "2",
+    "word": "危ない",
+    "reading": "あぶない",
+    "meaning": "dangerous",
+    "example": "危ないです (あぶない) - It's dangerous",
+    "level": "n5"
+  },
+  {
+    "id": "3",
+    "word": "あっち",
+    "reading": "あっち",
+    "meaning": "over there",
+    "example": "あっちにあります (あっち) - It's over there",
+    "level": "n5"
+  },
+  {
+    "id": "4",
+    "word": "あちら",
+    "reading": "あちら",
+    "meaning": "there",
+    "example": "あちらへ行く (あちら) - go there",
+    "level": "n5"
+  },
+  {
+    "id": "5",
+    "word": "上げる",
+    "reading": "あげる",
+    "meaning": "to raise; to elevate; to give",
+    "example": "手を上げる (あげる) - raise hand",
+    "level": "n5"
+  },
+  {
+    "id": "6",
+    "word": "赤",
+    "reading": "あか",
+    "meaning": "red; crimson; scarlet",
+    "example": "赤い色 (あか) - red color",
+    "level": "n5"
+  },
+  {
+    "id": "7",
+    "word": "赤い",
+    "reading": "あかい",
+    "meaning": "red; crimson; scarlet",
+    "example": "赤い花 (あかい) - red flower",
+    "level": "n5"
+  },
+  {
+    "id": "8",
+    "word": "明るい",
+    "reading": "あかるい",
+    "meaning": "bright; light",
+    "example": "明るい部屋 (あかるい) - bright room",
+    "level": "n5"
+  },
+  {
+    "id": "9",
+    "word": "開ける",
+    "reading": "あける",
+    "meaning": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
+    "example": "ドアを開ける (あける) - open the door",
+    "level": "n5"
+  },
+  {
+    "id": "10",
+    "word": "秋",
+    "reading": "あき",
+    "meaning": "autumn; fall",
+    "example": "秋が好き (あき) - I like autumn",
+    "level": "n5"
+  },
+  {
+    "id": "11",
+    "word": "開く",
+    "reading": "あく",
+    "meaning": "to open (e.g. doors, business, etc)",
+    "example": "ドアが開く (あく) - door opens",
+    "level": "n5"
+  },
+  {
+    "id": "12",
+    "word": "甘い",
+    "reading": "あまい",
+    "meaning": "sweet; sweet-tasting; sugary; naive; indulgent",
+    "example": "甘いケーキ (あまい) - sweet cake",
+    "level": "n5"
+  },
+  {
+    "id": "13",
+    "word": "雨",
+    "reading": "あめ",
+    "meaning": "rain",
+    "example": "雨が降る (あめ) - rain falls",
+    "level": "n5"
+  },
+  {
+    "id": "14",
+    "word": "飴",
+    "reading": "あめ",
+    "meaning": "candy",
+    "example": "飴を食べる (あめ) - eat candy",
+    "level": "n5"
+  },
+  {
+    "id": "15",
+    "word": "あなた",
+    "reading": "あなた",
+    "meaning": "you",
+    "example": "あなたは学生ですか (あなた) - Are you a student?",
+    "level": "n5"
+  },
+  {
+    "id": "16",
+    "word": "姉",
+    "reading": "あね",
+    "meaning": "older sister; elder sister",
+    "example": "私の姉 (あね) - my older sister",
+    "level": "n5"
+  },
+  {
+    "id": "17",
+    "word": "兄",
+    "reading": "あに",
+    "meaning": "elder brother; older brother",
+    "example": "私の兄 (あに) - my older brother",
+    "level": "n5"
+  },
+  {
+    "id": "18",
+    "word": "あの",
+    "reading": "あの",
+    "meaning": "that",
+    "example": "あの人 (あの) - that person",
+    "level": "n5"
+  },
+  {
+    "id": "19",
+    "word": "青",
+    "reading": "あお",
+    "meaning": "blue; azure",
+    "example": "青い空 (あお) - blue sky",
+    "level": "n5"
+  },
+  {
+    "id": "20",
+    "word": "青い",
+    "reading": "あおい",
+    "meaning": "blue; azure",
+    "example": "青い海 (あおい) - blue sea",
+    "level": "n5"
+  },
+  {
+    "id": "21",
+    "word": "アパート",
+    "reading": "アパート",
+    "meaning": "apartment",
+    "example": "アパートに住む (アパート) - live in an apartment",
+    "level": "n5"
+  },
+  {
+    "id": "22",
+    "word": "洗う",
+    "reading": "あらう",
+    "meaning": "to wash",
+    "example": "手を洗う (あらう) - wash hands",
+    "level": "n5"
+  },
+  {
+    "id": "23",
+    "word": "あれ",
+    "reading": "あれ",
+    "meaning": "that",
+    "example": "あれは何ですか (あれ) - What is that?",
+    "level": "n5"
+  },
+  {
+    "id": "24",
+    "word": "ある",
+    "reading": "ある",
+    "meaning": "to be, to have",
+    "example": "問題がある (ある) - There is a problem",
+    "level": "n5"
+  },
+  {
+    "id": "25",
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning": "to walk",
+    "example": "公園を歩く (あるく) - walk in the park",
+    "level": "n5"
+  },
+  {
+    "id": "26",
+    "word": "朝",
+    "reading": "あさ",
+    "meaning": "morning",
+    "example": "朝起きる (あさ) - wake up in the morning",
+    "level": "n5"
+  },
+  {
+    "id": "27",
+    "word": "朝ご飯",
+    "reading": "あさごはん",
+    "meaning": "breakfast",
+    "example": "朝ご飯を食べる (あさごはん) - eat breakfast",
+    "level": "n5"
+  },
+  {
+    "id": "28",
+    "word": "明後日",
+    "reading": "あさって",
+    "meaning": "day after tomorrow",
+    "example": "明後日会いましょう (あさって) - Let's meet the day after tomorrow",
+    "level": "n5"
+  },
+  {
+    "id": "29",
+    "word": "足",
+    "reading": "あし",
+    "meaning": "foot; leg; paw; arm",
+    "example": "足が痛い (あし) - My foot hurts",
+    "level": "n5"
+  },
+  {
+    "id": "30",
+    "word": "明日",
+    "reading": "あした",
+    "meaning": "tomorrow",
+    "example": "明日学校に行く (あした) - go to school tomorrow",
+    "level": "n5"
+  },
+  {
+    "id": "31",
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "to play; to enjoy oneself",
+    "example": "友達と遊ぶ (あそぶ) - play with friends",
+    "level": "n5"
+  },
+  {
+    "id": "32",
+    "word": "あそこ",
+    "reading": "あそこ",
+    "meaning": "over there",
+    "example": "あそこにあります (あそこ) - It's over there",
+    "level": "n5"
+  },
+  {
+    "id": "33",
+    "word": "頭",
+    "reading": "あたま",
+    "meaning": "head",
+    "example": "頭がいい (あたま) - smart (lit. head is good)",
+    "level": "n5"
+  },
+  {
+    "id": "34",
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meaning": "new; novel; fresh; recent; latest",
+    "example": "新しい車 (あたらしい) - new car",
+    "level": "n5"
+  },
+  {
+    "id": "35",
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "meaning": "warm",
+    "example": "暖かい日 (あたたかい) - warm day",
+    "level": "n5"
+  },
+  {
+    "id": "36",
+    "word": "後",
+    "reading": "あと",
+    "meaning": "behind; after; remainder; left; also",
+    "example": "後で会いましょう (あと) - See you later",
+    "level": "n5"
+  },
+  {
+    "id": "37",
+    "word": "暑い",
+    "reading": "あつい",
+    "meaning": "hot; sultry",
+    "example": "暑い夏 (あつい) - hot summer",
+    "level": "n5"
+  },
+  {
+    "id": "38",
+    "word": "厚い",
+    "reading": "あつい",
+    "meaning": "thick",
+    "example": "厚い本 (あつい) - thick book",
+    "level": "n5"
+  },
+  {
+    "id": "39",
+    "word": "熱い",
+    "reading": "あつい",
+    "meaning": "hot",
+    "example": "熱いコーヒー (あつい) - hot coffee",
+    "level": "n5"
+  },
+  {
+    "id": "40",
+    "word": "会う",
+    "reading": "あう",
+    "meaning": "to meet; to encounter; to see",
+    "example": "友達に会う (あう) - meet a friend",
+    "level": "n5"
+  },
+  {
+    "id": "41",
+    "word": "晩ご飯",
+    "reading": "ばんごはん",
+    "meaning": "dinner; evening meal",
+    "example": "晩ご飯を食べる (ばんごはん) - eat dinner",
+    "level": "n5"
+  },
+  {
+    "id": "42",
+    "word": "番号",
+    "reading": "ばんごう",
+    "meaning": "number",
+    "example": "電話番号 (ばんごう) - phone number",
+    "level": "n5"
+  },
+  {
+    "id": "43",
+    "word": "バス",
+    "reading": "バス",
+    "meaning": "bus",
+    "example": "バスに乗る (バス) - take the bus",
+    "level": "n5"
+  },
+  {
+    "id": "44",
+    "word": "バター",
+    "reading": "バター",
+    "meaning": "butter",
+    "example": "バターを塗る (バター) - spread butter",
+    "level": "n5"
+  },
+  {
+    "id": "45",
+    "word": "ベッド",
+    "reading": "ベッド",
+    "meaning": "bed",
+    "example": "ベッドで寝る (ベッド) - sleep in bed",
+    "level": "n5"
+  },
+  {
+    "id": "46",
+    "word": "勉強",
+    "reading": "べんきょう",
+    "meaning": "to study",
+    "example": "日本語を勉強する (べんきょう) - study Japanese",
+    "level": "n5"
+  },
+  {
+    "id": "47",
+    "word": "便利",
+    "reading": "べんり",
+    "meaning": "convenient; handy; useful",
+    "example": "便利な道具 (べんり) - convenient tool",
+    "level": "n5"
+  },
+  {
+    "id": "48",
+    "word": "ボールペン",
+    "reading": "ボールペン",
+    "meaning": "ball-point pen",
+    "example": "ボールペンで書く (ボールペン) - write with a ballpoint pen",
+    "level": "n5"
+  },
+  {
+    "id": "49",
+    "word": "ボタン",
+    "reading": "ボタン",
+    "meaning": "button",
+    "example": "ボタンを押す (ボタン) - press the button",
+    "level": "n5"
+  },
+  {
+    "id": "50",
+    "word": "帽子",
+    "reading": "ぼうし",
+    "meaning": "hat; cap",
+    "example": "帽子をかぶる (ぼうし) - wear a hat",
+    "level": "n5"
+  },
+  {
+    "id": "51",
+    "word": "文章",
+    "reading": "ぶんしょう",
+    "meaning": "sentence",
+    "example": "長い文章 (ぶんしょう) - long sentence",
+    "level": "n5"
+  },
+  {
+    "id": "52",
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "pork",
+    "example": "豚肉を食べる (ぶたにく) - eat pork",
+    "level": "n5"
+  },
+  {
+    "id": "53",
+    "word": "病院",
+    "reading": "びょういん",
+    "meaning": "hospital",
+    "example": "病院に行く (びょういん) - go to the hospital",
+    "level": "n5"
+  },
+  {
+    "id": "54",
+    "word": "病気",
+    "reading": "びょうき",
+    "meaning": "illness; disease; sickness",
+    "example": "病気になる (びょうき) - become ill",
+    "level": "n5"
+  },
+  {
+    "id": "55",
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "meaning": "brown",
+    "example": "茶色の髪 (ちゃいろ) - brown hair",
+    "level": "n5"
+  },
+  {
+    "id": "56",
+    "word": "茶碗",
+    "reading": "ちゃわん",
+    "meaning": "rice bowl; tea cup; teacup",
+    "example": "茶碗にご飯 (ちゃわん) - rice in a bowl",
+    "level": "n5"
+  },
+  {
+    "id": "57",
+    "word": "父",
+    "reading": "ちち",
+    "meaning": "father",
+    "example": "私の父 (ちち) - my father",
+    "level": "n5"
+  },
+  {
+    "id": "58",
+    "word": "違う",
+    "reading": "ちがう",
+    "meaning": "to differ",
+    "example": "考えが違う (ちがう) - think differently",
+    "level": "n5"
+  },
+  {
+    "id": "59",
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meaning": "small; little; tiny",
+    "example": "小さい猫 (ちいさい) - small cat",
+    "level": "n5"
+  },
+  {
+    "id": "60",
+    "word": "小さな",
+    "reading": "ちいさな",
+    "meaning": "small; little; tiny",
+    "example": "小さな町 (ちいさな) - small town",
+    "level": "n5"
+  },
+  {
+    "id": "61",
+    "word": "近い",
+    "reading": "ちかい",
+    "meaning": "near; close",
+    "example": "駅が近い (ちかい) - station is near",
+    "level": "n5"
+  },
+  {
+    "id": "62",
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "subway; underground train",
+    "example": "地下鉄に乗る (ちかてつ) - take the subway",
+    "level": "n5"
+  },
+  {
+    "id": "63",
+    "word": "地図",
+    "reading": "ちず",
+    "meaning": "map",
+    "example": "地図を見る (ちず) - look at the map",
+    "level": "n5"
+  },
+  {
+    "id": "64",
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "a little",
+    "example": "ちょっと待って (ちょっと) - wait a little",
+    "level": "n5"
+  },
+  {
+    "id": "65",
+    "word": "丁度",
+    "reading": "ちょうど",
+    "meaning": "exactly",
+    "example": "ちょうどいい (ちょうど) - just right",
+    "level": "n5"
+  },
+  {
+    "id": "66",
+    "word": "台所",
+    "reading": "だいどころ",
+    "meaning": "kitchen",
+    "example": "台所で料理 (だいどころ) - cook in the kitchen",
+    "level": "n5"
+  },
+  {
+    "id": "67",
+    "word": "大学",
+    "reading": "だいがく",
+    "meaning": "university; college",
+    "example": "大学に行く (だいがく) - go to university",
+    "level": "n5"
+  },
+  {
+    "id": "68",
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "OK; okay; alright; problem free",
+    "example": "大丈夫ですか (だいじょうぶ) - Are you okay?",
+    "level": "n5"
+  },
+  {
+    "id": "69",
+    "word": "大好き",
+    "reading": "だいすき",
+    "meaning": "love; like; like very much",
+    "example": "大好きです (だいすき) - I love it",
+    "level": "n5"
+  },
+  {
+    "id": "70",
+    "word": "だんだん",
+    "reading": "だんだん",
+    "meaning": "gradually",
+    "example": "だんだん寒くなる (だんだん) - gradually getting colder",
+    "level": "n5"
+  },
+  {
+    "id": "71",
+    "word": "誰",
+    "reading": "だれ",
+    "meaning": "who",
+    "example": "誰ですか (だれ) - Who is it?",
+    "level": "n5"
+  },
+  {
+    "id": "72",
+    "word": "誰か",
+    "reading": "だれか",
+    "meaning": "someone; somebody",
+    "example": "誰か来た (だれか) - Someone came",
+    "level": "n5"
+  },
+  {
+    "id": "73",
+    "word": "出す",
+    "reading": "だす",
+    "meaning": "to take out; to get out; to put out; to reveal",
+    "example": "手を出す (だす) - put out hand",
+    "level": "n5"
+  },
+  {
+    "id": "74",
+    "word": "出口",
+    "reading": "でぐち",
+    "meaning": "exit; gateway; way out",
+    "example": "出口を探す (でぐち) - look for the exit",
+    "level": "n5"
+  },
+  {
+    "id": "75",
+    "word": "出かける",
+    "reading": "でかける",
+    "meaning": "to go out; to leave; to depart",
+    "example": "買い物に出かける (でかける) - go out shopping",
+    "level": "n5"
+  },
+  {
+    "id": "76",
+    "word": "電気",
+    "reading": "でんき",
+    "meaning": "electricity",
+    "example": "電気をつける (でんき) - turn on the light",
+    "level": "n5"
+  },
+  {
+    "id": "77",
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meaning": "train; electric train",
+    "example": "電車に乗る (でんしゃ) - take the train",
+    "level": "n5"
+  },
+  {
+    "id": "78",
+    "word": "電話",
+    "reading": "でんわ",
+    "meaning": "telephone (call / device); phone call",
+    "example": "電話をかける (でんわ) - make a phone call",
+    "level": "n5"
+  },
+  {
+    "id": "79",
+    "word": "デパート",
+    "reading": "デパート",
+    "meaning": "department store",
+    "example": "デパートで買い物 (デパート) - shop at a department store",
+    "level": "n5"
+  },
+  {
+    "id": "80",
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "to leave; to exit; to appear; to go out",
+    "example": "部屋を出る (でる) - leave the room",
+    "level": "n5"
+  },
+  {
+    "id": "81",
+    "word": "ドア",
+    "reading": "ドア",
+    "meaning": "door",
+    "example": "ドアを閉める (ドア) - close the door",
+    "level": "n5"
+  },
+  {
+    "id": "82",
+    "word": "どっち",
+    "reading": "どっち",
+    "meaning": "which; which one",
+    "example": "どっちがいいですか (どっち) - Which is better?",
+    "level": "n5"
+  },
+  {
+    "id": "83",
+    "word": "どちら",
+    "reading": "どちら",
+    "meaning": "which of two",
+    "example": "どちらへ行きますか (どちら) - Where are you going?",
+    "level": "n5"
+  },
+  {
+    "id": "84",
+    "word": "どこ",
+    "reading": "どこ",
+    "meaning": "where; what place",
+    "example": "どこに住んでいますか (どこ) - Where do you live?",
+    "level": "n5"
+  },
+  {
+    "id": "85",
+    "word": "どなた",
+    "reading": "どなた",
+    "meaning": "who",
+    "example": "どなたですか (どなた) - Who is it? (polite)",
+    "level": "n5"
+  },
+  {
+    "id": "86",
+    "word": "どの",
+    "reading": "どの",
+    "meaning": "which",
+    "example": "どの本ですか (どの) - Which book?",
+    "level": "n5"
+  },
+  {
+    "id": "87",
+    "word": "どれ",
+    "reading": "どれ",
+    "meaning": "which (of three or more)",
+    "example": "どれが好きですか (どれ) - Which one do you like?",
+    "level": "n5"
+  },
+  {
+    "id": "88",
+    "word": "どう",
+    "reading": "どう",
+    "meaning": "how; in what way; how about",
+    "example": "どうですか (どう) - How is it?",
+    "level": "n5"
+  },
+  {
+    "id": "89",
+    "word": "動物",
+    "reading": "どうぶつ",
+    "meaning": "animal",
+    "example": "動物が好き (どうぶつ) - like animals",
+    "level": "n5"
+  },
+  {
+    "id": "90",
+    "word": "どうも",
+    "reading": "どうも",
+    "meaning": "thank you; thanks",
+    "example": "どうもありがとう (どうも) - Thank you very much",
+    "level": "n5"
+  },
+  {
+    "id": "91",
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "meaning": "please",
+    "example": "どうぞお入りください (どうぞ) - Please come in",
+    "level": "n5"
+  },
+  {
+    "id": "92",
+    "word": "土曜日",
+    "reading": "どようび",
+    "meaning": "Saturday",
+    "example": "土曜日は休みです (どようび) - Saturday is a holiday",
+    "level": "n5"
+  },
+  {
+    "id": "93",
+    "word": "絵",
+    "reading": "え",
+    "meaning": "picture",
+    "example": "絵を描く (え) - draw a picture",
+    "level": "n5"
+  },
+  {
+    "id": "94",
+    "word": "ええ",
+    "reading": "ええ",
+    "meaning": "yes; that is correct; right",
+    "example": "ええ、そうです (ええ) - Yes, that's right",
+    "level": "n5"
+  },
+  {
+    "id": "95",
+    "word": "映画",
+    "reading": "えいが",
+    "meaning": "movie; film",
+    "example": "映画を見る (えいが) - watch a movie",
+    "level": "n5"
+  },
+  {
+    "id": "96",
+    "word": "映画館",
+    "reading": "えいがかん",
+    "meaning": "movie theater; cinema",
+    "example": "映画館へ行く (えいがかん) - go to the cinema",
+    "level": "n5"
+  },
+  {
+    "id": "97",
+    "word": "英語",
+    "reading": "えいご",
+    "meaning": "English language",
+    "example": "英語を勉強する (えいご) - study English",
+    "level": "n5"
+  },
+  {
+    "id": "98",
+    "word": "駅",
+    "reading": "えき",
+    "meaning": "station",
+    "example": "駅で待つ (えき) - wait at the station",
+    "level": "n5"
+  },
+  {
+    "id": "99",
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "pencil",
+    "example": "鉛筆で書く (えんぴつ) - write with a pencil",
+    "level": "n5"
+  },
+  {
+    "id": "100",
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "meaning": "elevator",
+    "example": "エレベーターに乗る (エレベーター) - take the elevator",
+    "level": "n5"
+  },
+  {
+    "id": "101",
+    "word": "フィルム",
+    "reading": "フィルム",
+    "meaning": "film",
+    "example": "フィルムを現像する (フィルム) - develop film",
+    "level": "n5"
+  },
+  {
+    "id": "102",
+    "word": "フォーク",
+    "reading": "フォーク",
+    "meaning": "fork",
+    "example": "フォークを使う (フォーク) - use a fork",
+    "level": "n5"
+  },
+  {
+    "id": "103",
+    "word": "服",
+    "reading": "ふく",
+    "meaning": "clothes",
+    "example": "服を着る (ふく) - wear clothes",
+    "level": "n5"
+  },
+  {
+    "id": "104",
+    "word": "吹く",
+    "reading": "ふく",
+    "meaning": "to blow (of the wind)",
+    "example": "風が吹く (ふく) - wind blows",
+    "level": "n5"
+  },
+  {
+    "id": "105",
+    "word": "降る",
+    "reading": "ふる",
+    "meaning": "to fall",
+    "example": "雨が降る (ふる) - rain falls",
+    "level": "n5"
+  },
+  {
+    "id": "106",
+    "word": "古い",
+    "reading": "ふるい",
+    "meaning": "old (not used for people)",
+    "example": "古い車 (ふるい) - old car",
+    "level": "n5"
+  },
+  {
+    "id": "107",
+    "word": "二人",
+    "reading": "ふたり",
+    "meaning": "two people; pair; couple",
+    "example": "二人で行く (ふたり) - go together (two people)",
+    "level": "n5"
+  },
+  {
+    "id": "108",
+    "word": "二つ",
+    "reading": "ふたつ",
+    "meaning": "two; 2",
+    "example": "二つください (ふたつ) - give me two",
+    "level": "n5"
+  },
+  {
+    "id": "109",
+    "word": "太い",
+    "reading": "ふとい",
+    "meaning": "fat; thick",
+    "example": "太い腕 (ふとい) - thick arm",
+    "level": "n5"
+  },
+  {
+    "id": "110",
+    "word": "二日",
+    "reading": "ふつか",
+    "meaning": "the second day of the month / 2 days",
+    "example": "二日間 (ふつか) - two days",
+    "level": "n5"
+  },
+  {
+    "id": "111",
+    "word": "封筒",
+    "reading": "ふうとう",
+    "meaning": "envelope",
+    "example": "封筒に手紙を入れる (ふうとう) - put letter in envelope",
+    "level": "n5"
+  },
+  {
+    "id": "112",
+    "word": "冬",
+    "reading": "ふゆ",
+    "meaning": "winter",
+    "example": "冬が好き (ふゆ) - like winter",
+    "level": "n5"
+  },
+  {
+    "id": "113",
+    "word": "外国",
+    "reading": "がいこく",
+    "meaning": "foreign country",
+    "example": "外国に行く (がいこく) - go abroad",
+    "level": "n5"
+  },
+  {
+    "id": "114",
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "meaning": "foreigner; foreign citizen; foreign national; alien; non-Japanese",
+    "example": "外国人観光客 (がいこくじん) - foreign tourist",
+    "level": "n5"
+  },
+  {
+    "id": "115",
+    "word": "学校",
+    "reading": "がっこう",
+    "meaning": "school",
+    "example": "学校に行く (がっこう) - go to school",
+    "level": "n5"
+  },
+  {
+    "id": "116",
+    "word": "学生",
+    "reading": "がくせい",
+    "meaning": "student",
+    "example": "大学生 (がくせい) - university student",
+    "level": "n5"
+  },
+  {
+    "id": "117",
+    "word": "玄関",
+    "reading": "げんかん",
+    "meaning": "entrance",
+    "example": "玄関で靴を脱ぐ (げんかん) - take off shoes at the entrance",
+    "level": "n5"
+  },
+  {
+    "id": "118",
+    "word": "元気",
+    "reading": "げんき",
+    "meaning": "lively; full of spirit; energetic; healthy",
+    "example": "元気ですか (げんき) - How are you?",
+    "level": "n5"
+  },
+  {
+    "id": "119",
+    "word": "月曜日",
+    "reading": "げつようび",
+    "meaning": "Monday",
+    "example": "月曜日から仕事 (げつようび) - work from Monday",
+    "level": "n5"
+  },
+  {
+    "id": "120",
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "bank",
+    "example": "銀行に行く (ぎんこう) - go to the bank",
+    "level": "n5"
+  },
+  {
+    "id": "121",
+    "word": "ギター",
+    "reading": "ギター",
+    "meaning": "guitar",
+    "example": "ギターを弾く (ギター) - play the guitar",
+    "level": "n5"
+  },
+  {
+    "id": "122",
+    "word": "五",
+    "reading": "ご",
+    "meaning": "five; 5",
+    "example": "五つ (ご) - five things",
+    "level": "n5"
+  },
+  {
+    "id": "123",
+    "word": "午後",
+    "reading": "ごご",
+    "meaning": "afternoon; p.m.",
+    "example": "午後三時 (ごご) - 3 p.m.",
+    "level": "n5"
+  },
+  {
+    "id": "124",
+    "word": "ご飯",
+    "reading": "ごはん",
+    "meaning": "cooked rice, meal",
+    "example": "ご飯を食べる (ごはん) - eat a meal",
+    "level": "n5"
+  },
+  {
+    "id": "125",
+    "word": "午前",
+    "reading": "ごぜん",
+    "meaning": "morning; a.m.",
+    "example": "午前十時 (ごぜん) - 10 a.m.",
+    "level": "n5"
+  },
+  {
+    "id": "126",
+    "word": "グラム",
+    "reading": "グラム",
+    "meaning": "gram",
+    "example": "百グラム (グラム) - 100 grams",
+    "level": "n5"
+  },
+  {
+    "id": "127",
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "beef",
+    "example": "牛肉を食べる (ぎゅうにく) - eat beef",
+    "level": "n5"
+  },
+  {
+    "id": "128",
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning": "(cow's) milk",
+    "example": "牛乳を飲む (ぎゅうにゅう) - drink milk",
+    "level": "n5"
+  },
+  {
+    "id": "129",
+    "word": "歯",
+    "reading": "は",
+    "meaning": "tooth",
+    "example": "歯を磨く (は) - brush teeth",
+    "level": "n5"
+  },
+  {
+    "id": "130",
+    "word": "八",
+    "reading": "はち",
+    "meaning": "eight: 8",
+    "example": "八時 (はち) - eight o'clock",
+    "level": "n5"
+  },
+  {
+    "id": "131",
+    "word": "葉書",
+    "reading": "はがき",
+    "meaning": "postcard",
+    "example": "葉書を送る (はがき) - send a postcard",
+    "level": "n5"
+  },
+  {
+    "id": "132",
+    "word": "母",
+    "reading": "はは",
+    "meaning": "mother",
+    "example": "私の母 (はは) - my mother",
+    "level": "n5"
+  },
+  {
+    "id": "133",
+    "word": "はい",
+    "reading": "はい",
+    "meaning": "yes; that is correct",
+    "example": "はい、わかりました (はい) - Yes, I understand",
+    "level": "n5"
+  },
+  {
+    "id": "134",
+    "word": "入る",
+    "reading": "はいる",
+    "meaning": "to enter; to go into",
+    "example": "部屋に入る (はいる) - enter the room",
+    "level": "n5"
+  },
+  {
+    "id": "135",
+    "word": "灰皿",
+    "reading": "はいざら",
+    "meaning": "ashtray",
+    "example": "灰皿に吸い殻を入れる (はいざら) - put cigarette butt in ashtray",
+    "level": "n5"
+  },
+  {
+    "id": "136",
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "to begin",
+    "example": "授業が始まる (はじまる) - class begins",
+    "level": "n5"
+  },
+  {
+    "id": "137",
+    "word": "初めて",
+    "reading": "はじめて",
+    "meaning": "for the first time",
+    "example": "初めて日本に来た (はじめて) - came to Japan for the first time",
+    "level": "n5"
+  },
+  {
+    "id": "138",
+    "word": "箱",
+    "reading": "はこ",
+    "meaning": "box; crate",
+    "example": "箱に入れる (はこ) - put in a box",
+    "level": "n5"
+  },
+  {
+    "id": "139",
+    "word": "履く",
+    "reading": "はく",
+    "meaning": "to wear, to put on trousers",
+    "example": "靴を履く (はく) - put on shoes",
+    "level": "n5"
+  },
+  {
+    "id": "140",
+    "word": "半",
+    "reading": "はん",
+    "meaning": "half; semi-; half-past",
+    "example": "半分 (はん) - half",
+    "level": "n5"
+  },
+  {
+    "id": "141",
+    "word": "花",
+    "reading": "はな",
+    "meaning": "flower",
+    "example": "花が咲く (はな) - flowers bloom",
+    "level": "n5"
+  },
+  {
+    "id": "142",
+    "word": "鼻",
+    "reading": "はな",
+    "meaning": "nose",
+    "example": "鼻が高い (はな) - high nose",
+    "level": "n5"
+  },
+  {
+    "id": "143",
+    "word": "話",
+    "reading": "はなし",
+    "meaning": "talk; speech; chat; conversation",
+    "example": "話をする (はなし) - have a conversation",
+    "level": "n5"
+  },
+  {
+    "id": "144",
+    "word": "話す",
+    "reading": "はなす",
+    "meaning": "to speak; to talk; to converse",
+    "example": "日本語を話す (はなす) - speak Japanese",
+    "level": "n5"
+  },
+  {
+    "id": "145",
+    "word": "半分",
+    "reading": "はんぶん",
+    "meaning": "half",
+    "example": "半分食べた (はんぶん) - ate half",
+    "level": "n5"
+  },
+  {
+    "id": "146",
+    "word": "ハンカチ",
+    "reading": "ハンカチ",
+    "meaning": "handkerchief",
+    "example": "ハンカチで拭く (ハンカチ) - wipe with a handkerchief",
+    "level": "n5"
+  },
+  {
+    "id": "147",
+    "word": "晴れ",
+    "reading": "はれ",
+    "meaning": "clear weather",
+    "example": "今日は晴れです (はれ) - Today is sunny",
+    "level": "n5"
+  },
+  {
+    "id": "148",
+    "word": "晴れる",
+    "reading": "はれる",
+    "meaning": "to be sunny",
+    "example": "明日は晴れる (はれる) - tomorrow will be sunny",
+    "level": "n5"
+  },
+  {
+    "id": "149",
+    "word": "春",
+    "reading": "はる",
+    "meaning": "spring; springtime",
+    "example": "春が来た (はる) - spring has come",
+    "level": "n5"
+  },
+  {
+    "id": "150",
+    "word": "貼る",
+    "reading": "はる",
+    "meaning": "to stick; to paste",
+    "example": "切手を貼る (はる) - stick a stamp",
+    "level": "n5"
+  },
+  {
+    "id": "151",
+    "word": "箸",
+    "reading": "はし",
+    "meaning": "chopsticks",
+    "example": "箸を使う (はし) - use chopsticks",
+    "level": "n5"
+  },
+  {
+    "id": "152",
+    "word": "橋",
+    "reading": "はし",
+    "meaning": "bridge",
+    "example": "橋を渡る (はし) - cross the bridge",
+    "level": "n5"
+  },
+  {
+    "id": "153",
+    "word": "走る",
+    "reading": "はしる",
+    "meaning": "to run",
+    "example": "公園を走る (はしる) - run in the park",
+    "level": "n5"
+  },
+  {
+    "id": "154",
+    "word": "二十歳",
+    "reading": "はたち",
+    "meaning": "20 years old; twenty years old",
+    "example": "二十歳になった (はたち) - turned 20",
+    "level": "n5"
+  },
+  {
+    "id": "155",
+    "word": "働く",
+    "reading": "はたらく",
+    "meaning": "to work",
+    "example": "会社で働く (はたらく) - work at a company",
+    "level": "n5"
+  },
+  {
+    "id": "156",
+    "word": "二十日",
+    "reading": "はつか",
+    "meaning": "twentieth day of the month / 20 days",
+    "example": "二十日間 (はつか) - 20 days",
+    "level": "n5"
+  },
+  {
+    "id": "157",
+    "word": "速い",
+    "reading": "はやい",
+    "meaning": "fast; quick; hasty; brisk",
+    "example": "速い車 (はやい) - fast car",
+    "level": "n5"
+  },
+  {
+    "id": "158",
+    "word": "早い",
+    "reading": "はやい",
+    "meaning": "fast; early",
+    "example": "早い時間 (はやい) - early time",
+    "level": "n5"
+  },
+  {
+    "id": "159",
+    "word": "辺",
+    "reading": "へん",
+    "meaning": "area",
+    "example": "この辺 (へん) - around here",
+    "level": "n5"
+  },
+  {
+    "id": "160",
+    "word": "下手",
+    "reading": "へた",
+    "meaning": "unskillful; poor; awkward",
+    "example": "歌が下手 (へた) - bad at singing",
+    "level": "n5"
+  },
+  {
+    "id": "161",
+    "word": "部屋",
+    "reading": "へや",
+    "meaning": "room",
+    "example": "部屋を掃除する (へや) - clean the room",
+    "level": "n5"
+  },
+  {
+    "id": "162",
+    "word": "左",
+    "reading": "ひだり",
+    "meaning": "left; left hand side",
+    "example": "左に曲がる (ひだり) - turn left",
+    "level": "n5"
+  },
+  {
+    "id": "163",
+    "word": "東",
+    "reading": "ひがし",
+    "meaning": "east",
+    "example": "東の方 (ひがし) - eastern direction",
+    "level": "n5"
+  },
+  {
+    "id": "164",
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "meaning": "airplane; aircraft",
+    "example": "飛行機に乗る (ひこうき) - take a plane",
+    "level": "n5"
+  },
+  {
+    "id": "165",
+    "word": "引く",
+    "reading": "ひく",
+    "meaning": "to pull",
+    "example": "ドアを引く (ひく) - pull the door",
+    "level": "n5"
+  },
+  {
+    "id": "166",
+    "word": "弾く",
+    "reading": "ひく",
+    "meaning": "to play",
+    "example": "ピアノを弾く (ひく) - play the piano",
+    "level": "n5"
+  },
+  {
+    "id": "167",
+    "word": "低い",
+    "reading": "ひくい",
+    "meaning": "short, low",
+    "example": "低い声 (ひくい) - low voice",
+    "level": "n5"
+  },
+  {
+    "id": "168",
+    "word": "暇",
+    "reading": "ひま",
+    "meaning": "free time",
+    "example": "暇な時間 (ひま) - free time",
+    "level": "n5"
+  },
+  {
+    "id": "169",
+    "word": "広い",
+    "reading": "ひろい",
+    "meaning": "spacious; vast; wide",
+    "example": "広い部屋 (ひろい) - spacious room",
+    "level": "n5"
+  },
+  {
+    "id": "170",
+    "word": "昼",
+    "reading": "ひる",
+    "meaning": "noon; midday; daytime; lunch",
+    "example": "昼に食べる (ひる) - eat at noon",
+    "level": "n5"
+  },
+  {
+    "id": "171",
+    "word": "昼ご飯",
+    "reading": "ひるごはん",
+    "meaning": "lunch",
+    "example": "昼ご飯を食べる (ひるごはん) - eat lunch",
+    "level": "n5"
+  },
+  {
+    "id": "172",
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "person; human",
+    "example": "人が多い (ひと) - many people",
+    "level": "n5"
+  },
+  {
+    "id": "173",
+    "word": "一人",
+    "reading": "ひとり",
+    "meaning": "one person; alone; single",
+    "example": "一人で行く (ひとり) - go alone",
+    "level": "n5"
+  },
+  {
+    "id": "174",
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meaning": "one thing; only",
+    "example": "一つだけ (ひとつ) - only one",
+    "level": "n5"
+  },
+  {
+    "id": "175",
+    "word": "ほか",
+    "reading": "ほか",
+    "meaning": "other (place, thing, person); the rest",
+    "example": "他の人 (ほか) - other people",
+    "level": "n5"
+  },
+  {
+    "id": "176",
+    "word": "本",
+    "reading": "ほん",
+    "meaning": "book; volume; script",
+    "example": "本を読む (ほん) - read a book",
+    "level": "n5"
+  },
+  {
+    "id": "177",
+    "word": "本棚",
+    "reading": "ほんだな",
+    "meaning": "bookshelf; bookcase",
+    "example": "本棚に本を入れる (ほんだな) - put books on the bookshelf",
+    "level": "n5"
+  },
+  {
+    "id": "178",
+    "word": "本当",
+    "reading": "ほんとう",
+    "meaning": "truth; reality; actuality; fact",
+    "example": "本当ですか (ほんとう) - Is that true?",
+    "level": "n5"
+  },
+  {
+    "id": "179",
+    "word": "欲しい",
+    "reading": "ほしい",
+    "meaning": "want",
+    "example": "新しい車が欲しい (ほしい) - want a new car",
+    "level": "n5"
+  },
+  {
+    "id": "180",
+    "word": "細い",
+    "reading": "ほそい",
+    "meaning": "thin; slender",
+    "example": "細い線 (ほそい) - thin line",
+    "level": "n5"
+  },
+  {
+    "id": "181",
+    "word": "ホテル",
+    "reading": "ホテル",
+    "meaning": "hotel",
+    "example": "ホテルに泊まる (ホテル) - stay at a hotel",
+    "level": "n5"
+  },
+  {
+    "id": "182",
+    "word": "百",
+    "reading": "ひゃく",
+    "meaning": "100; hundred",
+    "example": "百円 (ひゃく) - 100 yen",
+    "level": "n5"
+  },
+  {
+    "id": "183",
+    "word": "一",
+    "reading": "いち",
+    "meaning": "one; best; first; foremost; start",
+    "example": "一番 (いち) - number one",
+    "level": "n5"
+  },
+  {
+    "id": "184",
+    "word": "一番",
+    "reading": "いちばん",
+    "meaning": "number one; first; 1st, first place; best; most",
+    "example": "一番好き (いちばん) - favorite",
+    "level": "n5"
+  },
+  {
+    "id": "185",
+    "word": "一日",
+    "reading": "いちにち",
+    "meaning": "one day, all day",
+    "example": "一日中 (いちにち) - all day long",
+    "level": "n5"
+  },
+  {
+    "id": "186",
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "house, residence, family",
+    "example": "家に帰る (いえ) - go home",
+    "level": "n5"
+  },
+  {
+    "id": "187",
+    "word": "いかが",
+    "reading": "いかが",
+    "meaning": "how; in what way; how about",
+    "example": "いかがですか (いかが) - How is it? (polite)",
+    "level": "n5"
+  },
+  {
+    "id": "188",
+    "word": "池",
+    "reading": "いけ",
+    "meaning": "pond",
+    "example": "池に魚がいる (いけ) - fish in the pond",
+    "level": "n5"
+  },
+  {
+    "id": "189",
+    "word": "行く",
+    "reading": "いく",
+    "meaning": "to go; to move",
+    "example": "学校へ行く (いく) - go to school",
+    "level": "n5"
+  },
+  {
+    "id": "190",
+    "word": "いくら",
+    "reading": "いくら",
+    "meaning": "how much?; how many?",
+    "example": "いくらですか (いくら) - How much is it?",
+    "level": "n5"
+  },
+  {
+    "id": "191",
+    "word": "いくつ",
+    "reading": "いくつ",
+    "meaning": "how many?, how old?",
+    "example": "いくつありますか (いくつ) - How many are there?",
+    "level": "n5"
+  },
+  {
+    "id": "192",
+    "word": "今",
+    "reading": "いま",
+    "meaning": "now; the present time; soon",
+    "example": "今何時ですか (いま) - What time is it now?",
+    "level": "n5"
+  },
+  {
+    "id": "193",
+    "word": "意味",
+    "reading": "いみ",
+    "meaning": "meaning; significance; sense",
+    "example": "意味がわからない (いみ) - don't understand the meaning",
+    "level": "n5"
+  },
+  {
+    "id": "194",
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "younger sister",
+    "example": "私の妹 (いもうと) - my younger sister",
+    "level": "n5"
+  },
+  {
+    "id": "195",
+    "word": "犬",
+    "reading": "いぬ",
+    "meaning": "dog",
+    "example": "犬を飼う (いぬ) - have a dog",
+    "level": "n5"
+  },
+  {
+    "id": "196",
+    "word": "入れる",
+    "reading": "いれる",
+    "meaning": "to put in; to let in; to take in; to bring in; to insert; to install",
+    "example": "箱に入れる (いれる) - put in the box",
+    "level": "n5"
+  },
+  {
+    "id": "197",
+    "word": "入口",
+    "reading": "いりぐち",
+    "meaning": "entrance; entry; gate",
+    "example": "入口で待つ (いりぐち) - wait at the entrance",
+    "level": "n5"
+  },
+  {
+    "id": "198",
+    "word": "色",
+    "reading": "いろ",
+    "meaning": "colour; color",
+    "example": "色がきれい (いろ) - beautiful color",
+    "level": "n5"
+  },
+  {
+    "id": "199",
+    "word": "色々",
+    "reading": "いろいろ",
+    "meaning": "various",
+    "example": "色々な本 (いろいろ) - various books",
+    "level": "n5"
+  },
+  {
+    "id": "200",
+    "word": "要る",
+    "reading": "いる",
+    "meaning": "to be needed",
+    "example": "お金が要る (いる) - need money",
+    "level": "n5"
+  },
+  {
+    "id": "201",
+    "word": "居る",
+    "reading": "いる",
+    "meaning": "to be, to have",
+    "example": "家にいる (いる) - be at home",
+    "level": "n5"
+  },
+  {
+    "id": "202",
+    "word": "医者",
+    "reading": "いしゃ",
+    "meaning": "(medical) doctor; physician",
+    "example": "医者に行く (いしゃ) - go to the doctor",
+    "level": "n5"
+  },
+  {
+    "id": "203",
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "busy",
+    "example": "忙しいです (いそがしい) - I'm busy",
+    "level": "n5"
+  },
+  {
+    "id": "204",
+    "word": "一緒",
+    "reading": "いっしょ",
+    "meaning": "together; at the same time; same; identical",
+    "example": "一緒に行く (いっしょ) - go together",
+    "level": "n5"
+  },
+  {
+    "id": "205",
+    "word": "椅子",
+    "reading": "いす",
+    "meaning": "chair",
+    "example": "椅子に座る (いす) - sit on a chair",
+    "level": "n5"
+  },
+  {
+    "id": "206",
+    "word": "痛い",
+    "reading": "いたい",
+    "meaning": "painful; sore",
+    "example": "頭が痛い (いたい) - have a headache",
+    "level": "n5"
+  },
+  {
+    "id": "207",
+    "word": "いつ",
+    "reading": "いつ",
+    "meaning": "when",
+    "example": "いつ来ますか (いつ) - When will you come?",
+    "level": "n5"
+  },
+  {
+    "id": "208",
+    "word": "五日",
+    "reading": "いつか",
+    "meaning": "the fifth day of the month / 5 days",
+    "example": "五日間 (いつか) - five days",
+    "level": "n5"
+  },
+  {
+    "id": "209",
+    "word": "五つ",
+    "reading": "いつつ",
+    "meaning": "five; 5",
+    "example": "五つください (いつつ) - give me five",
+    "level": "n5"
+  },
+  {
+    "id": "210",
+    "word": "言う",
+    "reading": "いう",
+    "meaning": "to say; to call",
+    "example": "名前を言う (いう) - say one's name",
+    "level": "n5"
+  },
+  {
+    "id": "211",
+    "word": "嫌",
+    "reading": "いや",
+    "meaning": "unpleasant",
+    "example": "嫌な天気 (いや) - unpleasant weather",
+    "level": "n5"
+  },
+  {
+    "id": "212",
+    "word": "じゃあ",
+    "reading": "じゃあ",
+    "meaning": "then; well; so; well then",
+    "example": "じゃあ、また (じゃあ) - See you later",
+    "level": "n5"
+  },
+  {
+    "id": "213",
+    "word": "字引",
+    "reading": "じびき",
+    "meaning": "dictionary",
+    "example": "字引を引く (じびき) - look up in dictionary",
+    "level": "n5"
+  },
+  {
+    "id": "214",
+    "word": "自分",
+    "reading": "じぶん",
+    "meaning": "myself; yourself; oneself; himself; herself; i; me",
+    "example": "自分の部屋 (じぶん) - one's own room",
+    "level": "n5"
+  },
+  {
+    "id": "215",
+    "word": "自動車",
+    "reading": "じどうしゃ",
+    "meaning": "automobile; motorcar; motor vehicle; car",
+    "example": "自動車を運転する (じどうしゃ) - drive a car",
+    "level": "n5"
+  },
+  {
+    "id": "216",
+    "word": "時間",
+    "reading": "じかん",
+    "meaning": "time; hour(s)",
+    "example": "時間がかかる (じかん) - takes time",
+    "level": "n5"
+  },
+  {
+    "id": "217",
+    "word": "辞書",
+    "reading": "じしょ",
+    "meaning": "dictionary",
+    "example": "辞書で調べる (じしょ) - look up in dictionary",
+    "level": "n5"
+  },
+  {
+    "id": "218",
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "bicycle",
+    "example": "自転車に乗る (じてんしゃ) - ride a bicycle",
+    "level": "n5"
+  },
+  {
+    "id": "219",
+    "word": "丈夫",
+    "reading": "じょうぶ",
+    "meaning": "strong, durable",
+    "example": "丈夫な靴 (じょうぶ) - durable shoes",
+    "level": "n5"
+  },
+  {
+    "id": "220",
+    "word": "上手",
+    "reading": "じょうず",
+    "meaning": "skillful; skilled; proficient; good (at)",
+    "example": "料理が上手 (じょうず) - good at cooking",
+    "level": "n5"
+  },
+  {
+    "id": "221",
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "lesson; class work",
+    "example": "授業を受ける (じゅぎょう) - take a lesson",
+    "level": "n5"
+  },
+  {
+    "id": "222",
+    "word": "十",
+    "reading": "じゅう",
+    "meaning": "ten; 10",
+    "example": "十人 (じゅう) - ten people",
+    "level": "n5"
+  },
+  {
+    "id": "223",
+    "word": "かばん",
+    "reading": "かばん",
+    "meaning": "bag; basket",
+    "example": "かばんを持つ (かばん) - hold a bag",
+    "level": "n5"
+  },
+  {
+    "id": "224",
+    "word": "花瓶",
+    "reading": "かびん",
+    "meaning": "a vase",
+    "example": "花瓶に花を生ける (かびん) - put flowers in a vase",
+    "level": "n5"
+  },
+  {
+    "id": "225",
+    "word": "角",
+    "reading": "かど",
+    "meaning": "a corner; angle",
+    "example": "角を曲がる (かど) - turn the corner",
+    "level": "n5"
+  },
+  {
+    "id": "226",
+    "word": "帰る",
+    "reading": "かえる",
+    "meaning": "to go back",
+    "example": "家に帰る (かえる) - go home",
+    "level": "n5"
+  },
+  {
+    "id": "227",
+    "word": "返す",
+    "reading": "かえす",
+    "meaning": "to return something",
+    "example": "お金を返す (かえす) - return money",
+    "level": "n5"
+  },
+  {
+    "id": "228",
+    "word": "鍵",
+    "reading": "かぎ",
+    "meaning": "key",
+    "example": "鍵をかける (かぎ) - lock the door",
+    "level": "n5"
+  },
+  {
+    "id": "229",
+    "word": "階段",
+    "reading": "かいだん",
+    "meaning": "stairs; stairway; staircase",
+    "example": "階段を上る (かいだん) - go up the stairs",
+    "level": "n5"
+  },
+  {
+    "id": "230",
+    "word": "買い物",
+    "reading": "かいもの",
+    "meaning": "shopping; purchased goods",
+    "example": "買い物に行く (かいもの) - go shopping",
+    "level": "n5"
+  },
+  {
+    "id": "231",
+    "word": "会社",
+    "reading": "かいしゃ",
+    "meaning": "company; corporation",
+    "example": "会社で働く (かいしゃ) - work at a company",
+    "level": "n5"
+  },
+  {
+    "id": "232",
+    "word": "掛かる",
+    "reading": "かかる",
+    "meaning": "to take (a resource, e.g. time or money)",
+    "example": "時間がかかる (かかる) - takes time",
+    "level": "n5"
+  },
+  {
+    "id": "233",
+    "word": "掛ける",
+    "reading": "かける",
+    "meaning": "to hang up; to make (a call); to dial",
+    "example": "電話をかける (かける) - make a phone call",
+    "level": "n5"
+  },
+  {
+    "id": "234",
+    "word": "書く",
+    "reading": "かく",
+    "meaning": "to write; to compose; to pen; to draw",
+    "example": "手紙を書く (かく) - write a letter",
+    "level": "n5"
+  },
+  {
+    "id": "235",
+    "word": "カメラ",
+    "reading": "カメラ",
+    "meaning": "camera",
+    "example": "カメラで撮る (カメラ) - take a photo with a camera",
+    "level": "n5"
+  },
+  {
+    "id": "236",
+    "word": "紙",
+    "reading": "かみ",
+    "meaning": "paper",
+    "example": "紙に書く (かみ) - write on paper",
+    "level": "n5"
+  },
+  {
+    "id": "237",
+    "word": "漢字",
+    "reading": "かんじ",
+    "meaning": "kanji",
+    "example": "漢字を勉強する (かんじ) - study kanji",
+    "level": "n5"
+  },
+  {
+    "id": "238",
+    "word": "カップ",
+    "reading": "カップ",
+    "meaning": "cup",
+    "example": "コーヒーカップ (カップ) - coffee cup",
+    "level": "n5"
+  },
+  {
+    "id": "239",
+    "word": "体",
+    "reading": "からだ",
+    "meaning": "body",
+    "example": "体を動かす (からだ) - move one's body",
+    "level": "n5"
+  },
+  {
+    "id": "240",
+    "word": "辛い",
+    "reading": "からい",
+    "meaning": "spicy",
+    "example": "辛いカレー (からい) - spicy curry",
+    "level": "n5"
+  },
+  {
+    "id": "241",
+    "word": "カレー",
+    "reading": "カレー",
+    "meaning": "curry",
+    "example": "カレーを食べる (カレー) - eat curry",
+    "level": "n5"
+  },
+  {
+    "id": "242",
+    "word": "カレンダー",
+    "reading": "カレンダー",
+    "meaning": "calendar",
+    "example": "カレンダーを見る (カレンダー) - look at the calendar",
+    "level": "n5"
+  },
+  {
+    "id": "243",
+    "word": "借りる",
+    "reading": "かりる",
+    "meaning": "to borrow",
+    "example": "本を借りる (かりる) - borrow a book",
+    "level": "n5"
+  },
+  {
+    "id": "244",
+    "word": "軽い",
+    "reading": "かるい",
+    "meaning": "light",
+    "example": "軽い荷物 (かるい) - light luggage",
+    "level": "n5"
+  },
+  {
+    "id": "245",
+    "word": "傘",
+    "reading": "かさ",
+    "meaning": "umbrella",
+    "example": "傘をさす (かさ) - put up an umbrella",
+    "level": "n5"
+  },
+  {
+    "id": "246",
+    "word": "貸す",
+    "reading": "かす",
+    "meaning": "to lend; to loan",
+    "example": "お金を貸す (かす) - lend money",
+    "level": "n5"
+  },
+  {
+    "id": "247",
+    "word": "方",
+    "reading": "かた",
+    "meaning": "way of doing something",
+    "example": "書き方 (かた) - way of writing",
+    "level": "n5"
+  },
+  {
+    "id": "248",
+    "word": "家庭",
+    "reading": "かてい",
+    "meaning": "household",
+    "example": "家庭の事情 (かてい) - family circumstances",
+    "level": "n5"
+  },
+  {
+    "id": "249",
+    "word": "買う",
+    "reading": "かう",
+    "meaning": "to buy; to purchase",
+    "example": "車を買う (かう) - buy a car",
+    "level": "n5"
+  },
+  {
+    "id": "250",
+    "word": "川",
+    "reading": "かわ",
+    "meaning": "river; stream",
+    "example": "川で泳ぐ (かわ) - swim in the river",
+    "level": "n5"
+  },
+  {
+    "id": "251",
+    "word": "可愛い",
+    "reading": "かわいい",
+    "meaning": "cute",
+    "example": "可愛い犬 (かわいい) - cute dog",
+    "level": "n5"
+  },
+  {
+    "id": "252",
+    "word": "火曜日",
+    "reading": "かようび",
+    "meaning": "Tuesday",
+    "example": "火曜日に会う (かようび) - meet on Tuesday",
+    "level": "n5"
+  },
+  {
+    "id": "253",
+    "word": "風",
+    "reading": "かぜ",
+    "meaning": "wind",
+    "example": "風が強い (かぜ) - strong wind",
+    "level": "n5"
+  },
+  {
+    "id": "254",
+    "word": "風邪",
+    "reading": "かぜ",
+    "meaning": "a cold",
+    "example": "風邪をひく (かぜ) - catch a cold",
+    "level": "n5"
+  },
+  {
+    "id": "255",
+    "word": "家族",
+    "reading": "かぞく",
+    "meaning": "family; members of a family",
+    "example": "家族と住む (かぞく) - live with family",
+    "level": "n5"
+  },
+  {
+    "id": "256",
+    "word": "警官",
+    "reading": "けいかん",
+    "meaning": "policeman; police officer",
+    "example": "警官を呼ぶ (けいかん) - call the police",
+    "level": "n5"
+  },
+  {
+    "id": "257",
+    "word": "結婚",
+    "reading": "けっこん",
+    "meaning": "marriage",
+    "example": "結婚する (けっこん) - get married",
+    "level": "n5"
+  },
+  {
+    "id": "258",
+    "word": "結構",
+    "reading": "けっこう",
+    "meaning": "splendid, enough",
+    "example": "結構です (けっこう) - That's fine",
+    "level": "n5"
+  },
+  {
+    "id": "259",
+    "word": "今朝",
+    "reading": "けさ",
+    "meaning": "this morning",
+    "example": "今朝起きた (けさ) - woke up this morning",
+    "level": "n5"
+  },
+  {
+    "id": "260",
+    "word": "消す",
+    "reading": "けす",
+    "meaning": "to erase, to turn off power",
+    "example": "電気を消す (けす) - turn off the light",
+    "level": "n5"
+  },
+  {
+    "id": "261",
+    "word": "木",
+    "reading": "き",
+    "meaning": "tree; shrub; bush; wood; timber",
+    "example": "木を植える (き) - plant a tree",
+    "level": "n5"
+  },
+  {
+    "id": "262",
+    "word": "消える",
+    "reading": "きえる",
+    "meaning": "to disappear",
+    "example": "火が消える (きえる) - the fire goes out",
+    "level": "n5"
+  },
+  {
+    "id": "263",
+    "word": "黄色い",
+    "reading": "きいろい",
+    "meaning": "yellow",
+    "example": "黄色い花 (きいろい) - yellow flower",
+    "level": "n5"
+  },
+  {
+    "id": "264",
+    "word": "聞く",
+    "reading": "きく",
+    "meaning": "to hear; to listen (to music); to ask; to learn of",
+    "example": "音楽を聞く (きく) - listen to music",
+    "level": "n5"
+  },
+  {
+    "id": "265",
+    "word": "昨日",
+    "reading": "きのう",
+    "meaning": "yesterday",
+    "example": "昨日学校に行った (きのう) - went to school yesterday",
+    "level": "n5"
+  },
+  {
+    "id": "266",
+    "word": "金曜日",
+    "reading": "きんようび",
+    "meaning": "Friday",
+    "example": "金曜日の夜 (きんようび) - Friday night",
+    "level": "n5"
+  },
+  {
+    "id": "267",
+    "word": "切符",
+    "reading": "きっぷ",
+    "meaning": "ticket",
+    "example": "切符を買う (きっぷ) - buy a ticket",
+    "level": "n5"
+  },
+  {
+    "id": "268",
+    "word": "嫌い",
+    "reading": "きらい",
+    "meaning": "hate",
+    "example": "野菜が嫌い (きらい) - hate vegetables",
+    "level": "n5"
+  },
+  {
+    "id": "269",
+    "word": "綺麗",
+    "reading": "きれい",
+    "meaning": "pretty; lovely; beautiful",
+    "example": "綺麗な花 (きれい) - beautiful flower",
+    "level": "n5"
+  },
+  {
+    "id": "270",
+    "word": "キログラム",
+    "reading": "キログラム",
+    "meaning": "kilogram",
+    "example": "2キログラム (キログラム) - 2 kilograms",
+    "level": "n5"
+  },
+  {
+    "id": "271",
+    "word": "キロメートル",
+    "reading": "キロメートル",
+    "meaning": "kilometer",
+    "example": "5キロメートル (キロメートル) - 5 kilometers",
+    "level": "n5"
+  },
+  {
+    "id": "272",
+    "word": "切る",
+    "reading": "きる",
+    "meaning": "to cut",
+    "example": "紙を切る (きる) - cut paper",
+    "level": "n5"
+  },
+  {
+    "id": "273",
+    "word": "着る",
+    "reading": "きる",
+    "meaning": "to wear",
+    "example": "服を着る (きる) - wear clothes",
+    "level": "n5"
+  },
+  {
+    "id": "274",
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "meaning": "coffee shop; tearoom; cafe",
+    "example": "喫茶店でコーヒーを飲む (きっさてん) - drink coffee at a cafe",
+    "level": "n5"
+  },
+  {
+    "id": "275",
+    "word": "北",
+    "reading": "きた",
+    "meaning": "north",
+    "example": "北の方 (きた) - north direction",
+    "level": "n5"
+  },
+  {
+    "id": "276",
+    "word": "汚い",
+    "reading": "きたない",
+    "meaning": "dirty",
+    "example": "汚い部屋 (きたない) - dirty room",
+    "level": "n5"
+  },
+  {
+    "id": "277",
+    "word": "切手",
+    "reading": "きって",
+    "meaning": "stamp (postage)",
+    "example": "切手を貼る (きって) - stick a stamp",
+    "level": "n5"
+  },
+  {
+    "id": "278",
+    "word": "こっち",
+    "reading": "こっち",
+    "meaning": "this person or way",
+    "example": "こっちに来て (こっち) - come this way",
+    "level": "n5"
+  },
+  {
+    "id": "279",
+    "word": "こちら",
+    "reading": "こちら",
+    "meaning": "this way; this direction",
+    "example": "こちらへどうぞ (こちら) - Please come this way",
+    "level": "n5"
+  },
+  {
+    "id": "280",
+    "word": "子供",
+    "reading": "こども",
+    "meaning": "child",
+    "example": "子供が二人いる (こども) - have two children",
+    "level": "n5"
+  },
+  {
+    "id": "281",
+    "word": "声",
+    "reading": "こえ",
+    "meaning": "voice",
+    "example": "声が大きい (こえ) - loud voice",
+    "level": "n5"
+  },
+  {
+    "id": "282",
+    "word": "ここ",
+    "reading": "ここ",
+    "meaning": "here; this place",
+    "example": "ここで待つ (ここ) - wait here",
+    "level": "n5"
+  },
+  {
+    "id": "283",
+    "word": "九日",
+    "reading": "ここのか",
+    "meaning": "ninth day of the month / 9 days",
+    "example": "九日間 (ここのか) - nine days",
+    "level": "n5"
+  },
+  {
+    "id": "284",
+    "word": "九つ",
+    "reading": "ここのつ",
+    "meaning": "nine; 9",
+    "example": "九つある (ここのつ) - there are nine",
+    "level": "n5"
+  },
+  {
+    "id": "285",
+    "word": "困る",
+    "reading": "こまる",
+    "meaning": "to be troubled",
+    "example": "お金がなくて困る (こまる) - troubled because no money",
+    "level": "n5"
+  },
+  {
+    "id": "286",
+    "word": "今晩",
+    "reading": "こんばん",
+    "meaning": "tonight; this evening",
+    "example": "今晩は忙しい (こんばん) - busy tonight",
+    "level": "n5"
+  },
+  {
+    "id": "287",
+    "word": "今月",
+    "reading": "こんげつ",
+    "meaning": "this month",
+    "example": "今月の予定 (こんげつ) - this month's schedule",
+    "level": "n5"
+  },
+  {
+    "id": "288",
+    "word": "こんな",
+    "reading": "こんな",
+    "meaning": "such; like this",
+    "example": "こんなに大きい (こんな) - this big",
+    "level": "n5"
+  },
+  {
+    "id": "289",
+    "word": "この",
+    "reading": "この",
+    "meaning": "this",
+    "example": "この本 (この) - this book",
+    "level": "n5"
+  },
+  {
+    "id": "290",
+    "word": "今週",
+    "reading": "こんしゅう",
+    "meaning": "this week",
+    "example": "今週末 (こんしゅう) - this weekend",
+    "level": "n5"
+  },
+  {
+    "id": "291",
+    "word": "コーヒー",
+    "reading": "コーヒー",
+    "meaning": "Coffee",
+    "example": "コーヒーを飲む (コーヒー) - drink coffee",
+    "level": "n5"
+  },
+  {
+    "id": "292",
+    "word": "コート",
+    "reading": "コート",
+    "meaning": "coat",
+    "example": "コートを着る (コート) - wear a coat",
+    "level": "n5"
+  },
+  {
+    "id": "293",
+    "word": "コピー",
+    "reading": "コピー",
+    "meaning": "copy; photocopy",
+    "example": "コピーを取る (コピー) - make a copy",
+    "level": "n5"
+  },
+  {
+    "id": "294",
+    "word": "コップ",
+    "reading": "コップ",
+    "meaning": "glass (drinking vessel); tumbler",
+    "example": "コップに水を入れる (コップ) - put water in a glass",
+    "level": "n5"
+  },
+  {
+    "id": "295",
+    "word": "これ",
+    "reading": "これ",
+    "meaning": "this",
+    "example": "これは何ですか (これ) - What is this?",
+    "level": "n5"
+  },
+  {
+    "id": "296",
+    "word": "答える",
+    "reading": "こたえる",
+    "meaning": "to answer",
+    "example": "質問に答える (こたえる) - answer a question",
+    "level": "n5"
+  },
+  {
+    "id": "297",
+    "word": "言葉",
+    "reading": "ことば",
+    "meaning": "word; words",
+    "example": "日本語の言葉 (ことば) - Japanese words",
+    "level": "n5"
+  },
+  {
+    "id": "298",
+    "word": "今年",
+    "reading": "ことし",
+    "meaning": "this year",
+    "example": "今年の夏 (ことし) - this summer",
+    "level": "n5"
+  },
+  {
+    "id": "299",
+    "word": "交番",
+    "reading": "こうばん",
+    "meaning": "police box",
+    "example": "交番で道を聞く (こうばん) - ask for directions at police box",
+    "level": "n5"
+  },
+  {
+    "id": "300",
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "meaning": "black tea",
+    "example": "紅茶を飲む (こうちゃ) - drink black tea",
+    "level": "n5"
+  },
+  {
+    "id": "301",
+    "word": "公園",
+    "reading": "こうえん",
+    "meaning": "park",
+    "example": "公園で遊ぶ (こうえん) - play in the park",
+    "level": "n5"
+  },
+  {
+    "id": "302",
+    "word": "交差点",
+    "reading": "こうさてん",
+    "meaning": "intersection",
+    "example": "交差点を渡る (こうさてん) - cross the intersection",
+    "level": "n5"
+  },
+  {
+    "id": "303",
+    "word": "口",
+    "reading": "くち",
+    "meaning": "mouth, opening",
+    "example": "口を開ける (くち) - open one's mouth",
+    "level": "n5"
+  },
+  {
+    "id": "304",
+    "word": "果物",
+    "reading": "くだもの",
+    "meaning": "fruit",
+    "example": "果物を食べる (くだもの) - eat fruit",
+    "level": "n5"
+  },
+  {
+    "id": "305",
+    "word": "下さい",
+    "reading": "ください",
+    "meaning": "please",
+    "example": "水をください (ください) - Please give me water",
+    "level": "n5"
+  },
+  {
+    "id": "306",
+    "word": "曇り",
+    "reading": "くもり",
+    "meaning": "cloudiness; cloudy weather",
+    "example": "今日は曇りです (くもり) - Today is cloudy",
+    "level": "n5"
+  },
+  {
+    "id": "307",
+    "word": "曇る",
+    "reading": "くもる",
+    "meaning": "to become cloudy, to become dim",
+    "example": "空が曇る (くもる) - the sky becomes cloudy",
+    "level": "n5"
+  },
+  {
+    "id": "308",
+    "word": "国",
+    "reading": "くに",
+    "meaning": "country; state; region",
+    "example": "日本という国 (くに) - country called Japan",
+    "level": "n5"
+  },
+  {
+    "id": "309",
+    "word": "暗い",
+    "reading": "くらい",
+    "meaning": "dark; gloomy; murky",
+    "example": "暗い部屋 (くらい) - dark room",
+    "level": "n5"
+  },
+  {
+    "id": "310",
+    "word": "クラス",
+    "reading": "クラス",
+    "meaning": "class",
+    "example": "クラスメート (クラス) - classmate",
+    "level": "n5"
+  },
+  {
+    "id": "311",
+    "word": "黒",
+    "reading": "くろ",
+    "meaning": "black",
+    "example": "黒い色 (くろ) - black color",
+    "level": "n5"
+  },
+  {
+    "id": "312",
+    "word": "黒い",
+    "reading": "くろい",
+    "meaning": "black",
+    "example": "黒い猫 (くろい) - black cat",
+    "level": "n5"
+  },
+  {
+    "id": "313",
+    "word": "来る",
+    "reading": "くる",
+    "meaning": "to come",
+    "example": "日本に来る (くる) - come to Japan",
+    "level": "n5"
+  },
+  {
+    "id": "314",
+    "word": "車",
+    "reading": "くるま",
+    "meaning": "car; automobile; vehicle",
+    "example": "車を運転する (くるま) - drive a car",
+    "level": "n5"
+  },
+  {
+    "id": "315",
+    "word": "薬",
+    "reading": "くすり",
+    "meaning": "medicine",
+    "example": "薬を飲む (くすり) - take medicine",
+    "level": "n5"
+  },
+  {
+    "id": "316",
+    "word": "靴",
+    "reading": "くつ",
+    "meaning": "shoes",
+    "example": "靴を履く (くつ) - put on shoes",
+    "level": "n5"
+  },
+  {
+    "id": "317",
+    "word": "靴下",
+    "reading": "くつした",
+    "meaning": "socks",
+    "example": "靴下を履く (くつした) - put on socks",
+    "level": "n5"
+  },
+  {
+    "id": "318",
+    "word": "去年",
+    "reading": "きょねん",
+    "meaning": "last year",
+    "example": "去年の夏 (きょねん) - last summer",
+    "level": "n5"
+  },
+  {
+    "id": "319",
+    "word": "今日",
+    "reading": "きょう",
+    "meaning": "today; this day",
+    "example": "今日は暑い (きょう) - today is hot",
+    "level": "n5"
+  },
+  {
+    "id": "320",
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "siblings; brothers and sisters; mate",
+    "example": "兄弟が三人いる (きょうだい) - have three siblings",
+    "level": "n5"
+  },
+  {
+    "id": "321",
+    "word": "教室",
+    "reading": "きょうしつ",
+    "meaning": "classroom",
+    "example": "教室で勉強する (きょうしつ) - study in the classroom",
+    "level": "n5"
+  },
+  {
+    "id": "322",
+    "word": "九",
+    "reading": "きゅう",
+    "meaning": "nine; 9",
+    "example": "九時 (きゅう) - nine o'clock",
+    "level": "n5"
+  },
+  {
+    "id": "323",
+    "word": "マッチ",
+    "reading": "マッチ",
+    "meaning": "match",
+    "example": "マッチで火をつける (マッチ) - light a fire with a match",
+    "level": "n5"
+  },
+  {
+    "id": "324",
+    "word": "町",
+    "reading": "まち",
+    "meaning": "town; block; neighborhood",
+    "example": "町を歩く (まち) - walk around town",
+    "level": "n5"
+  },
+  {
+    "id": "325",
+    "word": "窓",
+    "reading": "まど",
+    "meaning": "window",
+    "example": "窓を開ける (まど) - open the window",
+    "level": "n5"
+  },
+  {
+    "id": "326",
+    "word": "前",
+    "reading": "まえ",
+    "meaning": "previous; before; in front; ago",
+    "example": "前に進む (まえ) - move forward",
+    "level": "n5"
+  },
+  {
+    "id": "327",
+    "word": "曲がる",
+    "reading": "まがる",
+    "meaning": "to turn, to bend",
+    "example": "右に曲がる (まがる) - turn right",
+    "level": "n5"
+  },
+  {
+    "id": "328",
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "meaning": "every morning",
+    "example": "毎朝ジョギングする (まいあさ) - jog every morning",
+    "level": "n5"
+  },
+  {
+    "id": "329",
+    "word": "毎晩",
+    "reading": "まいばん",
+    "meaning": "every night",
+    "example": "毎晩テレビを見る (まいばん) - watch TV every night",
+    "level": "n5"
+  },
+  {
+    "id": "330",
+    "word": "毎日",
+    "reading": "まいにち",
+    "meaning": "every day",
+    "example": "毎日勉強する (まいにち) - study every day",
+    "level": "n5"
+  },
+  {
+    "id": "331",
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "every week",
+    "example": "毎週土曜日 (まいしゅう) - every Saturday",
+    "level": "n5"
+  },
+  {
+    "id": "332",
+    "word": "毎年",
+    "reading": "まいとし",
+    "meaning": "every year; yearly; annually",
+    "example": "毎年旅行に行く (まいとし) - go on a trip every year",
+    "level": "n5"
+  },
+  {
+    "id": "333",
+    "word": "毎月",
+    "reading": "まいつき",
+    "meaning": "every month; monthly",
+    "example": "毎月家賃を払う (まいつき) - pay rent every month",
+    "level": "n5"
+  },
+  {
+    "id": "334",
+    "word": "万",
+    "reading": "まん",
+    "meaning": "10,000; ten thousand",
+    "example": "一万人 (まん) - ten thousand people",
+    "level": "n5"
+  },
+  {
+    "id": "335",
+    "word": "万年筆",
+    "reading": "まんねんひつ",
+    "meaning": "fountain pen",
+    "example": "万年筆で書く (まんねんひつ) - write with a fountain pen",
+    "level": "n5"
+  },
+  {
+    "id": "336",
+    "word": "丸い",
+    "reading": "まるい",
+    "meaning": "round, circular",
+    "example": "丸いテーブル (まるい) - round table",
+    "level": "n5"
+  },
+  {
+    "id": "337",
+    "word": "真っ直ぐ",
+    "reading": "まっすぐ",
+    "meaning": "straight ahead, direct",
+    "example": "真っ直ぐ行く (まっすぐ) - go straight",
+    "level": "n5"
+  },
+  {
+    "id": "338",
+    "word": "待つ",
+    "reading": "まつ",
+    "meaning": "to wait",
+    "example": "バスを待つ (まつ) - wait for the bus",
+    "level": "n5"
+  },
+  {
+    "id": "339",
+    "word": "不味い",
+    "reading": "まずい",
+    "meaning": "unpleasant",
+    "example": "不味い料理 (まずい) - bad-tasting food",
+    "level": "n5"
+  },
+  {
+    "id": "340",
+    "word": "目",
+    "reading": "め",
+    "meaning": "eye",
+    "example": "目が痛い (め) - eyes hurt",
+    "level": "n5"
+  },
+  {
+    "id": "341",
+    "word": "メートル",
+    "reading": "メートル",
+    "meaning": "metre; meter",
+    "example": "3メートル (メートル) - 3 meters",
+    "level": "n5"
+  },
+  {
+    "id": "342",
+    "word": "眼鏡",
+    "reading": "めがね",
+    "meaning": "glasses",
+    "example": "眼鏡をかける (めがね) - wear glasses",
+    "level": "n5"
+  },
+  {
+    "id": "343",
+    "word": "道",
+    "reading": "みち",
+    "meaning": "road; street",
+    "example": "道を渡る (みち) - cross the road",
+    "level": "n5"
+  },
+  {
+    "id": "344",
+    "word": "緑",
+    "reading": "みどり",
+    "meaning": "green",
+    "example": "緑の葉 (みどり) - green leaves",
+    "level": "n5"
+  },
+  {
+    "id": "345",
+    "word": "磨く",
+    "reading": "みがく",
+    "meaning": "to polish; to shine; to brush (e.g. teeth)",
+    "example": "歯を磨く (みがく) - brush teeth",
+    "level": "n5"
+  },
+  {
+    "id": "346",
+    "word": "右",
+    "reading": "みぎ",
+    "meaning": "right; right hand side",
+    "example": "右に曲がる (みぎ) - turn right",
+    "level": "n5"
+  },
+  {
+    "id": "347",
+    "word": "短い",
+    "reading": "みじかい",
+    "meaning": "short",
+    "example": "短い髪 (みじかい) - short hair",
+    "level": "n5"
+  },
+  {
+    "id": "348",
+    "word": "三日",
+    "reading": "みっか",
+    "meaning": "the third day of the month / 3 days",
+    "example": "三日間 (みっか) - three days",
+    "level": "n5"
+  },
+  {
+    "id": "349",
+    "word": "耳",
+    "reading": "みみ",
+    "meaning": "ear; hearing",
+    "example": "耳が痛い (みみ) - ear hurts",
+    "level": "n5"
+  },
+  {
+    "id": "350",
+    "word": "南",
+    "reading": "みなみ",
+    "meaning": "south",
+    "example": "南の方 (みなみ) - southern direction",
+    "level": "n5"
+  },
+  {
+    "id": "351",
+    "word": "皆さん",
+    "reading": "みなさん",
+    "meaning": "everyone",
+    "example": "皆さんこんにちは (みなさん) - Hello everyone",
+    "level": "n5"
+  },
+  {
+    "id": "352",
+    "word": "みんな",
+    "reading": "みんな",
+    "meaning": "all; everyone; everybody",
+    "example": "みんなで行く (みんな) - everyone goes",
+    "level": "n5"
+  },
+  {
+    "id": "353",
+    "word": "見る",
+    "reading": "みる",
+    "meaning": "to see; to look; to watch; to view; to observe",
+    "example": "テレビを見る (みる) - watch TV",
+    "level": "n5"
+  },
+  {
+    "id": "354",
+    "word": "店",
+    "reading": "みせ",
+    "meaning": "store; shop; establishment; restaurant",
+    "example": "店で買い物する (みせ) - shop at a store",
+    "level": "n5"
+  },
+  {
+    "id": "355",
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning": "to show; to display",
+    "example": "写真を見せる (みせる) - show a photo",
+    "level": "n5"
+  },
+  {
+    "id": "356",
+    "word": "三つ",
+    "reading": "みっつ",
+    "meaning": "three; 3",
+    "example": "三つください (みっつ) - give me three",
+    "level": "n5"
+  },
+  {
+    "id": "357",
+    "word": "水",
+    "reading": "みず",
+    "meaning": "water; fluid; liquid",
+    "example": "水を飲む (みず) - drink water",
+    "level": "n5"
+  },
+  {
+    "id": "358",
+    "word": "木曜日",
+    "reading": "もくようび",
+    "meaning": "Thursday",
+    "example": "木曜日の午後 (もくようび) - Thursday afternoon",
+    "level": "n5"
+  },
+  {
+    "id": "359",
+    "word": "門",
+    "reading": "もん",
+    "meaning": "gate",
+    "example": "門を通る (もん) - go through the gate",
+    "level": "n5"
+  },
+  {
+    "id": "360",
+    "word": "問題",
+    "reading": "もんだい",
+    "meaning": "problem; question (e.g. on a test)",
+    "example": "問題を解く (もんだい) - solve a problem",
+    "level": "n5"
+  },
+  {
+    "id": "361",
+    "word": "物",
+    "reading": "もの",
+    "meaning": "thing",
+    "example": "面白い物 (もの) - interesting thing",
+    "level": "n5"
+  },
+  {
+    "id": "362",
+    "word": "持つ",
+    "reading": "もつ",
+    "meaning": "to hold",
+    "example": "荷物を持つ (もつ) - hold luggage",
+    "level": "n5"
+  },
+  {
+    "id": "363",
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning": "more; longer; further",
+    "example": "もっと食べたい (もっと) - want to eat more",
+    "level": "n5"
+  },
+  {
+    "id": "364",
+    "word": "もう一度",
+    "reading": "もういちど",
+    "meaning": "once more; again",
+    "example": "もう一度言ってください (もういちど) - Please say it again",
+    "level": "n5"
+  },
+  {
+    "id": "365",
+    "word": "六日",
+    "reading": "むいか",
+    "meaning": "sixth day of the month / 6 days",
+    "example": "六日間 (むいか) - six days",
+    "level": "n5"
+  },
+  {
+    "id": "366",
+    "word": "向こう",
+    "reading": "むこう",
+    "meaning": "over there",
+    "example": "向こう側 (むこう) - the other side",
+    "level": "n5"
+  },
+  {
+    "id": "367",
+    "word": "村",
+    "reading": "むら",
+    "meaning": "village",
+    "example": "小さな村 (むら) - small village",
+    "level": "n5"
+  },
+  {
+    "id": "368",
+    "word": "六つ",
+    "reading": "むっつ",
+    "meaning": "six; 6",
+    "example": "六つある (むっつ) - there are six",
+    "level": "n5"
+  },
+  {
+    "id": "369",
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meaning": "difficult",
+    "example": "難しい問題 (むずかしい) - difficult problem",
+    "level": "n5"
+  },
+  {
+    "id": "370",
+    "word": "長い",
+    "reading": "ながい",
+    "meaning": "long (distance); long (time); lengthy",
+    "example": "長い時間 (ながい) - long time",
+    "level": "n5"
+  },
+  {
+    "id": "371",
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "meaning": "knife",
+    "example": "ナイフで切る (ナイフ) - cut with a knife",
+    "level": "n5"
+  },
+  {
+    "id": "372",
+    "word": "中",
+    "reading": "なか",
+    "meaning": "inside; in; within; center",
+    "example": "箱の中 (なか) - inside the box",
+    "level": "n5"
+  },
+  {
+    "id": "373",
+    "word": "鳴く",
+    "reading": "なく",
+    "meaning": "animal noise. to chirp",
+    "example": "鳥が鳴く (なく) - birds chirp",
+    "level": "n5"
+  },
+  {
+    "id": "374",
+    "word": "無くす",
+    "reading": "なくす",
+    "meaning": "to lose (something)",
+    "example": "財布を無くす (なくす) - lose one's wallet",
+    "level": "n5"
+  },
+  {
+    "id": "375",
+    "word": "名前",
+    "reading": "なまえ",
+    "meaning": "name; full name; given name",
+    "example": "名前を書く (なまえ) - write one's name",
+    "level": "n5"
+  },
+  {
+    "id": "376",
+    "word": "七つ",
+    "reading": "ななつ",
+    "meaning": "seven; 7",
+    "example": "七つの習慣 (ななつ) - seven habits",
+    "level": "n5"
+  },
+  {
+    "id": "377",
+    "word": "何",
+    "reading": "なに",
+    "meaning": "what",
+    "example": "何ですか (なに) - What is it?",
+    "level": "n5"
+  },
+  {
+    "id": "378",
+    "word": "七日",
+    "reading": "なのか",
+    "meaning": "seventh day of the month / 7 days",
+    "example": "七日間 (なのか) - seven days",
+    "level": "n5"
+  },
+  {
+    "id": "379",
+    "word": "並べる",
+    "reading": "ならべる",
+    "meaning": "to line up, to set up",
+    "example": "椅子を並べる (ならべる) - line up chairs",
+    "level": "n5"
+  },
+  {
+    "id": "380",
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "to line up, to stand in a line",
+    "example": "並んで待つ (ならぶ) - wait in line",
+    "level": "n5"
+  },
+  {
+    "id": "381",
+    "word": "習う",
+    "reading": "ならう",
+    "meaning": "to be taught; to learn (from a teacher)",
+    "example": "ピアノを習う (ならう) - learn piano (from a teacher)",
+    "level": "n5"
+  },
+  {
+    "id": "382",
+    "word": "夏",
+    "reading": "なつ",
+    "meaning": "summer",
+    "example": "夏休み (なつ) - summer vacation",
+    "level": "n5"
+  },
+  {
+    "id": "383",
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "meaning": "summer vacation; summer holiday",
+    "example": "夏休みに旅行する (なつやすみ) - travel during summer vacation",
+    "level": "n5"
+  },
+  {
+    "id": "384",
+    "word": "何故",
+    "reading": "なぜ",
+    "meaning": "why; how",
+    "example": "なぜ来なかったの (なぜ) - Why didn't you come?",
+    "level": "n5"
+  },
+  {
+    "id": "385",
+    "word": "猫",
+    "reading": "ねこ",
+    "meaning": "cat",
+    "example": "猫を飼う (ねこ) - have a cat",
+    "level": "n5"
+  },
+  {
+    "id": "386",
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "meaning": "tie; necktie",
+    "example": "ネクタイを締める (ネクタイ) - put on a tie",
+    "level": "n5"
+  },
+  {
+    "id": "387",
+    "word": "寝る",
+    "reading": "ねる",
+    "meaning": "to sleep; to go to bed; to lie down",
+    "example": "早く寝る (ねる) - go to bed early",
+    "level": "n5"
+  },
+  {
+    "id": "388",
+    "word": "二",
+    "reading": "に",
+    "meaning": "two; 2",
+    "example": "二人 (に) - two people",
+    "level": "n5"
+  },
+  {
+    "id": "389",
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meaning": "Sunday",
+    "example": "日曜日は休み (にちようび) - Sunday is a holiday",
+    "level": "n5"
+  },
+  {
+    "id": "390",
+    "word": "賑やか",
+    "reading": "にぎやか",
+    "meaning": "bustling, busy",
+    "example": "賑やかな街 (にぎやか) - bustling city",
+    "level": "n5"
+  },
+  {
+    "id": "391",
+    "word": "日記",
+    "reading": "にっき",
+    "meaning": "diary; journal",
+    "example": "日記を書く (にっき) - write a diary",
+    "level": "n5"
+  },
+  {
+    "id": "392",
+    "word": "肉",
+    "reading": "にく",
+    "meaning": "meat",
+    "example": "肉を食べる (にく) - eat meat",
+    "level": "n5"
+  },
+  {
+    "id": "393",
+    "word": "荷物",
+    "reading": "にもつ",
+    "meaning": "luggage; baggage",
+    "example": "荷物を持つ (にもつ) - carry luggage",
+    "level": "n5"
+  },
+  {
+    "id": "394",
+    "word": "西",
+    "reading": "にし",
+    "meaning": "west",
+    "example": "西の方 (にし) - western direction",
+    "level": "n5"
+  },
+  {
+    "id": "395",
+    "word": "庭",
+    "reading": "にわ",
+    "meaning": "garden",
+    "example": "庭で遊ぶ (にわ) - play in the garden",
+    "level": "n5"
+  },
+  {
+    "id": "396",
+    "word": "登る",
+    "reading": "のぼる",
+    "meaning": "to climb",
+    "example": "山に登る (のぼる) - climb a mountain",
+    "level": "n5"
+  },
+  {
+    "id": "397",
+    "word": "飲み物",
+    "reading": "のみもの",
+    "meaning": "drink; beverage",
+    "example": "飲み物を買う (のみもの) - buy a drink",
+    "level": "n5"
+  },
+  {
+    "id": "398",
+    "word": "飲む",
+    "reading": "のむ",
+    "meaning": "to drink",
+    "example": "水を飲む (のむ) - drink water",
+    "level": "n5"
+  },
+  {
+    "id": "399",
+    "word": "ノート",
+    "reading": "ノート",
+    "meaning": "notebook",
+    "example": "ノートに書く (ノート) - write in a notebook",
+    "level": "n5"
+  },
+  {
+    "id": "400",
+    "word": "乗る",
+    "reading": "のる",
+    "meaning": "to get on (train, plane, bus, ship, etc.)",
+    "example": "電車に乗る (のる) - get on the train",
+    "level": "n5"
+  },
+  {
+    "id": "401",
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "to take off clothes",
+    "example": "靴を脱ぐ (ぬぐ) - take off shoes",
+    "level": "n5"
+  },
+  {
+    "id": "402",
+    "word": "温い",
+    "reading": "ぬるい",
+    "meaning": "luke warm",
+    "example": "温いお風呂 (ぬるい) - lukewarm bath",
+    "level": "n5"
+  },
+  {
+    "id": "403",
+    "word": "ニュース",
+    "reading": "ニュース",
+    "meaning": "news",
+    "example": "ニュースを見る (ニュース) - watch the news",
+    "level": "n5"
+  },
+  {
+    "id": "404",
+    "word": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "grandmother",
+    "example": "私のおばあさん (おばあさん) - my grandmother",
+    "level": "n5"
+  },
+  {
+    "id": "405",
+    "word": "伯母さん",
+    "reading": "おばさん",
+    "meaning": "aunt; old lady",
+    "example": "叔母さん (おばさん) - aunt",
+    "level": "n5"
+  },
+  {
+    "id": "406",
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "lunch box; Japanese box lunch",
+    "example": "お弁当を作る (おべんとう) - make a lunch box",
+    "level": "n5"
+  },
+  {
+    "id": "407",
+    "word": "覚える",
+    "reading": "おぼえる",
+    "meaning": "to remember",
+    "example": "単語を覚える (おぼえる) - memorize word",
+    "level": "n5"
+  },
+  {
+    "id": "408",
+    "word": "お茶",
+    "reading": "おちゃ",
+    "meaning": "tea",
+    "example": "お茶を飲む (おちゃ) - drink tea",
+    "level": "n5"
+  },
+  {
+    "id": "409",
+    "word": "お風呂",
+    "reading": "おふろ",
+    "meaning": "bath",
+    "example": "お風呂に入る (おふろ) - take a bath",
+    "level": "n5"
+  },
+  {
+    "id": "410",
+    "word": "美味しい",
+    "reading": "おいしい",
+    "meaning": "delicious",
+    "example": "美味しい料理 (おいしい) - delicious food",
+    "level": "n5"
+  },
+  {
+    "id": "411",
+    "word": "伯父さん",
+    "reading": "おじさん",
+    "meaning": "uncle; old man; mister",
+    "example": "叔父さん (おじさん) - uncle",
+    "level": "n5"
+  },
+  {
+    "id": "412",
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "meaning": "mother; mom; mum; ma",
+    "example": "私のお母さん (おかあさん) - my mother",
+    "level": "n5"
+  },
+  {
+    "id": "413",
+    "word": "お金",
+    "reading": "おかね",
+    "meaning": "money",
+    "example": "お金を払う (おかね) - pay money",
+    "level": "n5"
+  },
+  {
+    "id": "414",
+    "word": "お菓子",
+    "reading": "おかし",
+    "meaning": "confections; sweets; candy",
+    "example": "お菓子を食べる (おかし) - eat sweets",
+    "level": "n5"
+  },
+  {
+    "id": "415",
+    "word": "起きる",
+    "reading": "おきる",
+    "meaning": "to get up; to wake up",
+    "example": "朝早く起きる (おきる) - wake up early in the morning",
+    "level": "n5"
+  },
+  {
+    "id": "416",
+    "word": "置く",
+    "reading": "おく",
+    "meaning": "to put; to place",
+    "example": "本を机の上に置く (おく) - put a book on the desk",
+    "level": "n5"
+  },
+  {
+    "id": "417",
+    "word": "奥さん",
+    "reading": "おくさん",
+    "meaning": "wife; your wife; his wife",
+    "example": "隣の奥さん (おくさん) - neighbor's wife",
+    "level": "n5"
+  },
+  {
+    "id": "418",
+    "word": "お巡りさん",
+    "reading": "おまわりさん",
+    "meaning": "police officer (friendly term for policeman)",
+    "example": "お巡りさんに道を聞く (おまわりさん) - ask a police officer for directions",
+    "level": "n5"
+  },
+  {
+    "id": "419",
+    "word": "重い",
+    "reading": "おもい",
+    "meaning": "heavy",
+    "example": "重い荷物 (おもい) - heavy luggage",
+    "level": "n5"
+  },
+  {
+    "id": "420",
+    "word": "面白い",
+    "reading": "おもしろい",
+    "meaning": "interesting",
+    "example": "面白い本 (おもしろい) - interesting book",
+    "level": "n5"
+  },
+  {
+    "id": "421",
+    "word": "同じ",
+    "reading": "おなじ",
+    "meaning": "same",
+    "example": "同じ考え (おなじ) - same idea",
+    "level": "n5"
+  },
+  {
+    "id": "422",
+    "word": "お腹",
+    "reading": "おなか",
+    "meaning": "stomach",
+    "example": "お腹が空いた (おなか) - hungry (lit. stomach is empty)",
+    "level": "n5"
+  },
+  {
+    "id": "423",
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "elder sister; young lady; miss; ma'am",
+    "example": "私のお姉さん (おねえさん) - my older sister",
+    "level": "n5"
+  },
+  {
+    "id": "424",
+    "word": "音楽",
+    "reading": "おんがく",
+    "meaning": "music",
+    "example": "音楽を聴く (おんがく) - listen to music",
+    "level": "n5"
+  },
+  {
+    "id": "425",
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "older brother; elder brother; young man; buddy",
+    "example": "私のお兄さん (おにいさん) - my older brother",
+    "level": "n5"
+  },
+  {
+    "id": "426",
+    "word": "女",
+    "reading": "おんな",
+    "meaning": "woman; female sex",
+    "example": "女の人 (おんな) - woman",
+    "level": "n5"
+  },
+  {
+    "id": "427",
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "meaning": "girl; daughter; young women",
+    "example": "可愛い女の子 (おんなのこ) - cute girl",
+    "level": "n5"
+  },
+  {
+    "id": "428",
+    "word": "多い",
+    "reading": "おおい",
+    "meaning": "many; numerous; a lot; large quantity; frequent",
+    "example": "人が多い (おおい) - many people",
+    "level": "n5"
+  },
+  {
+    "id": "429",
+    "word": "大きい",
+    "reading": "おおきい",
+    "meaning": "big; large; great; important",
+    "example": "大きい家 (おおきい) - big house",
+    "level": "n5"
+  },
+  {
+    "id": "430",
+    "word": "大きな",
+    "reading": "おおきな",
+    "meaning": "big; large; great",
+    "example": "大きな問題 (おおきな) - big problem",
+    "level": "n5"
+  },
+  {
+    "id": "431",
+    "word": "大勢",
+    "reading": "おおぜい",
+    "meaning": "crowd of people; great number of people",
+    "example": "大勢の人 (おおぜい) - large crowd of people",
+    "level": "n5"
+  },
+  {
+    "id": "432",
+    "word": "降りる",
+    "reading": "おりる",
+    "meaning": "to get off",
+    "example": "バスを降りる (おりる) - get off the bus",
+    "level": "n5"
+  },
+  {
+    "id": "433",
+    "word": "お酒",
+    "reading": "おさけ",
+    "meaning": "alcohol",
+    "example": "お酒を飲む (おさけ) - drink alcohol",
+    "level": "n5"
+  },
+  {
+    "id": "434",
+    "word": "お皿",
+    "reading": "おさら",
+    "meaning": "plate, dish",
+    "example": "お皿を洗う (おさら) - wash dishes",
+    "level": "n5"
+  },
+  {
+    "id": "435",
+    "word": "教える",
+    "reading": "おしえる",
+    "meaning": "to teach",
+    "example": "日本語を教える (おしえる) - teach Japanese",
+    "level": "n5"
+  },
+  {
+    "id": "436",
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning": "slow; time-consuming; late",
+    "example": "時計が遅い (おそい) - clock is slow",
+    "level": "n5"
+  },
+  {
+    "id": "437",
+    "word": "押す",
+    "reading": "おす",
+    "meaning": "to push; to press",
+    "example": "ボタンを押す (おす) - press the button",
+    "level": "n5"
+  },
+  {
+    "id": "438",
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "meaning": "toilet; restroom; lavatory; bathroom",
+    "example": "お手洗いはどこですか (おてあらい) - Where is the restroom?",
+    "level": "n5"
+  },
+  {
+    "id": "439",
+    "word": "男",
+    "reading": "おとこ",
+    "meaning": "man; male",
+    "example": "男の人 (おとこ) - man",
+    "level": "n5"
+  },
+  {
+    "id": "440",
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "meaning": "boy; male child; baby boy",
+    "example": "元気な男の子 (おとこのこ) - energetic boy",
+    "level": "n5"
+  },
+  {
+    "id": "441",
+    "word": "大人",
+    "reading": "おとな",
+    "meaning": "adult",
+    "example": "大人になる (おとな) - become an adult",
+    "level": "n5"
+  },
+  {
+    "id": "442",
+    "word": "一昨日",
+    "reading": "おととい",
+    "meaning": "day before yesterday",
+    "example": "一昨日の出来事 (おととい) - events of the day before yesterday",
+    "level": "n5"
+  },
+  {
+    "id": "443",
+    "word": "一昨年",
+    "reading": "おととし",
+    "meaning": "year before last",
+    "example": "一昨年の夏 (おととし) - summer of the year before last",
+    "level": "n5"
+  },
+  {
+    "id": "444",
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "meaning": "father; dad; papa; pa; pop; daddy",
+    "example": "私のお父さん (おとうさん) - my father",
+    "level": "n5"
+  },
+  {
+    "id": "445",
+    "word": "弟",
+    "reading": "おとうと",
+    "meaning": "younger brother",
+    "example": "私の弟 (おとうと) - my younger brother",
+    "level": "n5"
+  },
+  {
+    "id": "446",
+    "word": "終わる",
+    "reading": "おわる",
+    "meaning": "to finish; to end",
+    "example": "授業が終わる (おわる) - class ends",
+    "level": "n5"
+  },
+  {
+    "id": "447",
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "to swim",
+    "example": "プールで泳ぐ (およぐ) - swim in the pool",
+    "level": "n5"
+  },
+  {
+    "id": "448",
+    "word": "パーティー",
+    "reading": "パーティー",
+    "meaning": "party",
+    "example": "パーティーに参加する (パーティー) - join a party",
+    "level": "n5"
+  },
+  {
+    "id": "449",
+    "word": "パン",
+    "reading": "パン",
+    "meaning": "bread",
+    "example": "パンを食べる (パン) - eat bread",
+    "level": "n5"
+  },
+  {
+    "id": "450",
+    "word": "ページ",
+    "reading": "ページ",
+    "meaning": "page",
+    "example": "10ページ (ページ) - page 10",
+    "level": "n5"
+  },
+  {
+    "id": "451",
+    "word": "ペン",
+    "reading": "ペン",
+    "meaning": "pen",
+    "example": "ペンで書く (ペン) - write with a pen",
+    "level": "n5"
+  },
+  {
+    "id": "452",
+    "word": "ペット",
+    "reading": "ペット",
+    "meaning": "pet",
+    "example": "ペットを飼う (ペット) - have a pet",
+    "level": "n5"
+  },
+  {
+    "id": "453",
+    "word": "ポケット",
+    "reading": "ポケット",
+    "meaning": "pocket",
+    "example": "ポケットに入れる (ポケット) - put in the pocket",
+    "level": "n5"
+  },
+  {
+    "id": "454",
+    "word": "ポスト",
+    "reading": "ポスト",
+    "meaning": "post",
+    "example": "ポストに手紙を入れる (ポスト) - put a letter in the mailbox",
+    "level": "n5"
+  },
+  {
+    "id": "455",
+    "word": "プール",
+    "reading": "プール",
+    "meaning": "swimming pool",
+    "example": "プールで泳ぐ (プール) - swim in the pool",
+    "level": "n5"
+  },
+  {
+    "id": "456",
+    "word": "来月",
+    "reading": "らいげつ",
+    "meaning": "next month",
+    "example": "来月旅行に行く (らいげつ) - go on a trip next month",
+    "level": "n5"
+  },
+  {
+    "id": "457",
+    "word": "来年",
+    "reading": "らいねん",
+    "meaning": "next year",
+    "example": "来年から働く (らいねん) - work starting next year",
+    "level": "n5"
+  },
+  {
+    "id": "458",
+    "word": "来週",
+    "reading": "らいしゅう",
+    "meaning": "next week",
+    "example": "来週試験がある (らいしゅう) - there is an exam next week",
+    "level": "n5"
+  },
+  {
+    "id": "459",
+    "word": "ラジオ",
+    "reading": "ラジオ",
+    "meaning": "radio",
+    "example": "ラジオを聴く (ラジオ) - listen to the radio",
+    "level": "n5"
+  },
+  {
+    "id": "460",
+    "word": "零",
+    "reading": "れい",
+    "meaning": "zero",
+    "example": "零度 (れい) - zero degrees",
+    "level": "n5"
+  },
+  {
+    "id": "461",
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning": "refrigerator",
+    "example": "冷蔵庫に入れる (れいぞうこ) - put in the refrigerator",
+    "level": "n5"
+  },
+  {
+    "id": "462",
+    "word": "レコード",
+    "reading": "レコード",
+    "meaning": "record",
+    "example": "レコードをかける (レコード) - play a record",
+    "level": "n5"
+  },
+  {
+    "id": "463",
+    "word": "練習",
+    "reading": "れんしゅう",
+    "meaning": "practice; practicing",
+    "example": "ピアノの練習をする (れんしゅう) - practice the piano",
+    "level": "n5"
+  },
+  {
+    "id": "464",
+    "word": "レストラン",
+    "reading": "レストラン",
+    "meaning": "restaurant",
+    "example": "レストランで食事する (レストラン) - eat at a restaurant",
+    "level": "n5"
+  },
+  {
+    "id": "465",
+    "word": "立派",
+    "reading": "りっぱ",
+    "meaning": "splendid",
+    "example": "立派な建物 (りっぱ) - splendid building",
+    "level": "n5"
+  },
+  {
+    "id": "466",
+    "word": "六",
+    "reading": "ろく",
+    "meaning": "six; 6",
+    "example": "六時 (ろく) - six o'clock",
+    "level": "n5"
+  },
+  {
+    "id": "467",
+    "word": "廊下",
+    "reading": "ろうか",
+    "meaning": "corridor; hallway; passageway",
+    "example": "廊下を歩く (ろうか) - walk in the hallway",
+    "level": "n5"
+  },
+  {
+    "id": "468",
+    "word": "旅行",
+    "reading": "りょこう",
+    "meaning": "travel; trip; journey; excursion; tour",
+    "example": "旅行に行く (りょこう) - go on a trip",
+    "level": "n5"
+  },
+  {
+    "id": "469",
+    "word": "料理",
+    "reading": "りょうり",
+    "meaning": "cuisine",
+    "example": "料理を作る (りょうり) - cook",
+    "level": "n5"
+  },
+  {
+    "id": "470",
+    "word": "両親",
+    "reading": "りょうしん",
+    "meaning": "parents; both parents",
+    "example": "両親と住む (りょうしん) - live with parents",
+    "level": "n5"
+  },
+  {
+    "id": "471",
+    "word": "留学生",
+    "reading": "りゅうがくせい",
+    "meaning": "overseas student; exchange student",
+    "example": "留学生として日本に来る (りゅうがくせい) - come to Japan as an exchange student",
+    "level": "n5"
+  },
+  {
+    "id": "472",
+    "word": "さあ",
+    "reading": "さあ",
+    "meaning": "well...",
+    "example": "さあ、行きましょう (さあ) - Well, let's go",
+    "level": "n5"
+  },
+  {
+    "id": "473",
+    "word": "財布",
+    "reading": "さいふ",
+    "meaning": "purse; wallet",
+    "example": "財布を忘れた (さいふ) - forgot my wallet",
+    "level": "n5"
+  },
+  {
+    "id": "474",
+    "word": "魚",
+    "reading": "さかな",
+    "meaning": "fish",
+    "example": "魚を食べる (さかな) - eat fish",
+    "level": "n5"
+  },
+  {
+    "id": "475",
+    "word": "先",
+    "reading": "さき",
+    "meaning": "previous; prior; first; earlier",
+    "example": "先に言った (さき) - said earlier",
+    "level": "n5"
+  },
+  {
+    "id": "476",
+    "word": "咲く",
+    "reading": "さく",
+    "meaning": "to bloom",
+    "example": "花が咲く (さく) - flowers bloom",
+    "level": "n5"
+  },
+  {
+    "id": "477",
+    "word": "作文",
+    "reading": "さくぶん",
+    "meaning": "writing; composition",
+    "example": "作文を書く (さくぶん) - write a composition",
+    "level": "n5"
+  },
+  {
+    "id": "478",
+    "word": "寒い",
+    "reading": "さむい",
+    "meaning": "cold",
+    "example": "寒い冬 (さむい) - cold winter",
+    "level": "n5"
+  },
+  {
+    "id": "479",
+    "word": "三",
+    "reading": "さん",
+    "meaning": "three; 3",
+    "example": "三時 (さん) - three o'clock",
+    "level": "n5"
+  },
+  {
+    "id": "480",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "meaning": "walk; stroll",
+    "example": "散歩する (さんぽ) - take a walk",
+    "level": "n5"
+  },
+  {
+    "id": "481",
+    "word": "再来年",
+    "reading": "さらいねん",
+    "meaning": "year after next",
+    "example": "再来年の春 (さらいねん) - spring of the year after next",
+    "level": "n5"
+  },
+  {
+    "id": "482",
+    "word": "差す",
+    "reading": "さす",
+    "meaning": "to stretch out hands, to raise an umbrella",
+    "example": "傘を差す (さす) - put up an umbrella",
+    "level": "n5"
+  },
+  {
+    "id": "483",
+    "word": "砂糖",
+    "reading": "さとう",
+    "meaning": "sugar",
+    "example": "砂糖を入れる (さとう) - add sugar",
+    "level": "n5"
+  },
+  {
+    "id": "484",
+    "word": "背",
+    "reading": "せ",
+    "meaning": "height; stature; back; spine",
+    "example": "背が高い (せ) - tall (lit. height is high)",
+    "level": "n5"
+  },
+  {
+    "id": "485",
+    "word": "背広",
+    "reading": "せびろ",
+    "meaning": "business suit",
+    "example": "背広を着る (せびろ) - wear a suit",
+    "level": "n5"
+  },
+  {
+    "id": "486",
+    "word": "セーター",
+    "reading": "セーター",
+    "meaning": "sweater; jumper",
+    "example": "セーターを着る (セーター) - wear a sweater",
+    "level": "n5"
+  },
+  {
+    "id": "487",
+    "word": "生徒",
+    "reading": "せいと",
+    "meaning": "pupil; student",
+    "example": "生徒の数 (せいと) - number of students",
+    "level": "n5"
+  },
+  {
+    "id": "488",
+    "word": "石鹼",
+    "reading": "せっけん",
+    "meaning": "soap",
+    "example": "石鹼で手を洗う (せっけん) - wash hands with soap",
+    "level": "n5"
+  },
+  {
+    "id": "489",
+    "word": "狭い",
+    "reading": "せまい",
+    "meaning": "narrow",
+    "example": "狭い道 (せまい) - narrow road",
+    "level": "n5"
+  },
+  {
+    "id": "490",
+    "word": "千",
+    "reading": "せん",
+    "meaning": "1,000; thousand",
+    "example": "千円 (せん) - 1000 yen",
+    "level": "n5"
+  },
+  {
+    "id": "491",
+    "word": "先月",
+    "reading": "せんげつ",
+    "meaning": "last month",
+    "example": "先月の出来事 (せんげつ) - events of last month",
+    "level": "n5"
+  },
+  {
+    "id": "492",
+    "word": "先生",
+    "reading": "せんせい",
+    "meaning": "teacher; instructor; master",
+    "example": "先生に聞く (せんせい) - ask the teacher",
+    "level": "n5"
+  },
+  {
+    "id": "493",
+    "word": "先週",
+    "reading": "せんしゅう",
+    "meaning": "last week",
+    "example": "先週の日曜日 (せんしゅう) - last Sunday",
+    "level": "n5"
+  },
+  {
+    "id": "494",
+    "word": "洗濯",
+    "reading": "せんたく",
+    "meaning": "washing; laundry",
+    "example": "洗濯をする (せんたく) - do the laundry",
+    "level": "n5"
+  },
+  {
+    "id": "495",
+    "word": "写真",
+    "reading": "しゃしん",
+    "meaning": "photograph; photo",
+    "example": "写真を撮る (しゃしん) - take a photo",
+    "level": "n5"
+  },
+  {
+    "id": "496",
+    "word": "シャツ",
+    "reading": "シャツ",
+    "meaning": "shirt",
+    "example": "シャツを着る (シャツ) - wear a shirt",
+    "level": "n5"
+  },
+  {
+    "id": "497",
+    "word": "シャワー",
+    "reading": "シャワー",
+    "meaning": "shower",
+    "example": "シャワーを浴びる (シャワー) - take a shower",
+    "level": "n5"
+  },
+  {
+    "id": "498",
+    "word": "四",
+    "reading": "し",
+    "meaning": "four; 4",
+    "example": "四人 (し) - four people",
+    "level": "n5"
+  },
+  {
+    "id": "499",
+    "word": "七",
+    "reading": "しち",
+    "meaning": "seven; 7",
+    "example": "七時 (しち) - seven o'clock",
+    "level": "n5"
+  },
+  {
+    "id": "500",
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "work; job; business",
+    "example": "仕事に行く (しごと) - go to work",
+    "level": "n5"
+  },
+  {
+    "id": "501",
+    "word": "閉まる",
+    "reading": "しまる",
+    "meaning": "to close, to be closed",
+    "example": "ドアが閉まる (しまる) - door closes",
+    "level": "n5"
+  },
+  {
+    "id": "502",
+    "word": "閉める",
+    "reading": "しめる",
+    "meaning": "to close; to shut",
+    "example": "ドアを閉める (しめる) - close the door",
+    "level": "n5"
+  },
+  {
+    "id": "503",
+    "word": "締める",
+    "reading": "しめる",
+    "meaning": "to tie; to fasten; to tighten",
+    "example": "ネクタイを締める (しめる) - put on a tie (tighten)",
+    "level": "n5"
+  },
+  {
+    "id": "504",
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meaning": "newspaper",
+    "example": "新聞を読む (しんぶん) - read the newspaper",
+    "level": "n5"
+  },
+  {
+    "id": "505",
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "meaning": "to die",
+    "example": "ペットが死ぬ (しぬ) - the pet dies",
+    "level": "n5"
+  },
+  {
+    "id": "506",
+    "word": "塩",
+    "reading": "しお",
+    "meaning": "salt",
+    "example": "塩を入れる (しお) - add salt",
+    "level": "n5"
+  },
+  {
+    "id": "507",
+    "word": "白",
+    "reading": "しろ",
+    "meaning": "white; innocence; innocent person",
+    "example": "白い色 (しろ) - white color",
+    "level": "n5"
+  },
+  {
+    "id": "508",
+    "word": "白い",
+    "reading": "しろい",
+    "meaning": "white",
+    "example": "白い雪 (しろい) - white snow",
+    "level": "n5"
+  },
+  {
+    "id": "509",
+    "word": "知る",
+    "reading": "しる",
+    "meaning": "to know",
+    "example": "答えを知る (しる) - know the answer",
+    "level": "n5"
+  },
+  {
+    "id": "510",
+    "word": "下",
+    "reading": "した",
+    "meaning": "below; down; under; bottom",
+    "example": "机の下 (した) - under the desk",
+    "level": "n5"
+  },
+  {
+    "id": "511",
+    "word": "質問",
+    "reading": "しつもん",
+    "meaning": "question; inquiry",
+    "example": "質問に答える (しつもん) - answer a question",
+    "level": "n5"
+  },
+  {
+    "id": "512",
+    "word": "静か",
+    "reading": "しずか",
+    "meaning": "quiet",
+    "example": "静かな場所 (しずか) - quiet place",
+    "level": "n5"
+  },
+  {
+    "id": "513",
+    "word": "食堂",
+    "reading": "しょくどう",
+    "meaning": "cafeteria; dining room",
+    "example": "食堂で食べる (しょくどう) - eat in the cafeteria",
+    "level": "n5"
+  },
+  {
+    "id": "514",
+    "word": "醬油",
+    "reading": "しょうゆ",
+    "meaning": "soy sauce",
+    "example": "醬油をかける (しょうゆ) - add soy sauce",
+    "level": "n5"
+  },
+  {
+    "id": "515",
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "homework; assignment; pending issue",
+    "example": "宿題をする (しゅくだい) - do homework",
+    "level": "n5"
+  },
+  {
+    "id": "516",
+    "word": "そば",
+    "reading": "そば",
+    "meaning": "near; beside",
+    "example": "私のそばにいる (そば) - be beside me",
+    "level": "n5"
+  },
+  {
+    "id": "517",
+    "word": "そっち",
+    "reading": "そっち",
+    "meaning": "that way; over there",
+    "example": "そっちへ行く (そっち) - go that way",
+    "level": "n5"
+  },
+  {
+    "id": "518",
+    "word": "そちら",
+    "reading": "そちら",
+    "meaning": "that way (distant from speaker, close to listener); you; your family",
+    "example": "そちらはどうですか (そちら) - How about you? (polite)",
+    "level": "n5"
+  },
+  {
+    "id": "519",
+    "word": "そこ",
+    "reading": "そこ",
+    "meaning": "that place; there",
+    "example": "そこに置く (そこ) - put it there",
+    "level": "n5"
+  },
+  {
+    "id": "520",
+    "word": "その",
+    "reading": "その",
+    "meaning": "that",
+    "example": "その本 (その) - that book",
+    "level": "n5"
+  },
+  {
+    "id": "521",
+    "word": "空",
+    "reading": "そら",
+    "meaning": "sky; the air",
+    "example": "青い空 (そら) - blue sky",
+    "level": "n5"
+  },
+  {
+    "id": "522",
+    "word": "それ",
+    "reading": "それ",
+    "meaning": "that",
+    "example": "それは私の (それ) - that is mine",
+    "level": "n5"
+  },
+  {
+    "id": "523",
+    "word": "それでは",
+    "reading": "それでは",
+    "meaning": "in that situation",
+    "example": "それでは、失礼します (それでは) - Well then, excuse me",
+    "level": "n5"
+  },
+  {
+    "id": "524",
+    "word": "外",
+    "reading": "そと",
+    "meaning": "outside; exterior",
+    "example": "外で遊ぶ (そと) - play outside",
+    "level": "n5"
+  },
+  {
+    "id": "525",
+    "word": "掃除",
+    "reading": "そうじ",
+    "meaning": "to clean, to sweep",
+    "example": "部屋を掃除する (そうじ) - clean the room",
+    "level": "n5"
+  },
+  {
+    "id": "526",
+    "word": "直ぐに",
+    "reading": "すぐに",
+    "meaning": "immediately; right away; instantly",
+    "example": "すぐに来てください (すぐに) - Please come immediately",
+    "level": "n5"
+  },
+  {
+    "id": "527",
+    "word": "水曜日",
+    "reading": "すいようび",
+    "meaning": "Wednesday",
+    "example": "水曜日の夜 (すいようび) - Wednesday night",
+    "level": "n5"
+  },
+  {
+    "id": "528",
+    "word": "スカート",
+    "reading": "スカート",
+    "meaning": "skirt",
+    "example": "スカートを履く (スカート) - wear a skirt",
+    "level": "n5"
+  },
+  {
+    "id": "529",
+    "word": "好き",
+    "reading": "すき",
+    "meaning": "like",
+    "example": "音楽が好き (すき) - like music",
+    "level": "n5"
+  },
+  {
+    "id": "530",
+    "word": "少し",
+    "reading": "すこし",
+    "meaning": "a little (bit); small quantity; few; short distance",
+    "example": "少し待って (すこし) - wait a little",
+    "level": "n5"
+  },
+  {
+    "id": "531",
+    "word": "少ない",
+    "reading": "すくない",
+    "meaning": "few; a little; scarce; insufficient; seldom",
+    "example": "お金が少ない (すくない) - have little money",
+    "level": "n5"
+  },
+  {
+    "id": "532",
+    "word": "住む",
+    "reading": "すむ",
+    "meaning": "to live in; to reside; to inhabit; to dwell; to abide",
+    "example": "東京に住む (すむ) - live in Tokyo",
+    "level": "n5"
+  },
+  {
+    "id": "533",
+    "word": "スポーツ",
+    "reading": "スポーツ",
+    "meaning": "sport; sports",
+    "example": "スポーツをする (スポーツ) - play sports",
+    "level": "n5"
+  },
+  {
+    "id": "534",
+    "word": "スプーン",
+    "reading": "スプーン",
+    "meaning": "spoon",
+    "example": "スプーンを使う (スプーン) - use a spoon",
+    "level": "n5"
+  },
+  {
+    "id": "535",
+    "word": "スリッパ",
+    "reading": "スリッパ",
+    "meaning": "slipper; slippers",
+    "example": "スリッパを履く (スリッパ) - wear slippers",
+    "level": "n5"
+  },
+  {
+    "id": "536",
+    "word": "ストーブ",
+    "reading": "ストーブ",
+    "meaning": "heater; stove",
+    "example": "ストーブをつける (ストーブ) - turn on the heater",
+    "level": "n5"
+  },
+  {
+    "id": "537",
+    "word": "吸う",
+    "reading": "すう",
+    "meaning": "to smoke, to suck",
+    "example": "タバコを吸う (すう) - smoke a cigarette",
+    "level": "n5"
+  },
+  {
+    "id": "538",
+    "word": "座る",
+    "reading": "すわる",
+    "meaning": "to sit",
+    "example": "椅子に座る (すわる) - sit on a chair",
+    "level": "n5"
+  },
+  {
+    "id": "539",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "meaning": "refreshing, cool",
+    "example": "涼しい風 (すずしい) - cool breeze",
+    "level": "n5"
+  },
+  {
+    "id": "540",
+    "word": "たばこ",
+    "reading": "たばこ",
+    "meaning": "tobacco; cigarette",
+    "example": "たばこを吸う (たばこ) - smoke a cigarette",
+    "level": "n5"
+  },
+  {
+    "id": "541",
+    "word": "食べ物",
+    "reading": "たべもの",
+    "meaning": "food",
+    "example": "美味しい食べ物 (たべもの) - delicious food",
+    "level": "n5"
+  },
+  {
+    "id": "542",
+    "word": "食べる",
+    "reading": "たべる",
+    "meaning": "to eat",
+    "example": "ご飯を食べる (たべる) - eat a meal",
+    "level": "n5"
+  },
+  {
+    "id": "543",
+    "word": "多分",
+    "reading": "たぶん",
+    "meaning": "perhaps; probably",
+    "example": "多分明日行く (たぶん) - Probably go tomorrow",
+    "level": "n5"
+  },
+  {
+    "id": "544",
+    "word": "大変",
+    "reading": "たいへん",
+    "meaning": "very; greatly; terribly; serious; difficult",
+    "example": "大変な仕事 (たいへん) - difficult work",
+    "level": "n5"
+  },
+  {
+    "id": "545",
+    "word": "大切",
+    "reading": "たいせつ",
+    "meaning": "important; necessary; indispensable; beloved",
+    "example": "大切な人 (たいせつ) - important person",
+    "level": "n5"
+  },
+  {
+    "id": "546",
+    "word": "大使館",
+    "reading": "たいしかん",
+    "meaning": "embassy",
+    "example": "大使館に行く (たいしかん) - go to the embassy",
+    "level": "n5"
+  },
+  {
+    "id": "547",
+    "word": "高い",
+    "reading": "たかい",
+    "meaning": "high; tall; expensive; above average",
+    "example": "高い山 (たかい) - high mountain",
+    "level": "n5"
+  },
+  {
+    "id": "548",
+    "word": "沢山",
+    "reading": "たくさん",
+    "meaning": "many",
+    "example": "沢山の人 (たくさん) - many people",
+    "level": "n5"
+  },
+  {
+    "id": "549",
+    "word": "タクシー",
+    "reading": "タクシー",
+    "meaning": "taxi",
+    "example": "タクシーに乗る (タクシー) - take a taxi",
+    "level": "n5"
+  },
+  {
+    "id": "550",
+    "word": "卵",
+    "reading": "たまご",
+    "meaning": "eggs; egg",
+    "example": "卵を食べる (たまご) - eat eggs",
+    "level": "n5"
+  },
+  {
+    "id": "551",
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "birthday",
+    "example": "誕生日プレゼント (たんじょうび) - birthday present",
+    "level": "n5"
+  },
+  {
+    "id": "552",
+    "word": "頼む",
+    "reading": "たのむ",
+    "meaning": "to ask",
+    "example": "助けてと頼む (たのむ) - ask for help",
+    "level": "n5"
+  },
+  {
+    "id": "553",
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meaning": "enjoyable; fun",
+    "example": "楽しい旅行 (たのしい) - enjoyable trip",
+    "level": "n5"
+  },
+  {
+    "id": "554",
+    "word": "縦",
+    "reading": "たて",
+    "meaning": "length, height",
+    "example": "縦と横 (たて) - length and width",
+    "level": "n5"
+  },
+  {
+    "id": "555",
+    "word": "建物",
+    "reading": "たてもの",
+    "meaning": "building",
+    "example": "高い建物 (たてもの) - tall building",
+    "level": "n5"
+  },
+  {
+    "id": "556",
+    "word": "立つ",
+    "reading": "たつ",
+    "meaning": "to stand; to stand up",
+    "example": "立ってください (たつ) - Please stand up",
+    "level": "n5"
+  },
+  {
+    "id": "557",
+    "word": "手",
+    "reading": "て",
+    "meaning": "hand; arm",
+    "example": "手を洗う (て) - wash hands",
+    "level": "n5"
+  },
+  {
+    "id": "558",
+    "word": "テーブル",
+    "reading": "テーブル",
+    "meaning": "table",
+    "example": "テーブルの上 (テーブル) - on the table",
+    "level": "n5"
+  },
+  {
+    "id": "559",
+    "word": "テープ",
+    "reading": "テープ",
+    "meaning": "tape",
+    "example": "テープを貼る (テープ) - stick tape",
+    "level": "n5"
+  },
+  {
+    "id": "560",
+    "word": "テープレコーダー",
+    "reading": "テープレコーダー",
+    "meaning": "tape recorder",
+    "example": "テープレコーダーで録音する (テープレコーダー) - record with a tape recorder",
+    "level": "n5"
+  },
+  {
+    "id": "561",
+    "word": "手紙",
+    "reading": "てがみ",
+    "meaning": "Letter (message)",
+    "example": "手紙を書く (てがみ) - write a letter",
+    "level": "n5"
+  },
+  {
+    "id": "562",
+    "word": "天気",
+    "reading": "てんき",
+    "meaning": "weather; the elements",
+    "example": "天気がいい (てんき) - good weather",
+    "level": "n5"
+  },
+  {
+    "id": "563",
+    "word": "テレビ",
+    "reading": "テレビ",
+    "meaning": "television; TV",
+    "example": "テレビを見る (テレビ) - watch TV",
+    "level": "n5"
+  },
+  {
+    "id": "564",
+    "word": "テスト",
+    "reading": "テスト",
+    "meaning": "examination; quiz; test",
+    "example": "テストを受ける (テスト) - take a test",
+    "level": "n5"
+  },
+  {
+    "id": "565",
+    "word": "戸",
+    "reading": "と",
+    "meaning": "Japanese style door",
+    "example": "戸を閉める (と) - close the sliding door",
+    "level": "n5"
+  },
+  {
+    "id": "566",
+    "word": "飛ぶ",
+    "reading": "とぶ",
+    "meaning": "to fly; to hop",
+    "example": "鳥が飛ぶ (とぶ) - birds fly",
+    "level": "n5"
+  },
+  {
+    "id": "567",
+    "word": "トイレ",
+    "reading": "トイレ",
+    "meaning": "toilet",
+    "example": "トイレに行く (トイレ) - go to the toilet",
+    "level": "n5"
+  },
+  {
+    "id": "568",
+    "word": "時計",
+    "reading": "とけい",
+    "meaning": "watch; clock; timepiece",
+    "example": "時計を見る (とけい) - look at the clock",
+    "level": "n5"
+  },
+  {
+    "id": "569",
+    "word": "時",
+    "reading": "とき",
+    "meaning": "time; moment; occasion; chance",
+    "example": "その時 (とき) - at that time",
+    "level": "n5"
+  },
+  {
+    "id": "570",
+    "word": "時々",
+    "reading": "ときどき",
+    "meaning": "sometimes; at times",
+    "example": "時々映画を見る (ときどき) - watch movies sometimes",
+    "level": "n5"
+  },
+  {
+    "id": "571",
+    "word": "所",
+    "reading": "ところ",
+    "meaning": "place",
+    "example": "いい所 (ところ) - nice place",
+    "level": "n5"
+  },
+  {
+    "id": "572",
+    "word": "止まる",
+    "reading": "とまる",
+    "meaning": "to stop; to come to a halt",
+    "example": "車が止まる (とまる) - the car stops",
+    "level": "n5"
+  },
+  {
+    "id": "573",
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "friend; companion",
+    "example": "友達と遊ぶ (ともだち) - play with a friend",
+    "level": "n5"
+  },
+  {
+    "id": "574",
+    "word": "隣",
+    "reading": "となり",
+    "meaning": "next door to",
+    "example": "隣の部屋 (となり) - next room",
+    "level": "n5"
+  },
+  {
+    "id": "575",
+    "word": "遠い",
+    "reading": "とおい",
+    "meaning": "far",
+    "example": "遠い国 (とおい) - far country",
+    "level": "n5"
+  },
+  {
+    "id": "576",
+    "word": "十日",
+    "reading": "とおか",
+    "meaning": "tenth day of the month / 10 days",
+    "example": "十日間 (とおか) - ten days",
+    "level": "n5"
+  },
+  {
+    "id": "577",
+    "word": "鳥",
+    "reading": "とり",
+    "meaning": "bird",
+    "example": "鳥が飛ぶ (とり) - birds fly",
+    "level": "n5"
+  },
+  {
+    "id": "578",
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "meaning": "chicken meat",
+    "example": "鶏肉を食べる (とりにく) - eat chicken",
+    "level": "n5"
+  },
+  {
+    "id": "579",
+    "word": "取る",
+    "reading": "とる",
+    "meaning": "to take; to pick up; to harvest; to earn; to win; to choose",
+    "example": "写真を取る (とる) - take a photo",
+    "level": "n5"
+  },
+  {
+    "id": "580",
+    "word": "撮る",
+    "reading": "とる",
+    "meaning": "to take a photo or record a film",
+    "example": "ビデオを撮る (とる) - record a video",
+    "level": "n5"
+  },
+  {
+    "id": "581",
+    "word": "年",
+    "reading": "とし",
+    "meaning": "year; age",
+    "example": "今年 (とし) - this year",
+    "level": "n5"
+  },
+  {
+    "id": "582",
+    "word": "図書館",
+    "reading": "としょかん",
+    "meaning": "library",
+    "example": "図書館で本を借りる (としょかん) - borrow a book from the library",
+    "level": "n5"
+  },
+  {
+    "id": "583",
+    "word": "次",
+    "reading": "つぎ",
+    "meaning": "next",
+    "example": "次に来る (つぎ) - come next",
+    "level": "n5"
+  },
+  {
+    "id": "584",
+    "word": "一日",
+    "reading": "ついたち",
+    "meaning": "first day of the month",
+    "example": "四月一日 (ついたち) - April 1st",
+    "level": "n5"
+  },
+  {
+    "id": "585",
+    "word": "疲れる",
+    "reading": "つかれる",
+    "meaning": "to get tired",
+    "example": "仕事で疲れる (つかれる) - get tired from work",
+    "level": "n5"
+  },
+  {
+    "id": "586",
+    "word": "使う",
+    "reading": "つかう",
+    "meaning": "to use",
+    "example": "パソコンを使う (つかう) - use a computer",
+    "level": "n5"
+  },
+  {
+    "id": "587",
+    "word": "つける",
+    "reading": "つける",
+    "meaning": "to turn on",
+    "example": "電気をつける (つける) - turn on the light",
+    "level": "n5"
+  },
+  {
+    "id": "588",
+    "word": "付ける",
+    "reading": "つける",
+    "meaning": "to attach; affix; add; apply",
+    "example": "名前を付ける (つける) - attach a name",
+    "level": "n5"
+  },
+  {
+    "id": "589",
+    "word": "着く",
+    "reading": "つく",
+    "meaning": "to arrive at",
+    "example": "駅に着く (つく) - arrive at the station",
+    "level": "n5"
+  },
+  {
+    "id": "590",
+    "word": "机",
+    "reading": "つくえ",
+    "meaning": "desk",
+    "example": "机の上 (つくえ) - on the desk",
+    "level": "n5"
+  },
+  {
+    "id": "591",
+    "word": "作る",
+    "reading": "つくる",
+    "meaning": "to make",
+    "example": "料理を作る (つくる) - make food",
+    "level": "n5"
+  },
+  {
+    "id": "592",
+    "word": "詰まらない",
+    "reading": "つまらない",
+    "meaning": "boring",
+    "example": "つまらない映画 (つまらない) - boring movie",
+    "level": "n5"
+  },
+  {
+    "id": "593",
+    "word": "冷たい",
+    "reading": "つめたい",
+    "meaning": "cold to the touch",
+    "example": "冷たい水 (つめたい) - cold water",
+    "level": "n5"
+  },
+  {
+    "id": "594",
+    "word": "勤める",
+    "reading": "つとめる",
+    "meaning": "to work for someone",
+    "example": "会社に勤める (つとめる) - work at a company",
+    "level": "n5"
+  },
+  {
+    "id": "595",
+    "word": "強い",
+    "reading": "つよい",
+    "meaning": "powerful",
+    "example": "強い風 (つよい) - strong wind",
+    "level": "n5"
+  },
+  {
+    "id": "596",
+    "word": "上",
+    "reading": "うえ",
+    "meaning": "above; up; over; top; surface",
+    "example": "机の上 (うえ) - on the desk",
+    "level": "n5"
+  },
+  {
+    "id": "597",
+    "word": "生まれる",
+    "reading": "うまれる",
+    "meaning": "to be born",
+    "example": "赤ちゃんが生まれる (うまれる) - a baby is born",
+    "level": "n5"
+  },
+  {
+    "id": "598",
+    "word": "海",
+    "reading": "うみ",
+    "meaning": "sea",
+    "example": "海で泳ぐ (うみ) - swim in the sea",
+    "level": "n5"
+  },
+  {
+    "id": "599",
+    "word": "売る",
+    "reading": "うる",
+    "meaning": "to sell",
+    "example": "車を売る (うる) - sell a car",
+    "level": "n5"
+  },
+  {
+    "id": "600",
+    "word": "煩い",
+    "reading": "うるさい",
+    "meaning": "noisy, annoying",
+    "example": "煩い音 (うるさい) - noisy sound",
+    "level": "n5"
+  },
+  {
+    "id": "601",
+    "word": "後ろ",
+    "reading": "うしろ",
+    "meaning": "back; behind; rear",
+    "example": "後ろに立つ (うしろ) - stand behind",
+    "level": "n5"
+  },
+  {
+    "id": "602",
+    "word": "薄い",
+    "reading": "うすい",
+    "meaning": "thin; weak",
+    "example": "薄い本 (うすい) - thin book",
+    "level": "n5"
+  },
+  {
+    "id": "603",
+    "word": "歌",
+    "reading": "うた",
+    "meaning": "song",
+    "example": "歌を歌う (うた) - sing a song",
+    "level": "n5"
+  },
+  {
+    "id": "604",
+    "word": "歌う",
+    "reading": "うたう",
+    "meaning": "to sing",
+    "example": "カラオケで歌う (うたう) - sing at karaoke",
+    "level": "n5"
+  },
+  {
+    "id": "605",
+    "word": "上着",
+    "reading": "うわぎ",
+    "meaning": "coat; tunic; jacket; outer garment",
+    "example": "上着を着る (うわぎ) - wear a jacket",
+    "level": "n5"
+  },
+  {
+    "id": "606",
+    "word": "ワイシャツ",
+    "reading": "ワイシャツ",
+    "meaning": "shirt",
+    "example": "ワイシャツを着る (ワイシャツ) - wear a dress shirt",
+    "level": "n5"
+  },
+  {
+    "id": "607",
+    "word": "若い",
+    "reading": "わかい",
+    "meaning": "young",
+    "example": "若い人 (わかい) - young person",
+    "level": "n5"
+  },
+  {
+    "id": "608",
+    "word": "分かる",
+    "reading": "わかる",
+    "meaning": "to understand; to comprehend; to grasp; to see; to get; to follow",
+    "example": "日本語が分かる (わかる) - understand Japanese",
+    "level": "n5"
+  },
+  {
+    "id": "609",
+    "word": "悪い",
+    "reading": "わるい",
+    "meaning": "bad; poor; undesirable",
+    "example": "悪い人 (わるい) - bad person",
+    "level": "n5"
+  },
+  {
+    "id": "610",
+    "word": "忘れる",
+    "reading": "わすれる",
+    "meaning": "to forget",
+    "example": "名前を忘れる (わすれる) - forget a name",
+    "level": "n5"
+  },
+  {
+    "id": "611",
+    "word": "渡る",
+    "reading": "わたる",
+    "meaning": "to go across",
+    "example": "道を渡る (わたる) - cross the road",
+    "level": "n5"
+  },
+  {
+    "id": "612",
+    "word": "私",
+    "reading": "わたし",
+    "meaning": "I; myself",
+    "example": "私は学生です (わたし) - I am a student",
+    "level": "n5"
+  },
+  {
+    "id": "613",
+    "word": "渡す",
+    "reading": "わたす",
+    "meaning": "to hand over",
+    "example": "手紙を渡す (わたす) - hand over a letter",
+    "level": "n5"
+  },
+  {
+    "id": "614",
+    "word": "山",
+    "reading": "やま",
+    "meaning": "mountain; hill",
+    "example": "山に登る (やま) - climb a mountain",
+    "level": "n5"
+  },
+  {
+    "id": "615",
+    "word": "八百屋",
+    "reading": "やおや",
+    "meaning": "greengrocer; fruit and vegetable shop; versatile",
+    "example": "八百屋で野菜を買う (やおや) - buy vegetables at a greengrocer",
+    "level": "n5"
+  },
+  {
+    "id": "616",
+    "word": "やる",
+    "reading": "やる",
+    "meaning": "to do",
+    "example": "宿題をやる (やる) - do homework",
+    "level": "n5"
+  },
+  {
+    "id": "617",
+    "word": "野菜",
+    "reading": "やさい",
+    "meaning": "vegetable",
+    "example": "野菜を食べる (やさい) - eat vegetables",
+    "level": "n5"
+  },
+  {
+    "id": "618",
+    "word": "易しい",
+    "reading": "やさしい",
+    "meaning": "easy, simple",
+    "example": "易しい問題 (やさしい) - easy problem",
+    "level": "n5"
+  },
+  {
+    "id": "619",
+    "word": "安い",
+    "reading": "やすい",
+    "meaning": "cheap; inexpensive",
+    "example": "安い店 (やすい) - cheap store",
+    "level": "n5"
+  },
+  {
+    "id": "620",
+    "word": "休み",
+    "reading": "やすみ",
+    "meaning": "rest; vacation; holiday",
+    "example": "休みの日 (やすみ) - day off",
+    "level": "n5"
+  },
+  {
+    "id": "621",
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning": "to be absent; to take a day off; to rest",
+    "example": "学校を休む (やすむ) - be absent from school",
+    "level": "n5"
+  },
+  {
+    "id": "622",
+    "word": "八つ",
+    "reading": "やっつ",
+    "meaning": "eight: 8",
+    "example": "八つある (やっつ) - there are eight",
+    "level": "n5"
+  },
+  {
+    "id": "623",
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "to call out, to invite",
+    "example": "友達を呼ぶ (よぶ) - call a friend",
+    "level": "n5"
+  },
+  {
+    "id": "624",
+    "word": "良い",
+    "reading": "よい",
+    "meaning": "good",
+    "example": "良い天気 (よい) - good weather",
+    "level": "n5"
+  },
+  {
+    "id": "625",
+    "word": "四日",
+    "reading": "よっか",
+    "meaning": "fourth day of the month / 4 days",
+    "example": "四日間 (よっか) - four days",
+    "level": "n5"
+  },
+  {
+    "id": "626",
+    "word": "横",
+    "reading": "よこ",
+    "meaning": "beside, side, width",
+    "example": "横に並ぶ (よこ) - line up side by side",
+    "level": "n5"
+  },
+  {
+    "id": "627",
+    "word": "よく",
+    "reading": "よく",
+    "meaning": "often, well",
+    "example": "よく食べる (よく) - eat often",
+    "level": "n5"
+  },
+  {
+    "id": "628",
+    "word": "読む",
+    "reading": "よむ",
+    "meaning": "to read; to guess; to predict; to read (someone's thoughts)",
+    "example": "本を読む (よむ) - read a book",
+    "level": "n5"
+  },
+  {
+    "id": "629",
+    "word": "夜",
+    "reading": "よる",
+    "meaning": "evening; night",
+    "example": "夜遅く (よる) - late at night",
+    "level": "n5"
+  },
+  {
+    "id": "630",
+    "word": "四つ",
+    "reading": "よつ",
+    "meaning": "four; 4",
+    "example": "四つください (よつ) - give me four",
+    "level": "n5"
+  },
+  {
+    "id": "631",
+    "word": "洋服",
+    "reading": "ようふく",
+    "meaning": "western clothes",
+    "example": "洋服を着る (ようふく) - wear Western clothes",
+    "level": "n5"
+  },
+  {
+    "id": "632",
+    "word": "八日",
+    "reading": "ようか",
+    "meaning": "eighth day of the month / 8 days",
+    "example": "八日間 (ようか) - eight days",
+    "level": "n5"
+  },
+  {
+    "id": "633",
+    "word": "弱い",
+    "reading": "よわい",
+    "meaning": "weak",
+    "example": "弱い光 (よわい) - weak light",
+    "level": "n5"
+  },
+  {
+    "id": "634",
+    "word": "雪",
+    "reading": "ゆき",
+    "meaning": "snow",
+    "example": "雪が降る (ゆき) - snow falls",
+    "level": "n5"
+  },
+  {
+    "id": "635",
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "slowly",
+    "example": "ゆっくり話す (ゆっくり) - speak slowly",
+    "level": "n5"
+  },
+  {
+    "id": "636",
+    "word": "昨夜",
+    "reading": "ゆうべ",
+    "meaning": "last night",
+    "example": "昨夜遅く寝た (ゆうべ) - went to bed late last night",
+    "level": "n5"
+  },
+  {
+    "id": "637",
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "post office",
+    "example": "郵便局へ行く (ゆうびんきょく) - go to the post office",
+    "level": "n5"
+  },
+  {
+    "id": "638",
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "evening; dusk",
+    "example": "夕方に帰る (ゆうがた) - return in the evening",
+    "level": "n5"
+  },
+  {
+    "id": "639",
+    "word": "夕飯",
+    "reading": "ゆうはん",
+    "meaning": "evening meal",
+    "example": "夕飯を作る (ゆうはん) - make dinner",
+    "level": "n5"
+  },
+  {
+    "id": "640",
+    "word": "有名",
+    "reading": "ゆうめい",
+    "meaning": "famous",
+    "example": "有名な歌手 (ゆうめい) - famous singer",
+    "level": "n5"
+  },
+  {
+    "id": "641",
+    "word": "雑誌",
+    "reading": "ざっし",
+    "meaning": "magazine",
+    "example": "雑誌を読む (ざっし) - read a magazine",
+    "level": "n5"
+  },
+  {
+    "id": "642",
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "all",
+    "example": "全部食べた (ぜんぶ) - ate all",
+    "level": "n5"
+  },
+  {
+    "id": "643",
+    "word": "ゼロ",
+    "reading": "ゼロ",
+    "meaning": "zero",
+    "example": "ゼロから始める (ゼロ) - start from zero",
+    "level": "n5"
+  },
+  {
+    "id": "644",
+    "word": "ズボン",
+    "reading": "ズボン",
+    "meaning": "trousers; pants",
+    "example": "ズボンを履く (ズボン) - put on pants",
+    "level": "n5"
+  }
+]
