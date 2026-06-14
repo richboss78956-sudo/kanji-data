@@ -1,0 +1,722 @@
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "day, sun, Japan, counter for days",
+    "example": "今日 (きょう) - today",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "一",
+    "onyomi": "イチ",
+    "kunyomi": "ひと(つ)",
+    "meaning": "one",
+    "example": "一つ (ひとつ) - one thing",
+    "level": "n5",
+    "stroke_count": 1
+  },
+  {
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "country",
+    "example": "日本国 (にほんこく) - Japan",
+    "level": "n5",
+    "stroke_count": 8
+  },
+  {
+    "kanji": "人",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと",
+    "meaning": "person",
+    "example": "日本人 (にほんじん) - Japanese person",
+    "level": "n5",
+    "stroke_count": 2
+  },
+  {
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "year, counter for years",
+    "example": "来年 (らいねん) - next year",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお(きい)",
+    "meaning": "large, big",
+    "example": "大きい (おおきい) - big",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "十",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお, と",
+    "meaning": "ten, 10",
+    "example": "十分 (じゅっぷん) - 10 minutes",
+    "level": "n5",
+    "stroke_count": 2
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた(つ)",
+    "meaning": "two, 2",
+    "example": "二人 (ふたり) - two people",
+    "level": "n5",
+    "stroke_count": 2
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "book, present, true, counter for long cylindrical things",
+    "example": "本 (ほん) - book",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた(る)",
+    "meaning": "in, inside, middle, center, mean",
+    "example": "中 (なか) - inside, middle",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが(い), おさ",
+    "meaning": "long, leader, superior, senior",
+    "example": "長い (ながい) - long",
+    "level": "n5",
+    "stroke_count": 8
+  },
+  {
+    "kanji": "出",
+    "onyomi": "シュツ, スイ",
+    "kunyomi": "で(る), だ(す), い(でる)",
+    "meaning": "exit, leave, go out",
+    "example": "出る (でる) - to go out, to leave",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "三",
+    "onyomi": "サン",
+    "kunyomi": "み(つ)",
+    "meaning": "three, 3",
+    "example": "三つ (みっつ) - three things",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき, -どき",
+    "meaning": "time, hour",
+    "example": "時間 (じかん) - time",
+    "level": "n5",
+    "stroke_count": 10
+  },
+  {
+    "kanji": "行",
+    "onyomi": "コウ, ギョウ, アン",
+    "kunyomi": "い(く), ゆ(く), おこな(う)",
+    "meaning": "going, journey, carry out, line, row",
+    "example": "行く (いく) - to go",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み(る), み(せる)",
+    "meaning": "see, hopes, chances, idea, opinion, look, visible",
+    "example": "見る (みる) - to see, to watch",
+    "level": "n5",
+    "stroke_count": 7
+  },
+  {
+    "kanji": "月",
+    "onyomi": "ゲツ, ガツ",
+    "kunyomi": "つき",
+    "meaning": "month, moon",
+    "example": "月 (つき) - moon, month",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "分",
+    "onyomi": "ブン, フン, ブ",
+    "kunyomi": "わ(ける)",
+    "meaning": "part, minute of time, understand",
+    "example": "分かる (わかる) - to understand",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "後",
+    "onyomi": "ゴ, コウ",
+    "kunyomi": "のち, うし(ろ), あと",
+    "meaning": "behind, back, later",
+    "example": "後 (あと) - after, later",
+    "level": "n5",
+    "stroke_count": 9
+  },
+  {
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ",
+    "meaning": "in front, before",
+    "example": "前 (まえ) - front, before",
+    "level": "n5",
+    "stroke_count": 9
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い(きる), う(む), お(う), は(える), なま",
+    "meaning": "life, genuine, birth",
+    "example": "生きる (いきる) - to live",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ(つ)",
+    "meaning": "five, 5",
+    "example": "五つ (いつつ) - five things",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "interval, space",
+    "example": "間 (あいだ) - between, during",
+    "level": "n5",
+    "stroke_count": 12
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, うわ, かみ, あ(げる), のぼ(る), たてまつ(る)",
+    "meaning": "above, up",
+    "example": "上 (うえ) - above, top",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "east",
+    "example": "東 (ひがし) - east",
+    "level": "n5",
+    "stroke_count": 8
+  },
+  {
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ(つ), よん",
+    "meaning": "four, 4",
+    "example": "四つ (よっつ) - four things",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "now, the present",
+    "example": "今 (いま) - now",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな, -がね",
+    "meaning": "gold",
+    "example": "お金 (おかね) - money",
+    "level": "n5",
+    "stroke_count": 8
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの(つ)",
+    "meaning": "nine, 9",
+    "example": "九つ (ここのつ) - nine things",
+    "level": "n5",
+    "stroke_count": 2
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ",
+    "kunyomi": "い(る), はい(る)",
+    "meaning": "enter, insert",
+    "example": "入る (はいる) - to enter",
+    "level": "n5",
+    "stroke_count": 2
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな(ぶ)",
+    "meaning": "study, learning, science",
+    "example": "学校 (がっこう) - school",
+    "level": "n5",
+    "stroke_count": 8
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか(い)",
+    "meaning": "tall, high, expensive",
+    "example": "高い (たかい) - high, expensive",
+    "level": "n5",
+    "stroke_count": 10
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる(い)",
+    "meaning": "circle, yen, round",
+    "example": "円 (えん) - yen (currency)",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, ね",
+    "meaning": "child",
+    "example": "子供 (こども) - child",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず(す), と-",
+    "meaning": "outside",
+    "example": "外 (そと) - outside",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ",
+    "kunyomi": "や(つ), よう",
+    "meaning": "eight, 8",
+    "example": "八つ (やっつ) - eight things",
+    "level": "n5",
+    "stroke_count": 2
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク",
+    "kunyomi": "む(つ), むい",
+    "meaning": "six, 6",
+    "example": "六つ (むっつ) - six things",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ(げる), くだ(る), お(ろす)",
+    "meaning": "below, down, descend, give, low, inferior",
+    "example": "下 (した) - below, under",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く(る), きた(る), き, こ",
+    "meaning": "come, due, next, cause, become",
+    "example": "来る (くる) - to come",
+    "level": "n5",
+    "stroke_count": 7
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき",
+    "meaning": "spirit, mind, air, atmosphere, mood",
+    "example": "元気 (げんき) - healthy, energetic",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい(さい), こ-, お-, さ-",
+    "meaning": "little, small",
+    "example": "小さい (ちいさい) - small",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな(つ), なの",
+    "meaning": "seven, 7",
+    "example": "七つ (ななつ) - seven things",
+    "level": "n5",
+    "stroke_count": 2
+  },
+  {
+    "kanji": "山",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "meaning": "mountain",
+    "example": "山 (やま) - mountain",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな(す), はなし",
+    "meaning": "tale, talk",
+    "example": "話す (はなす) - to speak",
+    "level": "n5",
+    "stroke_count": 13
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ",
+    "kunyomi": "おんな, め",
+    "meaning": "woman, female",
+    "example": "女 (おんな) - woman",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "north",
+    "example": "北 (きた) - north",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "noon, sign of the horse",
+    "example": "午前 (ごぜん) - morning (AM)",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "百",
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "meaning": "hundred",
+    "example": "百 (ひゃく) - one hundred",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か(く)",
+    "meaning": "write",
+    "example": "書く (かく) - to write",
+    "level": "n5",
+    "stroke_count": 10
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき, ま(ず)",
+    "meaning": "before, ahead, previous, future, precedence",
+    "example": "先 (さき) - previous, ahead",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な",
+    "meaning": "name, noted, distinguished, reputation",
+    "example": "名前 (なまえ) - name",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "river, stream",
+    "example": "川 (かわ) - river",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "thousand",
+    "example": "千 (せん) - one thousand",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず",
+    "meaning": "water",
+    "example": "水 (みず) - water",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか(ば)",
+    "meaning": "half, middle, odd number, semi-",
+    "example": "半分 (はんぶん) - half",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "男",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "meaning": "male, man",
+    "example": "男 (おとこ) - man",
+    "level": "n5",
+    "stroke_count": 7
+  },
+  {
+    "kanji": "西",
+    "onyomi": "セイ, サイ",
+    "kunyomi": "にし",
+    "meaning": "west",
+    "example": "西 (にし) - west",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "meaning": "electricity, electric powered",
+    "example": "電気 (でんき) - electricity",
+    "level": "n5",
+    "stroke_count": 13
+  },
+  {
+    "kanji": "校",
+    "onyomi": "コウ",
+    "kunyomi": "",
+    "meaning": "school, exam",
+    "example": "学校 (がっこう) - school",
+    "level": "n5",
+    "stroke_count": 10
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた(る)",
+    "meaning": "word, speech, language",
+    "example": "日本語 (にほんご) - Japanese language",
+    "level": "n5",
+    "stroke_count": 14
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "meaning": "soil, earth, ground",
+    "example": "土 (つち) - soil, earth",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "meaning": "tree, wood",
+    "example": "木 (き) - tree",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き(く)",
+    "meaning": "to hear, to listen, to ask",
+    "example": "聞く (きく) - to hear, to ask",
+    "level": "n5",
+    "stroke_count": 14
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く(う), た(べる), は(む)",
+    "meaning": "eat, food",
+    "example": "食べる (たべる) - to eat",
+    "level": "n5",
+    "stroke_count": 9
+  },
+  {
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "car, wheel",
+    "example": "車 (くるま) - car",
+    "level": "n5",
+    "stroke_count": 7
+  },
+  {
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん",
+    "meaning": "what",
+    "example": "何 (なに) - what",
+    "level": "n5",
+    "stroke_count": 7
+  },
+  {
+    "kanji": "南",
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "meaning": "south",
+    "example": "南 (みなみ) - south",
+    "level": "n5",
+    "stroke_count": 9
+  },
+  {
+    "kanji": "万",
+    "onyomi": "マン, バン",
+    "kunyomi": "",
+    "meaning": "ten thousand, 10,000",
+    "example": "一万 (いちまん) - ten thousand",
+    "level": "n5",
+    "stroke_count": 3
+  },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと(に)",
+    "meaning": "every",
+    "example": "毎日 (まいにち) - every day",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ(い)",
+    "meaning": "white",
+    "example": "白い (しろい) - white",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ",
+    "meaning": "heavens, sky, imperial",
+    "example": "天気 (てんき) - weather",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは, かあ",
+    "meaning": "mother",
+    "example": "母 (はは) - mother",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "meaning": "fire",
+    "example": "火 (ひ) - fire",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "right (direction)",
+    "example": "右 (みぎ) - right",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "読",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ(む)",
+    "meaning": "to read",
+    "example": "読む (よむ) - to read",
+    "level": "n5",
+    "stroke_count": 14
+  },
+  {
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "friend",
+    "example": "友達 (ともだち) - friend",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "meaning": "left",
+    "example": "左 (ひだり) - left",
+    "level": "n5",
+    "stroke_count": 5
+  },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす(む)",
+    "meaning": "rest, day off, retire, sleep",
+    "example": "休む (やすむ) - to rest",
+    "level": "n5",
+    "stroke_count": 6
+  },
+  {
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち, とう",
+    "meaning": "father",
+    "example": "父 (ちち) - father",
+    "level": "n5",
+    "stroke_count": 4
+  },
+  {
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま",
+    "meaning": "rain",
+    "example": "雨 (あめ) - rain",
+    "level": "n5",
+    "stroke_count": 8
+  }
+]
