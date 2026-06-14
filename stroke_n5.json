@@ -1,0 +1,225 @@
+{
+  "version": "1.0",
+  "level": "n5",
+  "last_updated": "2024-01-15",
+  "strokes": {
+    "日": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Left vertical", "direction": "Top to bottom"},
+        {"number": 2, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Right vertical", "direction": "Top to bottom"},
+        {"number": 4, "name": "Bottom horizontal", "direction": "Left to right"},
+        {"number": 5, "name": "Middle horizontal", "direction": "Left to right"}
+      ],
+      "tip": "Start with the left vertical stroke, then draw the top and right sides, then the bottom horizontal, and finally the middle horizontal."
+    },
+    "一": {
+      "stroke_count": 1,
+      "strokes": [
+        {"number": 1, "name": "Horizontal", "direction": "Left to right"}
+      ],
+      "tip": "A single horizontal stroke drawn smoothly from left to right."
+    },
+    "国": {
+      "stroke_count": 8,
+      "strokes": [
+        {"number": 1, "name": "Left vertical", "direction": "Top to bottom"},
+        {"number": 2, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Right vertical", "direction": "Top to bottom"},
+        {"number": 4, "name": "Bottom horizontal", "direction": "Left to right"},
+        {"number": 5, "name": "Left vertical inside", "direction": "Top to bottom"},
+        {"number": 6, "name": "Top horizontal inside", "direction": "Left to right"},
+        {"number": 7, "name": "Right vertical inside", "direction": "Top to bottom"},
+        {"number": 8, "name": "Bottom horizontal inside", "direction": "Left to right"}
+      ],
+      "tip": "Draw the outer enclosure (left, top, right, bottom) first, then write the inside box."
+    },
+    "人": {
+      "stroke_count": 2,
+      "strokes": [
+        {"number": 1, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 2, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the left diagonal stroke first, then the right diagonal stroke meeting at the top."
+    },
+    "年": {
+      "stroke_count": 6,
+      "strokes": [
+        {"number": 1, "name": "Top left diagonal", "direction": "Top to bottom-left"},
+        {"number": 2, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Middle horizontal", "direction": "Left to right"},
+        {"number": 4, "name": "Vertical", "direction": "Top to bottom"},
+        {"number": 5, "name": "Bottom left diagonal", "direction": "Top to bottom-left"},
+        {"number": 6, "name": "Bottom right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Start with the top left diagonal, then horizontal lines, then vertical stroke through the center."
+    },
+    "本": {
+      "stroke_count": 5,
+      "strokes": [
+        {"number": 1, "name": "Horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Vertical", "direction": "Top to bottom"},
+        {"number": 3, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 4, "name": "Right diagonal", "direction": "Top to bottom-right"},
+        {"number": 5, "name": "Bottom horizontal", "direction": "Left to right"}
+      ],
+      "tip": "Draw the top horizontal, then vertical through center, then left and right diagonals, then bottom horizontal."
+    },
+    "中": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Left vertical", "direction": "Top to bottom"},
+        {"number": 2, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Right vertical", "direction": "Top to bottom"},
+        {"number": 4, "name": "Bottom horizontal", "direction": "Left to right"},
+        {"number": 5, "name": "Vertical center", "direction": "Top to bottom"}
+      ],
+      "tip": "Draw the outer rectangle (left, top, right, bottom) first, then the central vertical stroke."
+    },
+    "大": {
+      "stroke_count": 3,
+      "strokes": [
+        {"number": 1, "name": "Horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 3, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the horizontal stroke first, then the left diagonal, then the right diagonal."
+    },
+    "十": {
+      "stroke_count": 2,
+      "strokes": [
+        {"number": 1, "name": "Horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Vertical", "direction": "Top to bottom"}
+      ],
+      "tip": "Draw the horizontal stroke first, then the vertical stroke through the center."
+    },
+    "二": {
+      "stroke_count": 2,
+      "strokes": [
+        {"number": 1, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Bottom horizontal", "direction": "Left to right"}
+      ],
+      "tip": "Draw the top horizontal stroke first, then the bottom horizontal stroke."
+    },
+    "三": {
+      "stroke_count": 3,
+      "strokes": [
+        {"number": 1, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Middle horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Bottom horizontal", "direction": "Left to right"}
+      ],
+      "tip": "Draw from top to bottom: top horizontal, then middle, then bottom."
+    },
+    "四": {
+      "stroke_count": 5,
+      "strokes": [
+        {"number": 1, "name": "Left vertical", "direction": "Top to bottom"},
+        {"number": 2, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Right vertical", "direction": "Top to bottom"},
+        {"number": 4, "name": "Bottom horizontal", "direction": "Left to right"},
+        {"number": 5, "name": "Inside vertical", "direction": "Top to bottom"}
+      ],
+      "tip": "Draw the outer box first, then the inside strokes."
+    },
+    "五": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Left vertical", "direction": "Top to bottom"},
+        {"number": 3, "name": "Bottom horizontal", "direction": "Left to right"},
+        {"number": 4, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the top horizontal, then left vertical, then bottom horizontal, then right diagonal."
+    },
+    "六": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Top point", "direction": "Top to bottom"},
+        {"number": 2, "name": "Horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 4, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the top point, then horizontal, then left and right diagonals."
+    },
+    "七": {
+      "stroke_count": 2,
+      "strokes": [
+        {"number": 1, "name": "Horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the horizontal stroke first, then the diagonal stroke."
+    },
+    "八": {
+      "stroke_count": 2,
+      "strokes": [
+        {"number": 1, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 2, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the left diagonal stroke first, then the right diagonal stroke."
+    },
+    "九": {
+      "stroke_count": 2,
+      "strokes": [
+        {"number": 1, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 2, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the left diagonal stroke first, then the right diagonal stroke."
+    },
+    "月": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Left vertical", "direction": "Top to bottom"},
+        {"number": 2, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 3, "name": "Right vertical", "direction": "Top to bottom"},
+        {"number": 4, "name": "Bottom horizontal", "direction": "Left to right"},
+        {"number": 5, "name": "Inside horizontal", "direction": "Left to right"}
+      ],
+      "tip": "Draw the outer frame first, then the two horizontal lines inside."
+    },
+    "火": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Left dot", "direction": "Top to bottom"},
+        {"number": 2, "name": "Right dot", "direction": "Top to bottom"},
+        {"number": 3, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 4, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the left dot, then right dot, then the person-like shape in the middle."
+    },
+    "水": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Center vertical", "direction": "Top to bottom"},
+        {"number": 2, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 3, "name": "Right diagonal", "direction": "Top to bottom-right"},
+        {"number": 4, "name": "Bottom diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the center vertical first, then left diagonal, then right diagonal, then bottom diagonal."
+    },
+    "木": {
+      "stroke_count": 4,
+      "strokes": [
+        {"number": 1, "name": "Horizontal", "direction": "Left to right"},
+        {"number": 2, "name": "Vertical", "direction": "Top to bottom"},
+        {"number": 3, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 4, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the horizontal, then vertical, then left and right diagonals."
+    },
+    "金": {
+      "stroke_count": 8,
+      "strokes": [
+        {"number": 1, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 2, "name": "Right diagonal", "direction": "Top to bottom-right"},
+        {"number": 3, "name": "Horizontal", "direction": "Left to right"},
+        {"number": 4, "name": "Left vertical", "direction": "Top to bottom"},
+        {"number": 5, "name": "Top horizontal", "direction": "Left to right"},
+        {"number": 6, "name": "Bottom horizontal", "direction": "Left to right"},
+        {"number": 7, "name": "Left diagonal", "direction": "Top to bottom-left"},
+        {"number": 8, "name": "Right diagonal", "direction": "Top to bottom-right"}
+      ],
+      "tip": "Draw the top person shape (人), then horizontal line, then the bottom box (王)."
+    }
+  }
+}
