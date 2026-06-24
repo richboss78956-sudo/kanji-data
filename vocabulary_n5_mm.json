@@ -1,0 +1,5154 @@
+[
+  {
+    "id": 1,
+    "vocabulary": "浴びる",
+    "reading": "あびる",
+    "meaning": "ရေချိုးရန်",
+    "example": "シャワーを浴びる (あびる) - ရေချိုးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 2,
+    "vocabulary": "危ない",
+    "reading": "あぶない",
+    "meaning": "အန္တရာယ်ရှိသော",
+    "example": "危ないです (あぶない) - အန္တရာယ်ရှိသည်",
+    "level": "n5"
+  },
+  {
+    "id": 3,
+    "vocabulary": "あっち",
+    "reading": "あっち",
+    "meaning": "ဟိုဘက်",
+    "example": "あっちにあります (あっち) - ဟိုဘက်မှာရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 4,
+    "vocabulary": "あちら",
+    "reading": "あちら",
+    "meaning": "ဟိုမှာ",
+    "example": "あちらへ行く (あちら) - ဟိုဘက်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 5,
+    "vocabulary": "上げる",
+    "reading": "あげる",
+    "meaning": "မြှင့်တင်ရန်၊ ပေးအပ်ရန်",
+    "example": "手を上げる (あげる) - လက်မြှင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 6,
+    "vocabulary": "赤",
+    "reading": "あか",
+    "meaning": "အနီရောင်",
+    "example": "赤い色 (あか) - အနီရောင်",
+    "level": "n5"
+  },
+  {
+    "id": 7,
+    "vocabulary": "赤い",
+    "reading": "あかい",
+    "meaning": "အနီရောင်",
+    "example": "赤い花 (あかい) - ပန်းနီ",
+    "level": "n5"
+  },
+  {
+    "id": 8,
+    "vocabulary": "明るい",
+    "reading": "あかるい",
+    "meaning": "တောက်ပသော",
+    "example": "明るい部屋 (あかるい) - အလင်းရောင်ကောင်းသောအခန်း",
+    "level": "n5"
+  },
+  {
+    "id": 9,
+    "vocabulary": "開ける",
+    "reading": "あける",
+    "meaning": "ဖွင့်ရန်",
+    "example": "ドアを開ける (あける) - တံခါးဖွင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 10,
+    "vocabulary": "秋",
+    "reading": "あき",
+    "meaning": "ဆောင်းဦး",
+    "example": "秋が好き (あき) - ဆောင်းဦးကိုကြိုက်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 11,
+    "vocabulary": "開く",
+    "reading": "あく",
+    "meaning": "ဖွင့်ရန် (အလိုအလျောက်)",
+    "example": "ドアが開く (あく) - တံခါးဖွင့်သည်",
+    "level": "n5"
+  },
+  {
+    "id": 12,
+    "vocabulary": "甘い",
+    "reading": "あまい",
+    "meaning": "ချိုသော",
+    "example": "甘いケーキ (あまい) - ချိုသောကိတ်မုန့်",
+    "level": "n5"
+  },
+  {
+    "id": 13,
+    "vocabulary": "雨",
+    "reading": "あめ",
+    "meaning": "မိုး",
+    "example": "雨が降る (あめ) - မိုးရွာသည်",
+    "level": "n5"
+  },
+  {
+    "id": 14,
+    "vocabulary": "飴",
+    "reading": "あめ",
+    "meaning": "သကြားလုံး",
+    "example": "飴を食べる (あめ) - သကြားလုံးစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 15,
+    "vocabulary": "あなた",
+    "reading": "あなた",
+    "meaning": "မင်း",
+    "example": "あなたは学生ですか (あなた) - မင်းကျောင်းသားလား",
+    "level": "n5"
+  },
+  {
+    "id": 16,
+    "vocabulary": "姉",
+    "reading": "あね",
+    "meaning": "အစ်မ",
+    "example": "私の姉 (あね) - ကျွန်တော့်အစ်မ",
+    "level": "n5"
+  },
+  {
+    "id": 17,
+    "vocabulary": "兄",
+    "reading": "あに",
+    "meaning": "အစ်ကို",
+    "example": "私の兄 (あに) - ကျွန်တော့်အစ်ကို",
+    "level": "n5"
+  },
+  {
+    "id": 18,
+    "vocabulary": "あの",
+    "reading": "あの",
+    "meaning": "ဟို",
+    "example": "あの人 (あの) - ဟိုလူ",
+    "level": "n5"
+  },
+  {
+    "id": 19,
+    "vocabulary": "青",
+    "reading": "あお",
+    "meaning": "အပြာရောင်",
+    "example": "青い空 (あお) - ကောင်းကင်ပြာ",
+    "level": "n5"
+  },
+  {
+    "id": 20,
+    "vocabulary": "青い",
+    "reading": "あおい",
+    "meaning": "အပြာရောင်",
+    "example": "青い海 (あおい) - ပင်လယ်ပြာ",
+    "level": "n5"
+  },
+  {
+    "id": 21,
+    "vocabulary": "アパート",
+    "reading": "アパート",
+    "meaning": "တိုက်ခန်း",
+    "example": "アパートに住む (アパート) - တိုက်ခန်းတွင်နေထိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 22,
+    "vocabulary": "洗う",
+    "reading": "あらう",
+    "meaning": "ဆေးကြောရန်",
+    "example": "手を洗う (あらう) - လက်ဆေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 23,
+    "vocabulary": "あれ",
+    "reading": "あれ",
+    "meaning": "ဟို",
+    "example": "あれは何ですか (あれ) - ဟိုဟာကဘာလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 24,
+    "vocabulary": "ある",
+    "reading": "ある",
+    "meaning": "ရှိရန် (သက်မဲ့)",
+    "example": "問題がある (ある) - ပြဿနာရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 25,
+    "vocabulary": "歩く",
+    "reading": "あるく",
+    "meaning": "လမ်းလျှောက်ရန်",
+    "example": "公園を歩く (あるく) - ပန်းခြံထဲလမ်းလျှောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 26,
+    "vocabulary": "朝",
+    "reading": "あさ",
+    "meaning": "မနက်",
+    "example": "朝起きる (あさ) - မနက်အိပ်ရာနိုးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 27,
+    "vocabulary": "朝ご飯",
+    "reading": "あさごはん",
+    "meaning": "မနက်စာ",
+    "example": "朝ご飯を食べる (あさごはん) - မနက်စာစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 28,
+    "vocabulary": "明後日",
+    "reading": "あさって",
+    "meaning": "သန်ဘက်ခါ",
+    "example": "明後日会いましょう (あさって) - သန်ဘက်ခါတွေ့ကြမယ်",
+    "level": "n5"
+  },
+  {
+    "id": 29,
+    "vocabulary": "足",
+    "reading": "あし",
+    "meaning": "ခြေ",
+    "example": "足が痛い (あし) - ခြေနာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 30,
+    "vocabulary": "明日",
+    "reading": "あした",
+    "meaning": "မနက်ဖြန်",
+    "example": "明日学校に行く (あした) - မနက်ဖြန်ကျောင်းသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 31,
+    "vocabulary": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "ကစားရန်",
+    "example": "友達と遊ぶ (あそぶ) - သူငယ်ချင်းနဲ့ကစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 32,
+    "vocabulary": "あそこ",
+    "reading": "あそこ",
+    "meaning": "ဟိုမှာ",
+    "example": "あそこにあります (あそこ) - ဟိုမှာရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 33,
+    "vocabulary": "頭",
+    "reading": "あたま",
+    "meaning": "ခေါင်း",
+    "example": "頭がいい (あたま) - ဉာဏ်ကောင်းတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 34,
+    "vocabulary": "新しい",
+    "reading": "あたらしい",
+    "meaning": "အသစ်",
+    "example": "新しい車 (あたらしい) - ကားအသစ်",
+    "level": "n5"
+  },
+  {
+    "id": 35,
+    "vocabulary": "暖かい",
+    "reading": "あたたかい",
+    "meaning": "နွေးသော",
+    "example": "暖かい日 (あたたかい) - နွေးသောနေ့",
+    "level": "n5"
+  },
+  {
+    "id": 36,
+    "vocabulary": "後",
+    "reading": "あと",
+    "meaning": "နောက်",
+    "example": "後で会いましょう (あと) - နောက်မှတွေ့မယ်",
+    "level": "n5"
+  },
+  {
+    "id": 37,
+    "vocabulary": "暑い",
+    "reading": "あつい",
+    "meaning": "ပူသော (ရာသီဥတု)",
+    "example": "暑い夏 (あつい) - ပူသောနွေရာသီ",
+    "level": "n5"
+  },
+  {
+    "id": 38,
+    "vocabulary": "厚い",
+    "reading": "あつい",
+    "meaning": "ထူသော",
+    "example": "厚い本 (あつい) - စာအုပ်ထူ",
+    "level": "n5"
+  },
+  {
+    "id": 39,
+    "vocabulary": "熱い",
+    "reading": "あつい",
+    "meaning": "ပူသော (အပူချိန်)",
+    "example": "熱いコーヒー (あつい) - ကော်ဖီပူ",
+    "level": "n5"
+  },
+  {
+    "id": 40,
+    "vocabulary": "会う",
+    "reading": "あう",
+    "meaning": "တွေ့ရန်",
+    "example": "友達に会う (あう) - သူငယ်ချင်းတွေ့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 41,
+    "vocabulary": "晩ご飯",
+    "reading": "ばんごはん",
+    "meaning": "ညစာ",
+    "example": "晩ご飯を食べる (ばんごはん) - ညစာစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 42,
+    "vocabulary": "番号",
+    "reading": "ばんごう",
+    "meaning": "နံပါတ်",
+    "example": "電話番号 (ばんごう) - ဖုန်းနံပါတ်",
+    "level": "n5"
+  },
+  {
+    "id": 43,
+    "vocabulary": "バス",
+    "reading": "バス",
+    "meaning": "ဘတ်စ်ကား",
+    "example": "バスに乗る (バス) - ဘတ်စ်ကားစီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 44,
+    "vocabulary": "バター",
+    "reading": "バター",
+    "meaning": "ထောပတ်",
+    "example": "バターを塗る (バター) - ထောပတ်သုတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 45,
+    "vocabulary": "ベッド",
+    "reading": "ベッド",
+    "meaning": "အိပ်ရာ",
+    "example": "ベッドで寝る (ベッド) - အိပ်ရာပေါ်အိပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 46,
+    "vocabulary": "勉強",
+    "reading": "べんきょう",
+    "meaning": "စာကျက်ရန်",
+    "example": "日本語を勉強する (べんきょう) - ဂျပန်စာကျက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 47,
+    "vocabulary": "便利",
+    "reading": "べんり",
+    "meaning": "အဆင်ပြေသော",
+    "example": "便利な道具 (べんり) - အဆင်ပြေသောကိရိယာ",
+    "level": "n5"
+  },
+  {
+    "id": 48,
+    "vocabulary": "ボールペン",
+    "reading": "ボールペン",
+    "meaning": "ဘောပင်တံ",
+    "example": "ボールペンで書く (ボールペン) - ဘောပင်နဲ့ရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 49,
+    "vocabulary": "ボタン",
+    "reading": "ボタン",
+    "meaning": "ခလုတ်",
+    "example": "ボタンを押す (ボタン) - ခလုတ်နှိပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 50,
+    "vocabulary": "帽子",
+    "reading": "ぼうし",
+    "meaning": "ဦးထုပ်",
+    "example": "帽子をかぶる (ぼうし) - ဦးထုပ်ဆောင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 51,
+    "vocabulary": "文章",
+    "reading": "ぶんしょう",
+    "meaning": "စာကြောင်း",
+    "example": "長い文章 (ぶんしょう) - စာကြောင်းရှည်",
+    "level": "n5"
+  },
+  {
+    "id": 52,
+    "vocabulary": "豚肉",
+    "reading": "ぶたにく",
+    "meaning": "ဝက်သား",
+    "example": "豚肉を食べる (ぶたにく) - ဝက်သားစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 53,
+    "vocabulary": "病院",
+    "reading": "びょういん",
+    "meaning": "ဆေးရုံ",
+    "example": "病院に行く (びょういん) - ဆေးရုံသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 54,
+    "vocabulary": "病気",
+    "reading": "びょうき",
+    "meaning": "ရောဂါ",
+    "example": "病気になる (びょうき) - ဖျားနာရန်",
+    "level": "n5"
+  },
+  {
+    "id": 55,
+    "vocabulary": "茶色",
+    "reading": "ちゃいろ",
+    "meaning": "အညိုရောင်",
+    "example": "茶色の髪 (ちゃいろ) - ဆံပင်ညို",
+    "level": "n5"
+  },
+  {
+    "id": 56,
+    "vocabulary": "茶碗",
+    "reading": "ちゃわん",
+    "meaning": "ဆန်ခွက်",
+    "example": "茶碗にご飯 (ちゃわん) - ခွက်ထဲဆန်",
+    "level": "n5"
+  },
+  {
+    "id": 57,
+    "vocabulary": "父",
+    "reading": "ちち",
+    "meaning": "အဖေ",
+    "example": "私の父 (ちち) - ကျွန်တော့်အဖေ",
+    "level": "n5"
+  },
+  {
+    "id": 58,
+    "vocabulary": "違う",
+    "reading": "ちがう",
+    "meaning": "ကွဲပြားရန်",
+    "example": "考えが違う (ちがう) - အတွေးကွဲပြားတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 59,
+    "vocabulary": "小さい",
+    "reading": "ちいさい",
+    "meaning": "သေးငယ်သော",
+    "example": "小さい猫 (ちいさい) - ကြောင်လေး",
+    "level": "n5"
+  },
+  {
+    "id": 60,
+    "vocabulary": "小さな",
+    "reading": "ちいさな",
+    "meaning": "သေးငယ်သော",
+    "example": "小さな町 (ちいさな) - မြို့ငယ်လေး",
+    "level": "n5"
+  },
+  {
+    "id": 61,
+    "vocabulary": "近い",
+    "reading": "ちかい",
+    "meaning": "နီးသော",
+    "example": "駅が近い (ちかい) - ဘူတာနီးတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 62,
+    "vocabulary": "地下鉄",
+    "reading": "ちかてつ",
+    "meaning": "မြေအောက်ရထား",
+    "example": "地下鉄に乗る (ちかてつ) - မြေအောက်ရထားစီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 63,
+    "vocabulary": "地図",
+    "reading": "ちず",
+    "meaning": "မြေပုံ",
+    "example": "地図を見る (ちず) - မြေပုံကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 64,
+    "vocabulary": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "နည်းနည်း",
+    "example": "ちょっと待って (ちょっと) - နည်းနည်းစောင့်ပါ",
+    "level": "n5"
+  },
+  {
+    "id": 65,
+    "vocabulary": "丁度",
+    "reading": "ちょうど",
+    "meaning": "အတိအကျ",
+    "example": "ちょうどいい (ちょうど) - အတိအကျကောင်းတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 66,
+    "vocabulary": "台所",
+    "reading": "だいどころ",
+    "meaning": "မီးဖိုချောင်",
+    "example": "台所で料理 (だいどころ) - မီးဖိုချောင်မှာချက်ပြုတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 67,
+    "vocabulary": "大学",
+    "reading": "だいがく",
+    "meaning": "တက္ကသိုလ်",
+    "example": "大学に行く (だいがく) - တက္ကသိုလ်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 68,
+    "vocabulary": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meaning": "ရပါတယ်၊ အဆင်ပြေတယ်",
+    "example": "大丈夫ですか (だいじょうぶ) - အဆင်ပြေလား",
+    "level": "n5"
+  },
+  {
+    "id": 69,
+    "vocabulary": "大好き",
+    "reading": "だいすき",
+    "meaning": "အရမ်းကြိုက်တယ်",
+    "example": "大好きです (だいすき) - အရမ်းကြိုက်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 70,
+    "vocabulary": "だんだん",
+    "reading": "だんだん",
+    "meaning": "တဖြည်းဖြည်း",
+    "example": "だんだん寒くなる (だんだん) - တဖြည်းဖြည်းအေးလာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 71,
+    "vocabulary": "誰",
+    "reading": "だれ",
+    "meaning": "မည်သူ",
+    "example": "誰ですか (だれ) - ဘယ်သူလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 72,
+    "vocabulary": "誰か",
+    "reading": "だれか",
+    "meaning": "တစ်စုံတစ်ယောက်",
+    "example": "誰か来た (だれか) - တစ်ယောက်ယောက်လာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 73,
+    "vocabulary": "出す",
+    "reading": "だす",
+    "meaning": "ထုတ်ရန်",
+    "example": "手を出す (だす) - လက်ထုတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 74,
+    "vocabulary": "出口",
+    "reading": "でぐち",
+    "meaning": "ထွက်ပေါက်",
+    "example": "出口を探す (でぐち) - ထွက်ပေါက်ရှာရန်",
+    "level": "n5"
+  },
+  {
+    "id": 75,
+    "vocabulary": "出かける",
+    "reading": "でかける",
+    "meaning": "ထွက်သွားရန်",
+    "example": "買い物に出かける (でかける) - ဈေးဝယ်ထွက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 76,
+    "vocabulary": "電気",
+    "reading": "でんき",
+    "meaning": "လျှပ်စစ်",
+    "example": "電気をつける (でんき) - မီးဖွင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 77,
+    "vocabulary": "電車",
+    "reading": "でんしゃ",
+    "meaning": "ရထား",
+    "example": "電車に乗る (でんしゃ) - ရထားစီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 78,
+    "vocabulary": "電話",
+    "reading": "でんわ",
+    "meaning": "တယ်လီဖုန်း",
+    "example": "電話をかける (でんわ) - ဖုန်းခေါ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 79,
+    "vocabulary": "デパート",
+    "reading": "デパート",
+    "meaning": "ဈေးကြီး",
+    "example": "デパートで買い物 (デパート) - ဈေးကြီးမှာဈေးဝယ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 80,
+    "vocabulary": "出る",
+    "reading": "でる",
+    "meaning": "ထွက်ရန်",
+    "example": "部屋を出る (でる) - အခန်းထွက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 81,
+    "vocabulary": "ドア",
+    "reading": "ドア",
+    "meaning": "တံခါး",
+    "example": "ドアを閉める (ドア) - တံခါးပိတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 82,
+    "vocabulary": "どっち",
+    "reading": "どっち",
+    "meaning": "ဘယ်ဟာ",
+    "example": "どっちがいいですか (どっち) - ဘယ်ဟာပိုကောင်းလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 83,
+    "vocabulary": "どちら",
+    "reading": "どちら",
+    "meaning": "ဘယ်နှစ်ခုထဲက",
+    "example": "どちらへ行きますか (どちら) - ဘယ်ကိုသွားမလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 84,
+    "vocabulary": "どこ",
+    "reading": "どこ",
+    "meaning": "ဘယ်မှာ",
+    "example": "どこに住んでいますか (どこ) - ဘယ်မှာနေလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 85,
+    "vocabulary": "どなた",
+    "reading": "どなた",
+    "meaning": "မည်သူ (ရိုသေသော)",
+    "example": "どなたですか (どなた) - မည်သူလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 86,
+    "vocabulary": "どの",
+    "reading": "どの",
+    "meaning": "ဘယ်",
+    "example": "どの本ですか (どの) - ဘယ်စာအုပ်လဲ",
+    "level": "n5"
+  },
+  {
+    "id": 87,
+    "vocabulary": "どれ",
+    "reading": "どれ",
+    "meaning": "ဘယ်ဟာ (သုံးခုအထက်)",
+    "example": "どれが好きですか (どれ) - ဘယ်ဟာကြိုက်လဲ",
+    "level": "n5"
+  },
+  {
+    "id": 88,
+    "vocabulary": "どう",
+    "reading": "どう",
+    "meaning": "ဘယ်လို",
+    "example": "どうですか (どう) - ဘယ်လိုလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 89,
+    "vocabulary": "動物",
+    "reading": "どうぶつ",
+    "meaning": "တိရစ္ဆာန်",
+    "example": "動物が好き (どうぶつ) - တိရစ္ဆာန်ကြိုက်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 90,
+    "vocabulary": "どうも",
+    "reading": "どうも",
+    "meaning": "ကျေးဇူးတင်ပါတယ်",
+    "example": "どうもありがとう (どうも) - ကျေးဇူးအများကြီးတင်ပါတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 91,
+    "vocabulary": "どうぞ",
+    "reading": "どうぞ",
+    "meaning": "ကျေးဇူးပြု၍",
+    "example": "どうぞお入りください (どうぞ) - ကျေးဇူးပြု၍ဝင်ပါ",
+    "level": "n5"
+  },
+  {
+    "id": 92,
+    "vocabulary": "土曜日",
+    "reading": "どようび",
+    "meaning": "စနေနေ့",
+    "example": "土曜日は休みです (どようび) - စနေနေ့အနားယူသည်",
+    "level": "n5"
+  },
+  {
+    "id": 93,
+    "vocabulary": "絵",
+    "reading": "え",
+    "meaning": "ပုံ",
+    "example": "絵を描く (え) - ပုံဆွဲရန်",
+    "level": "n5"
+  },
+  {
+    "id": 94,
+    "vocabulary": "ええ",
+    "reading": "ええ",
+    "meaning": "ဟုတ်ကဲ့",
+    "example": "ええ、そうです (ええ) - ဟုတ်ကဲ့၊ မှန်ပါတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 95,
+    "vocabulary": "映画",
+    "reading": "えいが",
+    "meaning": "ရုပ်ရှင်",
+    "example": "映画を見る (えいが) - ရုပ်ရှင်ကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 96,
+    "vocabulary": "映画館",
+    "reading": "えいがかん",
+    "meaning": "ရုပ်ရှင်ရုံ",
+    "example": "映画館へ行く (えいがかん) - ရုပ်ရှင်ရုံသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 97,
+    "vocabulary": "英語",
+    "reading": "えいご",
+    "meaning": "အင်္ဂလိပ်စာ",
+    "example": "英語を勉強する (えいご) - အင်္ဂလိပ်စာကျက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 98,
+    "vocabulary": "駅",
+    "reading": "えき",
+    "meaning": "ဘူတာ",
+    "example": "駅で待つ (えき) - ဘူတာမှာစောင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 99,
+    "vocabulary": "鉛筆",
+    "reading": "えんぴつ",
+    "meaning": "ခဲတံ",
+    "example": "鉛筆で書く (えんぴつ) - ခဲတံနဲ့ရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 100,
+    "vocabulary": "エレベーター",
+    "reading": "エレベーター",
+    "meaning": "ဓာတ်လှေခါး",
+    "example": "エレベーターに乗る (エレベーター) - ဓာတ်လှေခါးစီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 101,
+    "vocabulary": "フィルム",
+    "reading": "フィルム",
+    "meaning": "ဖလင်",
+    "example": "フィルムを現像する (フィルム) - ဖလင်သွင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 102,
+    "vocabulary": "フォーク",
+    "reading": "フォーク",
+    "meaning": "ခက်ရင်း",
+    "example": "フォークを使う (フォーク) - ခက်ရင်းသုံးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 103,
+    "vocabulary": "服",
+    "reading": "ふく",
+    "meaning": "အဝတ်အစား",
+    "example": "服を着る (ふく) - အဝတ်ဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 104,
+    "vocabulary": "吹く",
+    "reading": "ふく",
+    "meaning": "မှုတ်ရန် (လေ)",
+    "example": "風が吹く (ふく) - လေတိုက်သည်",
+    "level": "n5"
+  },
+  {
+    "id": 105,
+    "vocabulary": "降る",
+    "reading": "ふる",
+    "meaning": "ရွာရန်",
+    "example": "雨が降る (ふる) - မိုးရွာသည်",
+    "level": "n5"
+  },
+  {
+    "id": 106,
+    "vocabulary": "古い",
+    "reading": "ふるい",
+    "meaning": "ဟောင်းသော",
+    "example": "古い車 (ふるい) - ကားဟောင်း",
+    "level": "n5"
+  },
+  {
+    "id": 107,
+    "vocabulary": "二人",
+    "reading": "ふたり",
+    "meaning": "လူနှစ်ယောက်",
+    "example": "二人で行く (ふたり) - နှစ်ယောက်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 108,
+    "vocabulary": "二つ",
+    "reading": "ふたつ",
+    "meaning": "နှစ်ခု",
+    "example": "二つください (ふたつ) - နှစ်ခုပေးပါ",
+    "level": "n5"
+  },
+  {
+    "id": 109,
+    "vocabulary": "太い",
+    "reading": "ふとい",
+    "meaning": "ထူသော",
+    "example": "太い腕 (ふとい) - လက်မောင်းထူ",
+    "level": "n5"
+  },
+  {
+    "id": 110,
+    "vocabulary": "二日",
+    "reading": "ふつか",
+    "meaning": "နှစ်ရက်",
+    "example": "二日間 (ふつか) - နှစ်ရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 111,
+    "vocabulary": "封筒",
+    "reading": "ふうとう",
+    "meaning": "စာအိတ်",
+    "example": "封筒に手紙を入れる (ふうとう) - စာအိတ်ထဲစာထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 112,
+    "vocabulary": "冬",
+    "reading": "ふゆ",
+    "meaning": "ဆောင်းရာသီ",
+    "example": "冬が好き (ふゆ) - ဆောင်းရာသီကြိုက်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 113,
+    "vocabulary": "外国",
+    "reading": "がいこく",
+    "meaning": "နိုင်ငံခြား",
+    "example": "外国に行く (がいこく) - နိုင်ငံခြားသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 114,
+    "vocabulary": "外国人",
+    "reading": "がいこくじん",
+    "meaning": "နိုင်ငံခြားသား",
+    "example": "外国人観光客 (がいこくじん) - နိုင်ငံခြားခရီးသွား",
+    "level": "n5"
+  },
+  {
+    "id": 115,
+    "vocabulary": "学校",
+    "reading": "がっこう",
+    "meaning": "ကျောင်း",
+    "example": "学校に行く (がっこう) - ကျောင်းသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 116,
+    "vocabulary": "学生",
+    "reading": "がくせい",
+    "meaning": "ကျောင်းသား",
+    "example": "大学生 (がくせい) - တက္ကသိုလ်ကျောင်းသား",
+    "level": "n5"
+  },
+  {
+    "id": 117,
+    "vocabulary": "玄関",
+    "reading": "げんかん",
+    "meaning": "အိမ်ဝင်ပေါက်",
+    "example": "玄関で靴を脱ぐ (げんかん) - အိမ်ဝင်ပေါက်မှာဖိနပ်ချွတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 118,
+    "vocabulary": "元気",
+    "reading": "げんき",
+    "meaning": "ကျန်းမာသော၊ လန်းဆန်းသော",
+    "example": "元気ですか (げんき) - နေကောင်းလား",
+    "level": "n5"
+  },
+  {
+    "id": 119,
+    "vocabulary": "月曜日",
+    "reading": "げつようび",
+    "meaning": "တနင်္လာနေ့",
+    "example": "月曜日から仕事 (げつようび) - တနင်္လာနေ့မှအလုပ်စတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 120,
+    "vocabulary": "銀行",
+    "reading": "ぎんこう",
+    "meaning": "ဘဏ်",
+    "example": "銀行に行く (ぎんこう) - ဘဏ်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 121,
+    "vocabulary": "ギター",
+    "reading": "ギター",
+    "meaning": "ဂစ်တာ",
+    "example": "ギターを弾く (ギター) - ဂစ်တာတီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 122,
+    "vocabulary": "五",
+    "reading": "ご",
+    "meaning": "ငါး",
+    "example": "五つ (ご) - ငါးခု",
+    "level": "n5"
+  },
+  {
+    "id": 123,
+    "vocabulary": "午後",
+    "reading": "ごご",
+    "meaning": "မွန်းလွဲ",
+    "example": "午後三時 (ごご) - ညနေ ၃ နာရီ",
+    "level": "n5"
+  },
+  {
+    "id": 124,
+    "vocabulary": "ご飯",
+    "reading": "ごはん",
+    "meaning": "ထမင်း",
+    "example": "ご飯を食べる (ごはん) - ထမင်းစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 125,
+    "vocabulary": "午前",
+    "reading": "ごぜん",
+    "meaning": "နံနက်",
+    "example": "午前十時 (ごぜん) - နံနက် ၁၀ နာရီ",
+    "level": "n5"
+  },
+  {
+    "id": 126,
+    "vocabulary": "グラム",
+    "reading": "グラム",
+    "meaning": "ဂရမ်",
+    "example": "百グラム (グラム) - ၁၀၀ ဂရမ်",
+    "level": "n5"
+  },
+  {
+    "id": 127,
+    "vocabulary": "牛肉",
+    "reading": "ぎゅうにく",
+    "meaning": "အမဲသား",
+    "example": "牛肉を食べる (ぎゅうにく) - အမဲသားစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 128,
+    "vocabulary": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meaning": "နွားနို့",
+    "example": "牛乳を飲む (ぎゅうにゅう) - နို့သောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 129,
+    "vocabulary": "歯",
+    "reading": "は",
+    "meaning": "သွား",
+    "example": "歯を磨く (は) - သွားတိုက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 130,
+    "vocabulary": "八",
+    "reading": "はち",
+    "meaning": "ရှစ်",
+    "example": "八時 (はち) - ရှစ်နာရီ",
+    "level": "n5"
+  },
+  {
+    "id": 131,
+    "vocabulary": "葉書",
+    "reading": "はがき",
+    "meaning": "စာပို့ကတ်",
+    "example": "葉書を送る (はがき) - ပို့စ်ကတ်ပို့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 132,
+    "vocabulary": "母",
+    "reading": "はは",
+    "meaning": "အမေ",
+    "example": "私の母 (はは) - ကျွန်တော့်အမေ",
+    "level": "n5"
+  },
+  {
+    "id": 133,
+    "vocabulary": "はい",
+    "reading": "はい",
+    "meaning": "ဟုတ်ကဲ့",
+    "example": "はい、わかりました (はい) - ဟုတ်ကဲ့၊ နားလည်ပါတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 134,
+    "vocabulary": "入る",
+    "reading": "はいる",
+    "meaning": "ဝင်ရန်",
+    "example": "部屋に入る (はいる) - အခန်းထဲဝင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 135,
+    "vocabulary": "灰皿",
+    "reading": "はいざら",
+    "meaning": "ပြာခွက်",
+    "example": "灰皿に吸い殻を入れる (はいざら) - ပြာခွက်ထဲစီးကရက်ဘူးထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 136,
+    "vocabulary": "始まる",
+    "reading": "はじまる",
+    "meaning": "စတင်ရန်",
+    "example": "授業が始まる (はじまる) - စာသင်ချိန်စတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 137,
+    "vocabulary": "初めて",
+    "reading": "はじめて",
+    "meaning": "ပထမဆုံးအကြိမ်",
+    "example": "初めて日本に来た (はじめて) - ဂျပန်ကိုပထမဆုံးအကြိမ်လာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 138,
+    "vocabulary": "箱",
+    "reading": "はこ",
+    "meaning": "သေတ္တာ",
+    "example": "箱に入れる (はこ) - သေတ္တာထဲထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 139,
+    "vocabulary": "履く",
+    "reading": "はく",
+    "meaning": "ဝတ်ဆင်ရန် (ဖိနပ်၊ ဘောင်းဘီ)",
+    "example": "靴を履く (はく) - ဖိနပ်စီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 140,
+    "vocabulary": "半",
+    "reading": "はん",
+    "meaning": "တစ်ဝက်",
+    "example": "半分 (はん) - တစ်ဝက်",
+    "level": "n5"
+  },
+  {
+    "id": 141,
+    "vocabulary": "花",
+    "reading": "はな",
+    "meaning": "ပန်း",
+    "example": "花が咲く (はな) - ပန်းပွင့်သည်",
+    "level": "n5"
+  },
+  {
+    "id": 142,
+    "vocabulary": "鼻",
+    "reading": "はな",
+    "meaning": "နှာခေါင်း",
+    "example": "鼻が高い (はな) - နှာခေါင်းမြင့်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 143,
+    "vocabulary": "話",
+    "reading": "はなし",
+    "meaning": "စကားပြော",
+    "example": "話をする (はなし) - စကားပြောရန်",
+    "level": "n5"
+  },
+  {
+    "id": 144,
+    "vocabulary": "話す",
+    "reading": "はなす",
+    "meaning": "ပြောရန်",
+    "example": "日本語を話す (はなす) - ဂျပန်စကားပြောရန်",
+    "level": "n5"
+  },
+  {
+    "id": 145,
+    "vocabulary": "半分",
+    "reading": "はんぶん",
+    "meaning": "တစ်ဝက်",
+    "example": "半分食べた (はんぶん) - တစ်ဝက်စားပြီး",
+    "level": "n5"
+  },
+  {
+    "id": 146,
+    "vocabulary": "ハンカチ",
+    "reading": "ハンカチ",
+    "meaning": "လက်ကိုင်ပုဝါ",
+    "example": "ハンカチで拭く (ハンカチ) - လက်ကိုင်ပုဝါနဲ့သုတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 147,
+    "vocabulary": "晴れ",
+    "reading": "はれ",
+    "meaning": "နေသာခြင်း",
+    "example": "今日は晴れです (はれ) - ဒီနေ့နေသာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 148,
+    "vocabulary": "晴れる",
+    "reading": "はれる",
+    "meaning": "နေသာရန်",
+    "example": "明日は晴れる (はれる) - မနက်ဖြန်နေသာမယ်",
+    "level": "n5"
+  },
+  {
+    "id": 149,
+    "vocabulary": "春",
+    "reading": "はる",
+    "meaning": "နွေဦး",
+    "example": "春が来た (はる) - နွေဦးရောက်ပြီ",
+    "level": "n5"
+  },
+  {
+    "id": 150,
+    "vocabulary": "貼る",
+    "reading": "はる",
+    "meaning": "ကပ်ရန်",
+    "example": "切手を貼る (はる) - စာတိုက်တံဆိပ်ခေါ်ကပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 151,
+    "vocabulary": "箸",
+    "reading": "はし",
+    "meaning": "တူ",
+    "example": "箸を使う (はし) - တူသုံးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 152,
+    "vocabulary": "橋",
+    "reading": "はし",
+    "meaning": "တံတား",
+    "example": "橋を渡る (はし) - တံတားဖြတ်ကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 153,
+    "vocabulary": "走る",
+    "reading": "はしる",
+    "meaning": "ပြေးရန်",
+    "example": "公園を走る (はしる) - ပန်းခြံထဲပြေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 154,
+    "vocabulary": "二十歳",
+    "reading": "はたち",
+    "meaning": "အသက် ၂၀",
+    "example": "二十歳になった (はたち) - အသက် ၂၀ ပြည့်ပြီ",
+    "level": "n5"
+  },
+  {
+    "id": 155,
+    "vocabulary": "働く",
+    "reading": "はたらく",
+    "meaning": "အလုပ်လုပ်ရန်",
+    "example": "会社で働く (はたらく) - ကုမ္ပဏီမှာအလုပ်လုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 156,
+    "vocabulary": "二十日",
+    "reading": "はつか",
+    "meaning": "နှစ်ဆယ်ရက်",
+    "example": "二十日間 (はつか) - နှစ်ဆယ်ရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 157,
+    "vocabulary": "速い",
+    "reading": "はやい",
+    "meaning": "မြန်သော",
+    "example": "速い車 (はやい) - ကားမြန်",
+    "level": "n5"
+  },
+  {
+    "id": 158,
+    "vocabulary": "早い",
+    "reading": "はやい",
+    "meaning": "စောသော",
+    "example": "早い時間 (はやい) - အချိန်စော",
+    "level": "n5"
+  },
+  {
+    "id": 159,
+    "vocabulary": "辺",
+    "reading": "へん",
+    "meaning": "ဧရိယာ",
+    "example": "この辺 (へん) - ဒီနားတစ်ဝိုက်",
+    "level": "n5"
+  },
+  {
+    "id": 160,
+    "vocabulary": "下手",
+    "reading": "へた",
+    "meaning": "ညံ့ဖျင်းသော",
+    "example": "歌が下手 (へた) - သီချင်းဆိုညံ့တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 161,
+    "vocabulary": "部屋",
+    "reading": "へや",
+    "meaning": "အခန်း",
+    "example": "部屋を掃除する (へや) - အခန်းသန့်ရှင်းရေးလုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 162,
+    "vocabulary": "左",
+    "reading": "ひだり",
+    "meaning": "ဘယ်",
+    "example": "左に曲がる (ひだり) - ဘယ်ဘက်ကွေ့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 163,
+    "vocabulary": "東",
+    "reading": "ひがし",
+    "meaning": "အရှေ့",
+    "example": "東の方 (ひがし) - အရှေ့ဘက်",
+    "level": "n5"
+  },
+  {
+    "id": 164,
+    "vocabulary": "飛行機",
+    "reading": "ひこうき",
+    "meaning": "လေယာဉ်",
+    "example": "飛行機に乗る (ひこうき) - လေယာဉ်စီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 165,
+    "vocabulary": "引く",
+    "reading": "ひく",
+    "meaning": "ဆွဲရန်",
+    "example": "ドアを引く (ひく) - တံခါးဆွဲဖွင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 166,
+    "vocabulary": "弾く",
+    "reading": "ひく",
+    "meaning": "တီးရန်",
+    "example": "ピアノを弾く (ひく) - စန္ဒရားတီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 167,
+    "vocabulary": "低い",
+    "reading": "ひくい",
+    "meaning": "နိမ့်သော",
+    "example": "低い声 (ひくい) - အသံနိမ့်",
+    "level": "n5"
+  },
+  {
+    "id": 168,
+    "vocabulary": "暇",
+    "reading": "ひま",
+    "meaning": "အားလပ်ချိန်",
+    "example": "暇な時間 (ひま) - အားလပ်ချိန်",
+    "level": "n5"
+  },
+  {
+    "id": 169,
+    "vocabulary": "広い",
+    "reading": "ひろい",
+    "meaning": "ကျယ်ဝန်းသော",
+    "example": "広い部屋 (ひろい) - အခန်းကျယ်",
+    "level": "n5"
+  },
+  {
+    "id": 170,
+    "vocabulary": "昼",
+    "reading": "ひる",
+    "meaning": "နေ့လည်",
+    "example": "昼に食べる (ひる) - နေ့လည်မှာစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 171,
+    "vocabulary": "昼ご飯",
+    "reading": "ひるごはん",
+    "meaning": "နေ့လည်စာ",
+    "example": "昼ご飯を食べる (ひるごはん) - နေ့လည်စာစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 172,
+    "vocabulary": "人",
+    "reading": "ひと",
+    "meaning": "လူ",
+    "example": "人が多い (ひと) - လူများတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 173,
+    "vocabulary": "一人",
+    "reading": "ひとり",
+    "meaning": "တစ်ယောက်တည်း",
+    "example": "一人で行く (ひとり) - တစ်ယောက်တည်းသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 174,
+    "vocabulary": "一つ",
+    "reading": "ひとつ",
+    "meaning": "တစ်ခု",
+    "example": "一つだけ (ひとつ) - တစ်ခုပဲ",
+    "level": "n5"
+  },
+  {
+    "id": 175,
+    "vocabulary": "ほか",
+    "reading": "ほか",
+    "meaning": "အခြား",
+    "example": "他の人 (ほか) - အခြားသူများ",
+    "level": "n5"
+  },
+  {
+    "id": 176,
+    "vocabulary": "本",
+    "reading": "ほん",
+    "meaning": "စာအုပ်",
+    "example": "本を読む (ほん) - စာအုပ်ဖတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 177,
+    "vocabulary": "本棚",
+    "reading": "ほんだな",
+    "meaning": "စာအုပ်စင်",
+    "example": "本棚に本を入れる (ほんだな) - စာအုပ်စင်ပေါ်စာအုပ်ထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 178,
+    "vocabulary": "本当",
+    "reading": "ほんとう",
+    "meaning": "အမှန်",
+    "example": "本当ですか (ほんとう) - ဟုတ်လား",
+    "level": "n5"
+  },
+  {
+    "id": 179,
+    "vocabulary": "欲しい",
+    "reading": "ほしい",
+    "meaning": "လိုချင်သော",
+    "example": "新しい車が欲しい (ほしい) - ကားအသစ်လိုချင်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 180,
+    "vocabulary": "細い",
+    "reading": "ほそい",
+    "meaning": "ပါးလွှာသော",
+    "example": "細い線 (ほそい) - မျဉ်းကြောင်းပါး",
+    "level": "n5"
+  },
+  {
+    "id": 181,
+    "vocabulary": "ホテル",
+    "reading": "ホテル",
+    "meaning": "ဟိုတယ်",
+    "example": "ホテルに泊まる (ホテル) - ဟိုတယ်မှာတည်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 182,
+    "vocabulary": "百",
+    "reading": "ひゃく",
+    "meaning": "ရာ",
+    "example": "百円 (ひゃく) - ၁၀၀ ယန်း",
+    "level": "n5"
+  },
+  {
+    "id": 183,
+    "vocabulary": "一",
+    "reading": "いち",
+    "meaning": "တစ်",
+    "example": "一番 (いち) - နံပါတ်တစ်",
+    "level": "n5"
+  },
+  {
+    "id": 184,
+    "vocabulary": "一番",
+    "reading": "いちばん",
+    "meaning": "အကောင်းဆုံး၊ ပထမဆုံး",
+    "example": "一番好き (いちばん) - အကြိုက်ဆုံး",
+    "level": "n5"
+  },
+  {
+    "id": 185,
+    "vocabulary": "一日",
+    "reading": "いちにち",
+    "meaning": "တစ်ရက်လုံး",
+    "example": "一日中 (いちにち) - တစ်နေ့လုံး",
+    "level": "n5"
+  },
+  {
+    "id": 186,
+    "vocabulary": "家",
+    "reading": "いえ",
+    "meaning": "အိမ်",
+    "example": "家に帰る (いえ) - အိမ်ပြန်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 187,
+    "vocabulary": "いかが",
+    "reading": "いかが",
+    "meaning": "ဘယ်လိုလဲ (ရိုသေသော)",
+    "example": "いかがですか (いかが) - ဘယ်လိုလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 188,
+    "vocabulary": "池",
+    "reading": "いけ",
+    "meaning": "ကန်",
+    "example": "池に魚がいる (いけ) - ကန်ထဲမှာငါးရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 189,
+    "vocabulary": "行く",
+    "reading": "いく",
+    "meaning": "သွားရန်",
+    "example": "学校へ行く (いく) - ကျောင်းသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 190,
+    "vocabulary": "いくら",
+    "reading": "いくら",
+    "meaning": "ဘယ်လောက်",
+    "example": "いくらですか (いくら) - ဘယ်လောက်လဲ",
+    "level": "n5"
+  },
+  {
+    "id": 191,
+    "vocabulary": "いくつ",
+    "reading": "いくつ",
+    "meaning": "ဘယ်နှစ်ခု၊ အသက်ဘယ်လောက်",
+    "example": "いくつありますか (いくつ) - ဘယ်နှစ်ခုရှိလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 192,
+    "vocabulary": "今",
+    "reading": "いま",
+    "meaning": "အခု",
+    "example": "今何時ですか (いま) - အခုဘယ်နှစ်နာရီလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 193,
+    "vocabulary": "意味",
+    "reading": "いみ",
+    "meaning": "အဓိပ္ပါယ်",
+    "example": "意味がわからない (いみ) - အဓိပ္ပါယ်မသိဘူး",
+    "level": "n5"
+  },
+  {
+    "id": 194,
+    "vocabulary": "妹",
+    "reading": "いもうと",
+    "meaning": "ညီမ",
+    "example": "私の妹 (いもうと) - ကျွန်တော့်ညီမ",
+    "level": "n5"
+  },
+  {
+    "id": 195,
+    "vocabulary": "犬",
+    "reading": "いぬ",
+    "meaning": "ခွေး",
+    "example": "犬を飼う (いぬ) - ခွေးမွေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 196,
+    "vocabulary": "入れる",
+    "reading": "いれる",
+    "meaning": "ထည့်ရန်",
+    "example": "箱に入れる (いれる) - သေတ္တာထဲထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 197,
+    "vocabulary": "入口",
+    "reading": "いりぐち",
+    "meaning": "ဝင်ပေါက်",
+    "example": "入口で待つ (いりぐち) - ဝင်ပေါက်မှာစောင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 198,
+    "vocabulary": "色",
+    "reading": "いろ",
+    "meaning": "အရောင်",
+    "example": "色がきれい (いろ) - အရောင်လှတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 199,
+    "vocabulary": "色々",
+    "reading": "いろいろ",
+    "meaning": "အမျိုးမျိုး",
+    "example": "色々な本 (いろいろ) - စာအုပ်အမျိုးမျိုး",
+    "level": "n5"
+  },
+  {
+    "id": 200,
+    "vocabulary": "要る",
+    "reading": "いる",
+    "meaning": "လိုအပ်ရန်",
+    "example": "お金が要る (いる) - ပိုက်ဆံလိုတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 201,
+    "vocabulary": "居る",
+    "reading": "いる",
+    "meaning": "ရှိရန် (သက်ရှိ)",
+    "example": "家にいる (いる) - အိမ်မှာရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 202,
+    "vocabulary": "医者",
+    "reading": "いしゃ",
+    "meaning": "ဆရာဝန်",
+    "example": "医者に行く (いしゃ) - ဆရာဝန်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 203,
+    "vocabulary": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "အလုပ်များသော",
+    "example": "忙しいです (いそがしい) - အလုပ်များတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 204,
+    "vocabulary": "一緒",
+    "reading": "いっしょ",
+    "meaning": "အတူတူ",
+    "example": "一緒に行く (いっしょ) - အတူတူသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 205,
+    "vocabulary": "椅子",
+    "reading": "いす",
+    "meaning": "ကုလားထိုင်",
+    "example": "椅子に座る (いす) - ကုလားထိုင်ပေါ်ထိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 206,
+    "vocabulary": "痛い",
+    "reading": "いたい",
+    "meaning": "နာကျင်သော",
+    "example": "頭が痛い (いたい) - ခေါင်းကိုက်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 207,
+    "vocabulary": "いつ",
+    "reading": "いつ",
+    "meaning": "ဘယ်အချိန်",
+    "example": "いつ来ますか (いつ) - ဘယ်အချိန်လာမလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 208,
+    "vocabulary": "五日",
+    "reading": "いつか",
+    "meaning": "ငါးရက်",
+    "example": "五日間 (いつか) - ငါးရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 209,
+    "vocabulary": "五つ",
+    "reading": "いつつ",
+    "meaning": "ငါးခု",
+    "example": "五つください (いつつ) - ငါးခုပေးပါ",
+    "level": "n5"
+  },
+  {
+    "id": 210,
+    "vocabulary": "言う",
+    "reading": "いう",
+    "meaning": "ပြောရန်",
+    "example": "名前を言う (いう) - နာမည်ပြောရန်",
+    "level": "n5"
+  },
+  {
+    "id": 211,
+    "vocabulary": "嫌",
+    "reading": "いや",
+    "meaning": "မနှစ်မြို့ဖွယ်",
+    "example": "嫌な天気 (いや) - မနှစ်မြို့ဖွယ်ရာသီဥတု",
+    "level": "n5"
+  },
+  {
+    "id": 212,
+    "vocabulary": "じゃあ",
+    "reading": "じゃあ",
+    "meaning": "ဒါဆို",
+    "example": "じゃあ、また (じゃあ) - ဒါဆိုနောက်မှတွေ့မယ်",
+    "level": "n5"
+  },
+  {
+    "id": 213,
+    "vocabulary": "字引",
+    "reading": "じびき",
+    "meaning": "အဘိဓာန်",
+    "example": "字引を引く (じびき) - အဘိဓာန်ကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 214,
+    "vocabulary": "自分",
+    "reading": "じぶん",
+    "meaning": "ကိုယ်တိုင်",
+    "example": "自分の部屋 (じぶん) - ကိုယ့်အခန်း",
+    "level": "n5"
+  },
+  {
+    "id": 215,
+    "vocabulary": "自動車",
+    "reading": "じどうしゃ",
+    "meaning": "ကား",
+    "example": "自動車を運転する (じどうしゃ) - ကားမောင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 216,
+    "vocabulary": "時間",
+    "reading": "じかん",
+    "meaning": "အချိန်",
+    "example": "時間がかかる (じかん) - အချိန်ယူရတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 217,
+    "vocabulary": "辞書",
+    "reading": "じしょ",
+    "meaning": "အဘိဓာန်",
+    "example": "辞書で調べる (じしょ) - အဘိဓာန်နဲ့ရှာရန်",
+    "level": "n5"
+  },
+  {
+    "id": 218,
+    "vocabulary": "自転車",
+    "reading": "じてんしゃ",
+    "meaning": "စက်ဘီး",
+    "example": "自転車に乗る (じてんしゃ) - စက်ဘီးစီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 219,
+    "vocabulary": "丈夫",
+    "reading": "じょうぶ",
+    "meaning": "ခိုင်ခံ့သော",
+    "example": "丈夫な靴 (じょうぶ) - ဖိနပ်ခိုင်ခံ့",
+    "level": "n5"
+  },
+  {
+    "id": 220,
+    "vocabulary": "上手",
+    "reading": "じょうず",
+    "meaning": "ကျွမ်းကျင်သော",
+    "example": "料理が上手 (じょうず) - ချက်ပြုတ်ကျွမ်းကျင်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 221,
+    "vocabulary": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "သင်ခန်းစာ",
+    "example": "授業を受ける (じゅぎょう) - သင်ခန်းစာတက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 222,
+    "vocabulary": "十",
+    "reading": "じゅう",
+    "meaning": "ဆယ်",
+    "example": "十人 (じゅう) - လူဆယ်ယောက်",
+    "level": "n5"
+  },
+  {
+    "id": 223,
+    "vocabulary": "かばん",
+    "reading": "かばん",
+    "meaning": "အိတ်",
+    "example": "かばんを持つ (かばん) - အိတ်ကိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 224,
+    "vocabulary": "花瓶",
+    "reading": "かびん",
+    "meaning": "ပန်းအိုး",
+    "example": "花瓶に花を生ける (かびん) - ပန်းအိုးထဲပန်းထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 225,
+    "vocabulary": "角",
+    "reading": "かど",
+    "meaning": "ထောင့်",
+    "example": "角を曲がる (かど) - ထောင့်ကွေ့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 226,
+    "vocabulary": "帰る",
+    "reading": "かえる",
+    "meaning": "ပြန်ရန်",
+    "example": "家に帰る (かえる) - အိမ်ပြန်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 227,
+    "vocabulary": "返す",
+    "reading": "かえす",
+    "meaning": "ပြန်ပေးရန်",
+    "example": "お金を返す (かえす) - ပိုက်ဆံပြန်ပေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 228,
+    "vocabulary": "鍵",
+    "reading": "かぎ",
+    "meaning": "သော့",
+    "example": "鍵をかける (かぎ) - သော့ခတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 229,
+    "vocabulary": "階段",
+    "reading": "かいだん",
+    "meaning": "လှေကား",
+    "example": "階段を上る (かいだん) - လှေကားတက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 230,
+    "vocabulary": "買い物",
+    "reading": "かいもの",
+    "meaning": "ဈေးဝယ်ခြင်း",
+    "example": "買い物に行く (かいもの) - ဈေးဝယ်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 231,
+    "vocabulary": "会社",
+    "reading": "かいしゃ",
+    "meaning": "ကုမ္ပဏီ",
+    "example": "会社で働く (かいしゃ) - ကုမ္ပဏီမှာအလုပ်လုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 232,
+    "vocabulary": "掛かる",
+    "reading": "かかる",
+    "meaning": "ကြာရန် (အချိန်၊ ငွေ)",
+    "example": "時間がかかる (かかる) - အချိန်ကြာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 233,
+    "vocabulary": "掛ける",
+    "reading": "かける",
+    "meaning": "ချိတ်ရန်၊ ဖုန်းခေါ်ရန်",
+    "example": "電話をかける (かける) - ဖုန်းခေါ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 234,
+    "vocabulary": "書く",
+    "reading": "かく",
+    "meaning": "ရေးရန်",
+    "example": "手紙を書く (かく) - စာရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 235,
+    "vocabulary": "カメラ",
+    "reading": "カメラ",
+    "meaning": "ကင်မရာ",
+    "example": "カメラで撮る (カメラ) - ကင်မရာနဲ့ရိုက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 236,
+    "vocabulary": "紙",
+    "reading": "かみ",
+    "meaning": "စာရွက်",
+    "example": "紙に書く (かみ) - စာရွက်ပေါ်ရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 237,
+    "vocabulary": "漢字",
+    "reading": "かんじ",
+    "meaning": "ကန်ဂျိ",
+    "example": "漢字を勉強する (かんじ) - ကန်ဂျိကျက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 238,
+    "vocabulary": "カップ",
+    "reading": "カップ",
+    "meaning": "ခွက်",
+    "example": "コーヒーカップ (カップ) - ကော်ဖီခွက်",
+    "level": "n5"
+  },
+  {
+    "id": 239,
+    "vocabulary": "体",
+    "reading": "からだ",
+    "meaning": "ကိုယ်ခန္ဓာ",
+    "example": "体を動かす (からだ) - ကိုယ်ခန္ဓာလှုပ်ရှားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 240,
+    "vocabulary": "辛い",
+    "reading": "からい",
+    "meaning": "စပ်သော",
+    "example": "辛いカレー (からい) - ကာရီစပ်",
+    "level": "n5"
+  },
+  {
+    "id": 241,
+    "vocabulary": "カレー",
+    "reading": "カレー",
+    "meaning": "ကာရီ",
+    "example": "カレーを食べる (カレー) - ကာရီစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 242,
+    "vocabulary": "カレンダー",
+    "reading": "カレンダー",
+    "meaning": "ပြက္ခဒိန်",
+    "example": "カレンダーを見る (カレンダー) - ပြက္ခဒိန်ကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 243,
+    "vocabulary": "借りる",
+    "reading": "かりる",
+    "meaning": "ငှားရန်",
+    "example": "本を借りる (かりる) - စာအုပ်ငှားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 244,
+    "vocabulary": "軽い",
+    "reading": "かるい",
+    "meaning": "ပေါ့ပါးသော",
+    "example": "軽い荷物 (かるい) - အိတ်ပေါ့",
+    "level": "n5"
+  },
+  {
+    "id": 245,
+    "vocabulary": "傘",
+    "reading": "かさ",
+    "meaning": "ထီး",
+    "example": "傘をさす (かさ) - ထီးဆောင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 246,
+    "vocabulary": "貸す",
+    "reading": "かす",
+    "meaning": "ငှားပေးရန်",
+    "example": "お金を貸す (かす) - ပိုက်ဆံငှားပေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 247,
+    "vocabulary": "方",
+    "reading": "かた",
+    "meaning": "နည်းလမ်း",
+    "example": "書き方 (かた) - ရေးနည်း",
+    "level": "n5"
+  },
+  {
+    "id": 248,
+    "vocabulary": "家庭",
+    "reading": "かてい",
+    "meaning": "အိမ်ထောင်စု",
+    "example": "家庭の事情 (かてい) - မိသားစုအခြေအနေ",
+    "level": "n5"
+  },
+  {
+    "id": 249,
+    "vocabulary": "買う",
+    "reading": "かう",
+    "meaning": "ဝယ်ရန်",
+    "example": "車を買う (かう) - ကားဝယ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 250,
+    "vocabulary": "川",
+    "reading": "かわ",
+    "meaning": "မြစ်",
+    "example": "川で泳ぐ (かわ) - မြစ်ထဲရေကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 251,
+    "vocabulary": "可愛い",
+    "reading": "かわいい",
+    "meaning": "ချစ်စရာကောင်းသော",
+    "example": "可愛い犬 (かわいい) - ခွေးချစ်စရာ",
+    "level": "n5"
+  },
+  {
+    "id": 252,
+    "vocabulary": "火曜日",
+    "reading": "かようび",
+    "meaning": "အင်္ဂါနေ့",
+    "example": "火曜日に会う (かようび) - အင်္ဂါနေ့တွေ့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 253,
+    "vocabulary": "風",
+    "reading": "かぜ",
+    "meaning": "လေ",
+    "example": "風が強い (かぜ) - လေပြင်းတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 254,
+    "vocabulary": "風邪",
+    "reading": "かぜ",
+    "meaning": "အအေးမိ",
+    "example": "風邪をひく (かぜ) - အအေးမိရန်",
+    "level": "n5"
+  },
+  {
+    "id": 255,
+    "vocabulary": "家族",
+    "reading": "かぞく",
+    "meaning": "မိသားစု",
+    "example": "家族と住む (かぞく) - မိသားစုနဲ့နေထိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 256,
+    "vocabulary": "警官",
+    "reading": "けいかん",
+    "meaning": "ရဲ",
+    "example": "警官を呼ぶ (けいかん) - ရဲခေါ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 257,
+    "vocabulary": "結婚",
+    "reading": "けっこん",
+    "meaning": "အိမ်ထောင်ပြုခြင်း",
+    "example": "結婚する (けっこん) - အိမ်ထောင်ပြုရန်",
+    "level": "n5"
+  },
+  {
+    "id": 258,
+    "vocabulary": "結構",
+    "reading": "けっこう",
+    "meaning": "ကောင်းပါတယ်",
+    "example": "結構です (けっこう) - ကောင်းပါတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 259,
+    "vocabulary": "今朝",
+    "reading": "けさ",
+    "meaning": "မနက်ဖြန်မနက်",
+    "example": "今朝起きた (けさ) - ဒီမနက်အိပ်ရာနိုးတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 260,
+    "vocabulary": "消す",
+    "reading": "けす",
+    "meaning": "ပိတ်ရန်၊ ဖျက်ရန်",
+    "example": "電気を消す (けす) - မီးပိတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 261,
+    "vocabulary": "木",
+    "reading": "き",
+    "meaning": "သစ်ပင်",
+    "example": "木を植える (き) - သစ်ပင်စိုက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 262,
+    "vocabulary": "消える",
+    "reading": "きえる",
+    "meaning": "ပျောက်ကွယ်ရန်",
+    "example": "火が消える (きえる) - မီးငြိမ်းသွားတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 263,
+    "vocabulary": "黄色い",
+    "reading": "きいろい",
+    "meaning": "အဝါရောင်",
+    "example": "黄色い花 (きいろい) - ပန်းဝါ",
+    "level": "n5"
+  },
+  {
+    "id": 264,
+    "vocabulary": "聞く",
+    "reading": "きく",
+    "meaning": "ကြားရန်၊ နားထောင်ရန်၊ မေးရန်",
+    "example": "音楽を聞く (きく) - ဂီတနားထောင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 265,
+    "vocabulary": "昨日",
+    "reading": "きのう",
+    "meaning": "မနေ့က",
+    "example": "昨日学校に行った (きのう) - မနေ့ကကျောင်းသွားတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 266,
+    "vocabulary": "金曜日",
+    "reading": "きんようび",
+    "meaning": "သောကြာနေ့",
+    "example": "金曜日の夜 (きんようび) - သောကြာည",
+    "level": "n5"
+  },
+  {
+    "id": 267,
+    "vocabulary": "切符",
+    "reading": "きっぷ",
+    "meaning": "လက်မှတ်",
+    "example": "切符を買う (きっぷ) - လက်မှတ်ဝယ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 268,
+    "vocabulary": "嫌い",
+    "reading": "きらい",
+    "meaning": "မုန်းသော",
+    "example": "野菜が嫌い (きらい) - ဟင်းသီးဟင်းရွက်မုန်းတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 269,
+    "vocabulary": "綺麗",
+    "reading": "きれい",
+    "meaning": "လှပသော",
+    "example": "綺麗な花 (きれい) - ပန်းလှ",
+    "level": "n5"
+  },
+  {
+    "id": 270,
+    "vocabulary": "キログラム",
+    "reading": "キログラム",
+    "meaning": "ကီလိုဂရမ်",
+    "example": "2キログラム (キログラム) - ၂ ကီလိုဂရမ်",
+    "level": "n5"
+  },
+  {
+    "id": 271,
+    "vocabulary": "キロメートル",
+    "reading": "キロメートル",
+    "meaning": "ကီလိုမီတာ",
+    "example": "5キロメートル (キロメートル) - ၅ ကီလိုမီတာ",
+    "level": "n5"
+  },
+  {
+    "id": 272,
+    "vocabulary": "切る",
+    "reading": "きる",
+    "meaning": "ဖြတ်ရန်",
+    "example": "紙を切る (きる) - စာရွက်ဖြတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 273,
+    "vocabulary": "着る",
+    "reading": "きる",
+    "meaning": "ဝတ်ရန်",
+    "example": "服を着る (きる) - အဝတ်ဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 274,
+    "vocabulary": "喫茶店",
+    "reading": "きっさてん",
+    "meaning": "လက်ဖက်ရည်ဆိုင်",
+    "example": "喫茶店でコーヒーを飲む (きっさてん) - လက်ဖက်ရည်ဆိုင်မှာကော်ဖီသောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 275,
+    "vocabulary": "北",
+    "reading": "きた",
+    "meaning": "မြောက်",
+    "example": "北の方 (きた) - မြောက်ဘက်",
+    "level": "n5"
+  },
+  {
+    "id": 276,
+    "vocabulary": "汚い",
+    "reading": "きたない",
+    "meaning": "ညစ်ပတ်သော",
+    "example": "汚い部屋 (きたない) - အခန်းညစ်ပတ်",
+    "level": "n5"
+  },
+  {
+    "id": 277,
+    "vocabulary": "切手",
+    "reading": "きって",
+    "meaning": "စာတိုက်တံဆိပ်ခေါင်း",
+    "example": "切手を貼る (きって) - စာတိုက်တံဆိပ်ခေါင်းကပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 278,
+    "vocabulary": "こっち",
+    "reading": "こっち",
+    "meaning": "ဒီဘက်",
+    "example": "こっちに来て (こっち) - ဒီဘက်လာပါ",
+    "level": "n5"
+  },
+  {
+    "id": 279,
+    "vocabulary": "こちら",
+    "reading": "こちら",
+    "meaning": "ဒီဘက် (ရိုသေသော)",
+    "example": "こちらへどうぞ (こちら) - ဒီဘက်ကိုကျေးဇူးပြု၍",
+    "level": "n5"
+  },
+  {
+    "id": 280,
+    "vocabulary": "子供",
+    "reading": "こども",
+    "meaning": "ကလေး",
+    "example": "子供が二人いる (こども) - ကလေးနှစ်ယောက်ရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 281,
+    "vocabulary": "声",
+    "reading": "こえ",
+    "meaning": "အသံ",
+    "example": "声が大きい (こえ) - အသံကျယ်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 282,
+    "vocabulary": "ここ",
+    "reading": "ここ",
+    "meaning": "ဒီမှာ",
+    "example": "ここで待つ (ここ) - ဒီမှာစောင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 283,
+    "vocabulary": "九日",
+    "reading": "ここのか",
+    "meaning": "ကိုးရက်",
+    "example": "九日間 (ここのか) - ကိုးရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 284,
+    "vocabulary": "九つ",
+    "reading": "ここのつ",
+    "meaning": "ကိုးခု",
+    "example": "九つある (ここのつ) - ကိုးခုရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 285,
+    "vocabulary": "困る",
+    "reading": "こまる",
+    "meaning": "ဒုက္ခရောက်ရန်",
+    "example": "お金がなくて困る (こまる) - ပိုက်ဆံမရှိလို့ဒုက္ခရောက်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 286,
+    "vocabulary": "今晩",
+    "reading": "こんばん",
+    "meaning": "ဒီည",
+    "example": "今晩は忙しい (こんばん) - ဒီညအလုပ်များတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 287,
+    "vocabulary": "今月",
+    "reading": "こんげつ",
+    "meaning": "ဒီလ",
+    "example": "今月の予定 (こんげつ) - ဒီလအချိန်ဇယား",
+    "level": "n5"
+  },
+  {
+    "id": 288,
+    "vocabulary": "こんな",
+    "reading": "こんな",
+    "meaning": "ဒီလိုမျိုး",
+    "example": "こんなに大きい (こんな) - ဒီလောက်ကြီးတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 289,
+    "vocabulary": "この",
+    "reading": "この",
+    "meaning": "ဒီ",
+    "example": "この本 (この) - ဒီစာအုပ်",
+    "level": "n5"
+  },
+  {
+    "id": 290,
+    "vocabulary": "今週",
+    "reading": "こんしゅう",
+    "meaning": "ဒီတစ်ပတ်",
+    "example": "今週末 (こんしゅう) - ဒီတစ်ပတ်ကုန်ဆုံး",
+    "level": "n5"
+  },
+  {
+    "id": 291,
+    "vocabulary": "コーヒー",
+    "reading": "コーヒー",
+    "meaning": "ကော်ဖီ",
+    "example": "コーヒーを飲む (コーヒー) - ကော်ဖီသောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 292,
+    "vocabulary": "コート",
+    "reading": "コート",
+    "meaning": "ကုတ်အင်္ကျီ",
+    "example": "コートを着る (コート) - ကုတ်အင်္ကျီဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 293,
+    "vocabulary": "コピー",
+    "reading": "コピー",
+    "meaning": "မိတ္တူ",
+    "example": "コピーを取る (コピー) - မိတ္တူကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 294,
+    "vocabulary": "コップ",
+    "reading": "コップ",
+    "meaning": "ရေခွက်",
+    "example": "コップに水を入れる (コップ) - ရေခွက်ထဲရေထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 295,
+    "vocabulary": "これ",
+    "reading": "これ",
+    "meaning": "ဒီဟာ",
+    "example": "これは何ですか (これ) - ဒီဟာကဘာလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 296,
+    "vocabulary": "答える",
+    "reading": "こたえる",
+    "meaning": "ဖြေရန်",
+    "example": "質問に答える (こたえる) - မေးခွန်းဖြေရန်",
+    "level": "n5"
+  },
+  {
+    "id": 297,
+    "vocabulary": "言葉",
+    "reading": "ことば",
+    "meaning": "စကားလုံး",
+    "example": "日本語の言葉 (ことば) - ဂျပန်စကားလုံး",
+    "level": "n5"
+  },
+  {
+    "id": 298,
+    "vocabulary": "今年",
+    "reading": "ことし",
+    "meaning": "ဒီနှစ်",
+    "example": "今年の夏 (ことし) - ဒီနှစ်နွေရာသီ",
+    "level": "n5"
+  },
+  {
+    "id": 299,
+    "vocabulary": "交番",
+    "reading": "こうばん",
+    "meaning": "ရဲဂိတ်",
+    "example": "交番で道を聞く (こうばん) - ရဲဂိတ်မှာလမ်းမေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 300,
+    "vocabulary": "紅茶",
+    "reading": "こうちゃ",
+    "meaning": "လက်ဖက်ခြောက်",
+    "example": "紅茶を飲む (こうちゃ) - လက်ဖက်ခြောက်သောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 301,
+    "vocabulary": "公園",
+    "reading": "こうえん",
+    "meaning": "ပန်းခြံ",
+    "example": "公園で遊ぶ (こうえん) - ပန်းခြံမှာကစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 302,
+    "vocabulary": "交差点",
+    "reading": "こうさてん",
+    "meaning": "လမ်းဆုံ",
+    "example": "交差点を渡る (こうさてん) - လမ်းဆုံဖြတ်ကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 303,
+    "vocabulary": "口",
+    "reading": "くち",
+    "meaning": "ပါးစပ်",
+    "example": "口を開ける (くち) - ပါးစပ်ဖွင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 304,
+    "vocabulary": "果物",
+    "reading": "くだもの",
+    "meaning": "သစ်သီး",
+    "example": "果物を食べる (くだもの) - သစ်သီးစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 305,
+    "vocabulary": "下さい",
+    "reading": "ください",
+    "meaning": "ပေးပါ",
+    "example": "水をください (ください) - ရေပေးပါ",
+    "level": "n5"
+  },
+  {
+    "id": 306,
+    "vocabulary": "曇り",
+    "reading": "くもり",
+    "meaning": "တိမ်ထူခြင်း",
+    "example": "今日は曇りです (くもり) - ဒီနေ့တိမ်ထူတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 307,
+    "vocabulary": "曇る",
+    "reading": "くもる",
+    "meaning": "တိမ်ထူရန်",
+    "example": "空が曇る (くもる) - ကောင်းကင်တိမ်ထူလာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 308,
+    "vocabulary": "国",
+    "reading": "くに",
+    "meaning": "နိုင်ငံ",
+    "example": "日本という国 (くに) - ဂျပန်ဆိုတဲ့နိုင်ငံ",
+    "level": "n5"
+  },
+  {
+    "id": 309,
+    "vocabulary": "暗い",
+    "reading": "くらい",
+    "meaning": "မှောင်သော",
+    "example": "暗い部屋 (くらい) - အခန်းမှောင်",
+    "level": "n5"
+  },
+  {
+    "id": 310,
+    "vocabulary": "クラス",
+    "reading": "クラス",
+    "meaning": "အတန်း",
+    "example": "クラスメート (クラス) - အတန်းဖော်",
+    "level": "n5"
+  },
+  {
+    "id": 311,
+    "vocabulary": "黒",
+    "reading": "くろ",
+    "meaning": "အနက်ရောင်",
+    "example": "黒い色 (くろ) - အရောင်မည်း",
+    "level": "n5"
+  },
+  {
+    "id": 312,
+    "vocabulary": "黒い",
+    "reading": "くろい",
+    "meaning": "အနက်ရောင်",
+    "example": "黒い猫 (くろい) - ကြောင်မည်း",
+    "level": "n5"
+  },
+  {
+    "id": 313,
+    "vocabulary": "来る",
+    "reading": "くる",
+    "meaning": "လာရန်",
+    "example": "日本に来る (くる) - ဂျပန်ကိုလာရန်",
+    "level": "n5"
+  },
+  {
+    "id": 314,
+    "vocabulary": "車",
+    "reading": "くるま",
+    "meaning": "ကား",
+    "example": "車を運転する (くるま) - ကားမောင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 315,
+    "vocabulary": "薬",
+    "reading": "くすり",
+    "meaning": "ဆေး",
+    "example": "薬を飲む (くすり) - ဆေးသောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 316,
+    "vocabulary": "靴",
+    "reading": "くつ",
+    "meaning": "ဖိနပ်",
+    "example": "靴を履く (くつ) - ဖိနပ်စီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 317,
+    "vocabulary": "靴下",
+    "reading": "くつした",
+    "meaning": "ခြေအိတ်",
+    "example": "靴下を履く (くつした) - ခြေအိတ်စီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 318,
+    "vocabulary": "去年",
+    "reading": "きょねん",
+    "meaning": "မနှစ်",
+    "example": "去年の夏 (きょねん) - မနှစ်နွေရာသီ",
+    "level": "n5"
+  },
+  {
+    "id": 319,
+    "vocabulary": "今日",
+    "reading": "きょう",
+    "meaning": "ဒီနေ့",
+    "example": "今日は暑い (きょう) - ဒီနေ့ပူတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 320,
+    "vocabulary": "兄弟",
+    "reading": "きょうだい",
+    "meaning": "မောင်နှမ",
+    "example": "兄弟が三人いる (きょうだい) - မောင်နှမသုံးယောက်ရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 321,
+    "vocabulary": "教室",
+    "reading": "きょうしつ",
+    "meaning": "စာသင်ခန်း",
+    "example": "教室で勉強する (きょうしつ) - စာသင်ခန်းမှာစာကျက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 322,
+    "vocabulary": "九",
+    "reading": "きゅう",
+    "meaning": "ကိုး",
+    "example": "九時 (きゅう) - ကိုးနာရီ",
+    "level": "n5"
+  },
+  {
+    "id": 323,
+    "vocabulary": "マッチ",
+    "reading": "マッチ",
+    "meaning": "မီးခြစ်",
+    "example": "マッチで火をつける (マッチ) - မီးခြစ်နဲ့မီးညှိရန်",
+    "level": "n5"
+  },
+  {
+    "id": 324,
+    "vocabulary": "町",
+    "reading": "まち",
+    "meaning": "မြို့",
+    "example": "町を歩く (まち) - မြို့ထဲလမ်းလျှောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 325,
+    "vocabulary": "窓",
+    "reading": "まど",
+    "meaning": "ပြတင်း",
+    "example": "窓を開ける (まど) - ပြတင်းဖွင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 326,
+    "vocabulary": "前",
+    "reading": "まえ",
+    "meaning": "ရှေ့",
+    "example": "前に進む (まえ) - ရှေ့သို့သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 327,
+    "vocabulary": "曲がる",
+    "reading": "まがる",
+    "meaning": "ကွေးရန်",
+    "example": "右に曲がる (まがる) - ညာဘက်ကွေ့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 328,
+    "vocabulary": "毎朝",
+    "reading": "まいあさ",
+    "meaning": "မနက်တိုင်း",
+    "example": "毎朝ジョギングする (まいあさ) - မနက်တိုင်းပြေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 329,
+    "vocabulary": "毎晩",
+    "reading": "まいばん",
+    "meaning": "ညတိုင်း",
+    "example": "毎晩テレビを見る (まいばん) - ညတိုင်းတီဗွီကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 330,
+    "vocabulary": "毎日",
+    "reading": "まいにち",
+    "meaning": "နေ့တိုင်း",
+    "example": "毎日勉強する (まいにち) - နေ့တိုင်းစာကျက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 331,
+    "vocabulary": "毎週",
+    "reading": "まいしゅう",
+    "meaning": "တစ်ပတ်တိုင်း",
+    "example": "毎週土曜日 (まいしゅう) - စနေနေ့တိုင်း",
+    "level": "n5"
+  },
+  {
+    "id": 332,
+    "vocabulary": "毎年",
+    "reading": "まいとし",
+    "meaning": "နှစ်တိုင်း",
+    "example": "毎年旅行に行く (まいとし) - နှစ်တိုင်းခရီးသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 333,
+    "vocabulary": "毎月",
+    "reading": "まいつき",
+    "meaning": "လတိုင်း",
+    "example": "毎月家賃を払う (まいつき) - လတိုင်းအိမ်ငှားခပေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 334,
+    "vocabulary": "万",
+    "reading": "まん",
+    "meaning": "တစ်သောင်း",
+    "example": "一万人 (まん) - လူတစ်သောင်း",
+    "level": "n5"
+  },
+  {
+    "id": 335,
+    "vocabulary": "万年筆",
+    "reading": "まんねんひつ",
+    "meaning": "ဘောပင်",
+    "example": "万年筆で書く (まんねんひつ) - ဘောပင်နဲ့ရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 336,
+    "vocabulary": "丸い",
+    "reading": "まるい",
+    "meaning": "လုံးဝန်းသော",
+    "example": "丸いテーブル (まるい) - စားပွဲလုံး",
+    "level": "n5"
+  },
+  {
+    "id": 337,
+    "vocabulary": "真っ直ぐ",
+    "reading": "まっすぐ",
+    "meaning": "ဖြောင့်ဖြောင့်",
+    "example": "真っ直ぐ行く (まっすぐ) - ဖြောင့်ဖြောင့်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 338,
+    "vocabulary": "待つ",
+    "reading": "まつ",
+    "meaning": "စောင့်ရန်",
+    "example": "バスを待つ (まつ) - ဘတ်စ်ကားစောင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 339,
+    "vocabulary": "不味い",
+    "reading": "まずい",
+    "meaning": "အရသာမကောင်းသော",
+    "example": "不味い料理 (まずい) - အစားအစာအရသာမကောင်း",
+    "level": "n5"
+  },
+  {
+    "id": 340,
+    "vocabulary": "目",
+    "reading": "め",
+    "meaning": "မျက်လုံး",
+    "example": "目が痛い (め) - မျက်လုံးနာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 341,
+    "vocabulary": "メートル",
+    "reading": "メートル",
+    "meaning": "မီတာ",
+    "example": "3メートル (メートル) - ၃ မီတာ",
+    "level": "n5"
+  },
+  {
+    "id": 342,
+    "vocabulary": "眼鏡",
+    "reading": "めがね",
+    "meaning": "မျက်မှန်",
+    "example": "眼鏡をかける (めがね) - မျက်မှန်တပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 343,
+    "vocabulary": "道",
+    "reading": "みち",
+    "meaning": "လမ်း",
+    "example": "道を渡る (みち) - လမ်းဖြတ်ကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 344,
+    "vocabulary": "緑",
+    "reading": "みどり",
+    "meaning": "အစိမ်းရောင်",
+    "example": "緑の葉 (みどり) - အရွက်စိမ်း",
+    "level": "n5"
+  },
+  {
+    "id": 345,
+    "vocabulary": "磨く",
+    "reading": "みがく",
+    "meaning": "ပွတ်တိုက်ရန်",
+    "example": "歯を磨く (みがく) - သွားတိုက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 346,
+    "vocabulary": "右",
+    "reading": "みぎ",
+    "meaning": "ညာ",
+    "example": "右に曲がる (みぎ) - ညာဘက်ကွေ့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 347,
+    "vocabulary": "短い",
+    "reading": "みじかい",
+    "meaning": "တိုသော",
+    "example": "短い髪 (みじかい) - ဆံပင်တို",
+    "level": "n5"
+  },
+  {
+    "id": 348,
+    "vocabulary": "三日",
+    "reading": "みっか",
+    "meaning": "သုံးရက်",
+    "example": "三日間 (みっか) - သုံးရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 349,
+    "vocabulary": "耳",
+    "reading": "みみ",
+    "meaning": "နား",
+    "example": "耳が痛い (みみ) - နားနာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 350,
+    "vocabulary": "南",
+    "reading": "みなみ",
+    "meaning": "တောင်",
+    "example": "南の方 (みなみ) - တောင်ဘက်",
+    "level": "n5"
+  },
+  {
+    "id": 351,
+    "vocabulary": "皆さん",
+    "reading": "みなさん",
+    "meaning": "အားလုံး",
+    "example": "皆さんこんにちは (みなさん) - အားလုံးမင်္ဂလာပါ",
+    "level": "n5"
+  },
+  {
+    "id": 352,
+    "vocabulary": "みんな",
+    "reading": "みんな",
+    "meaning": "အားလုံး",
+    "example": "みんなで行く (みんな) - အားလုံးအတူသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 353,
+    "vocabulary": "見る",
+    "reading": "みる",
+    "meaning": "ကြည့်ရန်",
+    "example": "テレビを見る (みる) - တီဗွီကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 354,
+    "vocabulary": "店",
+    "reading": "みせ",
+    "meaning": "ဆိုင်",
+    "example": "店で買い物する (みせ) - ဆိုင်မှာဈေးဝယ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 355,
+    "vocabulary": "見せる",
+    "reading": "みせる",
+    "meaning": "ပြသရန်",
+    "example": "写真を見せる (みせる) - ဓာတ်ပုံပြရန်",
+    "level": "n5"
+  },
+  {
+    "id": 356,
+    "vocabulary": "三つ",
+    "reading": "みっつ",
+    "meaning": "သုံးခု",
+    "example": "三つください (みっつ) - သုံးခုပေးပါ",
+    "level": "n5"
+  },
+  {
+    "id": 357,
+    "vocabulary": "水",
+    "reading": "みず",
+    "meaning": "ရေ",
+    "example": "水を飲む (みず) - ရေသောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 358,
+    "vocabulary": "木曜日",
+    "reading": "もくようび",
+    "meaning": "ကြာသပတေးနေ့",
+    "example": "木曜日の午後 (もくようび) - ကြာသပတေးနေ့မွန်းလွဲ",
+    "level": "n5"
+  },
+  {
+    "id": 359,
+    "vocabulary": "門",
+    "reading": "もん",
+    "meaning": "တံခါး",
+    "example": "門を通る (もん) - တံခါးဖြတ်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 360,
+    "vocabulary": "問題",
+    "reading": "もんだい",
+    "meaning": "ပြဿနာ",
+    "example": "問題を解く (もんだい) - ပြဿနာဖြေရန်",
+    "level": "n5"
+  },
+  {
+    "id": 361,
+    "vocabulary": "物",
+    "reading": "もの",
+    "meaning": "အရာ",
+    "example": "面白い物 (もの) - စိတ်ဝင်စားစရာအရာ",
+    "level": "n5"
+  },
+  {
+    "id": 362,
+    "vocabulary": "持つ",
+    "reading": "もつ",
+    "meaning": "ကိုင်ရန်",
+    "example": "荷物を持つ (もつ) - အိတ်ကိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 363,
+    "vocabulary": "もっと",
+    "reading": "もっと",
+    "meaning": "ပိုပြီး",
+    "example": "もっと食べたい (もっと) - ပိုစားချင်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 364,
+    "vocabulary": "もう一度",
+    "reading": "もういちど",
+    "meaning": "နောက်တစ်ခါ",
+    "example": "もう一度言ってください (もういちど) - နောက်တစ်ခါပြောပါ",
+    "level": "n5"
+  },
+  {
+    "id": 365,
+    "vocabulary": "六日",
+    "reading": "むいか",
+    "meaning": "ခြောက်ရက်",
+    "example": "六日間 (むいか) - ခြောက်ရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 366,
+    "vocabulary": "向こう",
+    "reading": "むこう",
+    "meaning": "ဟိုဘက်",
+    "example": "向こう側 (むこう) - ဟိုဘက်ခြမ်း",
+    "level": "n5"
+  },
+  {
+    "id": 367,
+    "vocabulary": "村",
+    "reading": "むら",
+    "meaning": "ရွာ",
+    "example": "小さな村 (むら) - ရွာငယ်လေး",
+    "level": "n5"
+  },
+  {
+    "id": 368,
+    "vocabulary": "六つ",
+    "reading": "むっつ",
+    "meaning": "ခြောက်ခု",
+    "example": "六つある (むっつ) - ခြောက်ခုရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 369,
+    "vocabulary": "難しい",
+    "reading": "むずかしい",
+    "meaning": "ခက်ခဲသော",
+    "example": "難しい問題 (むずかしい) - ပြဿနာခက်",
+    "level": "n5"
+  },
+  {
+    "id": 370,
+    "vocabulary": "長い",
+    "reading": "ながい",
+    "meaning": "ရှည်သော",
+    "example": "長い時間 (ながい) - အချိန်ကြာမြင့်",
+    "level": "n5"
+  },
+  {
+    "id": 371,
+    "vocabulary": "ナイフ",
+    "reading": "ナイフ",
+    "meaning": "ဓား",
+    "example": "ナイフで切る (ナイフ) - ဓားနဲ့ဖြတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 372,
+    "vocabulary": "中",
+    "reading": "なか",
+    "meaning": "အတွင်း",
+    "example": "箱の中 (なか) - သေတ္တာအတွင်း",
+    "level": "n5"
+  },
+  {
+    "id": 373,
+    "vocabulary": "鳴く",
+    "reading": "なく",
+    "meaning": "မြည်ရန် (တိရစ္ဆာန်)",
+    "example": "鳥が鳴く (なく) - ငှက်အော်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 374,
+    "vocabulary": "無くす",
+    "reading": "なくす",
+    "meaning": "ပျောက်ဆုံးရန်",
+    "example": "財布を無くす (なくす) - ပိုက်ဆံအိတ်ပျောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 375,
+    "vocabulary": "名前",
+    "reading": "なまえ",
+    "meaning": "နာမည်",
+    "example": "名前を書く (なまえ) - နာမည်ရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 376,
+    "vocabulary": "七つ",
+    "reading": "ななつ",
+    "meaning": "ခုနစ်ခု",
+    "example": "七つの習慣 (ななつ) - အလေ့အကျင့်ခုနစ်ခု",
+    "level": "n5"
+  },
+  {
+    "id": 377,
+    "vocabulary": "何",
+    "reading": "なに",
+    "meaning": "ဘာ",
+    "example": "何ですか (なに) - ဘာလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 378,
+    "vocabulary": "七日",
+    "reading": "なのか",
+    "meaning": "ခုနစ်ရက်",
+    "example": "七日間 (なのか) - ခုနစ်ရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 379,
+    "vocabulary": "並べる",
+    "reading": "ならべる",
+    "meaning": "စီရန်",
+    "example": "椅子を並べる (ならべる) - ကုလားထိုင်စီရန်",
+    "level": "n5"
+  },
+  {
+    "id": 380,
+    "vocabulary": "並ぶ",
+    "reading": "ならぶ",
+    "meaning": "တန်းစီရန်",
+    "example": "並んで待つ (ならぶ) - တန်းစီစောင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 381,
+    "vocabulary": "習う",
+    "reading": "ならう",
+    "meaning": "သင်ယူရန် (ဆရာထံမှ)",
+    "example": "ピアノを習う (ならう) - စန္ဒရားသင်ယူရန်",
+    "level": "n5"
+  },
+  {
+    "id": 382,
+    "vocabulary": "夏",
+    "reading": "なつ",
+    "meaning": "နွေရာသီ",
+    "example": "夏休み (なつ) - နွေရာသီအားလပ်",
+    "level": "n5"
+  },
+  {
+    "id": 383,
+    "vocabulary": "夏休み",
+    "reading": "なつやすみ",
+    "meaning": "နွေရာသီအားလပ်",
+    "example": "夏休みに旅行する (なつやすみ) - နွေရာသီအားလပ်မှာခရီးသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 384,
+    "vocabulary": "何故",
+    "reading": "なぜ",
+    "meaning": "အဘယ်ကြောင့်",
+    "example": "なぜ来なかったの (なぜ) - ဘာကြောင့်မလာတာလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 385,
+    "vocabulary": "猫",
+    "reading": "ねこ",
+    "meaning": "ကြောင်",
+    "example": "猫を飼う (ねこ) - ကြောင်မွေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 386,
+    "vocabulary": "ネクタイ",
+    "reading": "ネクタイ",
+    "meaning": "လည်စည်း",
+    "example": "ネクタイを締める (ネクタイ) - လည်စည်းတပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 387,
+    "vocabulary": "寝る",
+    "reading": "ねる",
+    "meaning": "အိပ်ရန်",
+    "example": "早く寝る (ねる) - စောစောအိပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 388,
+    "vocabulary": "二",
+    "reading": "に",
+    "meaning": "နှစ်",
+    "example": "二人 (に) - လူနှစ်ယောက်",
+    "level": "n5"
+  },
+  {
+    "id": 389,
+    "vocabulary": "日曜日",
+    "reading": "にちようび",
+    "meaning": "တနင်္ဂနွေနေ့",
+    "example": "日曜日は休み (にちようび) - တနင်္ဂနွေနေ့အားလပ်",
+    "level": "n5"
+  },
+  {
+    "id": 390,
+    "vocabulary": "賑やか",
+    "reading": "にぎやか",
+    "meaning": "စည်ကားသော",
+    "example": "賑やかな街 (にぎやか) - မြို့စည်ကား",
+    "level": "n5"
+  },
+  {
+    "id": 391,
+    "vocabulary": "日記",
+    "reading": "にっき",
+    "meaning": "နေ့စဉ်မှတ်တမ်း",
+    "example": "日記を書く (にっき) - နေ့စဉ်မှတ်တမ်းရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 392,
+    "vocabulary": "肉",
+    "reading": "にく",
+    "meaning": "အသား",
+    "example": "肉を食べる (にく) - အသားစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 393,
+    "vocabulary": "荷物",
+    "reading": "にもつ",
+    "meaning": "အိတ်ဆောင်ပစ္စည်း",
+    "example": "荷物を持つ (にもつ) - အိတ်ဆောင်ပစ္စည်းကိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 394,
+    "vocabulary": "西",
+    "reading": "にし",
+    "meaning": "အနောက်",
+    "example": "西の方 (にし) - အနောက်ဘက်",
+    "level": "n5"
+  },
+  {
+    "id": 395,
+    "vocabulary": "庭",
+    "reading": "にわ",
+    "meaning": "ဥယျာဉ်",
+    "example": "庭で遊ぶ (にわ) - ဥယျာဉ်မှာကစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 396,
+    "vocabulary": "登る",
+    "reading": "のぼる",
+    "meaning": "တက်ရန်",
+    "example": "山に登る (のぼる) - တောင်တက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 397,
+    "vocabulary": "飲み物",
+    "reading": "のみもの",
+    "meaning": "သောက်စရာ",
+    "example": "飲み物を買う (のみもの) - သောက်စရာဝယ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 398,
+    "vocabulary": "飲む",
+    "reading": "のむ",
+    "meaning": "သောက်ရန်",
+    "example": "水を飲む (のむ) - ရေသောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 399,
+    "vocabulary": "ノート",
+    "reading": "ノート",
+    "meaning": "မှတ်စုစာအုပ်",
+    "example": "ノートに書く (ノート) - မှတ်စုစာအုပ်ထဲရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 400,
+    "vocabulary": "乗る",
+    "reading": "のる",
+    "meaning": "စီးရန်",
+    "example": "電車に乗る (のる) - ရထားစီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 401,
+    "vocabulary": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "ချွတ်ရန် (အဝတ်)",
+    "example": "靴を脱ぐ (ぬぐ) - ဖိနပ်ချွတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 402,
+    "vocabulary": "温い",
+    "reading": "ぬるい",
+    "meaning": "နွေးနွေးအေးအေး",
+    "example": "温いお風呂 (ぬるい) - ရေချိုးခန်းနွေး",
+    "level": "n5"
+  },
+  {
+    "id": 403,
+    "vocabulary": "ニュース",
+    "reading": "ニュース",
+    "meaning": "သတင်း",
+    "example": "ニュースを見る (ニュース) - သတင်းကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 404,
+    "vocabulary": "おばあさん",
+    "reading": "おばあさん",
+    "meaning": "အဖွား",
+    "example": "私のおばあさん (おばあさん) - ကျွန်တော့်အဖွား",
+    "level": "n5"
+  },
+  {
+    "id": 405,
+    "vocabulary": "伯母さん",
+    "reading": "おばさん",
+    "meaning": "အဒေါ်",
+    "example": "叔母さん (おばさん) - အဒေါ်",
+    "level": "n5"
+  },
+  {
+    "id": 406,
+    "vocabulary": "お弁当",
+    "reading": "おべんとう",
+    "meaning": "ဘန်တိုသေတ္တာ",
+    "example": "お弁当を作る (おべんとう) - ဘန်တိုလုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 407,
+    "vocabulary": "覚える",
+    "reading": "おぼえる",
+    "meaning": "မှတ်မိရန်",
+    "example": "単語を覚える (おぼえる) - ဝေါဟာရမှတ်မိရန်",
+    "level": "n5"
+  },
+  {
+    "id": 408,
+    "vocabulary": "お茶",
+    "reading": "おちゃ",
+    "meaning": "လက်ဖက်ရည်",
+    "example": "お茶を飲む (おちゃ) - လက်ဖက်ရည်သောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 409,
+    "vocabulary": "お風呂",
+    "reading": "おふろ",
+    "meaning": "ရေချိုး",
+    "example": "お風呂に入る (おふろ) - ရေချိုးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 410,
+    "vocabulary": "美味しい",
+    "reading": "おいしい",
+    "meaning": "အရသာရှိသော",
+    "example": "美味しい料理 (おいしい) - အစားအစာအရသာရှိ",
+    "level": "n5"
+  },
+  {
+    "id": 411,
+    "vocabulary": "伯父さん",
+    "reading": "おじさん",
+    "meaning": "ဦးလေး",
+    "example": "叔父さん (おじさん) - ဦးလေး",
+    "level": "n5"
+  },
+  {
+    "id": 412,
+    "vocabulary": "お母さん",
+    "reading": "おかあさん",
+    "meaning": "အမေ",
+    "example": "私のお母さん (おかあさん) - ကျွန်တော့်အမေ",
+    "level": "n5"
+  },
+  {
+    "id": 413,
+    "vocabulary": "お金",
+    "reading": "おかね",
+    "meaning": "ပိုက်ဆံ",
+    "example": "お金を払う (おかね) - ပိုက်ဆံပေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 414,
+    "vocabulary": "お菓子",
+    "reading": "おかし",
+    "meaning": "သကြားလုံး",
+    "example": "お菓子を食べる (おかし) - သကြားလုံးစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 415,
+    "vocabulary": "起きる",
+    "reading": "おきる",
+    "meaning": "ထရန်",
+    "example": "朝早く起きる (おきる) - မနက်စောစောထရန်",
+    "level": "n5"
+  },
+  {
+    "id": 416,
+    "vocabulary": "置く",
+    "reading": "おく",
+    "meaning": "ထားရန်",
+    "example": "本を机の上に置く (おく) - စာအုပ်စားပွဲပေါ်ထားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 417,
+    "vocabulary": "奥さん",
+    "reading": "おくさん",
+    "meaning": "ဇနီး",
+    "example": "隣の奥さん (おくさん) - အိမ်နီးချင်းဇနီး",
+    "level": "n5"
+  },
+  {
+    "id": 418,
+    "vocabulary": "お巡りさん",
+    "reading": "おまわりさん",
+    "meaning": "ရဲ (ချစ်ခင်စွာ)",
+    "example": "お巡りさんに道を聞く (おまわりさん) - ရဲကိုလမ်းမေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 419,
+    "vocabulary": "重い",
+    "reading": "おもい",
+    "meaning": "လေးသော",
+    "example": "重い荷物 (おもい) - အိတ်လေး",
+    "level": "n5"
+  },
+  {
+    "id": 420,
+    "vocabulary": "面白い",
+    "reading": "おもしろい",
+    "meaning": "စိတ်ဝင်စားစရာ",
+    "example": "面白い本 (おもしろい) - စာအုပ်စိတ်ဝင်စားစရာ",
+    "level": "n5"
+  },
+  {
+    "id": 421,
+    "vocabulary": "同じ",
+    "reading": "おなじ",
+    "meaning": "တူညီသော",
+    "example": "同じ考え (おなじ) - အတွေးတူ",
+    "level": "n5"
+  },
+  {
+    "id": 422,
+    "vocabulary": "お腹",
+    "reading": "おなか",
+    "meaning": "ဗိုက်",
+    "example": "お腹が空いた (おなか) - ဗိုက်ဆာတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 423,
+    "vocabulary": "お姉さん",
+    "reading": "おねえさん",
+    "meaning": "အစ်မ",
+    "example": "私のお姉さん (おねえさん) - ကျွန်တော့်အစ်မ",
+    "level": "n5"
+  },
+  {
+    "id": 424,
+    "vocabulary": "音楽",
+    "reading": "おんがく",
+    "meaning": "ဂီတ",
+    "example": "音楽を聴く (おんがく) - ဂီတနားထောင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 425,
+    "vocabulary": "お兄さん",
+    "reading": "おにいさん",
+    "meaning": "အစ်ကို",
+    "example": "私のお兄さん (おにいさん) - ကျွန်တော့်အစ်ကို",
+    "level": "n5"
+  },
+  {
+    "id": 426,
+    "vocabulary": "女",
+    "reading": "おんな",
+    "meaning": "မိန်းမ",
+    "example": "女の人 (おんな) - မိန်းမ",
+    "level": "n5"
+  },
+  {
+    "id": 427,
+    "vocabulary": "女の子",
+    "reading": "おんなのこ",
+    "meaning": "မိန်းကလေး",
+    "example": "可愛い女の子 (おんなのこ) - မိန်းကလေးချစ်စရာ",
+    "level": "n5"
+  },
+  {
+    "id": 428,
+    "vocabulary": "多い",
+    "reading": "おおい",
+    "meaning": "များသော",
+    "example": "人が多い (おおい) - လူများတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 429,
+    "vocabulary": "大きい",
+    "reading": "おおきい",
+    "meaning": "ကြီးသော",
+    "example": "大きい家 (おおきい) - အိမ်ကြီး",
+    "level": "n5"
+  },
+  {
+    "id": 430,
+    "vocabulary": "大きな",
+    "reading": "おおきな",
+    "meaning": "ကြီးသော",
+    "example": "大きな問題 (おおきな) - ပြဿနာကြီး",
+    "level": "n5"
+  },
+  {
+    "id": 431,
+    "vocabulary": "大勢",
+    "reading": "おおぜい",
+    "meaning": "လူအများအပြား",
+    "example": "大勢の人 (おおぜい) - လူအများအပြား",
+    "level": "n5"
+  },
+  {
+    "id": 432,
+    "vocabulary": "降りる",
+    "reading": "おりる",
+    "meaning": "ဆင်းရန်",
+    "example": "バスを降りる (おりる) - ဘတ်စ်ကားဆင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 433,
+    "vocabulary": "お酒",
+    "reading": "おさけ",
+    "meaning": "အရက်",
+    "example": "お酒を飲む (おさけ) - အရက်သောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 434,
+    "vocabulary": "お皿",
+    "reading": "おさら",
+    "meaning": "ပန်းကန်",
+    "example": "お皿を洗う (おさら) - ပန်းကန်ဆေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 435,
+    "vocabulary": "教える",
+    "reading": "おしえる",
+    "meaning": "သင်ပေးရန်",
+    "example": "日本語を教える (おしえる) - ဂျပန်စာသင်ပေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 436,
+    "vocabulary": "遅い",
+    "reading": "おそい",
+    "meaning": "နှေးသော",
+    "example": "時計が遅い (おそい) - နာရီနှေးတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 437,
+    "vocabulary": "押す",
+    "reading": "おす",
+    "meaning": "နှိပ်ရန်",
+    "example": "ボタンを押す (おす) - ခလုတ်နှိပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 438,
+    "vocabulary": "お手洗い",
+    "reading": "おてあらい",
+    "meaning": "အိမ်သာ",
+    "example": "お手洗いはどこですか (おてあらい) - အိမ်သာဘယ်မှာလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 439,
+    "vocabulary": "男",
+    "reading": "おとこ",
+    "meaning": "ယောက်ျား",
+    "example": "男の人 (おとこ) - ယောက်ျား",
+    "level": "n5"
+  },
+  {
+    "id": 440,
+    "vocabulary": "男の子",
+    "reading": "おとこのこ",
+    "meaning": "ယောက်ျားလေး",
+    "example": "元気な男の子 (おとこのこ) - ယောက်ျားလေးလန်းဆန်း",
+    "level": "n5"
+  },
+  {
+    "id": 441,
+    "vocabulary": "大人",
+    "reading": "おとな",
+    "meaning": "လူကြီး",
+    "example": "大人になる (おとな) - လူကြီးဖြစ်လာရန်",
+    "level": "n5"
+  },
+  {
+    "id": 442,
+    "vocabulary": "一昨日",
+    "reading": "おととい",
+    "meaning": "တစ်နေ့ကဖြစ်ဖြစ်",
+    "example": "一昨日の出来事 (おととい) - တစ်နေ့ကဖြစ်ရပ်",
+    "level": "n5"
+  },
+  {
+    "id": 443,
+    "vocabulary": "一昨年",
+    "reading": "おととし",
+    "meaning": "မနှစ်တစ်နှစ်က",
+    "example": "一昨年の夏 (おととし) - မနှစ်တစ်နှစ်ကနွေရာသီ",
+    "level": "n5"
+  },
+  {
+    "id": 444,
+    "vocabulary": "お父さん",
+    "reading": "おとうさん",
+    "meaning": "အဖေ",
+    "example": "私のお父さん (おとうさん) - ကျွန်တော့်အဖေ",
+    "level": "n5"
+  },
+  {
+    "id": 445,
+    "vocabulary": "弟",
+    "reading": "おとうと",
+    "meaning": "ညီ",
+    "example": "私の弟 (おとうと) - ကျွန်တော့်ညီ",
+    "level": "n5"
+  },
+  {
+    "id": 446,
+    "vocabulary": "終わる",
+    "reading": "おわる",
+    "meaning": "ပြီးဆုံးရန်",
+    "example": "授業が終わる (おわる) - စာသင်ချိန်ပြီးတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 447,
+    "vocabulary": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "ရေကူးရန်",
+    "example": "プールで泳ぐ (およぐ) - ရေကူးကန်မှာရေကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 448,
+    "vocabulary": "パーティー",
+    "reading": "パーティー",
+    "meaning": "ပါတီ",
+    "example": "パーティーに参加する (パーティー) - ပါတီတက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 449,
+    "vocabulary": "パン",
+    "reading": "パン",
+    "meaning": "ပေါင်မုန့်",
+    "example": "パンを食べる (パン) - ပေါင်မုန့်စားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 450,
+    "vocabulary": "ページ",
+    "reading": "ページ",
+    "meaning": "စာမျက်နှာ",
+    "example": "10ページ (ページ) - စာမျက်နှာ ၁၀",
+    "level": "n5"
+  },
+  {
+    "id": 451,
+    "vocabulary": "ペン",
+    "reading": "ペン",
+    "meaning": "ဘောပင်",
+    "example": "ペンで書く (ペン) - ဘောပင်နဲ့ရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 452,
+    "vocabulary": "ペット",
+    "reading": "ペット",
+    "meaning": "အိမ်မွေးတိရစ္ဆာန်",
+    "example": "ペットを飼う (ペット) - အိမ်မွေးတိရစ္ဆာန်မွေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 453,
+    "vocabulary": "ポケット",
+    "reading": "ポケット",
+    "meaning": "အိတ်ကပ်",
+    "example": "ポケットに入れる (ポケット) - အိတ်ကပ်ထဲထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 454,
+    "vocabulary": "ポスト",
+    "reading": "ポスト",
+    "meaning": "စာတိုက်သေတ္တာ",
+    "example": "ポストに手紙を入れる (ポスト) - စာတိုက်သေတ္တာထဲစာထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 455,
+    "vocabulary": "プール",
+    "reading": "プール",
+    "meaning": "ရေကူးကန်",
+    "example": "プールで泳ぐ (プール) - ရေကူးကန်မှာရေကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 456,
+    "vocabulary": "来月",
+    "reading": "らいげつ",
+    "meaning": "လာမယ့်လ",
+    "example": "来月旅行に行く (らいげつ) - လာမယ့်လခရီးသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 457,
+    "vocabulary": "来年",
+    "reading": "らいねん",
+    "meaning": "လာမယ့်နှစ်",
+    "example": "来年から働く (らいねん) - လာမယ့်နှစ်မှအလုပ်စလုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 458,
+    "vocabulary": "来週",
+    "reading": "らいしゅう",
+    "meaning": "လာမယ့်တစ်ပတ်",
+    "example": "来週試験がある (らいしゅう) - လာမယ့်တစ်ပတ်စာမေးပွဲရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 459,
+    "vocabulary": "ラジオ",
+    "reading": "ラジオ",
+    "meaning": "ရေဒီယို",
+    "example": "ラジオを聴く (ラジオ) - ရေဒီယိုနားထောင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 460,
+    "vocabulary": "零",
+    "reading": "れい",
+    "meaning": "သုည",
+    "example": "零度 (れい) - သုညဒီဂရီ",
+    "level": "n5"
+  },
+  {
+    "id": 461,
+    "vocabulary": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning": "ရေခဲသေတ္တာ",
+    "example": "冷蔵庫に入れる (れいぞうこ) - ရေခဲသေတ္တာထဲထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 462,
+    "vocabulary": "レコード",
+    "reading": "レコード",
+    "meaning": "မှတ်တမ်း",
+    "example": "レコードをかける (レコード) - ဓာတ်ပြားတင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 463,
+    "vocabulary": "練習",
+    "reading": "れんしゅう",
+    "meaning": "လေ့ကျင့်ရန်",
+    "example": "ピアノの練習をする (れんしゅう) - စန္ဒရားလေ့ကျင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 464,
+    "vocabulary": "レストラン",
+    "reading": "レストラン",
+    "meaning": "စားသောက်ဆိုင်",
+    "example": "レストランで食事する (レストラン) - စားသောက်ဆိုင်မှာစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 465,
+    "vocabulary": "立派",
+    "reading": "りっぱ",
+    "meaning": "ခမ်းနားသော",
+    "example": "立派な建物 (りっぱ) - အဆောက်အအုံခမ်းနား",
+    "level": "n5"
+  },
+  {
+    "id": 466,
+    "vocabulary": "六",
+    "reading": "ろく",
+    "meaning": "ခြောက်",
+    "example": "六時 (ろく) - ခြောက်နာရီ",
+    "level": "n5"
+  },
+  {
+    "id": 467,
+    "vocabulary": "廊下",
+    "reading": "ろうか",
+    "meaning": "စင်္ကြံ",
+    "example": "廊下を歩く (ろうか) - စင်္ကြံလျှောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 468,
+    "vocabulary": "旅行",
+    "reading": "りょこう",
+    "meaning": "ခရီးသွားခြင်း",
+    "example": "旅行に行く (りょこう) - ခရီးသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 469,
+    "vocabulary": "料理",
+    "reading": "りょうり",
+    "meaning": "ချက်ပြုတ်ခြင်း",
+    "example": "料理を作る (りょうり) - ချက်ပြုတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 470,
+    "vocabulary": "両親",
+    "reading": "りょうしん",
+    "meaning": "မိဘ",
+    "example": "両親と住む (りょうしん) - မိဘနဲ့နေထိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 471,
+    "vocabulary": "留学生",
+    "reading": "りゅうがくせい",
+    "meaning": "နိုင်ငံခြားကျောင်းသား",
+    "example": "留学生として日本に来る (りゅうがくせい) - နိုင်ငံခြားကျောင်းသားအဖြစ်ဂျပန်လာရန်",
+    "level": "n5"
+  },
+  {
+    "id": 472,
+    "vocabulary": "さあ",
+    "reading": "さあ",
+    "meaning": "ကဲ",
+    "example": "さあ、行きましょう (さあ) - ကဲ၊ သွားကြမယ်",
+    "level": "n5"
+  },
+  {
+    "id": 473,
+    "vocabulary": "財布",
+    "reading": "さいふ",
+    "meaning": "ပိုက်ဆံအိတ်",
+    "example": "財布を忘れた (さいふ) - ပိုက်ဆံအိတ်မေ့သွားတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 474,
+    "vocabulary": "魚",
+    "reading": "さかな",
+    "meaning": "ငါး",
+    "example": "魚を食べる (さかな) - ငါးစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 475,
+    "vocabulary": "先",
+    "reading": "さき",
+    "meaning": "အရင်",
+    "example": "先に言った (さき) - အရင်ပြောခဲ့တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 476,
+    "vocabulary": "咲く",
+    "reading": "さく",
+    "meaning": "ပွင့်ရန်",
+    "example": "花が咲く (さく) - ပန်းပွင့်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 477,
+    "vocabulary": "作文",
+    "reading": "さくぶん",
+    "meaning": "စာစီစာကုံး",
+    "example": "作文を書く (さくぶん) - စာစီစာကုံးရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 478,
+    "vocabulary": "寒い",
+    "reading": "さむい",
+    "meaning": "အေးသော",
+    "example": "寒い冬 (さむい) - ဆောင်းရာသီအေး",
+    "level": "n5"
+  },
+  {
+    "id": 479,
+    "vocabulary": "三",
+    "reading": "さん",
+    "meaning": "သုံး",
+    "example": "三時 (さん) - သုံးနာရီ",
+    "level": "n5"
+  },
+  {
+    "id": 480,
+    "vocabulary": "散歩",
+    "reading": "さんぽ",
+    "meaning": "လမ်းလျှောက်ခြင်း",
+    "example": "散歩する (さんぽ) - လမ်းလျှောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 481,
+    "vocabulary": "再来年",
+    "reading": "さらいねん",
+    "meaning": "နောက်တစ်နှစ်ကျော်",
+    "example": "再来年の春 (さらいねん) - နောက်တစ်နှစ်ကျော်နွေဦး",
+    "level": "n5"
+  },
+  {
+    "id": 482,
+    "vocabulary": "差す",
+    "reading": "さす",
+    "meaning": "ထောင်ရန် (ထီး)",
+    "example": "傘を差す (さす) - ထီးထောင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 483,
+    "vocabulary": "砂糖",
+    "reading": "さとう",
+    "meaning": "သကြား",
+    "example": "砂糖を入れる (さとう) - သကြားထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 484,
+    "vocabulary": "背",
+    "reading": "せ",
+    "meaning": "အရပ်",
+    "example": "背が高い (せ) - အရပ်မြင့်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 485,
+    "vocabulary": "背広",
+    "reading": "せびろ",
+    "meaning": "ဝတ်စုံ",
+    "example": "背広を着る (せびろ) - ဝတ်စုံဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 486,
+    "vocabulary": "セーター",
+    "reading": "セーター",
+    "meaning": "ဆွယ်တာအင်္ကျီ",
+    "example": "セーターを着る (セーター) - ဆွယ်တာအင်္ကျီဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 487,
+    "vocabulary": "生徒",
+    "reading": "せいと",
+    "meaning": "ကျောင်းသား",
+    "example": "生徒の数 (せいと) - ကျောင်းသားအရေအတွက်",
+    "level": "n5"
+  },
+  {
+    "id": 488,
+    "vocabulary": "石鹼",
+    "reading": "せっけん",
+    "meaning": "ဆပ်ပြာ",
+    "example": "石鹼で手を洗う (せっけん) - ဆပ်ပြာနဲ့လက်ဆေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 489,
+    "vocabulary": "狭い",
+    "reading": "せまい",
+    "meaning": "ကျဉ်းမြောင်းသော",
+    "example": "狭い道 (せまい) - လမ်းကျဉ်း",
+    "level": "n5"
+  },
+  {
+    "id": 490,
+    "vocabulary": "千",
+    "reading": "せん",
+    "meaning": "တစ်ထောင်",
+    "example": "千円 (せん) - ၁၀၀၀ ယန်း",
+    "level": "n5"
+  },
+  {
+    "id": 491,
+    "vocabulary": "先月",
+    "reading": "せんげつ",
+    "meaning": "လွန်ခဲ့တဲ့လ",
+    "example": "先月の出来事 (せんげつ) - လွန်ခဲ့တဲ့လဖြစ်ရပ်",
+    "level": "n5"
+  },
+  {
+    "id": 492,
+    "vocabulary": "先生",
+    "reading": "せんせい",
+    "meaning": "ဆရာ",
+    "example": "先生に聞く (せんせい) - ဆရာကိုမေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 493,
+    "vocabulary": "先週",
+    "reading": "せんしゅう",
+    "meaning": "လွန်ခဲ့တဲ့တစ်ပတ်",
+    "example": "先週の日曜日 (せんしゅう) - လွန်ခဲ့တဲ့တနင်္ဂနွေ",
+    "level": "n5"
+  },
+  {
+    "id": 494,
+    "vocabulary": "洗濯",
+    "reading": "せんたく",
+    "meaning": "အဝတ်လျှော်ခြင်း",
+    "example": "洗濯をする (せんたく) - အဝတ်လျှော်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 495,
+    "vocabulary": "写真",
+    "reading": "しゃしん",
+    "meaning": "ဓာတ်ပုံ",
+    "example": "写真を撮る (しゃしん) - ဓာတ်ပုံရိုက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 496,
+    "vocabulary": "シャツ",
+    "reading": "シャツ",
+    "meaning": "ရှပ်အင်္ကျီ",
+    "example": "シャツを着る (シャツ) - ရှပ်အင်္ကျီဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 497,
+    "vocabulary": "シャワー",
+    "reading": "シャワー",
+    "meaning": "ရေချိုးခန်း",
+    "example": "シャワーを浴びる (シャワー) - ရေချိုးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 498,
+    "vocabulary": "四",
+    "reading": "し",
+    "meaning": "လေး",
+    "example": "四人 (し) - လူလေးယောက်",
+    "level": "n5"
+  },
+  {
+    "id": 499,
+    "vocabulary": "七",
+    "reading": "しち",
+    "meaning": "ခုနစ်",
+    "example": "七時 (しち) - ခုနစ်နာရီ",
+    "level": "n5"
+  },
+  {
+    "id": 500,
+    "vocabulary": "仕事",
+    "reading": "しごと",
+    "meaning": "အလုပ်",
+    "example": "仕事に行く (しごと) - အလုပ်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 501,
+    "vocabulary": "閉まる",
+    "reading": "しまる",
+    "meaning": "ပိတ်ရန်",
+    "example": "ドアが閉まる (しまる) - တံခါးပိတ်သွားတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 502,
+    "vocabulary": "閉める",
+    "reading": "しめる",
+    "meaning": "ပိတ်ရန်",
+    "example": "ドアを閉める (しめる) - တံခါးပိတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 503,
+    "vocabulary": "締める",
+    "reading": "しめる",
+    "meaning": "စည်းရန်",
+    "example": "ネクタイを締める (しめる) - လည်စည်းတပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 504,
+    "vocabulary": "新聞",
+    "reading": "しんぶん",
+    "meaning": "သတင်းစာ",
+    "example": "新聞を読む (しんぶん) - သတင်းစာဖတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 505,
+    "vocabulary": "死ぬ",
+    "reading": "しぬ",
+    "meaning": "သေရန်",
+    "example": "ペットが死ぬ (しぬ) - အိမ်မွေးတိရစ္ဆာန်သေတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 506,
+    "vocabulary": "塩",
+    "reading": "しお",
+    "meaning": "ဆား",
+    "example": "塩を入れる (しお) - ဆားထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 507,
+    "vocabulary": "白",
+    "reading": "しろ",
+    "meaning": "အဖြူရောင်",
+    "example": "白い色 (しろ) - အရောင်ဖြူ",
+    "level": "n5"
+  },
+  {
+    "id": 508,
+    "vocabulary": "白い",
+    "reading": "しろい",
+    "meaning": "အဖြူရောင်",
+    "example": "白い雪 (しろい) - နှင်းဖြူ",
+    "level": "n5"
+  },
+  {
+    "id": 509,
+    "vocabulary": "知る",
+    "reading": "しる",
+    "meaning": "သိရန်",
+    "example": "答えを知る (しる) - အဖြေသိရန်",
+    "level": "n5"
+  },
+  {
+    "id": 510,
+    "vocabulary": "下",
+    "reading": "した",
+    "meaning": "အောက်",
+    "example": "机の下 (した) - စားပွဲအောက်",
+    "level": "n5"
+  },
+  {
+    "id": 511,
+    "vocabulary": "質問",
+    "reading": "しつもん",
+    "meaning": "မေးခွန်း",
+    "example": "質問に答える (しつもん) - မေးခွန်းဖြေရန်",
+    "level": "n5"
+  },
+  {
+    "id": 512,
+    "vocabulary": "静か",
+    "reading": "しずか",
+    "meaning": "တိတ်ဆိတ်သော",
+    "example": "静かな場所 (しずか) - နေရာတိတ်ဆိတ်",
+    "level": "n5"
+  },
+  {
+    "id": 513,
+    "vocabulary": "食堂",
+    "reading": "しょくどう",
+    "meaning": "ထမင်းစားခန်း",
+    "example": "食堂で食べる (しょくどう) - ထမင်းစားခန်းမှာစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 514,
+    "vocabulary": "醬油",
+    "reading": "しょうゆ",
+    "meaning": "ပဲငံပြာရည်",
+    "example": "醬油をかける (しょうゆ) - ပဲငံပြာရည်ထည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 515,
+    "vocabulary": "宿題",
+    "reading": "しゅくだい",
+    "meaning": "အိမ်စာ",
+    "example": "宿題をする (しゅくだい) - အိမ်စာလုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 516,
+    "vocabulary": "そば",
+    "reading": "そば",
+    "meaning": "အနီး",
+    "example": "私のそばにいる (そば) - ကျွန်တော့်အနီးမှာရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 517,
+    "vocabulary": "そっち",
+    "reading": "そっち",
+    "meaning": "ဟိုဘက်",
+    "example": "そっちへ行く (そっち) - ဟိုဘက်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 518,
+    "vocabulary": "そちら",
+    "reading": "そちら",
+    "meaning": "ဟိုဘက် (ရိုသေသော)",
+    "example": "そちらはどうですか (そちら) - ခင်ဗျားရော ဘယ်လိုလဲ",
+    "level": "n5"
+  },
+  {
+    "id": 519,
+    "vocabulary": "そこ",
+    "reading": "そこ",
+    "meaning": "ဟိုမှာ",
+    "example": "そこに置く (そこ) - ဟိုမှာထားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 520,
+    "vocabulary": "その",
+    "reading": "その",
+    "meaning": "ဟို",
+    "example": "その本 (その) - ဟိုစာအုပ်",
+    "level": "n5"
+  },
+  {
+    "id": 521,
+    "vocabulary": "空",
+    "reading": "そら",
+    "meaning": "ကောင်းကင်",
+    "example": "青い空 (そら) - ကောင်းကင်ပြာ",
+    "level": "n5"
+  },
+  {
+    "id": 522,
+    "vocabulary": "それ",
+    "reading": "それ",
+    "meaning": "ဟို",
+    "example": "それは私の (それ) - ဟိုဟာကျွန်တော့်ဟာ",
+    "level": "n5"
+  },
+  {
+    "id": 523,
+    "vocabulary": "それでは",
+    "reading": "それでは",
+    "meaning": "ဒါဆိုရင်",
+    "example": "それでは、失礼します (それでは) - ဒါဆိုရင်ခွင့်ပြုပါ",
+    "level": "n5"
+  },
+  {
+    "id": 524,
+    "vocabulary": "外",
+    "reading": "そと",
+    "meaning": "အပြင်",
+    "example": "外で遊ぶ (そと) - အပြင်မှာကစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 525,
+    "vocabulary": "掃除",
+    "reading": "そうじ",
+    "meaning": "သန့်ရှင်းရေးလုပ်ရန်",
+    "example": "部屋を掃除する (そうじ) - အခန်းသန့်ရှင်းရေးလုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 526,
+    "vocabulary": "直ぐに",
+    "reading": "すぐに",
+    "meaning": "ချက်ချင်း",
+    "example": "すぐに来てください (すぐに) - ချက်ချင်းလာပါ",
+    "level": "n5"
+  },
+  {
+    "id": 527,
+    "vocabulary": "水曜日",
+    "reading": "すいようび",
+    "meaning": "ဗုဒ္ဓဟူးနေ့",
+    "example": "水曜日の夜 (すいようび) - ဗုဒ္ဓဟူးည",
+    "level": "n5"
+  },
+  {
+    "id": 528,
+    "vocabulary": "スカート",
+    "reading": "スカート",
+    "meaning": "စကတ်",
+    "example": "スカートを履く (スカート) - စကတ်ဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 529,
+    "vocabulary": "好き",
+    "reading": "すき",
+    "meaning": "ကြိုက်သော",
+    "example": "音楽が好き (すき) - ဂီတကြိုက်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 530,
+    "vocabulary": "少し",
+    "reading": "すこし",
+    "meaning": "နည်းနည်း",
+    "example": "少し待って (すこし) - နည်းနည်းစောင့်ပါ",
+    "level": "n5"
+  },
+  {
+    "id": 531,
+    "vocabulary": "少ない",
+    "reading": "すくない",
+    "meaning": "နည်းသော",
+    "example": "お金が少ない (すくない) - ပိုက်ဆံနည်းတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 532,
+    "vocabulary": "住む",
+    "reading": "すむ",
+    "meaning": "နေထိုင်ရန်",
+    "example": "東京に住む (すむ) - တိုကျိုမှာနေထိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 533,
+    "vocabulary": "スポーツ",
+    "reading": "スポーツ",
+    "meaning": "အားကစား",
+    "example": "スポーツをする (スポーツ) - အားကစားလုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 534,
+    "vocabulary": "スプーン",
+    "reading": "スプーン",
+    "meaning": "ဇွန်း",
+    "example": "スプーンを使う (スプーン) - ဇွန်းသုံးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 535,
+    "vocabulary": "スリッパ",
+    "reading": "スリッパ",
+    "meaning": "ဖိနပ်အိမ်",
+    "example": "スリッパを履く (スリッパ) - ဖိနပ်အိမ်စီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 536,
+    "vocabulary": "ストーブ",
+    "reading": "ストーブ",
+    "meaning": "မီးဖို",
+    "example": "ストーブをつける (ストーブ) - မီးဖိုဖွင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 537,
+    "vocabulary": "吸う",
+    "reading": "すう",
+    "meaning": "ရှူရန်",
+    "example": "タバコを吸う (すう) - စီးကရက်သောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 538,
+    "vocabulary": "座る",
+    "reading": "すわる",
+    "meaning": "ထိုင်ရန်",
+    "example": "椅子に座る (すわる) - ကုလားထိုင်ပေါ်ထိုင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 539,
+    "vocabulary": "涼しい",
+    "reading": "すずしい",
+    "meaning": "အေးမြသော",
+    "example": "涼しい風 (すずしい) - လေအေးမြ",
+    "level": "n5"
+  },
+  {
+    "id": 540,
+    "vocabulary": "たばこ",
+    "reading": "たばこ",
+    "meaning": "စီးကရက်",
+    "example": "たばこを吸う (たばこ) - စီးကရက်သောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 541,
+    "vocabulary": "食べ物",
+    "reading": "たべもの",
+    "meaning": "အစားအစာ",
+    "example": "美味しい食べ物 (たべもの) - အစားအစာအရသာရှိ",
+    "level": "n5"
+  },
+  {
+    "id": 542,
+    "vocabulary": "食べる",
+    "reading": "たべる",
+    "meaning": "စားရန်",
+    "example": "ご飯を食べる (たべる) - ထမင်းစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 543,
+    "vocabulary": "多分",
+    "reading": "たぶん",
+    "meaning": "ဖြစ်နိုင်သည်",
+    "example": "多分明日行く (たぶん) - ဖြစ်နိုင်တယ်မနက်ဖြန်သွားမယ်",
+    "level": "n5"
+  },
+  {
+    "id": 544,
+    "vocabulary": "大変",
+    "reading": "たいへん",
+    "meaning": "အလွန်၊ ခက်ခဲသော",
+    "example": "大変な仕事 (たいへん) - အလုပ်ခက်ခဲ",
+    "level": "n5"
+  },
+  {
+    "id": 545,
+    "vocabulary": "大切",
+    "reading": "たいせつ",
+    "meaning": "အရေးကြီးသော",
+    "example": "大切な人 (たいせつ) - လူအရေးကြီး",
+    "level": "n5"
+  },
+  {
+    "id": 546,
+    "vocabulary": "大使館",
+    "reading": "たいしかん",
+    "meaning": "သံရုံး",
+    "example": "大使館に行く (たいしかん) - သံရုံးသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 547,
+    "vocabulary": "高い",
+    "reading": "たかい",
+    "meaning": "မြင့်သော၊ စျေးကြီးသော",
+    "example": "高い山 (たかい) - တောင်မြင့်",
+    "level": "n5"
+  },
+  {
+    "id": 548,
+    "vocabulary": "沢山",
+    "reading": "たくさん",
+    "meaning": "အများကြီး",
+    "example": "沢山の人 (たくさん) - လူအများကြီး",
+    "level": "n5"
+  },
+  {
+    "id": 549,
+    "vocabulary": "タクシー",
+    "reading": "タクシー",
+    "meaning": "တက္ကစီ",
+    "example": "タクシーに乗る (タクシー) - တက္ကစီစီးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 550,
+    "vocabulary": "卵",
+    "reading": "たまご",
+    "meaning": "ကြက်ဥ",
+    "example": "卵を食べる (たまご) - ကြက်ဥစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 551,
+    "vocabulary": "誕生日",
+    "reading": "たんじょうび",
+    "meaning": "မွေးနေ့",
+    "example": "誕生日プレゼント (たんじょうび) - မွေးနေ့လက်ဆောင်",
+    "level": "n5"
+  },
+  {
+    "id": 552,
+    "vocabulary": "頼む",
+    "reading": "たのむ",
+    "meaning": "တောင်းဆိုရန်",
+    "example": "助けてと頼む (たのむ) - အကူအညီတောင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 553,
+    "vocabulary": "楽しい",
+    "reading": "たのしい",
+    "meaning": "ပျော်စရာကောင်းသော",
+    "example": "楽しい旅行 (たのしい) - ခရီးစဉ်ပျော်စရာ",
+    "level": "n5"
+  },
+  {
+    "id": 554,
+    "vocabulary": "縦",
+    "reading": "たて",
+    "meaning": "အလျား",
+    "example": "縦と横 (たて) - အလျားနဲ့အနံ",
+    "level": "n5"
+  },
+  {
+    "id": 555,
+    "vocabulary": "建物",
+    "reading": "たてもの",
+    "meaning": "အဆောက်အအုံ",
+    "example": "高い建物 (たてもの) - အဆောက်အအုံမြင့်",
+    "level": "n5"
+  },
+  {
+    "id": 556,
+    "vocabulary": "立つ",
+    "reading": "たつ",
+    "meaning": "ရပ်ရန်",
+    "example": "立ってください (たつ) - ကျေးဇူးပြု၍ရပ်ပါ",
+    "level": "n5"
+  },
+  {
+    "id": 557,
+    "vocabulary": "手",
+    "reading": "て",
+    "meaning": "လက်",
+    "example": "手を洗う (て) - လက်ဆေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 558,
+    "vocabulary": "テーブル",
+    "reading": "テーブル",
+    "meaning": "စားပွဲ",
+    "example": "テーブルの上 (テーブル) - စားပွဲပေါ်",
+    "level": "n5"
+  },
+  {
+    "id": 559,
+    "vocabulary": "テープ",
+    "reading": "テープ",
+    "meaning": "တိပ်",
+    "example": "テープを貼る (テープ) - တိပ်ကပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 560,
+    "vocabulary": "テープレコーダー",
+    "reading": "テープレコーダー",
+    "meaning": "တိပ်မှတ်တမ်းစက်",
+    "example": "テープレコーダーで録音する (テープレコーダー) - တိပ်မှတ်တမ်းစက်နဲ့အသံသွင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 561,
+    "vocabulary": "手紙",
+    "reading": "てがみ",
+    "meaning": "စာ",
+    "example": "手紙を書く (てがみ) - စာရေးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 562,
+    "vocabulary": "天気",
+    "reading": "てんき",
+    "meaning": "ရာသီဥတု",
+    "example": "天気がいい (てんき) - ရာသီဥတုကောင်းတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 563,
+    "vocabulary": "テレビ",
+    "reading": "テレビ",
+    "meaning": "တီဗွီ",
+    "example": "テレビを見る (テレビ) - တီဗွီကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 564,
+    "vocabulary": "テスト",
+    "reading": "テスト",
+    "meaning": "စာမေးပွဲ",
+    "example": "テストを受ける (テスト) - စာမေးပွဲဖြေရန်",
+    "level": "n5"
+  },
+  {
+    "id": 565,
+    "vocabulary": "戸",
+    "reading": "と",
+    "meaning": "တံခါး (ဂျပန်ပုံစံ)",
+    "example": "戸を閉める (と) - တံခါးပိတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 566,
+    "vocabulary": "飛ぶ",
+    "reading": "とぶ",
+    "meaning": "ပျံရန်",
+    "example": "鳥が飛ぶ (とぶ) - ငှက်ပျံတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 567,
+    "vocabulary": "トイレ",
+    "reading": "トイレ",
+    "meaning": "အိမ်သာ",
+    "example": "トイレに行く (トイレ) - အိမ်သာသွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 568,
+    "vocabulary": "時計",
+    "reading": "とけい",
+    "meaning": "နာရီ",
+    "example": "時計を見る (とけい) - နာရီကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 569,
+    "vocabulary": "時",
+    "reading": "とき",
+    "meaning": "အချိန်",
+    "example": "その時 (とき) - ထိုအချိန်",
+    "level": "n5"
+  },
+  {
+    "id": 570,
+    "vocabulary": "時々",
+    "reading": "ときどき",
+    "meaning": "တစ်ခါတစ်ရံ",
+    "example": "時々映画を見る (ときどき) - တစ်ခါတစ်ရံရုပ်ရှင်ကြည့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 571,
+    "vocabulary": "所",
+    "reading": "ところ",
+    "meaning": "နေရာ",
+    "example": "いい所 (ところ) - နေရာကောင်း",
+    "level": "n5"
+  },
+  {
+    "id": 572,
+    "vocabulary": "止まる",
+    "reading": "とまる",
+    "meaning": "ရပ်ရန်",
+    "example": "車が止まる (とまる) - ကားရပ်သွားတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 573,
+    "vocabulary": "友達",
+    "reading": "ともだち",
+    "meaning": "သူငယ်ချင်း",
+    "example": "友達と遊ぶ (ともだち) - သူငယ်ချင်းနဲ့ကစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 574,
+    "vocabulary": "隣",
+    "reading": "となり",
+    "meaning": "အနီးအိမ်",
+    "example": "隣の部屋 (となり) - အနီးအခန်း",
+    "level": "n5"
+  },
+  {
+    "id": 575,
+    "vocabulary": "遠い",
+    "reading": "とおい",
+    "meaning": "ဝေးသော",
+    "example": "遠い国 (とおい) - နိုင်ငံဝေး",
+    "level": "n5"
+  },
+  {
+    "id": 576,
+    "vocabulary": "十日",
+    "reading": "とおか",
+    "meaning": "ဆယ်ရက်",
+    "example": "十日間 (とおか) - ဆယ်ရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 577,
+    "vocabulary": "鳥",
+    "reading": "とり",
+    "meaning": "ငှက်",
+    "example": "鳥が飛ぶ (とり) - ငှက်ပျံတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 578,
+    "vocabulary": "鶏肉",
+    "reading": "とりにく",
+    "meaning": "ကြက်သား",
+    "example": "鶏肉を食べる (とりにく) - ကြက်သားစားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 579,
+    "vocabulary": "取る",
+    "reading": "とる",
+    "meaning": "ယူရန်",
+    "example": "写真を取る (とる) - ဓာတ်ပုံရိုက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 580,
+    "vocabulary": "撮る",
+    "reading": "とる",
+    "meaning": "ရိုက်ရန် (ဓာတ်ပုံ/ဗီဒီယို)",
+    "example": "ビデオを撮る (とる) - ဗီဒီယိုရိုက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 581,
+    "vocabulary": "年",
+    "reading": "とし",
+    "meaning": "နှစ်",
+    "example": "今年 (とし) - ဒီနှစ်",
+    "level": "n5"
+  },
+  {
+    "id": 582,
+    "vocabulary": "図書館",
+    "reading": "としょかん",
+    "meaning": "စာကြည့်တိုက်",
+    "example": "図書館で本を借りる (としょかん) - စာကြည့်တိုက်မှာစာအုပ်ငှားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 583,
+    "vocabulary": "次",
+    "reading": "つぎ",
+    "meaning": "နောက်တစ်ခု",
+    "example": "次に来る (つぎ) - နောက်တစ်ခုလာရန်",
+    "level": "n5"
+  },
+  {
+    "id": 584,
+    "vocabulary": "一日",
+    "reading": "ついたち",
+    "meaning": "လ၏ပထမနေ့",
+    "example": "四月一日 (ついたち) - ဧပြီလ ၁ ရက်",
+    "level": "n5"
+  },
+  {
+    "id": 585,
+    "vocabulary": "疲れる",
+    "reading": "つかれる",
+    "meaning": "ပင်ပန်းရန်",
+    "example": "仕事で疲れる (つかれる) - အလုပ်ကပင်ပန်းတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 586,
+    "vocabulary": "使う",
+    "reading": "つかう",
+    "meaning": "သုံးရန်",
+    "example": "パソコンを使う (つかう) - ကွန်ပျူတာသုံးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 587,
+    "vocabulary": "つける",
+    "reading": "つける",
+    "meaning": "ဖွင့်ရန်",
+    "example": "電気をつける (つける) - မီးဖွင့်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 588,
+    "vocabulary": "付ける",
+    "reading": "つける",
+    "meaning": "ကပ်ရန်၊ တွဲရန်",
+    "example": "名前を付ける (つける) - နာမည်တပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 589,
+    "vocabulary": "着く",
+    "reading": "つく",
+    "meaning": "ရောက်ရန်",
+    "example": "駅に着く (つく) - ဘူတာရောက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 590,
+    "vocabulary": "机",
+    "reading": "つくえ",
+    "meaning": "စားပွဲ",
+    "example": "机の上 (つくえ) - စားပွဲပေါ်",
+    "level": "n5"
+  },
+  {
+    "id": 591,
+    "vocabulary": "作る",
+    "reading": "つくる",
+    "meaning": "ဖန်တီးရန်",
+    "example": "料理を作る (つくる) - အစားအစာချက်ပြုတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 592,
+    "vocabulary": "詰まらない",
+    "reading": "つまらない",
+    "meaning": "ပျင်းစရာကောင်းသော",
+    "example": "つまらない映画 (つまらない) - ရုပ်ရှင်ပျင်း",
+    "level": "n5"
+  },
+  {
+    "id": 593,
+    "vocabulary": "冷たい",
+    "reading": "つめたい",
+    "meaning": "အေးသော",
+    "example": "冷たい水 (つめたい) - ရေအေး",
+    "level": "n5"
+  },
+  {
+    "id": 594,
+    "vocabulary": "勤める",
+    "reading": "つとめる",
+    "meaning": "အလုပ်လုပ်ရန်",
+    "example": "会社に勤める (つとめる) - ကုမ္ပဏီမှာအလုပ်လုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 595,
+    "vocabulary": "強い",
+    "reading": "つよい",
+    "meaning": "အားကောင်းသော",
+    "example": "強い風 (つよい) - လေပြင်း",
+    "level": "n5"
+  },
+  {
+    "id": 596,
+    "vocabulary": "上",
+    "reading": "うえ",
+    "meaning": "အပေါ်",
+    "example": "机の上 (うえ) - စားပွဲပေါ်",
+    "level": "n5"
+  },
+  {
+    "id": 597,
+    "vocabulary": "生まれる",
+    "reading": "うまれる",
+    "meaning": "မွေးဖွားရန်",
+    "example": "赤ちゃんが生まれる (うまれる) - ကလေးမွေးတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 598,
+    "vocabulary": "海",
+    "reading": "うみ",
+    "meaning": "ပင်လယ်",
+    "example": "海で泳ぐ (うみ) - ပင်လယ်မှာရေကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 599,
+    "vocabulary": "売る",
+    "reading": "うる",
+    "meaning": "ရောင်းရန်",
+    "example": "車を売る (うる) - ကားရောင်းရန်",
+    "level": "n5"
+  },
+  {
+    "id": 600,
+    "vocabulary": "煩い",
+    "reading": "うるさい",
+    "meaning": "ဆူညံသော",
+    "example": "煩い音 (うるさい) - အသံဆူညံ",
+    "level": "n5"
+  },
+  {
+    "id": 601,
+    "vocabulary": "後ろ",
+    "reading": "うしろ",
+    "meaning": "နောက်",
+    "example": "後ろに立つ (うしろ) - နောက်မှာရပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 602,
+    "vocabulary": "薄い",
+    "reading": "うすい",
+    "meaning": "ပါးလွှာသော",
+    "example": "薄い本 (うすい) - စာအုပ်ပါး",
+    "level": "n5"
+  },
+  {
+    "id": 603,
+    "vocabulary": "歌",
+    "reading": "うた",
+    "meaning": "သီချင်း",
+    "example": "歌を歌う (うた) - သီချင်းဆိုရန်",
+    "level": "n5"
+  },
+  {
+    "id": 604,
+    "vocabulary": "歌う",
+    "reading": "うたう",
+    "meaning": "သီချင်းဆိုရန်",
+    "example": "カラオケで歌う (うたう) - ကာရာအိုကေမှာသီချင်းဆိုရန်",
+    "level": "n5"
+  },
+  {
+    "id": 605,
+    "vocabulary": "上着",
+    "reading": "うわぎ",
+    "meaning": "အင်္ကျီအပြင်",
+    "example": "上着を着る (うわぎ) - အင်္ကျီအပြင်ဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 606,
+    "vocabulary": "ワイシャツ",
+    "reading": "ワイシャツ",
+    "meaning": "ရှပ်အင်္ကျီ",
+    "example": "ワイシャツを着る (ワイシャツ) - ရှပ်အင်္ကျီဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 607,
+    "vocabulary": "若い",
+    "reading": "わかい",
+    "meaning": "ငယ်ရွယ်သော",
+    "example": "若い人 (わかい) - လူငယ်",
+    "level": "n5"
+  },
+  {
+    "id": 608,
+    "vocabulary": "分かる",
+    "reading": "わかる",
+    "meaning": "နားလည်ရန်",
+    "example": "日本語が分かる (わかる) - ဂျပန်စာနားလည်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 609,
+    "vocabulary": "悪い",
+    "reading": "わるい",
+    "meaning": "မကောင်းသော",
+    "example": "悪い人 (わるい) - လူမကောင်း",
+    "level": "n5"
+  },
+  {
+    "id": 610,
+    "vocabulary": "忘れる",
+    "reading": "わすれる",
+    "meaning": "မေ့ရန်",
+    "example": "名前を忘れる (わすれる) - နာမည်မေ့ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 611,
+    "vocabulary": "渡る",
+    "reading": "わたる",
+    "meaning": "ဖြတ်ကူးရန်",
+    "example": "道を渡る (わたる) - လမ်းဖြတ်ကူးရန်",
+    "level": "n5"
+  },
+  {
+    "id": 612,
+    "vocabulary": "私",
+    "reading": "わたし",
+    "meaning": "ကျွန်တော်/ကျွန်မ",
+    "example": "私は学生です (わたし) - ကျွန်တော်ကျောင်းသားပါ",
+    "level": "n5"
+  },
+  {
+    "id": 613,
+    "vocabulary": "渡す",
+    "reading": "わたす",
+    "meaning": "ပေးအပ်ရန်",
+    "example": "手紙を渡す (わたす) - စာပေးအပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 614,
+    "vocabulary": "山",
+    "reading": "やま",
+    "meaning": "တောင်",
+    "example": "山に登る (やま) - တောင်တက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 615,
+    "vocabulary": "八百屋",
+    "reading": "やおや",
+    "meaning": "ဟင်းသီးဟင်းရွက်ဆိုင်",
+    "example": "八百屋で野菜を買う (やおや) - ဟင်းသီးဟင်းရွက်ဆိုင်မှာဟင်းသီးဟင်းရွက်ဝယ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 616,
+    "vocabulary": "やる",
+    "reading": "やる",
+    "meaning": "လုပ်ရန်",
+    "example": "宿題をやる (やる) - အိမ်စာလုပ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 617,
+    "vocabulary": "野菜",
+    "reading": "やさい",
+    "meaning": "ဟင်းသီးဟင်းရွက်",
+    "example": "野菜を食べる (やさい) - ဟင်းသီးဟင်းရွက်စားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 618,
+    "vocabulary": "易しい",
+    "reading": "やさしい",
+    "meaning": "လွယ်ကူသော",
+    "example": "易しい問題 (やさしい) - ပြဿနာလွယ်",
+    "level": "n5"
+  },
+  {
+    "id": 619,
+    "vocabulary": "安い",
+    "reading": "やすい",
+    "meaning": "စျေးပေါသော",
+    "example": "安い店 (やすい) - ဆိုင်စျေးပေါ",
+    "level": "n5"
+  },
+  {
+    "id": 620,
+    "vocabulary": "休み",
+    "reading": "やすみ",
+    "meaning": "အားလပ်",
+    "example": "休みの日 (やすみ) - အားလပ်ရက်",
+    "level": "n5"
+  },
+  {
+    "id": 621,
+    "vocabulary": "休む",
+    "reading": "やすむ",
+    "meaning": "အနားယူရန်",
+    "example": "学校を休む (やすむ) - ကျောင်းပျက်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 622,
+    "vocabulary": "八つ",
+    "reading": "やっつ",
+    "meaning": "ရှစ်ခု",
+    "example": "八つある (やっつ) - ရှစ်ခုရှိတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 623,
+    "vocabulary": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "ခေါ်ရန်",
+    "example": "友達を呼ぶ (よぶ) - သူငယ်ချင်းခေါ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 624,
+    "vocabulary": "良い",
+    "reading": "よい",
+    "meaning": "ကောင်းသော",
+    "example": "良い天気 (よい) - ရာသီဥတုကောင်း",
+    "level": "n5"
+  },
+  {
+    "id": 625,
+    "vocabulary": "四日",
+    "reading": "よっか",
+    "meaning": "လေးရက်",
+    "example": "四日間 (よっか) - လေးရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 626,
+    "vocabulary": "横",
+    "reading": "よこ",
+    "meaning": "ဘေး",
+    "example": "横に並ぶ (よこ) - ဘေးတိုက်စီရန်",
+    "level": "n5"
+  },
+  {
+    "id": 627,
+    "vocabulary": "よく",
+    "reading": "よく",
+    "meaning": "မကြာခဏ၊ ကောင်းစွာ",
+    "example": "よく食べる (よく) - မကြာခဏစားတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 628,
+    "vocabulary": "読む",
+    "reading": "よむ",
+    "meaning": "ဖတ်ရန်",
+    "example": "本を読む (よむ) - စာအုပ်ဖတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 629,
+    "vocabulary": "夜",
+    "reading": "よる",
+    "meaning": "ည",
+    "example": "夜遅く (よる) - ညဘက်နှောင်းပိုင်း",
+    "level": "n5"
+  },
+  {
+    "id": 630,
+    "vocabulary": "四つ",
+    "reading": "よつ",
+    "meaning": "လေးခု",
+    "example": "四つください (よつ) - လေးခုပေးပါ",
+    "level": "n5"
+  },
+  {
+    "id": 631,
+    "vocabulary": "洋服",
+    "reading": "ようふく",
+    "meaning": "အနောက်တိုင်းအဝတ်အစား",
+    "example": "洋服を着る (ようふく) - အနောက်တိုင်းအဝတ်အစားဝတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 632,
+    "vocabulary": "八日",
+    "reading": "ようか",
+    "meaning": "ရှစ်ရက်",
+    "example": "八日間 (ようか) - ရှစ်ရက်ကြာ",
+    "level": "n5"
+  },
+  {
+    "id": 633,
+    "vocabulary": "弱い",
+    "reading": "よわい",
+    "meaning": "အားနည်းသော",
+    "example": "弱い光 (よわい) - အလင်းအားနည်း",
+    "level": "n5"
+  },
+  {
+    "id": 634,
+    "vocabulary": "雪",
+    "reading": "ゆき",
+    "meaning": "နှင်း",
+    "example": "雪が降る (ゆき) - နှင်းကျတယ်",
+    "level": "n5"
+  },
+  {
+    "id": 635,
+    "vocabulary": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "ဖြည်းဖြည်းချင်း",
+    "example": "ゆっくり話す (ゆっくり) - ဖြည်းဖြည်းချင်းပြောရန်",
+    "level": "n5"
+  },
+  {
+    "id": 636,
+    "vocabulary": "昨夜",
+    "reading": "ゆうべ",
+    "meaning": "မနေ့ည",
+    "example": "昨夜遅く寝た (ゆうべ) - မနေ့ညနှောင်းပိုင်းအိပ်တယ်",
+    "level": "n5"
+  },
+  {
+    "id": 637,
+    "vocabulary": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "စာတိုက်",
+    "example": "郵便局へ行く (ゆうびんきょく) - စာတိုက်သွားရန်",
+    "level": "n5"
+  },
+  {
+    "id": 638,
+    "vocabulary": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "ညနေ",
+    "example": "夕方に帰る (ゆうがた) - ညနေမှာပြန်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 639,
+    "vocabulary": "夕飯",
+    "reading": "ゆうはん",
+    "meaning": "ညစာ",
+    "example": "夕飯を作る (ゆうはん) - ညစာချက်ပြုတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 640,
+    "vocabulary": "有名",
+    "reading": "ゆうめい",
+    "meaning": "ကျော်ကြားသော",
+    "example": "有名な歌手 (ゆうめい) - အဆိုတော်ကျော်ကြား",
+    "level": "n5"
+  },
+  {
+    "id": 641,
+    "vocabulary": "雑誌",
+    "reading": "ざっし",
+    "meaning": "မဂ္ဂဇင်း",
+    "example": "雑誌を読む (ざっし) - မဂ္ဂဇင်းဖတ်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 642,
+    "vocabulary": "全部",
+    "reading": "ぜんぶ",
+    "meaning": "အားလုံး",
+    "example": "全部食べた (ぜんぶ) - အားလုံးစားပြီး",
+    "level": "n5"
+  },
+  {
+    "id": 643,
+    "vocabulary": "ゼロ",
+    "reading": "ゼロ",
+    "meaning": "သုည",
+    "example": "ゼロから始める (ゼロ) - သုညကစတင်ရန်",
+    "level": "n5"
+  },
+  {
+    "id": 644,
+    "vocabulary": "ズボン",
+    "reading": "ズボン",
+    "meaning": "ဘောင်းဘီ",
+    "example": "ズボンを履く (ズボン) - ဘောင်းဘီဝတ်ရန်",
+    "level": "n5"
+  }
+]
